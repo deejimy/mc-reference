@@ -1,4 +1,3 @@
-# PRÉSENTATION GÉNÉRALE
 
 Ce document est conçu pour être la référence définitive en matière de règles, mais il ne vous apprendra pas à jouer. Les joueurs doivent d’abord lire le Livret d’Apprentissage en intégralité et n’utiliser ce Guide de Référence que si le besoin s’en fait sentir au cours de la partie.  
 La majorité de ce guide consiste en un glossaire qui fournit une liste alphabétique des termes et situations qu’un joueur peut rencontrer durant une partie. Ce glossaire devrait être la première destination des joueurs qui ont une question concernant les règles.  
