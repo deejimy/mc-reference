@@ -1,0 +1,238 @@
+## A
+[[ADistance|À distance]]  
+[[ALaPlace|À la place]]  
+[[Action]]  
+[[Activation]]  
+[[Allie|Allié]]  
+
+
+## B
+[[BoiteDeTexte|Boîte de texte]]  
+[[Boost|Boost, icône de boost]]
+
+## C
+[[Capacite|Capacité]]  
+[[CapaciteReferentielle|Capacité référentielle]]  
+[[CapaciteUneFoisAcheve|Capacité «une fois achevé»]]  
+[[CapaciteUneFoisRevelee|Capacité une fois révélée]]  
+[[CapaciteUneFoisVaincuDejouee|Capacité une fois vaincu, déjouée]]  
+[[CartesBasiques|Cartes basiques]]  
+[[CartesAffinite|Cartes d’affinité]]  
+[[CartesEtat|Cartes d’état]]  
+[[CartesJoueur|Cartes joueur]]  
+[[CartesRencontre|Cartes rencontre]]  
+[[CarteSpecifiqueIdentite|Cartes spécifiques à l’identité]]  
+[[CartesSpecifiquesCampagne|Cartes spécifiques à une campagne]]  
+[[CartesSpecifiquesScenario|Cartes spécifiques au scénario]]  
+[[ChaqueFois|«Chaque fois»]]  
+[[Chercher]]  
+[[Choisir]]  
+[[Cible]]  
+[[Classifications]]  
+[[ConditionDeDeclenchement|Condition de déclenchement]]  
+[[ContreContrer|Contre, contrer]]  
+[[Controle|Contrôle]]  
+[[CoupRapide|Coup rapide]]  
+[[Cout|Coût]]  
+[[CTR]]  
+
+## D
+[[DansOrdreDesJoueurs|Dans l’ordre des joueurs]]  
+[[Deck]]  
+[[DeckJoueur|Deck joueur]]  
+[[DeckRencontre|Deck rencontre]]  
+[[DeckVide|Deck vide]]  
+[[Defausser|Défausser, défausse]]  
+[[DEF]]  
+[[Defendre|Défense, défendre]]  
+[[Deferlement|Déferlement]]  
+[[Degats|Dégâts]]  
+[[DegatsConsecutifs|Dégâts consécutifs]]  
+[[DegatsEnExces|Dégâts en excès]]  
+[[DegatsIndirects|Dégâts indirects]]  
+[[DegatsSubis|Dégâts subis]]  
+[[Deja|«Déjà»]]  
+[[Deplacer|Déplacer]]  
+[[Desorienter|Désorienter, désorienté]]  
+[[Discussions|Discussions à la table]]  
+
+## E
+[[Effet]]  
+[[Effets d’altération]]  
+[[Effets de remplacement]]  
+[[Effets persistants]]  
+[[Effets retardés]]  
+[[Élimination de joueur]]  
+[[En équipe]]  
+[[En jeu et hors jeu]]  
+[[Engager]]  
+[[Ennemi]]  
+[[Ensuite]]  
+[[Entrave x]]  
+[[Entrer en jeu]]  
+[[Environnement]]  
+[[«Et»]]  
+[[«Être censé»]]  
+[[Événement]]  
+[[Exemplaire]]  
+
+## F
+[[Fin de la phase des joueurs]]  
+[[Forcee|Forcée]]  
+[[Forme, changer de forme]]  
+
+## G
+[[Gagner (une caractéristique)]]  
+[[Gagner, perdre (une statistique)]]  
+[[Gagner la partie]]  
+[[Garde]]  
+[[Générer]]  
+
+## H
+[[Héros, forme de héros]]  
+
+## I
+[[Icône]]  
+[[Icône d’accélération]]  ![[IconeAcceleration.svg|20]]
+[[Icône d’aléas]] ![[IconeAleas.svg|20]]  
+[[Icône d’amplification]] ![[IconeAmplification.svg|20]]  
+[[Icône d’étoile]]  
+[[Icône de crise]]  
+[[Icône de coût en forme de flèche (→)]]  
+[[Identité]]  
+[[Imprimé]]  
+[[Incitation X]]  
+[[Incliné]]  
+[[Initier des capacités, jouer des cartes]]  
+[[Interruption]]  
+
+## J
+[[Jetons génériques]]  
+[[Jouer, mettre en jeu]]  
+[[Jouer des cartes]]  
+[[Joueur]]  
+[[Joueur actif]]  
+
+## L
+[[Limite]]  
+[[Limite d’alliés]]  
+
+## M
+[[Manigance (type de carte)]]  
+[[Manigance annexe]]  
+[[ManigancePrincipale|Manigance principale, deck manigance principale]]  
+[[Manigance (activation des ennemis)]]  
+[[Max]]  
+[[Méchant, deck méchant]]  
+[[Mélanger]]  
+[[Menace]]  
+[[Mettre de côté, mis de côté]]  
+[[Mise en place]]  
+[[MNG]]  
+[[Modes de jeu]]  
+[[Modificateurs]]  
+[[Mots-clés]]  
+
+## N
+[[Ne peut pas]]  
+[[Non défendue]]  
+
+## O
+[[Obligation]]  
+
+## P
+[[Par joueur]] ![[IconeJoueur.svg|15]]  
+[[Patrouille]]  
+[[Perçant]]  
+[[Péril]]  
+[[Permanent]]  
+[[Personnage]]  
+[[Personnalisation de deck]]  
+[[Phase des joueurs]]  
+[[Phase du méchant]]  
+[[Pile de défausse]]  
+[[Pile de victoire]]  
+[[Piocher des cartes]]  
+[[Pion accélération]]  
+[[Points de vie]]  
+[[Points de vie maximums]]  
+[[Points de vie restants]]  
+[[«Pouvoir»]]  
+[[Pouvoir de base]]  
+[[Premier joueur]]  
+[[Prévenir]]  
+[[Propriété et contrôle]]  
+
+## Q
+[[Qualificatifs]]  
+[[Quitter le jeu]]  
+
+## R
+[[Rec]]  
+[[Récupération, récupérer]]  
+[[Redressé]]  
+[[Regarder, regardée]]  
+[[Renfort]]  
+[[Reponse|Réponse]]  
+[[Résolution simultanée]]  
+[[Ressource]]  
+[[Ressource (capacité)]]  
+[[Ressource (carte)]]  
+[[Ressource énergie]]  
+[[Ressource libre]]  
+[[Ressource mentale]]  
+[[Ressource physique]]  
+[[Restreint]]  
+[[Restrictions et permissions de jeu]]  
+[[Retiré de la partie]]  
+[[Reveler|Révéler]]  
+[[Riposte X]]  
+[[Robuste]]  
+
+## S
+[[Sbire]]  
+[[Set standard]]  
+[[Seuil de menace]]  
+[[Set de rencontre]]  
+[[Set de rencontre modulaire]]  
+[[Set de rencontre némésis]]  
+[[Set expert]]  
+[[Soigner]]  
+[[Sonner, sonné]]  
+[[Sous-titre]]  
+[[Soutien]]  
+[[Spécial]]  
+[[«Supplémentaire»]]  
+
+## T
+[[Taille de main]]  
+[[Tenace]]  
+[[Ténacité]]  
+[[Texte de rappel]]  
+[[Tiret]]  
+[[Tomber à court de cartes]]  
+[[Tour de joueur]]  
+[[Traîtrise]]  
+[[Traits]]  
+[[Types de carte]]  
+
+## U
+[[Unique]]  
+[[Utilisations («X» type)]]  
+
+## V
+[[Vaincre, déjouer]]  
+[[Vaincre le méchant]]  
+[[Valeur de base]]  
+[[Variable non-numérique]]  
+[[Victoire X]]  
+[[Vilenie]]  
+[[Vous, votre]]  
+
+## X
+[[«X» (valeur)]]  
+
+## Z
+[[Zone de jeu]]  
+[[Zone de jeu d’un joueur]]  
+[[Zone de jeu du méchant]]  
