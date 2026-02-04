@@ -182,8 +182,11 @@
   },
   "active": "3fd74076b79f37c6",
   "lastOpenFiles": [
-    "Icône d'Aléas.md",
+    "img/icone_mentale.jpg",
+    "img/icone_physique.jpg",
+    "icone.md",
     "Glossaire/Glossaire.md",
+    "Icône d'Aléas.md",
     "Glossaire/I/IconeAccélération.md",
     "Glossaire/I/IconeEtoile.md",
     "Glossaire/I/IconeAmplification.md",
@@ -207,8 +210,6 @@
     "Glossaire/A/Activation.md",
     "Glossaire/A/Action.md",
     "Glossaire/J/Jetons génériques.md",
-    "Glossaire/B/BoiteDeTexte.md",
-    "Glossaire/Z/Zone de jeu.md",
     "Glossaire/Z",
     "Glossaire/Y",
     "Glossaire/X",
@@ -226,7 +227,6 @@
     "_resources/IconeMentale.svg",
     "_resources/IconeLibre.svg",
     "_resources/IconeJoueur.svg",
-    "_resources/IconeEtoileSample2.png",
-    "_resources/IconeEtoileSample1.png"
+    "_resources/IconeEtoileSample2.png"
   ]
 }

@@ -24,7 +24,7 @@
 
 ## B
 [[BoiteDeTexte|Boîte de texte]]  
-[[Boost|Boost, icône de boost]]  
+[[Boost|Boost, icône de boost]] (![[icone_boost.jpg|15]])  
 
 ## C
 [[CaCarrte|Capacité de Carte]]  
@@ -76,7 +76,7 @@
 [[Defendre|Défense, défendre]]  
 [[Deferlement|Déferlement]]  
 [[Degats|Dégâts]]  
-[[DegatsConsecutifs|Dégâts consécutifs]]  
+[[DegatsConsecutifs|Dégâts consécutifs]] (![[icone_consecutif.jpg|15]])  
 [[DegatsEnExces|Dégâts en excès]]  
 [[DegatsExces|Dégâts en excès]]  
 [[DegatsIndirects|Dégâts indirects]]  
@@ -233,10 +233,10 @@
 [[Ressource]]  
 [[RessourceCapacite|Ressource (capacité)]]  
 [[RessourceCarte|Ressource (carte)]]  
-[[RessourceEnergie|Ressource énergie]]  
-[[RessourceLibre|Ressource Libre]]  
-[[RessourceMentale|Ressource mentale]]  
-[[RessourcePhysique|Ressource physique]]  
+[[RessourceEnergie|Ressource énergie]] (![[icone_energie.jpg|15]])  
+[[RessourceLibre|Ressource Libre]] (![[icone_libre.jpg|15]])  
+[[RessourceMentale|Ressource mentale]] (![[icone_mentale.jpg|15]])  
+[[RessourcePhysique|Ressource physique]] (![[icone_physique.jpg|15]])  
 [[RessourceRecuperation|Récupération, récupérer]]  
 [[RestrictionsEtPermissionsDeJeu|Restrictions et permissions de jeu]]  
 [[RetirePrise|Retiré de la Partie]]  
