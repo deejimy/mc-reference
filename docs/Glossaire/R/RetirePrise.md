@@ -1,0 +1,1 @@
+# Retiré de la Partie

@@ -1,0 +1,2 @@
+# Capacité une fois révélée
+

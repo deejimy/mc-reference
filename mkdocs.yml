@@ -1,42 +1,34 @@
 site_name: Marvel Champions - Guide de Référence v1.7
+site_url: https://deejimy.github.io/mc-reference/
+
 
 theme:
     name: 'material'
+    language: 'fr'
+    logo: img/icons8-marvel.svg
+    favicon: img/icons8-marvel-16.png
     palette:
-
-    # Light mode
-    - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: pink
-      accent: indigo
-      toggle:
-        icon: material/toggle-switch-off-outline
-        name: Switch to dark mode
-
-    # Dark mode
-    - media: "(prefers-color-scheme: dark)"
-      scheme: slate
-      primary: pink
-      accent: blue
-      toggle:
-        icon: material/toggle-switch
-        name: Switch to light mode
-
+      primary: red
+      accent: black
+    
 # Extensions
 markdown_extensions:
+  - admonition
   - footnotes
+  - tables
   - attr_list
-  # - pymdownx.arithmatex
-  # - pymdownx.superfences
-  # - pymdownx.details
-  # - pymdownx.magiclink
-  # - pymdownx.tasklist:
-  #     custom_checkbox: true
-#  - pymdownx.emoji:
-#      emoji_generator: !!python/name:pymdownx.emoji.to_svg
-  # - admonition
+  - def_list
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed
+  - pymdownx.emoji
+  - pymdownx.highlight
   - toc:
       permalink: true
+
+extra_css:
+  - stylesheets/extra.css
 
 plugins:
   - search
