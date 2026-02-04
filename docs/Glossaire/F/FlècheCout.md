@@ -1,1 +1,0 @@
-# Icône de Coût en Forme de Flèche (→)

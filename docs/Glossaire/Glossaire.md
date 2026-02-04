@@ -5,6 +5,7 @@
 [[ADistance|À distance]]  
 [[AffichageVictoire|Affichage de Victoire]]  
 [[ALaPlace|À la place]]  
+[[Alliance]]  
 [[Allie|Allié]]  
 [[AlterEgo|Alter Ego]]  
 [[Amelioration|Amélioration]]  
@@ -114,8 +115,6 @@
 
 ## F
 [[Fin de la phase des joueurs]]  
-[[Flèche|Icône de Flèche (→)]]  
-[[FlècheCout|Icône de Coût en Forme de Flèche (→)]]  
 [[Forcee|Forcée]]  
 [[FormeChangerDeFormes|Forme, changer de forme]]  
 
@@ -140,6 +139,7 @@
 [[IconeAmplification|Icône d'Amplification]] (![[icone_amplification.jpg|15]])  
 [[IconeEtoile|Icône d'Étoile]] (![[icone_etoile.jpg|15]])  
 [[IconeJoueur|Icône Par Joueur]] ![[icone_joueur.jpg|15]]  
+[[IconeFleche|Icône de Flèche (→)]]  
 [[IconeSet|Icône de Set]]  
 [[IconeUnique|Icône Unique]] ![[icone_unique.jpg|15]]  
 [[Ignorer]]  
@@ -158,7 +158,7 @@
 ## L
 [[Lie|Lié (Titre de Carte)]]  
 [[Limite]]  
-[[LimiteLiee|Limite d'Alliés]]  
+[[LimiteAlliee|Limite d'Alliés]]  
 [[LimiteManianceAnnexe|Limite de Manigance Annexe de Joueur]]  
 
 ## M
@@ -274,7 +274,7 @@
 [[TexteRappel|Texte de Rappel]]  
 [[TiretValeur|Tiret (Valeur)]]  
 [[TomberCartes|Tomber à Court de Cartes]]  
-[[TourDeJoueur|Tour de joueur]]  
+[[TourJoueur|Tour de joueur]]  
 [[Traîtrise|Traîtrise]]  
 [[Traits]]  
 [[TypesDeCarte|Types de carte]]  
