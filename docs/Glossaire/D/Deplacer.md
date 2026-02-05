@@ -1,2 +1,41 @@
 # Déplacer
 
+
+Some abilities allow players to move game elements, such
+as cards, damage, or threat.
+
+  - When an element moves, it cannot move to its same
+(current) placement.
+
+  - If there is no valid source or destination for a move,
+the move cannot be made.
+
+  - It is possible for damage to move between dials and
+cards (and vice versa).
+
+  - If damage is moved from a dial to a card, increase
+the hit points tracked by the dial by the specified
+amount (no higher than the card’s maximum hit
+points), and place the same amount of damage on
+the card.
+
+  - If damage is moved from a card to a dial, remove
+damage from the card and reduce the dial by the
+same amount.
+
+  - If damage is moved off a character, the moved
+damage is considered to be healed from that
+character.
+
+  - If damage is moved to a character, the moved
+damage is considered to be dealt to that character.
+
+  - If threat is moved off a scheme, the moved threat is
+considered to be removed from that scheme.
+
+  - If threat is moved to a scheme, the moved threat is
+considered to be placed on that scheme.
+
+
+See also: Game Element
+

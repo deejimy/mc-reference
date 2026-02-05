@@ -1,1 +1,0 @@
-# Esprit d'Équipe (Trait)

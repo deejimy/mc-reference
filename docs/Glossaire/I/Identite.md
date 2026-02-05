@@ -1,0 +1,25 @@
+# Identité
+
+
+Identity is a player card type that represents which character
+a player is playing in the game.
+A player’s identity card is a double-sided card that
+represents their hero on one side and their alter-ego on the
+other. The side that is face up indicates the form (hero or
+alter-ego) that player is currently in.
+
+  - Each player begins the game in alter-ego form.
+
+  - If a card refers to a hero or alter-ego by title, it refers
+only to the identity with that title, and not to the
+other side of the card.
+
+  - Identity cards cannot be discarded from play.
+
+  - The faceup side of an identity card is considered to
+be in play. The facedown side of an identity card is
+considered to be out of play.
+
+
+See also: Form, In Play and Out of Play, Player, Player Card
+

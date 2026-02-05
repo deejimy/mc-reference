@@ -1,92 +1,121 @@
 # Capacité
 
-## Définition
 
-Une capacité est du texte de règles sur une carte qui explique ce que la carte fait (ou peut faire).
+An ability is game text on a card that explains what the
+card does (or can do). Several examples can be seen in Appendix III of this .
 
-## Règles Générales
+  - Card abilities only interact with cards that are in play,
+unless the ability specifically refers to an out-of-play
+area or element.
 
-### Interaction avec les cartes en jeu
+  - Card abilities on hero, alter-ego, ally, upgrade, and
+support cards may only be used if the card is in play,
+unless the ability specifically refers to being used
+from an out-of-play state. Event cards implicitly
+interact with the game from an out-of-play area, as
+per the rules of the event card type.
 
-- Les capacités n'interagissent qu'avec les cartes en jeu, sauf si la capacité se réfère spécifiquement à une zone hors-jeu ou un élément hors-jeu
-- Les capacités sur les cartes Héros, Alter-Ego, Allié, Amélioration et Support ne peuvent être utilisées que si la carte est en jeu, sauf si la capacité se réfère spécifiquement à une utilisation hors-jeu
-- Les cartes Événement interagissent implicitement avec le jeu depuis une zone hors-jeu, selon les règles du type Événement
+  - If an ability specifies one or more targets, that ability
+can only be initiated if it has at least one valid target.
+For example, an ability that says "deal 5 damage to a
+minion" cannot be initiated if there are no minions in
+play.
 
-### Cibles
+  - Examples of targets include but are not limited to:
+"the villain," "a minion," "an enemy," "a scheme,"
+"a hero," "an ally," "a character," "a player," "you,"
+"a card."
 
-- Si une capacité spécifie une ou plusieurs cibles, elle ne peut être activée que si elle a au moins une cible valide
-  - Exemple : une capacité disant « infligez 5 dégâts à un serviteur » ne peut pas être activée s'il n'y a pas de serviteur en jeu
-- Les cibles incluent notamment : « le villain », « un serviteur », « un ennemi », « un plan », « un héros », « un allié », « un personnage », « un joueur », « vous », « une carte »
+  - When an ability has more than one sentence of text,
+read the entirety of the ability to check for alteration
+effects that may change the way the ability resolves.
+Then, resolve the ability one sentence at a time.
 
-### Résolution
+  - An ability prefaced by a bold timing trigger followed
+by a colon is referred to as a triggered ability. An
+ability without a bold timing trigger is referred to as a
+constant ability. (See below.)
 
-- Si une capacité contient plusieurs phrases, lisez l'intégralité avant de résoudre, pour identifier les effets d'altération qui pourraient changer la résolution
-- Résolvez ensuite la capacité phrase par phrase
-- Une capacité introduite par un **déclencheur temporel en gras** suivi d'un deux-points est appelée **capacité déclenchée**
-- Une capacité **sans déclencheur temporel** est appelée **capacité constante**
+  - Player card abilities cannot resolve during game
+setup, unless prefaced by a "Setup" timing trigger.
 
-### Lors de la mise en place
+  - The resolution of the following ability types is
+mandatory: constant abilities, "Setup" abilities,
+"When Revealed" abilities, "When Defeated"
+abilities, "Forced Action" abilities, "Forced
+Interrupt" abilities, "Forced Response" abilities,
+"Boost" abilities, and keywords.
 
-- Les capacités ne peuvent pas se résoudre lors de la mise en place, sauf si précédées d'un déclencheur « Mise en place »
+  - If one of these ability types uses the word "may",
+the part of the ability following "may" is optional.
 
-## Types de Capacités
+  - The resolution of the following ability types is
+optional: "Action", "Interrupt", "Response",
+"Resource". The player who controls the card that
+has an optional ability determines whether or not to
+use that ability at the appropriate time. Any player
+can use such an ability on an encounter card, with the
+following exceptions:
 
-### Capacités Obligatoires
+  - Only the player who controls a player card with an
+attachment that uses the word "you" or "your" can
+trigger abilities or pay costs on that attachment.
 
-Les types suivants ont une résolution **obligatoire** :
+  - Only the player with an obligation in their play area
+can trigger abilities or pay costs on that obligation.
+Constant Abilities — A constant ability is any non-keyword
+ability whose text contains no bold timing trigger defining its
+ability type. A constant ability becomes active as soon as its
+card enters play and remains active while the card is in play.
 
-- Capacités constantes
-- Capacités « Mise en place »
-- Capacités « Une fois révélée »
-- Capacités « Une fois vaincu »
-- Capacités « Action forcée »
-- Capacités « Interruption forcée »
-- Capacités « Réponse forcée »
-- Capacités « Boost »
-- Mots-clés
+  - Some constant abilities continuously seek a specific
+condition (denoted by words such as "during", "if",
+or "while"). The effects of such abilities are active
+anytime the specific condition is met.
 
-> Si l'un de ces types utilise le mot « peut / vous pouvez », la partie suivante devient optionnelle.
+  - If multiple instances of the same constant ability
+are in play, each instance affects the game
+independently.
+Triggered Abilities — A triggered ability is indicated by a
+bold timing trigger followed by a colon and the rest of the
+ability text.
 
-### Capacités Optionnelles
+  - Unless prefaced by the word "Forced", all interrupt
+and response abilities are optional.
 
-Les types suivants ont une résolution **optionnelle** : « Action », « Interruption », « Réponse », « Ressource »
+  - "Forced" abilities, "When Revealed" abilities,
+"When Defeated" abilities, and "When Completed"
+abilities are triggered by the game at the ability’s
+appropriate timing point.
 
-- Le joueur contrôlant la carte détermine s'il l'utilise au moment approprié
-- Tout joueur peut utiliser une telle capacité sur une carte de Rencontre, avec les exceptions suivantes :
-  - Seul le joueur contrôlant une pièce jointe sur une carte Joueur utilisant « vous » peut déclencher des capacités ou payer des coûts sur cette pièce jointe
-  - Seul le joueur ayant une obligation en jeu peut déclencher des capacités ou payer des coûts sur cette obligation
+  - If the bold timing trigger of an ability contains the
+word "Hero" or "Alter-Ego," the ability can only
+be used if the player triggering the ability is in the
+specified form.
 
-## Capacités Constantes
-
-Une **capacité constante** est toute capacité sans mot-clé dont le texte ne contient pas de **déclencheur temporel** définissant son type.
-
-- Elle s'active dès que sa carte entre en jeu et reste active tant que la carte est en jeu
-- Certaines capacités constantes cherchent continuellement une condition spécifique (indiquée par « pendant », « si » ou « tandis que »)
-  - Les effets de telles capacités sont actifs dès que la condition est remplie
-- Si plusieurs instances de la même capacité constante sont en jeu, chaque instance affecte le jeu indépendamment
-
-## Capacités Déclenchées
-
-Une **capacité déclenchée** est indiquée par un **déclencheur temporel en gras** suivi d'un deux-points et du reste du texte.
-
-- Sauf si précédées du mot « Forcée », toutes les capacités Interruption et Réponse sont optionnelles
-- Les capacités « Forcée », « Une fois révélée », « Une fois vaincu » et « Une fois déjouée » sont déclenchées par le jeu au moment approprié
-- Si le déclencheur temporel contient « Héros » ou « Alter-Ego », la capacité ne peut être utilisée que si le joueur la déclenchant est sous la forme spécifiée
-- Si des guillemets entourent un déclencheur temporel et un deux-points, le texte entre guillemets n'est pas un déclencheur en soi, mais fait référence à d'autres capacités avec ce déclencheur
-
-## Priorité Temporelle Simultanée
-
-Certaines capacités ont priorité sur d'autres. Par ordre de priorité pour les capacités avec la même condition de déclenchement :
-
-1. Capacités constantes, effets différés, effets durables, mots-clés, et icônes ![[icone_acceleration.jpg|15]], ![[icone_amplification.jpg|15]], ![[icone_crise.jpg|15]], ![[icone_aleas.jpg|15]]
-2. Cartes de statut
-3. Capacités « Interruption forcée »
-4. Capacités « Interruption »
-5. Capacités « Boost », « Une fois vaincu » et « Une fois révélée »
-6. Capacités « Réponse forcée »
-7. Capacités « Réponse »
-8. Dégâts Consécutifs
+  - If quotation marks are used around a timing trigger
+and colon, the quoted text is not itself a timing
+trigger, but is instead referring to other abilities with
+that trigger.
+Simultaneous Timing Priority — Some abilities have
+timing priority over other abilities. In order, the timing
+priority of abilities with the same triggering condition is:
+1. Constant abilities, delayed effects, lasting effects,
+keywords, and , , ,  icons.
+2. Status cards.
+3. "Forced Interrupt" abilities.
+4. "Interrupt" abilities.
+5. "Boost," "When Defeated," and "When Revealed"
+abilities.
+6. "Forced Response" abilities.
+7. "Response" abilities.
+8. Consequential damage.
 
 
-**Voir aussi**: _Action, Annuler, Capacité déclenchée, Capacité constante, Condition de déclenchement, Effets d'altération, Effets de remplacement, Effets différés, Effets durables, En jeu et hors jeu, Ensuite, Et, Forcée, Initier des capacités, Interruption, Qualificateurs, Réponse, Résolution simultanée, Ressource (Capacité), Spécial_
+See also: Action, Alteration Effect, "And", Cancel,
+Delayed Effect, Forced, In Play and Out of Play, Initiating
+Abilities, Interrupt, Labeled Ability, Lasting Effects,
+Qualifiers, Replacement Effect, Resource Ability, Response,
+Simultaneous Resolution, Special, Target, "Then", When
+Defeated Abilities, When Revealed Abilities, "Would"
 

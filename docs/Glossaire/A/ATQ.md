@@ -1,3 +1,5 @@
 # ATQ
 
-See: Attack (Player Action), Basic Power
+
+See: Attack (Player Ability Type), Basic Power
+

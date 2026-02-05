@@ -1,1 +1,0 @@
-# Héros, forme de héros

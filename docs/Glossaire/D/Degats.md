@@ -1,9 +1,50 @@
 # Dégâts
 
-"Damage reduces a character's hit points. If a character has zero or fewer remaining hit points, it is defeated.
-• Damage on an identity or villain is tracked by a hit point dial. If such a character takes damaged, reduce its dial by the amount of damage that it took.
-• Damage on an ally or minion is tracked by damage tokens. If such a character takes damage, place the specified value of damage tokens on the character.
-• When damage is dealt to a character, that character takes damage.
-» When the amount of damage an effect deals is modified, the amount of damage the character takes is similarly modified.
-» When the amount of damage a character takes is modified (such as by damage being prevented), the amount of damage dealt is not modified."
+
+Damage reduces a character’s hit points.
+If a character has zero or fewer remaining
+hit points, it is defeated.
+
+  - Damage on an identity or villain is tracked by a hit
+point dial. If such a character takes damaged, reduce
+its dial by the amount of damage that it took.
+
+  - Damage on an ally or minion is tracked by damage
+tokens. If such a character takes damage, place the
+specified value of damage tokens on the character.
+
+  - When damage is dealt to a character, that character
+takes damage.
+
+  - When the amount of damage an effect deals is
+modified, the amount of damage the character
+takes is similarly modified.
+
+  - When the amount of damage a character takes is
+modified (such as by damage being prevented), the
+amount of damage dealt is not modified.
+
+  - The order of resolution for effects surrounding the
+dealing and taking of damage are as follows:
+1. Abilities that trigger "when [character] would
+deal/be dealt any amount of damage..."
+2. Tough status cards.
+3. Abilities that trigger "when [character] would
+take any amount of damage..."
+4. Abilities that trigger "when [character] takes any
+amount of damage..."
+5. Placing of damage on the character.
+6. Abilities that trigger "when [character] would be
+defeated..."
+7. Abilities that trigger "when [character] is
+defeated..."
+8. "When Defeated" abilities.
+9. Discarding of a defeated character.
+10. Abilities that trigger "after [character] deals/is
+dealt/takes any amount of damage..." or "after
+[character] defeats/is defeated..."
+
+
+See also: Component Limitations, Defeat, Hit Points, Indirect
+Damage, Move, Prevent, Tough
 

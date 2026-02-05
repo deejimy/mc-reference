@@ -1,1 +1,0 @@
-# Élimination de Joueur

@@ -16,12 +16,12 @@ Il n’existe pas de limite au nombre de pions Menace, pions Dégât, pions Acc�
 ## DÉROULEMENT D’UN ROUND
 Cette section vous donne un aperçu du déroulement d’un round de jeu et les entrées du glossaire correspondantes.  
 1. La phase des Joueurs commence. Voir : [[PhaseDesJoueurs|Phase des Joueurs]]  
-2. Chaque joueur effectue son tour. Voir : [[TourJoueur|Tour de Joueur]]  
-3. La phase des Joueurs prend fin. Voir: [[FinPhaseJoueurs|Fin de la phase des Joueurs]]  
-4. La phase du Méchant commence. Voir : [[PhaseMechant|Phase du Méchant]]  
-5. Placez de la menace sur la manigance principale. Voir : [[ManigancePrincipale|Manigance principale, deck manigance principale]]  
-6. Le méchant et les sbires s’activent. Voir : [[Activation]] , [[AttaqueEnnemis|Attaque (activation des ennemis)]], [[ManiganceActivationEnnemis|Manigance (Activation des Ennemis)]]  
-7. Attribuez les cartes Rencontre. Voir : [[AttribuerUneCarteRencontre|Attribuer une carte rencontre]]  
+2. Chaque joueur effectue son tour. Voir : [[TourDeJoueur|Tour de Joueur]]  
+3. La phase des Joueurs prend fin. Voir: [[FinDeLaPhaseDesJoueurs|Fin de la phase des Joueurs]]  
+4. La phase du Méchant commence. Voir : [[PhaseDuMechant|Phase du Méchant]]  
+5. Placez de la menace sur la manigance principale. Voir : [[ManigancePrincipaleDeckManigancePrincipale|Manigance principale, deck manigance principale]]  
+6. Le méchant et les sbires s’activent. Voir : [[Activation]] , [[AttaqueActivationDesEnnemis|Attaque (activation des ennemis)]], [[ManiganceActivationDesEnnemis|Manigance (Activation des Ennemis)]]  
+7. Attribuez les cartes Rencontre. Voir : [[AttribuerAttribuerUneCarteRencontre|Attribuer une carte rencontre]]  
 8. Révélez et résolvez les cartes Rencontre. Voir : [[Reveler|Révéler]]  
 9. Passez le pion Premier Joueur. Voir : [[PremierJoueur|Premier Joueur]]  
 10. Fin du round. Passez à la première étape du prochain round de jeu.

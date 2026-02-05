@@ -1,1 +1,0 @@
-# Gagner (une caractéristique)

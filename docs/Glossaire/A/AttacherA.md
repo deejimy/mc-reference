@@ -1,7 +1,30 @@
 # Attacher À
 
-"If a card uses the phrase ""attach to"", it must be attached to (placed beneath and slightly overlapped by) the specified game element as it enters play.
-• Once a card is attached, it remains in play until either the element it is attached to leaves play, in which case the attached card is discarded, or an ability or game effect causes the attached card to leave play.
-• An attached card exhausts and readies independently of the game element it is attached to.
-• The ""attach to"" phrase is checked for legality when the card would be attached to a game element, but it is not checked again after it is attached. If the initial ""attach to"" check does not pass, the card is not able to be attached, so it remains in its prior state or game area. If such a card cannot remain in its prior state or game area, discard it.
-» The ""attach to"" phrase on a card is not resolved if another ability causes that card to attach to a specific game element."
+
+If a card uses the phrase "attach to", it must be attached to
+(placed beneath and slightly overlapped by) the specified
+game element as it enters play.
+
+  - Once a card is attached, it remains in play until either
+the element it is attached to leaves play, in which case
+the attached card is discarded, or an ability or game
+effect causes the attached card to leave play.
+
+  - An attached card exhausts and readies independently
+of the game element it is attached to.
+
+  - The "attach to" phrase is checked for legality when
+the card would be attached to a game element, but it
+is not checked again after it is attached. If the initial
+"attach to" check does not pass, the card is not able
+to be attached, so it remains in its prior state or game
+area. If such a card cannot remain in its prior state or
+game area, discard it.
+
+  - The "attach to" phrase on a card is not resolved
+if another ability causes that card to attach to a
+specific game element.
+
+
+See also: Attachment, Game Element, Upgrade
+

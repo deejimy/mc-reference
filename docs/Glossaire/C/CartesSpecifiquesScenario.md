@@ -1,2 +1,0 @@
-# Cartes spécifiques au scénario
-

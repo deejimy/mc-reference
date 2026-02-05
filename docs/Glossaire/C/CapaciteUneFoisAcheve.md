@@ -1,2 +1,0 @@
-# Capacité « une fois achevé »
-
