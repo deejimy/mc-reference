@@ -1,5 +1,5 @@
 # Obtient
 
 
-See: Hit Points, Modifiers
+Voir : Points de vie, Modificateurs
 

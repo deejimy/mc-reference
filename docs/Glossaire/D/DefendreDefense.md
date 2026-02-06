@@ -1,111 +1,49 @@
 # Défendre, Défense
 
 
-During an enemy attack, a player may defend against that
-attack using cards they control.
+Pendant une attaque ennemie, un joueur peut défendre contre cette attaque en utilisant des cartes qu'il contrôle.
 
-  - Only one player at a time can defend against an
-enemy attack. While a player is defending, other
-players cannot defend against that same attack.
+  - Un seul joueur à la fois peut défendre contre une attaque ennemie. Tant qu'un joueur défend, les autres joueurs ne peuvent pas défendre contre cette même attaque.
 
-  - A hero can use their basic defense power to defend
-against an enemy attack. A hero must exhaust to
-use this power. The amount of damage dealt by
-the attack is reduced by the hero’s DEF value, and
-any remaining damage is dealt to that hero. While a
-hero is defending against an attack, other friendly
-characters cannot defend against that attack.
+  - Un héros peut utiliser sa puissance de défense de base pour défendre contre une attaque ennemie. Un héros doit s'incliner pour utiliser cette puissance. La quantité de dégâts infligés par l'attaque est réduite de la valeur de DEF du héros, et tout dégât restant est infligé à ce héros. Tant qu'un héros défend contre une attaque, les autres personnages amis ne peuvent pas défendre contre cette attaque.
 
-  - When a card ability says to "declare [a hero] the
-defender" of an attack, that hero is considered to
-be making a basic defense.
+  - Lorsqu'une capacité de carte dit de "déclarer [un héros] comme défenseur" d'une attaque, ce héros est considéré comme effectuant une défense de base.
 
-  - An ally can exhaust to defend against an enemy
-attack. Damage from the attack is dealt to that ally.
-While an ally is defending against an attack, other
-friendly characters cannot defend against that attack.
+  - Un allié peut s'incliner pour défendre contre une attaque ennemie. Les dégâts de l'attaque sont infligés à cet allié. Tant qu'un allié défend contre une attaque, les autres personnages amis ne peuvent pas défendre contre cette attaque.
 
-  - When a card ability says to "declare [an ally] the
-defender" of an attack, that ally becomes the
-defender of the attack.
+  - Lorsqu'une capacité de carte dit de "déclarer [un alliée] comme défenseur" d'une attaque, cet allié devient le défenseur de l'attaque.
 
-  - When a player initiates a triggered ability labeled as
-a defense—such as "Hero Interrupt (defense)"—
-during an enemy attack, that player’s identity
-becomes the defender and is considered to have
-defended the attack if there is not already a defender.
+  - Lorsqu'un joueur initie une capacité déclenchée étiquetée comme une défense — telle que "Interruption de héros (défense)" — pendant une attaque ennemie, l'identité de ce joueur devient le défenseur et est considérée comme ayant défendu l'attaque s'il n'y a pas déjà de défenseur.
 
-  - The player’s identity is considered to be the
-defender as soon as the defense-labeled ability
-begins resolving.
+  - L'identité du joueur est considérée comme étant le défenseur dès que la capacité étiquetée comme défense commence à se résoudre.
 
-  - Abilities that trigger "when your hero defends
-against an attack" can be triggered when resolving
-a defense-labeled ability.
+  - Les capacités qui se déclenchent "quand votre héros défend contre une attaque" peuvent être déclenchées lors de la résolution d'une capacité étiquetée comme défense.
 
-  - Playing a defense-labeled ability is not a basic
-defense and does not cause a hero to reduce the
-amount of damage dealt by that hero’s DEF.
+  - Jouer une capacité étiquetée comme défense n'est pas une défense de base et ne permet pas à un héros de réduire la quantité de dégâts infligés par sa valeur de DEF.
 
-  - Unless specified by the ability’s text, a hero does
-not exhaust when using a defense-labeled ability.
+  - Sauf indication contraire dans le texte de la capacité, un héros ne s'incline pas lorsqu'il utilise une capacité étiquetée comme défense.
 
-  - The defending player may resolve any number of
-defense abilities during an enemy attack (as long as
-the triggering conditions of those abilities are met).
+  - Le joueur défenseur peut résoudre n'importe quel nombre de capacités de défense pendant une attaque ennemie (tant que les conditions de déclenchement de ces capacités sont remplies).
 
-  - Once a player resolves a defense-labeled ability
-during an enemy attack, other players cannot
-resolve defense-labeled abilities for that same
-attack.
+  - Une fois qu'un joueur a résolu une capacité étiquetée comme défense pendant une attaque ennemie, les autres joueurs ne peuvent pas résoudre de capacités étiquetées comme défense pour cette même attaque.
 
-  - Defense-labeled abilities can be played during
-an attack by a player whose ally is defending that
-attack. In that case, the player’s identity does not
-become the defender.
+  - Des capacités étiquetées comme défense peuvent être jouées pendant une attaque par un joueur dont l'allié défend cette attaque. Dans ce cas, l'identité du joueur ne devient pas le défenseur.
 
-  - A player can trigger abilities labeled as a defense
-outside of an attack if the ability’s triggering
-condition is met. When triggered this way,
-the player’s identity is not considered to have
-defended an attack.
+  - Un joueur peut déclencher des capacités étiquetées comme défense en dehors d'une attaque si la condition de déclenchement de la capacité est remplie. Lorsqu'elle est déclenchée ainsi, l'identité du joueur n'est pas considérée comme ayant défendu une attaque.
 
-  - If a player defends against an enemy attack that
-targets a different player (either by defending with
-a character they control or by resolving a defense
-ability), the defending player becomes the new target
-of that attack.
+  - Si un joueur défend contre une attaque ennemie qui cible un joueur différent (soit en défendant avec un personnage qu'il contrôle, soit en résolvant une capacité de défense), le joueur défenseur devient la nouvelle cible de cette attaque.
 
-  - Any triggered ability that refers to "you" refers to
-the player who was the target of the attack when
-that ability resolved. (For example, the "you" in
-an ability that triggers "when [enemy] attacks
-you" refers to the player against whom the attack
-initiated, while the "you" in an ability that triggers
-"after [enemy] attacks you" refers to the player
-whose character defended the attack.)
+  - Toute capacité déclenchée qui se réfère à "vous" se réfère au joueur qui était la cible de l'attaque au moment où cette capacité s'est résolue. (Par exemple, le "vous" dans une capacité qui se déclenche "quand [l'ennemi] vous attaque" se réfère au joueur contre lequel l'attaque a été initiée, tandis que le "vous" dans une capacité qui se déclenche "après que [l'ennemi] vous a attaqué" se réfère au joueur dont le personnage a défendu l'attaque.)
 
-  - Any constant or boost abilities that refer to "you"
-refer to the defending player.
+  - Toutes les capacités constantes ou de boost qui se réfèrent à "vous" se réfèrent au joueur défenseur.
 
-  - If no character is used to defend against an enemy
-attack, that attack is considered undefended.
-Additionally, if a defending ally is defeated before
-damage from the attack is dealt (such as through a
-"Boost" ability), the attack is considered undefended.
+  - si aucun personnage n'est utilisé pour défendre contre une attaque ennemie, cette attaque est considérée comme non défendue. De plus, si un allié défenseur est vaincu avant que les dégâts de l'attaque ne soient infligés (par exemple via une capacité de "Boost"), l'attaque est considérée comme non défendue.
 
-  - Abilities that trigger after a character defends an
-attack resolve after that attack ends.
+  - Les capacités qui se déclenchent après qu'un personnage a défendu une attaque se résolvent après la fin de cette attaque.
 
-  - If an effect causes a defended attack to end before
-fully resolving, the attack is still considered to have
-been defended.
+  - Si un effet provoque la fin d'une attaque défendue avant sa résolution complète, l'attaque est toujours considérée comme ayant été défendue.
 
-  - If an ability triggers after a character uses a basic
-power, that ability triggers after an attack in which
-a character made a basic defense resolves.
+  - Si une capacité se déclenche après qu'un personnage a utilisé une puissance de base, cette capacité se déclenche après la résolution d'une attaque au cours de laquelle un personnage a effectué une défense de base.
 
-
-See also: Ability, Ally, Attack (Enemy Activation), Damage,
-"Friendly", Identity, Labeled Ability, Player
+Voir aussi : Capacité, Allié, Attaque (Activation d'ennemi), Dégâts, "Ami", Identité, Capacité étiquetée, Joueur
 

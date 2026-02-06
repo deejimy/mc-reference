@@ -153,7 +153,7 @@ def extract_chapters(glossary_file_path):
 
 def main():
     # Chemins des fichiers (à ajuster selon votre configuration)
-    glossary_file = '../.work/glossary.txt'
+    glossary_file = '../.work/glossary_fr.txt'
     glossary_ref_file = '../.work/glossary_ref.txt'
     output_dir = 'Glossaire'
     

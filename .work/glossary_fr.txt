@@ -1,0 +1,1589 @@
+ABILITY
+Une capacité est le texte de jeu d'une carte qui explique ce que la carte fait (ou peut faire). Plusieurs exemples peuvent être consultés dans l'Appendice III de ce document.
+• Les capacités de carte n'interagissent qu'avec les cartes en jeu, à moins que la capacité ne se réfère spécifiquement à une zone ou un élément hors-jeu.
+• Les capacités de carte sur les cartes héros, alter-ego, allié, amélioration et soutien ne peuvent être utilisées que si la carte est en jeu, à moins que la capacité ne se réfère spécifiquement à une utilisation depuis un état hors-jeu. Les cartes évènement interagissent implicitement avec le jeu depuis une zone hors-jeu, conformément aux règles du type de carte évènement.
+• Si une capacité spécifie une ou plusieurs cibles, cette capacité ne peut être initiée que si elle possède au moins une cible valide. Par exemple, une capacité qui dit "infligez 5 dégâts à un sbire" ne peut pas être initiée s'il n'y a aucun sbire en jeu.
+» » Des exemples de cibles incluent, sans s'y limiter : "le méchant", "un sbire", "un ennemi", "une manigance", "un héros", "un allié", "un personnage", "un joueur", "vous", "une carte".
+• Lorsqu'une capacité comporte plus d'une phrase de texte, lisez l'intégralité de la capacité pour vérifier s'il existe des effets d'altération susceptibles de modifier la manière dont la capacité se résout. Ensuite, résolvez la capacité une phrase à la fois.
+• Une capacité préfacée par un déclencheur en gras suivi de deux-points est appelée capacité déclenchée. Une capacité sans déclencheur en gras est appelée capacité constante. (Voir ci-dessous.)
+• Les capacités de carte de joueur ne peuvent pas être résolues pendant la mise en place du jeu, à moins d'être préfacées par un déclencheur de "Mise en place".
+• La résolution des types de capacités suivants est obligatoire : capacités constantes, capacités de "Mise en place", capacités "Une fois révélée", capacités "Une fois vaincu", capacités d'"Action forcée", capacités d'"Interruption forcée", capacités de "Réponse forcée", capacités de "Boost" et mots-clés.
+» » Si l'un de ces types de capacité utilise le mot "peut", la partie de la capacité suivant "peut" est optionnelle.
+• La résolution des types de capacités suivants est optionnelle : "Action", "Interruption", "Réponse", "Ressource". Le joueur qui contrôle la carte possédant une capacité optionnelle détermine s'il souhaite ou non utiliser cette capacité au moment approprié. Tout joueur peut utiliser une telle capacité sur une carte de rencontre, avec les exceptions suivantes :
+» » Seul le joueur qui contrôle une carte de joueur avec un attachement utilisant le mot "vous" ou "votre" peut déclencher des capacités ou payer des coûts sur cet attachement.
+» » Seul le joueur ayant une obligation dans sa zone de jeu peut déclencher des capacités ou payer des coûts sur cette obligation.
+
+Capacités constantes — Une capacité constante est toute capacité (autre qu'un mot-clé) dont le texte ne contient aucun déclencheur en gras définissant son type de capacité. Une capacité constante devient active dès que sa carte entre en jeu et reste active tant que la carte est en jeu.
+• Certaines capacités constantes recherchent continuellement une condition spécifique (dénotée par des mots tels que "pendant", "si" ou "tant que"). Les effets de telles capacités sont actifs chaque fois que la condition spécifique est remplie.
+• Si plusieurs instances de la même capacité constante sont en jeu, chaque instance affecte le jeu indépendamment.
+
+Capacités déclenchées — Une capacité déclenchée est indiquée par un déclencheur en gras suivi de deux-points et du reste du texte de la capacité.
+• À moins d'être préfacées par le mot "Forcée", toutes les capacités d'interruption et de réponse sont optionnelles.
+• Les capacités "Forcées", les capacités "Une fois révélée", les capacités "Une fois vaincu" et les capacités "Une fois déjouée" sont déclenchées par le jeu au moment approprié.
+• Si le déclencheur en gras d'une capacité contient le mot "Héros" ou "Alter-Ego", la capacité ne peut être utilisée que si le joueur déclenchant la capacité est sous la forme spécifiée.
+• Si des guillemets sont utilisés autour d'un déclencheur et de deux-points, le texte entre guillemets n'est pas lui-même un déclencheur, mais se réfère plutôt à d'autres capacités possédant ce déclencheur.
+
+Priorité de chronologie simultanée — Certaines capacités ont une priorité temporelle sur d'autres capacités. Dans l'ordre, la priorité temporelle des capacités ayant la même condition de déclenchement est :
+1. Capacités constantes, effets retardés, effets persistants, mots-clés et icônes , , , .
+2. Cartes d'état.
+3. Capacités d'"Interruption forcée".
+4. Capacités d'"Interruption".
+5. Capacités de "Boost", "Une fois vaincu" et "Une fois révélée".
+6. Capacités de "Réponse forcée".
+7. Capacités de "Réponse".
+8. Dégâts consécutifs.
+
+ACCELERATION ICON
+Une icône d’accélération simule des forces supplémentaires qui aident le méchant à faire avancer son plan machiavélique.
+Pendant l'étape un de la phase du méchant, placez X menace supplémentaire sur la manigance principale, où X est le nombre d'icônes d'accélération en jeu.
+• Une icône d'accélération peut être retirée du jeu en vainquant la carte de rencontre sur laquelle elle est imprimée.
+• Les icônes d'accélération ne sont pas considérées comme des jetons d'accélération, et vice-versa.
+
+ACCELERATION TOKEN
+Les jetons d'accélération sont fonctionnellement équivalents aux icônes d'accélération (mais ne sont pas considérés comme des icônes d'accélération). Ils sont placés à côté de la manigance principale comme rappel d'ajouter X menace supplémentaire à la manigance principale pendant l'étape un de la phase du méchant, où X est le nombre de jetons d'accélération en jeu.
+Les jetons d'accélération entrent en jeu par l'un de deux effets :
+• Si le paquet de rencontre est vide, placez un pion d'accélération à côté de la manigance principale.
+• Les effets de carte peuvent ordonner aux joueurs d'ajouter un pion d'accélération en jeu.
+» » Les jetons d'accélération placés sur des cartes autres que la manigance principale ajoutent toujours de la menace à la manigance principale pendant l'étape un de la phase du méchant.
+Les jetons d'accélération sur la manigance principale ne peuvent pas être retirés du jeu. Contrairement aux autres jetons, lorsqu'une carte de manigance principale quitte le jeu, le pion d'accélération n'est pas défaussé.
+• Les jetons d'accélération placés sur des cartes autres que la manigance principale sont retirés du jeu lorsque la carte sur laquelle ils sont placés quitte le jeu.
+• Les jetons d'accélération ne sont pas considérés comme des icônes d'accélération, et vice-versa.
+
+ACTION
+"Action" est un type de capacité déclenchée. Les joueurs sont autorisés à déclencher des capacités d'action pendant leur tour, ou sur demande pendant les tours des autres joueurs.
+• Les joueurs ne peuvent déclencher des capacités d'action que sur les cartes qu'ils contrôlent ou sur les cartes de rencontre.
+» » Les joueurs ne peuvent pas déclencher de capacités d'action sur les obligations dans les zones de jeu des autres joueurs.
+• Chaque capacité d'"Action forcée" doit être résolue avant que la phase des joueurs ne puisse se terminer.
+» » Une capacité d'action forcée peut être déclenchée à tout moment où une capacité d'action non-forcée pourrait être déclenchée.
+» » Si une telle capacité a un coût qui ne peut pas être payé ou nécessite une ou plusieurs cibles valides et n'en possède aucune, la phase peut se terminer sans que cette capacité ne soit résolue.
+
+ACTIVATION
+Il existe deux types d'activations d'ennemi : une activation d'attaque et une activation de manigance. Chaque fois qu'un ennemi attaque ou manigance, il est considéré comme s'étant activé.
+• Pendant l'étape deux de la phase du méchant, le méchant s'active une fois par joueur, dans l'ordre des joueurs. Si l'identité du joueur résolvant l'activation est sous forme de héros, le méchant initie une attaque contre l'identité de ce joueur. Si l'identité du joueur résolvant l'activation est sous forme d'alter-ego, le méchant initie une manigance.
+• Pendant l'étape deux de la phase du méchant, chaque sbire engagé avec un joueur s'active contre ce joueur. Si l'identité du joueur engagé est sous forme de héros, le sbire initie une attaque contre l'identité de ce joueur. Si l'identité du joueur engagé est sous forme d'alter-ego, le sbire initie une manigance.
+• Chaque fois que le méchant s'active, donnez au méchant une carte de boost du paquet de rencontre pour cette activation.
+• Certaines capacités de carte peuvent également amener des ennemis à attaquer ou à manigancer. Celles-ci sont également considérées comme des activations.
+• Si plusieurs ennemis s'activent contre vous simultanément, résolvez d'abord l'activation du méchant (le cas échéant) dans l'ordre de votre choix, suivie des activations de sbires dans l'ordre de votre choix.
+• Si un sbire en train de s'activer quitte le jeu, l'activation de ce sbire se termine immédiatement et aucune autre étape de cette activation ne se résout.
+• Un effet qui initie une activation d'ennemi est considéré comme résolu une fois que cette activation a été entièrement résolue.
+• Si un effet initie une activation pendant la résolution d'une autre activation, la nouvelle activation se résout après que l'activation actuelle est terminée.
+» » Si plusieurs activations sont initiées de cette manière, le premier joueur décide de leur ordre de résolution.
+» » Toutes les capacités déclenchées par l'activation initiale se résolvent avant que les activations suivantes ne débutent.
+
+ACTIVE PLAYER
+Le joueur dont c'est le tour pendant la phase des joueurs est le joueur actif.
+
+"ADDITIONAL"
+Voir : Effet d'altération.
+
+"AFTER"
+Le mot "après" se réfère à un évènement de jeu qui vient de se conclure. De nombreuses capacités de réponse utilisent le terme "après" pour spécifier le moment où elles peuvent être utilisées.
+
+ALL-PURPOSE COUNTER
+Les jetons génériques peuvent être utilisés pour suivre une variété de différents états de jeu et statuts. Ils n'ont pas de règles inhérentes. Les capacités de carte peuvent créer et définir un certain nombre de types de jetons différents, tels que des "jetons flèche" ou des "jetons toile". Si un pion est requis, un pion générique est utilisé pour suivre sa présence dans le jeu.
+• Les jetons génériques sont considérés comme des jetons pour toutes les fins du jeu.
+• Une capacité qui se réfère à un "pion générique" peut se référer à n'importe quel pion générique, quels que soient les autres types que ce pion pourrait avoir.
+• Lorsqu'un pion générique est déplacé d'une carte à une autre, il perd tout type précédent qu'il avait et gagne le type défini sur la nouvelle carte qu'il occupe. Si la nouvelle carte ne définit pas de type, il est considéré uniquement comme un "pion générique".
+
+ALLIANCE
+Lorsqu'un joueur déclare son intention de jouer une carte avec le mot-clé alliance, tout joueur peut aider à payer les coûts de cette carte.
+• Seul le joueur jouant la carte avec le mot-clé alliance est considéré comme résolvant cette carte.
+
+ALLY
+Allié est un type de carte de joueur qui représente les amis, les partisans ou les compagnons d'une identité.
+• Si un allié entre en jeu, il y reste jusqu'à ce qu'une capacité de carte ou un effet de jeu ne le fasse quitter le jeu. Si les points de vie restants d'un allié sont réduits à zéro, il est vaincu et défaussé du jeu.
+• Pendant le tour d'un joueur, celui-ci peut utiliser n'importe quel nombre d'alliés qu'il contrôle pour attaquer ou contrer. Un allié doit s'incliner pour attaquer ou contrer.
+• Après qu'un allié a été utilisé pour attaquer ou contrer, infligez des dégâts consécutifs à cet allié égaux au nombre d'icônes de dégâts consécutifs () sous son champ ATK ou CTR. (Si un allié tente d'attaquer ou de contrer alors qu'il est sonné ou désorienté, respectivement, cet allié ne subira pas de dégâts consécutifs.)
+• Si un joueur est attaqué, n'importe quel joueur peut incliner un allié qu'il contrôle pour défendre contre l'attaque. Si un allié défend contre une attaque, tous les dégâts de l'attaque sont infligés à l'allié.
+• Les attaques, contres, défenses, capacités d'action et capacités déclenchées qui se résolvent depuis des alliés en jeu sous le contrôle d'un joueur ne sont pas considérés comme étant effectués par l'identité de ce joueur.
+
+ALLY LIMIT
+Chaque joueur est autorisé à contrôler un maximum de trois alliés en jeu à tout moment. C'est ce qu'on appelle la "limite d'alliés".
+Un joueur peut jouer ou mettre en jeu des alliés au-delà de sa limite d'alliés. Cependant, si un joueur contrôle un nombre d'alliés supérieur à sa limite d'alliés en jeu, il doit immédiatement choisir et défausser du jeu des cartes d'allié qu'il contrôle jusqu'à ce qu'il ait un nombre d'alliés en jeu égal à sa limite d'alliés. Cela se produit avant les capacités qui se résolvent lors de l'entrée en jeu.
+
+"ALREADY"
+Voir : Effet d'altération.
+
+ALTERATION EFFECT
+Un effet d'altération modifie la résolution d'une capacité qui le précède. Les types d'effets d'altération incluent :
+Supplémentaire — Le mot "supplémentaire" désigne un modificateur d'une capacité ou d'un état de jeu. Le modificateur supplémentaire est résolu simultanément avec toute capacité qu'il modifie et sous les mêmes conditions que cette capacité.
+Déjà — Le mot "déjà" désigne la résolution d'une capacité alternative si une condition spécifique est remplie. L'effet "déjà" vérifie si cette condition est remplie avant que la capacité précédente ne tente de se résoudre. Si c'est le cas, l'effet "déjà" se résout à la place.
+Chaque fois — L'expression "chaque fois" désigne une interruption temporaire d'une capacité en cours de résolution. Lorsqu'une condition spécifiée par l'effet "chaque fois" est remplie, la résolution de la capacité précédente s'arrête, l'effet "chaque fois" se résout dans son intégralité, puis la capacité précédente continue de se résoudre.
+Cette/Cette Activation/Attaque/Contre — Les effets qui se réfèrent à "cette" activation, attaque ou contre désignent un modificateur de cette activation, attaque ou contre.
+• Si "cette activation/attaque/contre" fait partie d'une condition pour un effet, cela n'en fait pas un effet d'altération.
+
+AMPLIFY ICON
+L'icône d'amplification représente diverses forces qui renforcent ou soutiennent le méchant. Lorsqu'une carte de boost est retournée face visible pendant une activation d'ennemi, ajoutez une icône de boost supplémentaire à cette carte pour chaque icône d'amplification en jeu.
+
+"AND"
+Le mot "et" indique que deux effets ou plus au sein d'une capacité se résolvent simultanément.
+• Les effets individuels reliés par "et" ne dépendent pas les uns des autres. Résolvez autant de chaque effet que possible.
+• Chaque effet relié par "et" peut être annulé ou prévenu indépendamment.
+
+ASPECT CARD
+Les cartes de la classification "affinité" sont toutes les cartes qui appartiennent aux affinités Agressivité, Justice, Commandement, Protection et/ou 'Pool.
+• Lors de la construction d'un deck de joueur, un joueur doit choisir l'une des cinq affinités à utiliser pour la personnalisation. Le reste de son deck (la portion non allouée à ses cartes spécifiques à son identité) peut ensuite être personnalisé avec des cartes appartenant à l'affinité choisie.
+• L'affinité d'une carte est désignée par le nom de l'affinité imprimé au bas de la carte dans sa zone de classification de construction de deck.
+
+ASSAULT
+Lorsqu'un personnage effectue un contre de base contre une manigance avec le mot-clé assaut, ce personnage utilise son ATK au lieu de son CTR.
+• Si le personnage qui contre est un allié, il subit les dégâts consécutifs indiqués sous son ATK au lieu de son CTR après le contre.
+• Les capacités qui augmentent la "puissance de base" d'un personnage peuvent être utilisées pour augmenter l'ATK de ce personnage lorsqu'il contre une manigance avec assaut.
+
+ATTACHMENT
+Attachement est un type de carte de rencontre. Lorsqu'un attachement entre en jeu, il s'attache à une autre carte ou élément de jeu.
+• Si un attachement s'attache à un personnage, il peut modifier les valeurs d'ATK, de MAN et/ou de CTR de ce personnage, comme indiqué par les valeurs dans les champs associés sur la carte d'attachement.
+» » Si un attachement a un modificateur "MAN/CTR", il modifie la MAN du personnage attaché s'il s'agit d'un méchant ou d'un sbire, et modifie la CTR du personnage s'il s'agit d'un héros ou d'un allié.
+» » Si un attachement modifie une valeur que le personnage attaché ne possède pas ou pour laquelle ce personnage a un tiret (–), ce modificateur est ignoré.
+• Lorsqu'un attachement attaché à une carte de joueur utilise le mot "vous" ou "votre", il se réfère au contrôleur de la carte de joueur attachée.
+» » Seul le joueur qui contrôle la carte à laquelle cet attachement est attaché peut déclencher des capacités ou payer des coûts sur cet attachement.
+
+ATTACH TO
+Si une carte utilise l'expression "s'attacher à", elle doit être attachée à (placée sous et légèrement chevauchée par) l'élément de jeu spécifié lors de son entrée en jeu.
+• Une fois qu'une carte est attachée, elle reste en jeu jusqu'à ce que soit l'élément auquel elle est attachée quitte le jeu (auquel cas la carte attachée est défaussée), soit une capacité ou un effet de jeu provoque le départ de la carte attachée.
+• Une carte attachée s'incline et se redresse indépendamment de l'élément de jeu auquel elle est attachée.
+• La clause "s'attacher à" est vérifiée lors de l'attachement, mais n'est pas revérifiée ensuite. Si le test initial échoue, la carte n'est pas attachée et reste dans son état ou sa zone précédente. Si elle ne peut y rester, elle est défaussée.
+
+ATTACK (ENEMY ACTIVATION)
+Une attaque est un type d'activation d'ennemi. Lorsqu'un ennemi initie une attaque, il cible un joueur spécifique, puis résout cette attaque contre ce joueur.
+• Les attaques d'ennemis sont toujours initiées contre à la fois un joueur et un personnage. Normalement, le personnage attaqué est le héros du joueur, mais des capacités peuvent forcer l'ennemi à attaquer l'alter-ego ou un allié. Dans tous les cas, le joueur est considéré comme attaqué.
+Pour résoudre une attaque d'ennemi, suivez ces étapes :
+1. Si un méchant, ou un sbire avec le mot-clé vilenie, attaque, donnez-lui une carte de boost face cachée.
+2. Si un joueur souhaite défendre, ce joueur incline un héros ou un allié en tant que défenseur. Si un joueur autre que la cible défend, il devient la nouvelle cible de l'attaque.
+3. Résolvez chacune des cartes de boost de l'ennemi attaquant, une à la fois :
+a. Retournez la carte face visible.
+b. Résolvez toute capacité de "Boost" (icône étoile).
+c. Augmentez l'ATK de l'ennemi de 1 pour chaque icône de boost.
+d. Défaussez la carte de boost.
+4. Infligez des dégâts de l'attaque égaux à la valeur d'ATK modifiée :
+• Si un héros effectue une défense de base, les dégâts sont réduits de la valeur DEF du héros.
+• Si un allié défend, tous les dégâts sont infligés à l'allié.
+• Si aucun personnage ne défend, l'attaque est non défendue. Tous les dégâts sont infligés au personnage ciblé.
+5. L'attaque finit de se résoudre et les capacités suivantes se déclenchent dans l'ordre : mot-clé Riposte, capacités Forcées, puis capacités non-forcées.
+
+ATTACK (PLAYER ABILITY TYPE)
+Il existe plusieurs manières dont une attaque peut se produire :
+• Un héros ou un allié peut utiliser sa puissance d'attaque de base pour attaquer un ennemi. Un personnage doit s'incliner pour utiliser cette puissance. Cela inflige des dégâts égaux à la valeur d'ATK du personnage à l'ennemi.
+• Si une capacité déclenchée est étiquetée comme une attaque — comme "Action de Héros (attaque)" — la résolution de cette capacité est considérée comme une attaque de la cible spécifiée. À moins d'être spécifié par le texte de la capacité, un héros ne s'incline pas.
+• Une capacité étiquetée comme une attaque est considérée comme une attaque unique, même si elle inflige plusieurs instances de dégâts.
+
+ATTACKS AGAINST ALLIES
+Certains effets amènent un méchant ou un sbire à attaquer directement un allié. Lorsque cela se produit, tous les dégâts non défendus de cette attaque sont placés sur l'allié qui a été attaqué.
+• Le joueur qui contrôle l'allié est considéré comme le joueur attaqué.
+• Si l'attaque possède le déferlement et vainc un allié, les dégâts excédentaires sont infligés à l'identité du joueur contrôlant l'allié.
+
+BASE VALUE
+Une valeur définie avant que les modificateurs ne soient appliqués. Dans la plupart des cas, il s'agit également de la valeur imprimée.
+
+BASIC CARD
+Les cartes de la classification "Basique" sont des cartes qui ne sont pas associées à une identité ou une affinité spécifique.
+
+BASIC POWER
+Une puissance de base est une statistique qui permet à un personnage d'effectuer une certaine fonction de jeu.
+• Il existe cinq puissances de base différentes :
+» » La puissance d'attaque (ATK) pour effectuer une attaque de base.
+» » La puissance de contre (CTR) pour effectuer un contre de base et retirer de la menace.
+» » La puissance de défense (DEF) pour effectuer une défense de base et prévenir des dégâts.
+» » La puissance de récupération (REC) pour effectuer une récupération de base et se soigner.
+» » La puissance de manigance (MAN) pour effectuer une manigance de base et placer de la menace.
+
+BOOST, BOOST ICON
+Chaque fois que le méchant attaque ou manigance, il reçoit une carte face cachée en tant que carte de boost. Les sbires possédant le mot-clé vilenie reçoivent également une carte de boost lorsqu'ils s'activent. Pendant l'activation, chaque carte de boost est retournée face visible. Ajoutez le nombre d'icônes de boost à la valeur d'ATK ou de MAN de l'ennemi.
+
+CAMPAIGN-SPECIFIC CARD
+Les cartes de la classification "spécifique à la campagne" sont des cartes qui appartiennent au set de cartes accompagnant une campagne.
+
+CANCEL
+Certaines capacités de carte peuvent annuler des effets de carte ou de jeu.
+• Les capacités d'annulation interrompent l'initiation des effets et les empêchent de se résoudre.
+• Chaque fois que les effets d'une capacité sont annulés, la capacité (indépendamment de ses effets) est toujours considérée comme ayant été initiée, et tous les coûts sont payés. Seule l'initiation des effets est empêchée, et ils ne se résolvent pas.
+• Si les effets d'une carte évènement sont annulés, la carte est toujours considérée comme ayant été jouée et elle est défaussée.
+• Si les effets d'une carte traîtrise sont annulés, la carte est toujours considérée comme ayant été révélée et elle est tout de même placée dans la pile de défausse de rencontre.
+• Les effets d'annulation sont considérés comme un sous-type d'effet de remplacement, l'effet annulé étant remplacé par l'absence d'effet.
+» » Les capacités dépendantes de l'effet annulé ne peuvent pas se déclencher car l'effet annulé est considéré comme n'ayant pas eu lieu.
+Voir aussi : Capacité, Effet de remplacement
+
+"CANNOT"
+Le mot "ne peut pas" est absolu et ne peut pas être contredit par d'autres capacités ou effets.
+• Si deux capacités sont en conflit, la capacité avec "ne peut pas" l'emporte.
+• Si deux règles sont en conflit, la règle avec "ne peut pas" l'emporte.
+• Une capacité peut supplanter une règle avec "ne peut pas" selon les Règles d'Or.
+Voir aussi : Les Règles d’Or, Cible
+
+CARD ABILITY
+Voir : Capacité
+
+CARD TYPES
+Le type de carte d'une carte désigne diverses règles et fonctions de jeu associées à cette carte.
+• Les cartes allié, évènement, identité, manigance secondaire de joueur, ressource, soutien et amélioration sont des types de cartes de joueur.
+• Les cartes attachement, environnement, manigance principale, sbire, obligation, manigance secondaire, traîtrise et méchant sont des types de cartes de rencontre.
+• Si une capacité amène une carte à changer de type de carte, elle perd tous les autres types de cartes qu'elle pouvait posséder et fonctionne comme n'importe quelle carte du nouveau type de carte.
+» » Toutes les cartes attachées à une carte qui change de type restent attachées, mais seules les capacités qui se réfèrent au nouveau type de carte restent actives. (Par exemple, si le type de carte d'un allié est changé en sbire, une amélioration attachée qui dit "l'allié attaché gagne +1 ATK" ne fournirait plus ce bonus d'ATK à l'allié devenu sbire, mais un attachement qui dit "le personnage attaché ne peut pas attaquer" s'appliquerait toujours car les sbires sont aussi des personnages.)
+» » Un allié qui a été changé en sbire engage son contrôleur et ne subit pas de dégâts consécutifs après avoir attaqué ou manigancé.
+» » Lorsqu'un joueur change un sbire en allié, ce joueur prend le contrôle de cet allié.
+Voir aussi : Allié, Attachement, Carte de rencontre, Environnement, Évènement, Identité, Manigance principale, Sbire, Obligation, Carte de joueur, Manigance secondaire de joueur, Carte ressource, Manigance secondaire, Soutien, Traîtrise, Amélioration, Méchant, Appendice III : Anatomie d'une carte
+
+CHARACTER
+Les identités (héros et alter-egos), alliés, méchants et sbires sont tous des personnages.
+Voir aussi : Allié, Identité, Sbire, Méchant
+
+CHOOSE (GAME ELEMENT)
+L'expression "choisissez un [élément de jeu]" (tel qu'un allié, un sbire ou une manigance) indique qu'un joueur doit sélectionner un élément de jeu qui répond aux exigences spécifiques d'une capacité.
+• Le joueur résolvant la capacité qui utilise le mot "choisissez" est le joueur qui fait le choix spécifié par la carte.
+• Si une capacité de carte de joueur nécessite le choix d'une ou plusieurs cibles, et qu'il n'y a aucune cible valide pour une partie quelconque de la capacité, la capacité ne peut pas être initiée.
+• Si plusieurs cibles doivent être choisies par le même joueur, choisissez simultanément autant de cibles qu'il y en a de disponibles, jusqu'au nombre maximum spécifié.
+• Un effet qui permet de choisir "n'importe quel nombre" de cibles ne se résout pas avec succès si zéro cible est choisie.
+Voir aussi : Capacité, Élément de jeu, Joueur, Cible
+
+CHOOSE (OPTION)
+Certaines capacités ordonnent à un joueur de choisir entre plusieurs options. Par exemple, "Choisissez soit de subir 1 dégât, soit de défausser 1 carte de votre main."
+• Lorsqu'une carte de rencontre nécessite qu'un joueur choisisse une option, celui-ci ne peut pas choisir une option qui nécessite une ou plusieurs cibles s'il n'y a pas de cibles valides pour cette option.
+• Lorsqu'une carte de joueur nécessite qu'un joueur choisisse une option, celui-ci ne peut pas choisir une option qui ne peut pas être au moins partiellement résolue. Cela inclut les options qui :
+» » Ont un coût que le joueur ne peut pas payer.
+» » Nécessitent une ou plusieurs cibles et il n'y a pas de cibles valides.
+Voir aussi : Capacité, Joueur, Cible
+
+CLASSIFICATIONS
+La classification d'une carte est le groupe auquel une carte appartient, déterminé par ses attributs spécifiques.
+• Les cartes de la classification "spécifique à l'identité" sont des cartes qui appartiennent au set de cartes accompagnant une identité. (Voir : Carte spécifique à l'identité)
+• Les cartes de la classification "affinité" sont des cartes qui appartiennent aux affinités Agressivité, Justice, Commandement, Protection et/ou 'Pool. (Voir : Carte d'affinité)
+• Les cartes de la classification "Basique" ne sont pas associées à une identité ou une affinité spécifique. (Voir : Carte Basique)
+• Les cartes de la classification "spécifique au scénario" sont des cartes qui appartiennent au set de cartes accompagnant un scénario. (Voir : Carte spécifique au scénario)
+• Les cartes de la classification "set de rencontre modulaire" ou "set modulaire" sont des cartes qui appartiennent à un set de rencontre qui peut être ajouté ou retiré d'un scénario. (Voir : Set de rencontre modulaire)
+• Les cartes de la classification "spécifique à la campagne" sont des cartes qui appartiennent au set de cartes accompagnant une campagne. (Voir : Carte spécifique à la campagne)
+Voir aussi : Carte d'affinité, Carte Basique, Carte spécifique à la campagne, Carte spécifique à l'identité, Set de rencontre modulaire, Carte spécifique au scénario.
+
+
+• Les cartes de la classification "set de rencontre modulaire" ou "set modulaire" sont des cartes qui appartiennent à un set de rencontre qui peut être ajouté ou retiré d'un scénario. (Voir : Set de rencontre modulaire)
+• Les cartes de la classification "spécifique à la campagne" sont des cartes qui ne peuvent être utilisées que pendant une campagne provenant du même produit. (Voir : Carte spécifique à la campagne)
+• Les cartes de la classification "Standard" sont des cartes qui sont ajoutées à la plupart des scénarios. (Voir : Modes de jeu, Set Standard)
+• Les cartes de la classification "Expert" sont des cartes qui sont ajoutées aux scénarios lors d'une partie en mode expert. (Voir : Set Expert, Modes de jeu)
+
+CONFUSE, CONFUSED
+Désorienté est un état qui annule la prochaine manigance ou le prochain contre d'un personnage.
+• Si une capacité "désoriente" un personnage, donnez à ce personnage une carte d'état désorienté.
+• Un personnage est désorienté s'il possède une carte d'état désorienté.
+» » Un personnage avec le mot-clé solide n'est désorienté que s'il possède deux cartes d'état désorienté.
+• Si un personnage possède une capacité stipulant qu'il "ne peut pas être désorienté", aucune carte d'état désorienté ne peut être placée sur ce personnage.
+• Si une identité ou un allié désorienté tente de contrer ou d'utiliser une capacité de contre, défaussez la carte désorienté à la place. Les coûts associés à la tentative de contre, y compris l'inclinaison du personnage, doivent tout de même être payés.
+» » Un personnage désorienté peut tenter de contrer ou d'utiliser une capacité de contre même s'il n'a pas de cible valide pour un contre.
+• Si un méchant ou un sbire désorienté devait manigancer, défaussez la carte d'état désorienté à la place.
+• Comme l'action de contre ou l'activation de manigance a été remplacée par le retrait de la carte d'état désorienté, ce personnage n'est pas considéré comme ayant contré ou manigancé.
+Voir aussi : Allié, Annuler, Identité, Sbire, Cartes d'état, Cible, Méchant
+
+CONSEQUENTIAL DAMAGE
+Après qu'un allié a attaqué, il subit des dégâts consécutifs égaux au nombre d'icônes de dégâts consécutifs () sous son champ ATK.
+Après qu'un allié a contré, il subit des dégâts consécutifs égaux au nombre d'icônes de dégâts consécutifs () sous son champ CTR.
+• Les dégâts consécutifs sont infligés à un allié après la résolution des capacités déclenchées par l'attaque ou le contre de l'allié.
+• Si la cible de la puissance de base d'un allié quitte le jeu avant que cet allié n'inflige des dégâts égaux à son ATK ou ne retire de la menace égale à son CTR, l'allié ne subit pas de dégâts consécutifs (mais reste incliné).
+» » Cet allié n'est pas considéré comme ayant attaqué ou contré pour les besoins d'autres capacités.
+» » Par exemple, la capacité d'Iron Fist indique : "Interruption : quand Iron Fist attaque un ennemi, retirez 1 pion mystique de lui → sonnez cet ennemi et infligez-lui 1 dégât." Si cet effet vainc l'ennemi qu'Iron Fist attaquait, l'attaque de base avorte dès que la cible quitte le jeu, donc Iron Fist ne subit pas de dégâts consécutifs.
+Voir aussi : Allié, Attaque (Type de capacité de joueur), Puissance de base, Dégâts, Icônes, Contrer
+
+CONSTANT ABILITY
+Voir : Capacité
+
+CONTROL
+Voir : Propriété et Contrôle
+
+COPY
+Une copie d'une carte est définie par son titre. Une deuxième copie d'une carte est toute autre carte qui partage les mêmes titre et sous-titre (le cas échéant), quels que soient le type de carte, le texte, l'illustration ou toute autre caractéristique divergente entre les cartes.
+Voir aussi : Types de carte, Sous-titre
+
+COST
+Le coût en ressources d'une carte est la valeur numérique qui doit être payée pour jouer la carte. Certaines capacités ont un coût décrit dans le texte de la capacité qui doit être payé pour utiliser la capacité.
+• Une icône de flèche de coût (→) dans le texte d'une capacité distingue un coût d'un effet, selon le format "payez le coût → résolvez l'effet".
+» » Le texte indiquant le moment du déclenchement d'une interruption ou d'une réponse qui précède une flèche de coût n'est pas considéré comme faisant partie du coût.
+• Un coût en ressources avec l'icône par joueur () est multiplié par le nombre de joueurs ayant commencé le scénario.
+» » Si un coût avec l'icône par joueur est réduit, c'est le coût total de la carte qui est réduit, et non la valeur multipliée par le nombre de joueurs.
+• Pour payer un coût en ressources, un joueur dépense des ressources qu'il génère en défaussant des cartes de sa main ou en utilisant des capacités de carte "Ressource".
+» » Les ressources générées pour payer une capacité sur une carte sont considérées comme ayant été payées pour cette carte.
+• Tout en payant un coût, un joueur est autorisé à générer des ressources au-delà du coût spécifié.
+» » Les ressources générées au-delà du coût spécifié sont considérées comme ayant été surpayées pour ce coût et n'ont pas été payées pour ce coût.
+» » Toutes les ressources générées au-delà du coût spécifié sont perdues après avoir payé ce coût.
+• Si plusieurs coûts pour une seule carte ou capacité nécessitent un paiement, ces coûts doivent être payés simultanément.
+» » Un joueur générant des ressources pour ces coûts choisit comment répartir ces ressources entre ces coûts. (Par exemple, un joueur payant les coûts d'un évènement avec un coût en ressources de 1 et une capacité qui dit "Action de Héros : dépensez X ressources  →..." peut dépenser une carte ressource qui génère   et utiliser l'une de ces icônes pour payer le coût en ressources de la carte et l'autre pour payer le coût avant la flèche.)
+• Le coût d'une capacité ne peut pas être payé si l'effet de cette capacité nécessite une ou plusieurs cibles et qu'il n'y a pas au moins une cible valide.
+• Pendant qu'un joueur paie un coût, ce joueur doit payer les coûts avec des cartes et/ou des éléments de jeu qu'il contrôle.
+» » Si un coût utilise le mot "choisissez", le joueur peut choisir des cibles qu'il ne contrôle pas.
+» » Si un coût cible une carte "amie", le joueur peut cibler des cartes qu'il ne contrôle pas.
+• Si un coût nécessite un élément de jeu qui n'est pas en jeu, le joueur payant le coût ne peut utiliser que des éléments de jeu qui se trouvent dans ses propres zones hors-jeu.
+• Un coût nécessitant "n'importe quel nombre" ou "jusqu'à" un certain nombre d'éléments de jeu nécessite un minimum d'un tel élément de jeu.
+• Certaines capacités de carte peuvent faire référence à un "coût supplémentaire". Un joueur doit payer tous les coûts supplémentaires simultanément avec le coût auquel ils s'ajoutent, même si plusieurs cartes ou capacités ajoutent des coûts supplémentaires distincts. Un joueur ne peut pas payer le coût d'origine ou l'un des coûts supplémentaires individuellement ; s'il ne peut pas payer l'intégralité des coûts à la fois, il n'en paie aucun et l'effet ne se produit pas.
+
+COUNTER
+Voir : jeton générique
+
+CRISIS ICON
+L'icône de crise représente un obstacle immédiat qui doit être surmonté. Tant qu'au moins une icône de crise est en jeu, de la menace ne peut pas être retirée de la manigance principale.
+• Une icône de crise peut être retirée du jeu en vainquant la carte de rencontre sur laquelle elle est imprimée.
+
+DAMAGE
+Les dégâts réduisent la santé d'un personnage. S'ils ne sont pas prévenus, les dégâts sont infligés à un personnage en plaçant un nombre de jetons de dégâts sur ce personnage égal à la quantité de dégâts infligés.
+• Si un personnage subit une quantité de dégâts égale ou supérieure à sa santé, le personnage est vaincu.
+• S'il est précisé qu'une capacité inflige des dégâts à un ou plusieurs personnages, ces dégâts ne peuvent pas être réduits par la valeur de DEF d'un personnage.
+• Les dégâts infligés par une attaque sont considérés comme des "dégâts d'attaque".
+• Les dégâts infligés par une capacité étiquetée comme une attaque sont également considérés comme des dégâts d'attaque.
+• Les dégâts infligés par une capacité non étiquetée comme une attaque ne sont pas des dégâts d'attaque, même si l'effet a été déclenché par une attaque.
+• Les dégâts infligés par un mot-clé (tel que riposte) ne sont pas des dégâts d'attaque.
+• Tout effet de carte qui "inflige" des dégâts est considéré comme une attaque si la capacité est étiquetée comme telle.
+• Si des dégâts sont infligés à une cible qui ne possède pas de valeur de santé (comme une manigance), ces dégâts sont ignorés.
+• Le mot "subit" ou "subit des dégâts" se réfère au moment où des dégâts non prévenus sont placés sur un personnage.
+
+DASH (VALUE)
+Une valeur représentée par un tiret (–) indique que cette valeur ne peut pas être utilisée.
+• Si une carte possède un tiret (–) comme valeur de coût, cette carte ne peut pas être jouée et ne peut entrer en jeu que par d'autres moyens.
+• Si la puissance d'un personnage (ATK, DEF, REC, MAN et CTR) possède un tiret (–) comme valeur, le personnage ne peut pas s'incliner pour utiliser cette puissance.
+• Si une étape de jeu ou une capacité de carte fait référence à une valeur représentée par un tiret (–), cette valeur est traitée comme un 0 non modifiable. (Par exemple, si une capacité cible "l'allié ayant la MAN la plus basse", un allié avec un tiret pour sa MAN est considéré comme ayant la même MAN qu'un allié avec une MAN de 0.)
+Voir aussi : Puissance de base, Variable non numérique
+
+DEAL, DEAL AN ENCOUNTER CARD
+Pendant l'étape trois de la phase du méchant, chaque joueur reçoit une carte de rencontre face cachée.
+Si une capacité de carte ordonne qu'une carte de rencontre soit distribuée à un joueur, le joueur prend la carte du dessus du paquet de rencontre et la place face cachée devant lui. Cette carte n'est pas révélée à ce moment-là. Cette carte est ajoutée à la file d'attente des cartes que ce joueur résoudra pendant la phase du méchant.
+• Si une carte de rencontre est distribuée à un joueur pendant l'étape trois ou quatre de la phase du méchant, la carte de rencontre supplémentaire est ajoutée à la file d'attente des cartes qui sont distribuées et révélées lors de ces mêmes étapes.
+Voir aussi : Capacité, Carte de rencontre, Paquet de rencontre, Joueur, Phase du méchant
+
+DECK
+Il existe quatre types principaux de decks (paquets) qui apparaissent dans une partie : le deck de joueur, le paquet de rencontre, le deck du méchant et le deck de la manigance principale. Certaines identités ou scénarios peuvent ajouter d'autres decks au jeu.
+• L'ordre des cartes au sein d'un deck ne peut pas être modifié, à moins qu'un joueur n'en reçoive l'instruction par une étape de jeu, une fonction de jeu ou une capacité de carte.
+Voir aussi : Paquet de rencontre, Manigance principale, Deck de joueur, Méchant
+
+DEF
+Voir : Puissance de base, Défendre
+
+DEFEAT
+Si un personnage a zéro point de vie restant ou moins, ou si une manigance secondaire n'a plus de menace sur elle, elle est vaincue (ou déjouée).
+• Si un allié, un sbire ou une manigance secondaire est vaincu, il est défaussé.
+• Si une identité ou un stade du méchant est vaincu, il est retiré de la partie.
+Voir aussi : Allié, Points de vie, Sbire, Joueur, Élimination d'un joueur, Retiré de la partie, Manigance secondaire, Méchant, Vaincre le méchant
+
+DEFEND, DEFENSE
+Pendant une attaque ennemie, un joueur peut défendre contre cette attaque en utilisant des cartes qu'il contrôle.
+• Un seul joueur à la fois peut défendre contre une attaque ennemie. Tant qu'un joueur défend, les autres joueurs ne peuvent pas défendre contre cette même attaque.
+• Un héros peut utiliser sa puissance de défense de base pour défendre contre une attaque ennemie. Un héros doit s'incliner pour utiliser cette puissance. La quantité de dégâts infligés par l'attaque est réduite de la valeur de DEF du héros, et tout dégât restant est infligé à ce héros. Tant qu'un héros défend contre une attaque, les autres personnages amis ne peuvent pas défendre contre cette attaque.
+» » Lorsqu'une capacité de carte dit de "déclarer [un héros] comme défenseur" d'une attaque, ce héros est considéré comme effectuant une défense de base.
+• Un allié peut s'incliner pour défendre contre une attaque ennemie. Les dégâts de l'attaque sont infligés à cet allié. Tant qu'un allié défend contre une attaque, les autres personnages amis ne peuvent pas défendre contre cette attaque.
+» » Lorsqu'une capacité de carte dit de "déclarer [un alliée] comme défenseur" d'une attaque, cet allié devient le défenseur de l'attaque.
+• Lorsqu'un joueur initie une capacité déclenchée étiquetée comme une défense — telle que "Interruption de héros (défense)" — pendant une attaque ennemie, l'identité de ce joueur devient le défenseur et est considérée comme ayant défendu l'attaque s'il n'y a pas déjà de défenseur.
+» » L'identité du joueur est considérée comme étant le défenseur dès que la capacité étiquetée comme défense commence à se résoudre.
+» » Les capacités qui se déclenchent "quand votre héros défend contre une attaque" peuvent être déclenchées lors de la résolution d'une capacité étiquetée comme défense.
+» » Jouer une capacité étiquetée comme défense n'est pas une défense de base et ne permet pas à un héros de réduire la quantité de dégâts infligés par sa valeur de DEF.
+» » Sauf indication contraire dans le texte de la capacité, un héros ne s'incline pas lorsqu'il utilise une capacité étiquetée comme défense.
+» » Le joueur défenseur peut résoudre n'importe quel nombre de capacités de défense pendant une attaque ennemie (tant que les conditions de déclenchement de ces capacités sont remplies).
+» » Une fois qu'un joueur a résolu une capacité étiquetée comme défense pendant une attaque ennemie, les autres joueurs ne peuvent pas résoudre de capacités étiquetées comme défense pour cette même attaque.
+» » Des capacités étiquetées comme défense peuvent être jouées pendant une attaque par un joueur dont l'allié défend cette attaque. Dans ce cas, l'identité du joueur ne devient pas le défenseur.
+» » Un joueur peut déclencher des capacités étiquetées comme défense en dehors d'une attaque si la condition de déclenchement de la capacité est remplie. Lorsqu'elle est déclenchée ainsi, l'identité du joueur n'est pas considérée comme ayant défendu une attaque.
+• Si un joueur défend contre une attaque ennemie qui cible un joueur différent (soit en défendant avec un personnage qu'il contrôle, soit en résolvant une capacité de défense), le joueur défenseur devient la nouvelle cible de cette attaque.
+» » Toute capacité déclenchée qui se réfère à "vous" se réfère au joueur qui était la cible de l'attaque au moment où cette capacité s'est résolue. (Par exemple, le "vous" dans une capacité qui se déclenche "quand [l'ennemi] vous attaque" se réfère au joueur contre lequel l'attaque a été initiée, tandis que le "vous" dans une capacité qui se déclenche "après que [l'ennemi] vous a attaqué" se réfère au joueur dont le personnage a défendu l'attaque.)
+» » Toutes les capacités constantes ou de boost qui se réfèrent à "vous" se réfèrent au joueur défenseur.
+• si aucun personnage n'est utilisé pour défendre contre une attaque ennemie, cette attaque est considérée comme non défendue. De plus, si un allié défenseur est vaincu avant que les dégâts de l'attaque ne soient infligés (par exemple via une capacité de "Boost"), l'attaque est considérée comme non défendue.
+• Les capacités qui se déclenchent après qu'un personnage a défendu une attaque se résolvent après la fin de cette attaque.
+» » Si un effet provoque la fin d'une attaque défendue avant sa résolution complète, l'attaque est toujours considérée comme ayant été défendue.
+» » Si une capacité se déclenche après qu'un personnage a utilisé une puissance de base, cette capacité se déclenche après la résolution d'une attaque au cours de laquelle un personnage a effectué une défense de base.
+Voir aussi : Capacité, Allié, Attaque (Activation d'ennemi), Dégâts, "Ami", Identité, Capacité étiquetée, Joueur
+
+DELAYED EFFECT
+Certaines capacités contiennent des effets retardés. De telles capacités spécifient un moment futur ou indiquent une condition future susceptible de survenir, et dictent un effet qui doit se produire à ce moment-là.
+• Les effets retardés se résolvent automatiquement et immédiatement après que le moment spécifié ou la condition future se produit ou devient vraie, et avant que les réponses à ce moment ou à cette condition ne puissent être utilisées.
+» » Les effets retardés ont la même priorité temporelle que les effets constants.
+• Lorsqu'un effet retardé se résout, il n'est pas traité comme une nouvelle capacité déclenchée, même si l'effet retardé a été initialement créé par une capacité déclenchée.
+Voir aussi : Capacité
+
+DISCARD
+La défausse est l'acte de tenter de déplacer une carte d'une zone de jeu (autre qu'une pile de défausse) vers une pile de défausse.
+• Si une carte de joueur est défaussée, elle est placée face visible au sommet de la pile de défausse du joueur propriétaire.
+• Si une carte de rencontre est défaussée, elle est placée face visible au sommet de la pile de défausse de rencontre.
+• Si plusieurs cartes sont défaussées de la main d'un joueur ou du jeu par un effet unique, placez ces cartes dans la pile de défausse appropriée dans n'importe quel ordre.
+• Si plusieurs cartes sont défaussées d'un deck par un effet unique, placez ces cartes dans la pile de défausse appropriée une par une (sans changer l'ordre).
+» » Ces défausses sont considérées comme simultanées.
+» » Les réponses à la défausse de l'une de ces cartes sont résolues après que toutes les défausses ont été effectuées.
+• Si un joueur regarde un certain nombre de cartes du dessus d'un deck et en défausse une ou plusieurs, ces cartes sont considérées comme ayant été défaussées du dessus de ce deck.
+Voir aussi : Pile de défausse, Carte de rencontre, En jeu et Hors-jeu, Propriété et Contrôle, Carte de joueur, Mélanger
+
+DISCARD PILE
+Une pile de défausse est une zone hors-jeu qui contient des cartes ayant été défaussées tout au long de la partie.
+• Chaque joueur possède sa propre pile de défausse, et le deck de rencontre possède sa propre pile de défausse.
+• Chaque pile de défausse est une information ouverte et peut être consultée par n'importe quel joueur à tout moment.
+• L'ordre des cartes dans une pile de défausse ne peut pas être modifié, à moins qu'un joueur n'en reçoive l'instruction par une capacité de carte.
+• Si un deck de joueur ou le paquet de rencontre est vide, la pile de défausse correspondante est immédiatement mélangée pour former un nouveau deck.
+
+DOUBLE-SIDED CARD
+Une carte est double-face si aucune de ses faces ne possède un dos de carte (joueur, méchant ou rencontre).
+• Lorsqu'une carte double-face devrait entrer dans une zone hors-jeu autre que la pile de victoire ou la zone de cartes mises de côté, elle est retirée de la partie.
+• Si une carte double-face possède des faces "Mode Standard uniquement" et "Mode Expert uniquement", elle est mise en jeu avec la face "Mode Expert uniquement" visible si les joueurs jouent en mode expert. Sinon, la carte est mise en jeu avec la face "Mode Standard uniquement" visible.
+Voir aussi : Carte de rencontre, En jeu et Hors-jeu, Carte de joueur, Victoire X, Méchant
+
+DRAW, DRAWING CARDS
+Si un joueur reçoit l'instruction de piocher une ou plusieurs cartes, ces cartes sont piochées du dessus de son deck une par une.
+• Les cartes piochées sont ajoutées à la main d'un joueur.
+• La taille de main de chaque joueur est vérifiée à la fin de la phase des joueurs. Si un joueur possède plus de cartes en main que sa valeur de taille de main à ce moment-là, il doit choisir et défausser des cartes de sa main jusqu'à atteindre sa taille de main.
+Voir aussi : Défausse, En jeu et Hors-jeu, Propriété et Contrôle, Joueur, Deck de joueur, Phase des joueurs
+
+"EACH PLAYER"
+Lorsque chaque joueur reçoit l'instruction de résoudre un effet, chaque joueur résout cet effet l'un après l'autre.
+• Si l'effet ne spécifie pas dans quel ordre les joueurs doivent résoudre l'effet, le premier joueur décide de l'ordre.
+• Si un joueur ne peut pas résoudre entièrement cet effet, il le résout aussi complètement que possible. Par exemple, si chaque joueur reçoit l'instruction de défausser un certain nombre de cartes du paquet de rencontre et que le paquet se vide alors qu'un joueur est en train de défausser, ce joueur s'arrête de défausser dès que le paquet est vide. Une fois le paquet réinitialisé (et qu'un pion d'accélération a été placé à côté du deck de manigance principale), les joueurs restants reprennent la défausse.
+Voir aussi : Choisir (Élément de jeu), Joueur
+
+"EACH TIME"
+Voir : Effet d'altération
+
+EFFECT
+Voir : Capacité, Coût
+
+EMPTY DECK
+Voir : Paquet de rencontre, Deck de joueur
+
+ENCOUNTER CARD
+Il existe huit types de cartes de rencontre : les cartes attachement, les cartes environnement, les cartes sbire, les cartes manigance principale, les cartes obligation, les cartes manigance secondaire, les cartes traîtrise et les cartes méchant.
+• Les cartes de rencontre appartiennent à diverses classifications, telles que les cartes de rencontre spécifiques au scénario ou les cartes de rencontre de set modulaire.
+• La plupart des cartes de rencontre ont un dos de carte orange.
+Voir aussi : Attachement, Classifications, Environnement, Manigance principale, Sbire, Obligation, Manigance secondaire, Traîtrise, Méchant, Appendice I : Personnalisation du deck
+
+ENCOUNTER DECK
+Le paquet de rencontre contient les cartes de rencontre (attachements, environnements, sbires, manigances secondaires et traîtrises) que les joueurs peuvent affronter au cours d'un scénario.
+• L'ordre des cartes au sein du paquet de rencontre ne peut pas être modifié, à moins qu'un joueur n'en reçoive l'instruction par une étape de jeu, une fonction de jeu ou une capacité de carte.
+Si le paquet de rencontre est vide, la pile de défausse de rencontre est immédiatement mélangée pour créer un nouveau paquet de rencontre. Lorsque cela se produit, placez un pion d'accélération à côté du deck de manigance principale.
+• Si une capacité de carte défausse un nombre spécifié de cartes du paquet de rencontre ou jusqu'à ce qu'une carte répondant à des critères spécifiques soit défaussée, défaussez des cartes du paquet de rencontre jusqu'à ce que la condition de défausse soit remplie ou que le paquet de rencontre soit vide. Si le paquet de rencontre est vidé de cette manière, cette capacité de carte est considérée comme accomplie. Ne continuez pas l'effet de défausse avec le paquet de rencontre nouvellement mélangé.
+• S'il n'y a plus aucune carte à la fois dans le paquet de rencontre et dans la pile de défausse de rencontre simultanément (par exemple si toutes les cartes du paquet de rencontre sont en jeu), une boucle infinie se produit avec un nombre infini de jetons d'accélération placés à côté du deck de manigance principale. Si cela arrive, les joueurs perdent.
+Voir aussi : jeton d'accélération, Attachement, Choisir (Élément de jeu), Défausse, Pile de défausse, Environnement, Sbire, Manigance secondaire, Traîtrise
+
+ENCOUNTER DISCARD PILE
+Voir : Pile de défausse
+
+ENCOUNTER SET
+Un set de rencontre est un groupement de cartes de rencontre.
+• Il existe quatre types de sets de rencontre : les sets de rencontre spécifiques au scénario, les sets de rencontre modulaires, le set Standard et le set Expert.
+• Les sets de rencontre portant le même nom mais ayant des icônes de set différentes sont considérés comme des sets distincts.
+Voir aussi : Classifications, Set Expert, Set de rencontre modulaire, Carte spécifique au scénario, Set Standard
+
+END OF PLAYER PHASE
+Pour terminer la phase des joueurs, effectuez les étapes suivantes :
+1. Dans l'ordre des joueurs, chaque joueur peut défausser n'importe quel nombre de cartes de sa main, et doit défausser jusqu'à sa taille de main s'il possède plus de cartes que sa taille de main.
+2. Chaque joueur pioche simultanément jusqu'à sa taille de main.
+3. Chaque joueur redresse simultanément toutes ses cartes. Redressez chaque carte de rencontre inclinée.
+4. Tous les effets qui durent "jusqu'à la fin de la phase [des joueurs]" prennent fin.
+5. Résolvez tous les effets "quand/après que la phase [des joueurs] se termine".
+Voir aussi : Défausse, Piocher, Taille de main, Effets persistants, Joueur, Phase des joueurs, Tour de joueur, Redresser
+
+ENEMY
+Un ennemi est un sbire ou un méchant.
+Lorsqu'il est utilisé comme descripteur, "ennemi" se réfère aux éléments de jeu qui appartiennent au scénario : "cartes ennemies", "capacités ennemies", etc.
+Voir aussi : Élément de jeu, Sbire, Méchant
+
+ENEMY ACTIVATION
+Voir : Activation, Attaque (Activation d'ennemi), Manigance (Activation d'ennemi)
+
+ENERGY RESOURCE
+Une ressource énergie () est l'un des quatre types de ressources.
+• Les ressources énergie peuvent être dépensées pour payer le coût en ressources des cartes et des capacités.
+• Certaines capacités de carte exigent spécifiquement que des ressources énergie soient dépensées afin de résoudre leurs effets.
+Voir aussi : Capacité, Coût, Icônes, Ressource mentale, Ressource physique, Ressource, Ressource libre
+
+ENGAGE
+Lorsqu'un sbire entre en jeu dans la zone de jeu d'un joueur, il engage ce joueur.
+Sauf indication contraire par le sbire ou par l'effet qui a mis le sbire en jeu, le sbire engage le joueur qui est en train de résoudre la carte de rencontre actuelle.
+• Un sbire engagé reste engagé avec le même joueur jusqu'à ce qu'il soit vaincu, retiré du jeu, ou qu'une capacité de carte l'amène à engager un autre joueur.
+• Si une capacité de carte ordonne à un joueur d'engager un sbire, ce sbire est également considéré comme ayant engagé ce joueur.
+• Tant qu'un sbire est engagé avec un joueur, les capacités de carte ne peuvent pas amener le sbire à engager à nouveau le même joueur (car les deux sont déjà engagés).
+Voir aussi : Capacité, Vaincre, Sbire, Joueur, Zone de jeu d'un joueur
+
+ENTERS PLAY
+L'expression "entre en jeu" se réfère à tout moment où une carte passe d'une zone hors-jeu au jeu. Jouer une carte, mettre une carte en jeu en utilisant une capacité de carte, ou révéler une carte du paquet de rencontre sont autant de moyens différents par lesquels une carte peut entrer en jeu.
+Voir aussi : En jeu et Hors-jeu, Quitte le jeu, Jouer, Révéler
+
+ENVIRONMENT
+Environnement est un type de carte de rencontre qui crée une règle globale ou un ensemble de règles pour le scénario.
+Une carte environnement entre en jeu dans la zone de jeu du méchant et est active tant qu'elle reste en jeu.
+• Si un environnement entre en jeu, il y reste jusqu'à ce qu'une capacité de carte ou un effet de jeu ne le fasse quitter le jeu.
+Voir aussi : Types de carte, Carte de rencontre, Entre en jeu, Quitte le jeu, Méchant
+
+EVENT
+Évènement est un type de carte de joueur qui est généralement joué pour un effet instantané.
+Chaque fois qu'un joueur joue une carte évènement, ce joueur la place face visible sur la table devant lui (l'évènement n'est pas en jeu), paie ses coûts, résout ses effets (à moins que ces effets ne soient annulés), puis place la carte dans la pile de défausse de son propriétaire après la résolution de ces effets (ou leur annulation).
+• Si un évènement possède plus d'une capacité déclenchée, le joueur qui le joue choisit l'une de ces capacités à déclencher lors de la mise en jeu de cet évènement.
+• Si les effets d'un évènement sont annulés, la carte est toujours considérée comme ayant été jouée et ses coûts restent payés. Seuls les effets sont annulés.
+• Une carte évènement ne peut pas être jouée si elle nécessite une ou plusieurs cibles et qu'elle n'a pas au moins une cible valide.
+• Les cartes évènement sont considérées comme une extension d'une identité. Les attaques, contres, défenses, capacités d'action et capacités déclenchées qui se résolvent à partir d'un joueur jouant un évènement sont également considérés comme étant effectués par l'identité de ce joueur.
+• Si un effet modifie la quantité de dégâts qu'un évènement inflige ou la quantité de menace qu'un évènement retire, et que cet évènement inflige plusieurs instances de dégâts ou retire plusieurs instances de menace, chacune de ces instances est modifiée.
+» » Si un effet modifie la quantité de dégâts qu'une "attaque" inflige (plutôt qu'un "évènement"), et qu'un évènement initie plusieurs attaques, seule la première de ces attaques voit ses dégâts modifiés.
+Voir aussi : Types de carte, Défausse, Identité, Capacité étiquetée, Joueur, Carte de joueur, Propriété et Contrôle
+
+EXCESS DAMAGE
+Les dégâts excédentaires sont toute quantité de dégâts infligés à un personnage au-delà des points de vie restants de ce personnage.
+Voir aussi : Allié, Dégâts, Points de vie, Identité, Sbire, Points de vie restants, Méchant
+
+EXHAUSTED
+Si une carte est inclinée, elle est tournée à 90 degrés.
+• Une carte inclinée ne peut pas être inclinée à nouveau avant d'être prête. Les cartes sont généralement redressées par une étape de jeu ou une capacité de carte.
+• Une capacité de carte sur une carte inclinée est active et peut toujours interagir avec l'état de la partie. Cependant, si une carte inclinée doit s'incliner pour payer le coût d'utilisation de sa capacité, cette capacité ne peut pas être utilisée tant que la carte n'est pas prête.
+Voir aussi : Prêt
+
+EXPERT MODE
+Voir : Modes de jeu
+
+EXPERT SET
+Le set Expert est un set de rencontre qui est ajouté aux scénarios pendant le mode expert.
+• Le set Expert n'est pas un set de rencontre modulaire et ne peut pas être sélectionné (par les joueurs ou aléatoirement) lorsqu'un scénario exige que les joueurs choisissent un set de rencontre modulaire à inclure dans ce scénario.
+• Les cartes de la classification "Expert" sont toutes les cartes qui portent le mot "Expert" imprimé au bas de la carte dans sa zone de nom de set de rencontre.
+Voir aussi : Classifications, Modes de jeu, Set de rencontre modulaire, Appendice I : Personnalisation du deck
+
+FIND
+Lorsqu'un joueur reçoit l'instruction de trouver une carte, il cherche dans chaque zone de jeu où cette carte pourrait se trouver (zone de jeu, zone de mise de côté, deck de joueur, pile de défausse, paquet de rencontre, etc.).
+• Les joueurs ne devraient pas chercher inutilement dans les zones de jeu s'ils savent où se trouve la carte qu'ils recherchent.
+• Toutes les zones de jeu sont sujettes à la recherche lors de la résolution d'une instruction "trouver", à l'exception des suivantes :
+» » Les cartes de rencontre face cachée dans n'importe quelle zone de jeu en jeu (que cette carte soit elle-même en jeu ou non). (Par exemple, toutes les cartes de rencontre distribuées à un joueur ou données à un personnage comme carte de boost.)
+» » La pile de victoire.
+» » Les cartes qui ont été retirées de la partie.
+• Si un joueur reçoit l'instruction de "trouver et révéler" un sbire qui est déjà en jeu, ce joueur engage ce sbire et résout tous les mots-clés et/ou capacités déclenchées qui se résolvent suite à la révélation de ce sbire (comme la capacité "Une fois révélé" de ce sbire).
+» » Ce sbire conserve tous les attachements et jetons sur lui.
+» » Ce sbire n'est pas considéré comme entrant en jeu.
+» » Ce sbire est considéré comme engageant ce joueur, à moins qu'il ne soit déjà engagé avec ce joueur.
+Voir aussi : Chercher, Retiré de la partie, Pile de victoire
+
+FIRST PLAYER
+Un premier joueur est déterminé par les joueurs au début de la partie.
+Le pion de premier joueur est utilisé pour indiquer quel joueur est le premier joueur. À la fin du round (pendant l'étape cinq de la phase du méchant), le pion de premier joueur passe au joueur suivant dans le sens des aiguilles d'une montre, qui devient le premier joueur pour le round suivant.
+Si le premier joueur est éliminé, le pion de premier joueur passe immédiatement au joueur suivant dans le sens des aiguilles d'une montre.
+Les joueurs en tant que groupe sont encouragés à travailler ensemble, mais le premier joueur décide de ce qui suit :
+• Si une carte de rencontre cible un joueur ou une carte spécifique, et qu'il y a plusieurs cibles éligibles, le premier joueur choisit parmi les options éligibles.
+• Si une carte de rencontre exige qu'une capacité de carte soit résolue, qu'une fonction de jeu soit effectuée ou qu'un choix soit fait, mais ne spécifie pas quel joueur doit agir, c'est le premier joueur qui s'en charge.
+• Si deux effets ou plus se résolvent simultanément, le premier joueur décide de l'ordre dans lequel ils se résolvent.
+Le premier joueur a la priorité temporelle dans les situations suivantes :
+• Le premier joueur a la première occasion d'utiliser une interruption à chaque moment approprié de la partie. Les occasions d'interruption passent ensuite parmi les joueurs restants dans l'ordre des joueurs.
+• Le premier joueur a la première occasion d'utiliser une réponse à chaque moment approprié de la partie. Les occasions de réponse passent ensuite parmi les joueurs restants dans l'ordre des joueurs.
+Voir aussi : Dans l'ordre des joueurs, Joueur, Élimination d'un joueur, Phase des joueurs
+
+FLIP
+Lorsqu'un joueur reçoit l'instruction de retourner une carte, il tourne cette carte de sorte que la face qui était visible soit maintenant face cachée.
+• Une carte pliable à "trois faces" est considérée comme ayant été retournée chaque fois que la face visible de la carte change.
+• Lorsqu'une carte est retournée, si la nouvelle face visible de cette carte possède :
+» » Le même type de carte que la face précédente, la carte conserve toutes les cartes attachées, les cartes glissées dessous, les cartes d'état et les jetons.
+» » Un type de carte différent de la face précédente, tous les attachements, cartes d'état et jetons sont défaussés de la carte.
+Voir aussi : Carte double-face
+
+"FOR EACH"
+"Pour chaque" indique qu'un effet est répété en fonction du nombre d'un élément de jeu dénombrable.
+• Si un effet avec "pour chaque" nécessite une cible, cet effet s'applique à une seule cible à moins que la clause "pour chaque" n'inclue une instruction "choisissez".
+» » Par exemple, un effet qui dit "Pour chaque traîtrise regardée de cette manière, retirez 1 menace d'une manigance" retire de la menace d'une seule manigance. À l'inverse, un effet qui dit "Pour chaque amélioration que vous contrôlez, choisissez un ennemi et infligez-lui 2 dégâts" vous permet de choisir un ennemi différent pour chaque amélioration que vous contrôlez.
+• Si un effet "pour chaque" sans instruction "choisissez" inflige des dégâts ou retire de la menace, il est considéré comme une instance unique de dégâts infligés ou de menace retirée, respectivement.
+• Si un effet "pour chaque" comporte une instruction "choisissez", chaque répétition de ce choix est considérée comme une instance distincte de cet effet, même si la même cible est choisie plusieurs fois.
+» » L'état de la partie est mis à jour après chaque instance (par exemple, si un sbire ou une manigance secondaire est vaincu).
+» » Des réponses peuvent être déclenchées après chaque instance.
+» » Par exemple, si un joueur est engagé avec un sbire avec garde et utilise un effet qui dit "pour chaque ressource que vous avez dépensée de cette manière, choisissez un ennemi et infligez-lui 2 dégâts", ce joueur peut vaincre le sbire avec garde avec une instance de 2 dégâts, rendant le méchant cible valide pour les instances suivantes. Ce joueur peut déclencher une capacité de réponse comme "Après avoir infligé des dégâts à un ennemi" après chaque instance.
+• Si une autre capacité modifie un effet "pour chaque", ce modificateur est appliqué à chaque instance de l'effet "pour chaque". (Par exemple, Rafale de Lames est un évènement qui possède l'effet : "Pour chaque Psi-Katana, choisissez un ennemi et infligez-lui 2 dégâts." S'il est modifié par un effet qui dit "cet évènement inflige 1 dégât supplémentaire", Rafale de Lames infligera 3 dégâts à chaque ennemi choisi.)
+Voir aussi : Capacité, Cible
+
+FORCED
+Forcée est un mot de déclenchement en gras. Si le mot "Forcée" précède une capacité déclenchée, l'initiation de la capacité est obligatoire.
+• Les capacités d'"Interruption forcée" et de "Réponse forcée" doivent être résolues lorsque leurs conditions de déclenchement sont remplies.
+• Les capacités d'"Action forcée" peuvent être déclenchées à n'importe quel moment pendant la phase des joueurs où une capacité d'action non forcée pourrait être déclenchée, mais elles doivent être résolues avant que la phase des joueurs ne puisse se terminer.
+• Si une capacité forcée nécessite une ou plusieurs cibles pour se résoudre et qu'elle n'a pas de cibles valides, elle ne s'initie pas.
+» » Les coûts qui auraient été payés pour initier la capacité ne sont pas payés.
+• Pour toute condition de déclenchement donnée, les interruptions forcées sont prioritaires et s'initient avant les interruptions non forcées, et les réponses forcées sont prioritaires et s'initient avant les réponses non forcées.
+• Si deux capacités forcées ou plus devaient s'initier au même moment, le premier joueur détermine l'ordre dans lequel les capacités s'initient, quel que soit le contrôleur des cartes portant ces capacités.
+• Chaque capacité forcée doit se résoudre aussi complètement que possible avant que la capacité forcée suivante, déclenchée par le même déclencheur, ne commence à se résoudre.
+
+FORM, CHANGE FORM
+Un joueur peut être soit sous forme de héros, soit sous forme d'alter-ego à un moment donné. Cela est indiqué par la carte d'identité du joueur.
+• Une fois par round, pendant son tour, chaque joueur est autorisé à changer de forme en retournant sa carte d'identité.
+• Lorsqu'un joueur change de forme, seule la forme change. Le personnage conserve ses dégâts subis, ses cartes d'état, ses effets persistants, ses attachements, ses pions et son état actuel (prêt ou incliné).
+• Si une capacité de carte amène un joueur à changer de forme, cela ne compte pas dans la limite d'un changement de forme volontaire autorisé par tour pendant ce round.
+• Tant qu'un joueur est sous forme de héros, les capacités de carte qui interagissent avec son alter-ego n'interagissent pas avec son identité.
+• Tant qu'un joueur est sous forme d'alter-ego, les capacités de carte qui interagissent avec son héros n'interagissent pas avec son identité.
+• Les cartes avec le mot-clé "forme [type]" confèrent à une identité des formes uniques.
+» » Ces formes s'ajoutent aux formes alter-ego et héros de l'identité, et elles possèdent leurs propres conditions pour s'y transformer.
+» » Lorsqu'une identité change pour sa forme additionnelle, cela ne compte pas dans la limite d'une fois par tour pour passer de héros à alter-ego (ou vice versa), mais cela compte comme un changement de forme pour le déclenchement des effets de carte.
+• Les cartes avec le texte "forme [type] uniquement" ne peuvent être jouées ou mises en jeu que par un joueur dont l'identité est sous la forme spécifiée.
+Voir aussi : Retourner, Identité, Mots-clés
+
+"FRIENDLY"
+Ami est un terme générique qui se rapporte aux cartes que les joueurs contrôlent.
+
+"GAINS"
+Si une carte gagne une caractéristique (telle qu'un trait, un mot-clé ou un texte de capacité), la carte fonctionne comme si elle possédait la caractéristique gagnée. Les caractéristiques gagnées ne sont pas considérées comme étant imprimées sur la carte.
+Voir aussi : Mots-clés, Imprimé, Traits
+
+GAME ELEMENT
+Un élément de jeu est un composant ou une personne impliqué dans une partie de Marvel Champions. Tous les éléments suivants sont des éléments de jeu :
+• Les cartes
+• Les decks
+• Les piles de défausse
+• Les mains (de cartes)
+• Les compteurs de points de vie
+• Les joueurs
+• Les pions
+Voir aussi : Types de carte, Deck, Pile de défausse, Joueur, Cible
+
+GENERATE
+Voir : Ressource
+
+"GETS"
+Voir : Points de vie, Modificateurs
+
+GUARD
+Tant qu'un sbire avec le mot-clé garde est engagé avec un joueur, ce joueur ne peut pas utiliser de cartes qu'il contrôle pour attaquer un méchant sans ce mot-clé.
+Voir aussi : Attaque (Type de capacité de joueur), Engager, Mots-clés, Sbire, Texte de rappel, Méchant
+
+HAND SIZE
+Chaque joueur vérifie sa taille de main à la fin de la phase des joueurs, soit en se défaussant pour atteindre cette valeur, soit en piochant jusqu'à atteindre le nombre de cartes indiqué par sa valeur de taille de main.
+• Lorsqu'il pioche jusqu'à sa taille de main, un joueur pioche les cartes une par une, en vérifiant après chaque carte piochée s'il a atteint sa taille de main.
+Voir aussi : Fin de la phase des joueurs, Modificateurs
+
+HAZARD ICON
+Pendant l'étape de distribution des cartes de rencontre de la phase du méchant, pour chaque icône d'aléa sur les cartes en jeu, distribuez à un joueur une carte supplémentaire (pas une carte par joueur). Les cartes supplémentaires sont distribuées dans l'ordre des joueurs (la première carte supplémentaire au premier joueur, la deuxième au deuxième joueur, etc.).
+Voir aussi : Distribuer, Dans l'ordre des joueurs, Phase du méchant
+
+HEAL
+Si une capacité soigne un personnage, les dégâts que le personnage a subis peuvent être retirés de ce personnage.
+• Un effet de soin ne peut ramener un personnage qu'à son maximum de points de vie, à moins que l'effet ne stipule explicitement qu'il peut amener le personnage au-dessus de son maximum.
+• Les effets qui déplacent des dégâts hors d'un personnage sont considérés comme soignant ce personnage.
+Voir aussi : Allié, Points de vie, Identité, Sbire, Méchant
+
+HERO, HERO FORM
+Voir : Forme, Identité
+
+HEROIC MODE
+Voir : Modes de jeu
+
+HINDER X
+Lorsqu'une carte avec le mot-clé entrave X entre en jeu, placez X menaces sur cette carte. (X est la valeur à côté du mot-clé entrave.)
+Voir aussi : Entre en jeu, Mots-clés, Texte de rappel, Révéler, Menace
+
+HIT POINTS
+Chaque personnage (identité, allié, sbire et méchant) possède une valeur de points de vie. Les points de vie représentent la résistance de ce personnage.
+Lorsque des dégâts sont infligés à un personnage, cela réduit les points de vie restants du personnage (la quantité de dégâts que ce personnage peut subir avant d'atteindre zéro point de vie).
+• L'expression "points de vie de départ" se réfère à la valeur de points de vie imprimée d'une identité.
+• Le compteur de points de vie d'une identité ou d'un méchant représente ses points de vie restants. Si une identité ou un méchant subit des dégâts, appliquez les dégâts en réduisant le compteur de points de vie de ce personnage de la quantité spécifiée.
+» » Si le compteur de points de vie d'un joueur est réduit à zéro, ce joueur est vaincu et éliminé de la partie.
+» » Si le compteur de points de vie d'un méchant est réduit à zéro, ce stade du méchant est vaincu.
+» » Lorsqu'une capacité qui dit qu'une identité ou un méchant "gagne +X points de vie" entre en vigueur, augmentez le compteur de points de vie de ce personnage de X. Si cette capacité cesse ensuite d'être en vigueur, réduisez le compteur de points de vie de ce personnage de X.
+• Si un allié ou un sbire subit des dégâts, suivez les dégâts en plaçant des jetons de dégâts sur ce personnage. Les jetons de dégâts sur un allié ou un sbire réduisent les points de vie restants de ce personnage de la valeur totale des jetons. Un allié ou un sbire ayant zéro point de vie restant ou moins est vaincu et placé dans la pile de défausse appropriée.
+» » Si une capacité qui dit qu'un allié ou un sbire "gagne +X points de vie" cesse d'être en vigueur et amène cet allié ou sbire à avoir des dégâts sur lui égaux ou supérieurs à ses points de vie, cet allié ou sbire est vaincu.
+Certains personnages peuvent avoir un nombre infini de points de vie. Un personnage avec des points de vie infinis ne peut pas être vaincu en subissant des dégâts, car la quantité de dégâts que ce personnage subit ne fera jamais tomber ses points de vie restants à zéro. Cependant, des dégâts peuvent toujours être infligés à un personnage ayant des points de vie infinis par le biais d'attaques et de capacités de carte.
+Voir aussi : Allié, Dégâts, Vaincre, Soigner, Identité, Maximum de points de vie, Sbire, Modificateurs, Élimination d'un joueur, Points de vie restants, Dégâts subis, Méchant, Vaincre le méchant
+
+ICONS
+Les icônes sont des éléments graphiques qui représentent diverses fonctions au sein du jeu.
+• Icône Énergie () : une icône d'énergie est une icône de ressource qui génère une ressource énergie lorsqu'elle est dépensée. (Voir : Ressource énergie)
+• Icône Mentale () : une icône mentale est une icône de ressource qui génère une ressource mentale lorsqu'elle est dépensée. (Voir : Ressource mentale)
+• Icône Physique () : une icône physique est une icône de ressource qui génère une ressource physique lorsqu'elle est dépensée. (Voir : Ressource physique)
+• Icône Libre () : une icône libre est une icône de ressource qui peut générer une ressource énergie, mentale, physique ou libre lorsqu'elle est dépensée. (Voir : Ressource libre)
+• Icône d'accélération () : une icône d'accélération place de la menace supplémentaire sur la manigance principale pendant la phase du méchant. (Voir : Icône d'accélération)
+• Icône d'amplification () : une icône d'amplification augmente de un le nombre d'icônes de boost sur les cartes de boost pendant les activations ennemies. (Voir : Icône d'amplification)
+• Icône de crise () : une icône de crise empêche les joueurs de retirer de la menace de la manigance principale. (Voir : Icône de crise)
+• Icône d'aléa () : une icône d'aléa augmente le nombre de cartes de rencontre distribuées aux joueurs pendant la phase du méchant. Chaque icône d'aléa distribue à un joueur une carte supplémentaire (pas une carte par joueur). (Voir : Icône d'aléa)
+• Icône de Boost () : une icône de boost augmente la valeur d'ATK ou de MAN de l'ennemi qui s'active pendant les activations ennemies. (Voir : Boost)
+• Icône Étoile () : une icône étoile est utilisée conjointement avec le champ de statistique ou de boost d'une carte pour indiquer qu'il existe une capacité obligatoire dans la boîte de texte correspondant à ce champ. (Voir : Icône étoile)
+• Icône de dégâts consécutifs () : une icône de dégâts consécutifs est utilisée conjointement avec le champ ATK ou CTR d'un allié. Après qu'un allié a attaqué ou contré, il subit un dégât consécutif pour chaque icône de dégâts consécutifs dans ce champ. (Voir : Dégâts consécutifs)
+• Flèche de coût (→) : une flèche de coût sépare le coût d'une capacité de ses effets. (Voir : Icône de flèche de coût)
+• Icône Par Joueur () : une icône par joueur à côté d'une valeur multiplie cette valeur par le nombre de joueurs ayant commencé le scénario. (Voir : Icône par joueur)
+• Icône Unique () : une icône unique dans le titre d'une carte indique que la carte est unique. (Voir : Icône unique)
+
+IDENTITY
+Identité est un type de carte de joueur qui représente quel personnage un joueur incarne dans la partie.
+La carte d'identité d'un joueur est une carte double-face qui représente son héros d'un côté et son alter-ego de l'autre. La face visible indique la forme (héros ou alter-ego) sous laquelle se trouve actuellement le joueur.
+• Chaque joueur commence la partie sous forme d'alter-ego.
+• Si une carte se réfère à un héros ou à un alter-ego par son titre, elle se réfère uniquement à l'identité portant ce titre, et non à l'autre face de la carte.
+• Les cartes d'identité ne peuvent pas être défaussées du jeu.
+• La face visible d'une carte d'identité est considérée comme étant en jeu. La face cachée d'une carte d'identité est considérée comme étant hors-jeu.
+Voir aussi : Forme, En jeu et Hors-jeu, Joueur, Carte de joueur
+
+IDENTITY-SPECIFIC CARD
+Les cartes de la classification "spécifique à l'identité" (parfois aussi appelées "spécifiques au héros") sont des cartes qui appartiennent au set de cartes accompagnant une identité.
+• Le deck d'un joueur doit inclure chaque carte spécifique à l'identité associée à sa carte d'identité choisie. La quantité exacte de chaque carte de ce set spécifique à l'identité doit être incluse dans le deck.
+• Les cartes spécifiques à l'identité (ainsi que les cartes obligation et les cartes de set de rencontre némésis) ne peuvent être utilisées aux côtés d'une identité que si ces cartes partagent une icône de set avec cette identité.
+• Une carte spécifique à l'identité est désignée par l'icône d'identité imprimée dans le coin inférieur droit de la carte.
+» » Les cartes d'identité sont des cartes spécifiques à l'identité.
+Voir aussi : Carte d'affinité, Carte Basique, Classifications, Identité, Set de rencontre Némésis, Appendice I : Personnalisation du deck
+
+IGNORE
+Une capacité qui ignore une certaine capacité, icône ou coût traite cette capacité, icône ou coût comme n'étant pas en vigueur ou présent pendant la résolution de cette capacité.
+• Lorsqu'une carte est jouée en "ignorant son coût en ressources", aucune ressource n'est payée pour cette carte. Pour les besoins des effets de carte, cette carte est considérée comme ayant été jouée avec zéro ressource payée pour son coût.
+Voir aussi : Capacité, Coût, Icônes, Exigence (Ressources)
+
+IN PLAY AND OUT OF PLAY
+Une carte est considérée comme étant soit en jeu, soit hors-jeu selon son état au sein de la partie.
+Si une carte est en jeu, son texte est actif et il peut affecter la partie.
+• Pour les cartes de joueur, la face visible de la carte d'identité d'un joueur est en jeu. Les cartes allié, les cartes soutien et les cartes amélioration face visible qui sont entrées en jeu (jouées, mises en jeu, etc.) sont en jeu.
+• Pour les cartes de rencontre, la face visible de la carte du dessus du deck du méchant et la face visible de la carte du dessus du deck de manigance principale sont en jeu. Les cartes attachement, les cartes environnement, les cartes sbire, les cartes obligation et les cartes manigance secondaire face visible qui sont entrées en jeu (révélées, mises en jeu, etc.) sont en jeu.
+• Une carte entre en jeu lorsqu'elle passe d'une zone hors-jeu à une zone de jeu.
+• Les capacités de carte n'interagissent qu'avec les cartes qui sont en jeu, et ne peuvent cibler que celles-ci (à moins que le texte de la capacité ne se réfère spécifiquement à une zone hors-jeu).
+• Les capacités de carte sur tous les types de cartes, à l'exception des cartes évènement et des cartes traîtrise, ne peuvent être initiées ou affecter la partie que tant qu'elles sont en jeu, à moins qu'elles ne se réfèrent spécifiquement au fait d'être utilisées depuis une zone hors-jeu.
+• Si une carte est double-face (ayant du texte de jeu sur chaque face de la carte), la face visible de la carte est en jeu.
+Si une carte est hors-jeu, son texte est inactif et ne peut pas affecter la partie.
+• Les cartes évènement et les cartes traîtrise se résolvent implicitement depuis une zone hors-jeu, en vertu des règles relatives à ces types de cartes.
+• Les cartes dans la main, le deck et la pile de défausse d'un joueur sont hors-jeu.
+• Les cartes dans le paquet de rencontre, la pile de défausse de rencontre, les cartes non révélées du deck du méchant, les cartes non révélées du deck de manigance principale et les cartes de rencontre face cachée distribuées à un joueur sont hors-jeu.
+• Les cartes face cachée attachées à des cartes en jeu sont hors-jeu.
+• Toutes les cartes qui ont été retirées de la partie ou qui ont été mises de côté sont hors-jeu.
+• Une carte quitte le jeu lorsqu'elle passe d'une zone de jeu à une zone hors-jeu.
+• Si une carte est double-face (ayant du texte de jeu sur chaque face de la carte), la face cachée est hors-jeu.
+Voir aussi : Capacité, Entre en jeu, Quitte le jeu, Jouer, Restrictions et autorisations de jeu, Mis de côté, Cible, Pile de victoire
+
+IN PLAYER ORDER
+Si les joueurs reçoivent l'instruction d'effectuer une séquence "dans l'ordre des joueurs", le premier joueur effectue sa part de la séquence en premier, suivi des autres joueurs dans le sens des aiguilles d'une montre.
+• Si une séquence effectuée dans l'ordre des joueurs ne se termine pas après que chaque joueur a effectué sa part de la séquence une fois, la séquence d'opportunités continue dans le sens des aiguilles d'une montre jusqu'à ce qu'elle soit complète.
+• L'expression "joueur suivant" se réfère toujours au joueur suivant (dans le sens des aiguilles d'une montre) dans l'ordre des joueurs.
+Voir aussi : Trouver, Joueur, Phase des joueurs, Tour de joueur
+
+INCITE X
+Lorsqu'une carte avec le mot-clé incitation X est révélée, placez X menaces sur la manigance principale. (X est la valeur à côté du mot-clé incitation.)
+Voir aussi : Mots-clés, Manigance principale, Texte de rappel, Révéler, Menace
+
+INDIRECT DAMAGE
+Certaines capacités de carte peuvent infliger des "dégâts indirects".
+• Les dégâts indirects infligés à un joueur peuvent être répartis comme ce joueur le souhaite parmi les personnages sous son contrôle.
+• Les dégâts indirects infligés à un groupe de joueurs (ou parmi les joueurs) peuvent être répartis comme le groupe le souhaite parmi les personnages amis en jeu.
+• Tous les dégâts indirects provenant d'une source unique sont d'abord assignés puis résolus simultanément.
+» » Lors de l'assignation de dégâts indirects, un personnage ne peut pas se voir assigner plus de dégâts indirects que ce qui provoquerait sa défaite. Ceci est évalué sans tenir compte des interactions avec d'autres capacités.
+» » Un personnage avec une carte d'état tenace peut se voir assigner des dégâts indirects jusqu'à ses points de vie restants, et tous les dégâts qui lui sont assignés sont prévenus par sa carte d'état tenace.
+• Les personnages qui ne peuvent pas subir de dégâts ne peuvent pas se voir assigner de dégâts indirects.
+» » Si les dégâts indirects infligés à un joueur ne peuvent être assignés à aucun personnage contrôlé par ce joueur, ces dégâts sont ignorés.
+• Si l'attaque d'un ennemi inflige des dégâts indirects, les dégâts indirects sont infligés pendant l'étape quatre de l'activation ennemie (après que les joueurs ont eu l'opportunité de défendre contre l'attaque).
+» » Seul le personnage défenseur, ou l'identité du joueur attaqué si l'attaque n'a pas été défendue, est considéré comme ayant été attaqué, même si d'autres personnages se sont vu assigner tout ou partie des dégâts indirects.
+• Par exemple, si vous subissez 5 dégâts indirects, mais que vous contrôlez un allié avec 4 points de vie restants, vous pouvez assigner 4 de ces dégâts indirects à l'allié, puis assigner le dégât indirect restant à votre identité.
+Voir aussi : Allié, Attaque (Activation d'ennemi), Dégâts, Vaincre, Joueur
+
+INFINITE HIT POINTS
+Voir : Points de vie
+
+INITIATING ABILITIES
+Lorsqu'un joueur souhaite jouer une carte ou initier une capacité déclenchée, ce joueur déclare d'abord son intention. Ensuite, le joueur vérifie les conditions suivantes dans l'ordre :
+1. Vérifier les restrictions de jeu : la carte peut-elle être jouée, ou la capacité initiée, à ce moment-là ?
+» » Si la carte ou la capacité spécifie une ou plusieurs cibles, vérifiez qu'elle possède au moins une cible valide.
+2. Déterminer si la capacité peut être au moins partiellement résolue.
+3. Payer tous les coûts associés (y compris les coûts en ressources, l'inclinaison de cartes et les coûts décrits dans le texte).
+Une fois ces étapes franchies, la capacité est considérée comme initiée et commence sa résolution.
+• Lorsqu'un joueur joue une carte, cette carte est considérée comme ayant été jouée dès que ses coûts sont payés.
+• Lorsqu'un joueur utilise une capacité déclenchée, cette capacité est considérée comme ayant été utilisée dès que ses coûts sont payés.
+Voir aussi : Capacité, Coût, Jouer, Résolution des capacités, Cible
+
+INTERRUPT
+Interruption est un type de capacité déclenchée. Une capacité d'interruption peut être exécutée chaque fois que sa condition de déclenchement est sur le point de se produire.
+• Une interruption interrompt le déroulement du jeu et se résout immédiatement avant sa condition de déclenchement.
+• Si une interruption est utilisée, la résolution de la condition de déclenchement est temporairement suspendue jusqu'à ce que l'interruption soit résolue.
+Voir aussi : Capacité, Interruption forcée, Priorité temporelle, Capacité déclenchée
+
+KEYWORDS
+Un mot-clé est un attribut de carte qui possède un ensemble de règles inhérentes.
+• Chaque mot-clé est imprimé en gras et en italique.
+• Si un mot-clé possède une valeur numérique (indiquée par "X"), cette valeur peut varier d'une carte à l'autre.
+• Si une carte possède plusieurs instances d'un même mot-clé, chaque instance agit indépendamment.
+Voir aussi : À distance, Coup rapide, Déferlement, En équipe, Entrave X, Garde, Incitation X, Lié, Patrouille, Perçant, Permanent, Péril, Restreint, Riposte X, Robuste, Solide, Ténacité
+
+LABELED ABILITY
+Certaines capacités possèdent un libellé en gras (entre parenthèses) immédiatement après le mot de déclenchement en gras de la capacité. Ces libellés (tels que "attaque", "contre" ou "défense") associent la capacité à une fonction de jeu spécifique.
+• Une capacité étiquetée comme une "attaque" est considérée comme une attaque.
+• Une capacité étiquetée comme un "contre" est considérée comme un contre.
+• Une capacité étiquetée comme une "défense" est considérée comme une défense.
+Voir aussi : Capacité, Attaque, Contrer, Défendre
+
+LASTING EFFECTS
+Certaines capacités créent des effets persistants. Ces effets ont une durée spécifiée (telle que "jusqu'à la fin de la phase" ou "pour ce round") et restent actifs pour cette durée.
+• Un effet persistant expire à la fin de sa durée, quel que soit l'état de la carte qui l'a créé. (Par exemple, si une amélioration crée un effet persistant qui dure jusqu'à la fin du round et que cette amélioration est défaussée, l'effet persiste jusqu'à la fin du round.)
+• Un effet persistant affecte l'état du jeu et les cartes au fur et à mesure qu'ils entrent en jeu, tant que la durée de l'effet est active.
+Voir aussi : Capacité
+
+LEAVES PLAY
+L'expression "quitte le jeu" se réfère à tout moment où une carte passe du jeu à une zone hors-jeu.
+• Lorsqu'une carte quitte le jeu, tous les pions qui se trouvaient sur elle sont replacés dans la réserve générale, et toutes les cartes d'état qui se trouvaient sur elle sont remises dans leurs piles respectives.
+• Toutes les cartes attachées à une carte qui quitte le jeu sont défaussées.
+• Si une carte quitte le jeu, toutes les capacités de carte qui étaient actives sur cette carte (à l'exception des capacités de réponse ou d'interruption déclenchées par le départ de la carte) cessent d'être actives.
+Voir aussi : En jeu et Hors-jeu, Vaincre
+
+LIMIT
+Le texte "Limite de X par [période]" restreint le nombre de fois qu'une capacité peut être déclenchée pendant la période spécifiée.
+• Si une capacité comporte une limite, chaque instance de cette capacité est comptée individuellement pour cette limite.
+• Si une capacité est déclenchée, elle est comptabilisée dans sa limite, même si l'effet de la capacité est annulé.
+• Le terme "par joueur" dans une limite signifie que chaque joueur possède sa propre limite pour cette capacité.
+Voir aussi : Capacité, Max
+
+LINKED (CARD TITLE)
+Lié est un mot-clé qui indique qu'une carte est associée à une autre carte spécifique.
+• Les cartes liées ne peuvent entrer en jeu que si la carte à laquelle elles sont liées est également en jeu ou est mise en jeu simultanément.
+Voir aussi : Mots-clés
+
+"LOSES"
+Si un joueur "perd" un élément de jeu (tel que des points de vie ou des ressources), cet élément est retiré de sa réserve.
+• Si un joueur perd des points de vie, réduisez son compteur de points de vie de la quantité spécifiée. Cela n'est pas considéré comme subir des dégâts.
+• Si un joueur perd des ressources, ces ressources sont retirées de sa réserve sans être dépensées.
+Voir aussi : Dégâts, Points de vie, Ressource
+
+MAIN SCHEME, MAIN SCHEME DECK
+La manigance principale est un type de carte de rencontre qui représente l'objectif du méchant. Le deck de manigance principale contient les différents stades de la manigance principale pour un scénario donné.
+• La manigance principale est toujours en jeu.
+• Si la quantité de menaces sur la manigance principale est égale ou supérieure au seuil de menace spécifié sur la carte, cette étape de la manigance est terminée.
+• Si l'étape finale de la manigance principale est terminée, les joueurs perdent la partie.
+Voir aussi : Types de carte, Carte de rencontre, Menace, Méchant
+
+MAX, MAXIMUM
+Le terme "Max X par [période]" impose une limite globale sur le nombre de fois qu'une capacité peut être utilisée ou qu'une carte peut entrer en jeu pendant la période spécifiée, quel que soit le nombre de copies de cette carte ou capacité en jeu.
+• "Max 1 par deck" signifie qu'un joueur ne peut inclure qu'une seule copie de cette carte (par son titre) dans son deck.
+• "Max 1 par joueur" signifie que chaque joueur ne peut avoir qu'une seule copie de cette carte en jeu sous son contrôle à la fois.
+Voir aussi : Capacité, Limite
+
+MENTAL RESOURCE
+Une ressource mentale () est l'un des quatre types de ressources.
+• Les ressources mentales sont générées en défaussant des cartes avec l'icône mentale ou en utilisant des capacités de carte "Ressource".
+Voir aussi : Icônes, Ressource
+
+MINION
+Sbire est un type de carte de rencontre qui représente les sous-fifres du méchant.
+• Lorsqu'un sbire est révélé, il entre en jeu engagé avec le joueur qui l'a révélé.
+• Tant qu'un sbire est engagé avec un joueur, il s'active (attaque ou manigance) pendant la phase du méchant.
+Voir aussi : Types de carte, Carte de rencontre, Engager, Activation
+
+MODIFIERS
+Les modificateurs sont des capacités de carte ou des règles de jeu qui modifient les statistiques ou les capacités d'une carte.
+• Les modificateurs s'appliquent après avoir déterminé la valeur de base d'une statistique.
+• Si plusieurs modificateurs s'appliquent, appliquez d'abord les additions et soustractions, puis les multiplications et divisions.
+Voir aussi : Valeur de base, Points de vie
+
+MODULAR ENCOUNTER SET
+Un set de rencontre modulaire est un groupe de cartes de rencontre thématiques qui peuvent être ajoutées à n'importe quel scénario pour en augmenter la difficulté ou la variété.
+• Les sets modulaires sont désignés par une icône de set spécifique.
+Voir aussi : Classifications, Set de rencontre
+
+MODES OF PLAY
+Marvel Champions peut être joué selon différents modes de difficulté :
+• Mode Standard : utilise le set Standard de cartes de rencontre.
+• Mode Expert : utilise le set Standard et le set Expert.
+• Mode Héroïque : augmente le nombre de cartes de rencontre distribuées à chaque joueur pendant la phase du méchant.
+Voir aussi : Set Expert, Set Standard
+
+MOVE
+Certaines capacités permettent de "déplacer" des éléments de jeu (comme de la menace ou des dégâts).
+• Déplacer un élément de jeu consiste à le retirer d'une carte pour le placer sur une autre.
+• Si de la menace est déplacée d'une manigance à une autre, cela n'est pas considéré comme "retirer de la menace" de la première, ni comme "placer de la menace" sur la seconde pour le déclenchement d'autres capacités.
+Voir aussi : Dégâts, Menace
+
+NON-NUMERICAL VARIABLE
+La lettre X est utilisée pour indiquer une valeur variable.
+• Pour les coûts de cartes, la valeur de X est définie par le joueur au moment où le coût est payé.
+• Pour toute autre valeur, X est défini par la capacité de la carte.
+• Si X n'est pas défini par une capacité de carte ou un effet de jeu, sa valeur est considérée comme 0.
+
+OBLIGATION
+Obligation est un type de carte de rencontre associé à une identité spécifique.
+• Lorsqu'une obligation est révélée, elle est donnée au joueur dont elle porte l'icône d'identité.
+• Le joueur doit résoudre le texte de l'obligation, ce qui l'oblige souvent à choisir entre plusieurs options (comme incliner son identité ou défausser des cartes).
+Voir aussi : Types de carte, Carte de rencontre, Identité
+
+OVERKILL
+Déferlement est un mot-clé qui affecte la façon dont les dégâts d'attaque sont infligés.
+• Si une attaque avec le mot-clé déferlement inflige une quantité de dégâts supérieure aux points de vie restants du personnage défenseur (allié ou sbire), les dégâts excédentaires sont infligés au personnage engagé avec ce défenseur (le méchant si c'était un allié, ou le héros si c'était un sbire).
+Voir aussi : Dégâts excédentaires, Mots-clés
+
+OWNERSHIP AND CONTROL
+Le propriétaire d'une carte est le joueur dont le deck contenait la carte au début de la mise en place. Le scénario est considéré comme le propriétaire du paquet de rencontre et de chaque carte de rencontre.
+• Les cartes d'identité appartiennent et sont contrôlées par le joueur incarnant cette identité.
+• Les cartes entrent en jeu sous le contrôle de leur propriétaire. Les cartes de rencontre sont considérées comme étant sous le contrôle du scénario.
+» » Les améliorations attachées à une carte contrôlée par un joueur autre que le propriétaire de l'amélioration sont contrôlées par cet autre joueur.
+» » Lorsqu'un joueur prend le contrôle d'une carte de joueur spécifique à une campagne ou à un scénario (comme un allié, un support ou une amélioration) possédant un dos de carte de joueur, ce joueur devient le propriétaire de cette carte jusqu'à ce que la partie se termine ou qu'un autre joueur en prenne le contrôle.
+• Le contrôle d'une carte reste constant à moins qu'une capacité ne provoque explicitement un changement de contrôle.
+• Un joueur contrôle les cartes situées dans ses propres zones hors-jeu (telles que la main, le deck et la pile de défausse).
+• Si un personnage change de contrôleur alors qu'il est en jeu, il reste dans le même état (c'est-à-dire redressé ou incliné, blessé ou non, etc.) et est déplacé vers la zone de jeu de son nouveau contrôleur.
+• Les améliorations présentes sur une carte qui change de contrôleur changent également de contrôleur pour le même nouveau joueur.
+• Un changement de contrôle d'une carte reste en vigueur jusqu'à ce que l'un des événements suivants se produise :
+» » La capacité qui a changé le contrôle de cette carte cesse d'être en vigueur (par exemple, lorsqu'un attachement ou une amélioration changeant le contrôle est retiré), la carte revient alors sous le contrôle de son propriétaire.
+» » La carte quitte le jeu ; elle est alors placée dans la zone hors-jeu équivalente de son propriétaire (main, deck ou pile de défausse, ou retirée de la partie si ce joueur n'est plus dans la partie).
+» » La carte est un évènement qui a été joué ; elle est alors placée dans la pile de défausse de son propriétaire.
+» » La carte est défaussée de la main d'un joueur ; elle est alors placée dans la pile de défausse de son propriétaire.
+• Si une étape de jeu ou une capacité de carte fait référence à une carte que "vous contrôlez" ou qu'un "joueur contrôle", cela ne se réfère qu'aux cartes en jeu actuellement sous le contrôle de ce joueur.
+Voir aussi : Classifications, Carte de rencontre, Paquet de rencontre, En jeu et Hors-jeu, Joueur, Carte de joueur, Deck de joueur, Zone de jeu d'un joueur, Zone de jeu du méchant
+
+PATROL
+Tant qu'un sbire avec le mot-clé patrouille est engagé avec un joueur, ce joueur ne peut pas utiliser de cartes qu'il contrôle pour contrer la manigance principale.
+Voir aussi : Engager, Mots-clés, Manigance principale, Sbire, Texte de rappel, Contrer
+
+"PAY"
+Voir : Coût
+
+PER PLAYER ICON
+L'icône  à côté d'une valeur multiplie cette valeur par le nombre de joueurs ayant commencé le scénario.
+• Si un joueur est éliminé, cette valeur ne change pas.
+Voir aussi : Icônes, Modificateurs, Élimination d'un joueur
+
+PERIL
+Tant qu'un joueur résout une carte avec le mot-clé péril, ce joueur ne peut pas consulter les autres joueurs, et les autres joueurs ne peuvent pas jouer de cartes ni déclencher de capacités.
+Voir aussi : Capacité, Mots-clés, Joueur, Texte de rappel, Discussion à table, Capacité déclenchée
+
+PERMANENT
+Une carte avec le mot-clé permanent ne peut pas être vaincue, quitter le jeu ou voir une partie de sa boîte de texte annulée, sauf par des capacités de cartes du même set (set de héros, set de scénario ou set modulaire). (Par exemple, une capacité sur une carte de héros peut faire quitter le jeu à une carte permanente appartenant au set de ce héros.)
+• Les cartes permanentes sont mises de côté avant l'étape 1 de la mise en place et sont mises en jeu plus tard par des capacités d'autres cartes.
+• Les cartes permanentes ne comptent pas dans la taille minimale ou maximale du deck d'un joueur.
+• Les cartes permanentes ne sont pas des cibles valides pour les effets de carte qui les feraient quitter le jeu.
+» » Si une carte permanente devait être ciblée par un tel effet (par exemple : "défaussez le soutien au coût le plus bas que vous contrôlez"), cet effet cible à la place la carte non-permanente qui correspond aux critères.
+• Si la carte à laquelle un attachement permanent était attaché quitte le jeu, résolvez le texte "attachez à" de cet attachement. S'il n'en a pas ou si ce texte n'a pas de cible valide, retirez l'attachement de la partie.
+• Si un joueur est éliminé de la partie alors qu'une carte permanente (autre qu'un attachement) qu'il ne possède pas se trouve dans sa zone de jeu, retirez cette carte permanente de la partie.
+Voir aussi : En jeu et Hors-jeu, Mots-clés, Quitte le jeu, Propriété et Contrôle, Texte de rappel
+
+PHYSICAL RESOURCE
+Une ressource physique () est l'un des quatre types de ressources.
+• Les ressources physiques peuvent être dépensées pour payer le coût en ressources des cartes et des capacités.
+• Certaines capacités de carte exigent spécifiquement que des ressources physiques soient dépensées pour résoudre leurs effets.
+Voir aussi : Capacité, Coût, Ressource énergie, Icônes, Ressource mentale, Ressource, Ressource libre
+
+PIERCING
+Une attaque avec le mot-clé perçant défausse toutes les cartes d'état tenace du personnage attaqué avant d'infliger des dégâts.
+• Si une attaque avec le mot-clé perçant ne devait infliger aucun dégât au personnage attaqué, elle ne défausse pas les cartes d'état tenace de ce personnage.
+Voir aussi : Attaque (Activation d'ennemi), Attaque (Type de capacité de joueur), Dégâts, Mots-clés, Texte de rappel, Cartes d'état, Cible, Tenace
+
+PLAY, PUT INTO PLAY
+Jouer une carte implique de payer son coût et de la placer dans la zone de jeu. Cela fait entrer la carte en jeu (ou, dans le cas d'une carte évènement, de résoudre sa capacité et de la placer dans la pile de défausse). Les cartes sont jouées depuis la main d'un joueur.
+Certaines capacités font que des cartes sont "mises en jeu". Cela permet d'ignorer le coût de la carte ainsi que toute restriction ou interdiction concernant le fait de jouer cette carte. Une carte mise en jeu entre en jeu dans la zone de jeu de son contrôleur.
+• Les cartes avec le texte "forme [type] uniquement" ne peuvent être jouées ou mises en jeu que par un joueur dont l'identité est sous la forme spécifiée.
+• Lorsqu'une carte évènement est jouée, placez-la sur la table, résolvez sa capacité, puis placez la carte dans la pile de défausse de son propriétaire.
+• Une carte mise en jeu n'est pas considérée comme ayant été jouée.
+• Lorsqu'une carte est mise en jeu, son coût en ressources est ignoré.
+• Sauf indication contraire par l'effet de mise en jeu, les cartes qui sont mises en jeu doivent l'être dans une zone de jeu ou un état correspondant aux règles de mise en jeu de la carte.
+Voir aussi : Entre en jeu, En jeu et Hors-jeu, Initier des capacités, Quitte le jeu, Restrictions et autorisations de jeu
+
+PLAY AREA
+Il existe deux types de zones de jeu : la zone de jeu d'un joueur et la zone de jeu du méchant.
+• La zone de jeu d'un joueur contient l'identité de ce joueur, son deck, sa main, sa pile de défausse, toutes les cartes en jeu sous son contrôle et toutes les cartes de rencontre face visible ou face cachée dans sa zone de jeu (comme les sbires engagés ou les cartes de rencontre qui lui ont été distribuées).
+• La zone de jeu du méchant contient le deck du méchant, le deck de manigance principale, le paquet de rencontre, la pile de défausse de rencontre et toutes les cartes de rencontre en jeu qui ne sont pas entrées dans la zone de jeu d'un joueur (comme les manigances secondaires ou les environnements).
+• Une carte ne peut pas se trouver dans plus d'une zone de jeu à la fois.
+Voir aussi : En jeu et Hors-jeu, Zone de jeu d'un joueur, Zone de jeu du méchant
+
+PLAY RESTRICTIONS AND PERMISSIONS
+De nombreuses cartes et capacités contiennent des instructions spécifiques indiquant quand ou comment elles peuvent ou ne peuvent pas être utilisées, ou des conditions spécifiques qui doivent être vraies pour les utiliser.
+• Pour utiliser une capacité ou jouer une carte, toutes ses restrictions de jeu doivent être respectées.
+• Une autorisation est une restriction de jeu facultative, qui permet à un joueur de jouer une carte ou d'utiliser une capacité en dehors du timing ou des spécifications prévus par les règles du jeu. Par exemple, une autorisation pourrait permettre de jouer une carte allié depuis la pile de défausse d'un joueur.
+Voir aussi : Capacité, Jouer, Joueur
+
+PLAYER
+Un joueur est une personne qui participe à une partie de Marvel Champions.
+• Chaque joueur possède sa propre zone de jeu personnelle contenant sa carte d'identité, son compteur de points de vie, sa main de cartes, son deck dans lequel il pioche, sa pile de défausse où il place ses cartes défaussées, tous les alliés, améliorations ou supports qu'il peut avoir en jeu, ainsi que tous les attachements, sbires ou obligations présents dans sa zone de jeu.
+• Pendant chaque phase des joueurs de chaque round, chaque joueur effectue son propre tour personnel durant lequel il peut jouer des cartes, effectuer des actions avec les cartes qu'il contrôle et utiliser diverses capacités.
+• Chaque joueur est propriétaire des cartes contenues dans son deck (y compris sa carte d'identité) au début de la partie.
+• Certaines étapes, fonctions de jeu ou capacités de cartes peuvent faire référence au "premier joueur". Le premier joueur est celui qui possède le pion de premier joueur.
+Voir aussi : Défausse, Pile de défausse, Trouver, Identité, En jeu et Hors-jeu, Deck de joueur, Élimination d'un joueur, Phase des joueurs, Tour de joueur, Zone de jeu d'un joueur, Vous
+
+PLAYER CARD
+Il existe sept types de cartes de joueur : les cartes allié, les cartes évènement, les cartes identité, les cartes manigance secondaire de joueur, les cartes ressource, les cartes soutien et les cartes amélioration.
+• Les cartes de joueur peuvent appartenir à diverses classifications, telles que les cartes de joueur spécifiques à l'identité ou les cartes de joueur d'affinité.
+• La plupart des cartes de joueur ont un dos de carte bleu.
+Voir aussi : Allié, Classifications, Évènement, Identité, Manigance secondaire de joueur, Carte ressource, Soutien, Amélioration, Appendice I : Personnalisation du deck
+
+PLAYER DECK
+Le deck d'un joueur contient les cartes de joueur (alliés, évènements, manigances secondaires de joueur, ressources, supports et améliorations) appartenant au joueur qui a commencé la partie avec ce deck.
+• L'ordre des cartes au sein d'un deck de joueur ne peut pas être modifié à moins qu'un joueur n'en reçoive l'instruction par une étape de jeu, une fonction de jeu ou une capacité de carte.
+Si le deck d'un joueur se vide, le joueur mélange sa pile de défausse pour former un nouveau deck. Ce joueur se distribue immédiatement une carte de rencontre face cachée du dessus du paquet de rencontre.
+• Si le deck d'un joueur se vide et est remélangé alors qu'il piochait des cartes, le joueur continue de piocher jusqu'au nombre spécifié.
+• Si le deck d'un joueur se vide alors qu'il défaussait des cartes de son deck, aucune autre carte n'est défaussée du deck nouvellement mélangé.
+• Si le deck d'un joueur se vide et qu'il n'a aucune carte dans sa pile de défausse, le deck n'est pas réinitialisé tant qu'il n'y a pas au moins une carte dans la pile de défausse ; à ce moment, le joueur se distribue une carte de rencontre face cachée.
+Voir aussi : Défausse, Pile de défausse, Piocher, Paquet de rencontre, Mélanger
+
+PLAYER DISCARD PILE
+Voir : Pile de défausse
+
+PLAYER ELIMINATION
+Un joueur est éliminé de la partie si son identité est vaincue. Cela se produit généralement lorsque les points de vie restants du personnage tombent à zéro.
+Lorsqu'un joueur est éliminé, effectuez les étapes suivantes dans l'ordre :
+1. Si le joueur éliminé possède le pion de premier joueur, il le passe au joueur suivant dans le sens des aiguilles d'une montre.
+2. S'il y a des sbires engagés avec le joueur éliminé, chacun de ces sbires engage le joueur suivant dans le sens des aiguilles d'une montre, en conservant ses pions, cartes attachées, cartes de boost, cartes glissées dessous et cartes d'état.
+3. Pour chaque carte dans la zone de jeu du joueur éliminé qui n'appartient pas à ce joueur, faites ce qui suit :
+• S'il s'agit d'un attachement avec le mot-clé permanent, résolvez son texte "attachez à". S'il n'en a pas ou si ce texte n'a pas de cible valide, retirez l'attachement de la partie.
+• Retirez de la partie chaque carte non-attachement possédant le mot-clé permanent.
+• Placez chaque autre carte dans la pile de défausse de son propriétaire.
+4. Placez chaque carte appartenant au joueur éliminé dans sa pile de défausse.
+5. Retirez de la partie la zone de jeu du joueur éliminé et tout autre élément de jeu qu'elle contient (main, deck, pile de défausse, cartes en jeu, compteur de points de vie, etc.).
+Lorsqu'un joueur est éliminé, les joueurs restants continuent la partie. Les joueurs éliminés ne participent plus mais sont considérés comme gagnants ou perdants avec le reste du groupe.
+• Si tous les joueurs sont éliminés, la partie se termine et les joueurs perdent.
+• Si un joueur est éliminé pendant la résolution d'une capacité, terminez la résolution de l'intégralité de la capacité.
+• Les effets qui font référence aux joueurs en jeu ignorent les joueurs éliminés, sauf pour l'icône par joueur ().
+Voir aussi : Capacité, Distribuer, Engager, Élément de jeu, Points de vie, Identité, Sbire, Icône par joueur, Joueur, Carte de joueur, Deck de joueur, Zone de jeu d'un joueur, Vaincre la partie
+
+PLAYER PHASE
+Pendant la phase des joueurs, chaque joueur (dans l'ordre des joueurs) effectue un tour.
+Une fois que chaque joueur a effectué son tour, les joueurs défaussent leurs cartes excédentaires ou piochent jusqu'à leur taille de main et redressent chaque carte inclinée.
+• Les effets qui durent "jusqu'à la fin de la phase [des joueurs]" se terminent après que les joueurs ont pioché jusqu'à leur taille de main et que toutes les cartes ont été redressées. Ensuite, les effets qui se résolvent "quand/après que la phase des joueurs se termine" sont résolus.
+Voir aussi : Fin de la phase des joueurs, Dans l'ordre des joueurs, Joueur, Tour de joueur
+
+PLAYER SIDE SCHEME
+Les manigances secondaires de joueur sont des missions que les héros entreprennent pour faciliter la défaite du méchant. Elles sont l'équivalent, en cartes de joueur, des manigances secondaires trouvées dans le paquet de rencontre.
+• Lorsqu'une manigance secondaire de joueur entre en jeu, elle est placée à côté de la manigance principale dans la zone de jeu du méchant.
+• Chaque manigance secondaire de joueur entre en jeu avec une quantité de menaces égale à sa valeur de menace de départ.
+• Le nombre de manigances secondaires de joueur en jeu à tout moment est limité par la limite de manigances secondaires de joueur.
+• Une manigance secondaire de joueur reste en jeu jusqu'à ce qu'il n'y ait plus de menace sur elle (ce qui la fait vaincre et soit défausser, soit, si elle possède le mot-clé victoire X, l'ajouter à la pile de victoire) ou qu'elle soit défaussée parce qu'il y en a plus en jeu que la limite autorisée.
+• Toute règle ou effet de carte se référant aux "manigances" ou "manigances secondaires" se réfère également aux manigances secondaires de joueur.
+» » Les héros et les alliés peuvent retirer de la menace d'une manigance secondaire de joueur en effectuant un contre de base.
+» » Les capacités qui retirent de la menace d'une "manigance" ou d'une "manigance secondaire" peuvent retirer de la menace d'une manigance secondaire de joueur.
+Voir aussi : Types de carte, Carte de joueur, Limite de manigances secondaires de joueur, Manigance (Type de carte), Manigance secondaire, Victoire X
+
+PLAYER SIDE SCHEME LIMIT
+Le nombre de manigances secondaires de joueur en jeu à tout moment est restreint par la limite de manigances secondaires de joueur.
+• Si un ou deux joueurs ont commencé la partie, la limite est de une. Si trois ou quatre joueurs ont commencé la partie, la limite est de deux.
+• S'il y a plus de manigances secondaires de joueur en jeu que la limite, le premier joueur choisit et défausse des manigances secondaires de joueur jusqu'à ne plus dépasser la limite.
+Voir aussi : Manigance secondaire de joueur
+
+PLAYER TURN
+Pendant son tour, un joueur peut effectuer les options suivantes, dans n'importe quel ordre. Chaque option, sauf "changer de forme", peut être effectuée autant de fois que le joueur le peut, tant qu'il est en mesure d'en payer les coûts.
+• Changer de forme (de héros à alter-ego, ou vice versa). Cette option ne peut être effectuée qu'une seule fois par tour.
+• Jouer un allié, une amélioration, un soutien ou une manigance secondaire de joueur depuis sa main.
+• Utiliser la récupération de base de son alter-ego (si sous forme d'alter-ego) ou la puissance d'attaque ou de contre de base de son héros (si sous forme de héros).
+• Utiliser une carte allié qu'il contrôle en jeu pour attaquer un ennemi ou contrer une manigance.
+• Déclencher une capacité "Action" sur :
+a. Une carte en jeu qu'il contrôle.
+b. Une carte de rencontre en jeu.
+c. Toute carte en jeu dont le texte autorise ce joueur...
+
+PLAYER’S PLAY AREA
+La zone de jeu d'un joueur (parfois appelée "zone de jeu personnelle") est l'endroit où se trouvent sa carte d'identité, son deck, sa main, sa pile de défausse et son compteur de points de vie. Chaque joueur possède sa propre zone de jeu.
+• Les cartes allié, soutien et amélioration sont placées dans la zone de jeu d'un joueur lorsqu'elles entrent en jeu.
+• Les cartes attachement attachées à des cartes situées dans la zone de jeu du méchant ne sont pas dans la zone de jeu du joueur.
+• Les cartes sbire engagées avec un joueur sont dans la zone de jeu de ce joueur et non dans celle du méchant.
+• Les cartes obligation données à un joueur sont dans la zone de jeu de ce joueur et non dans celle du méchant.
+• Bien que les capacités de cartes puissent affecter des cartes d'une zone de jeu à l'autre, sauf indication contraire, les cartes ne peuvent pas être jouées dans la zone de jeu d'un autre joueur.
+• Si un joueur est éliminé (défaite de son identité ou autre), sa zone de jeu est retirée de la partie.
+Voir aussi : Allié, Pile de défausse, Identité, En jeu et Hors-jeu, Sbire, Obligation, Deck de joueur, Élimination d'un joueur, Soutien, Amélioration
+
+PLAYING CARDS
+Voir : Initier des capacités
+
+PREVENT
+Certaines capacités de cartes préviennent les dégâts ou la menace.
+• Lorsque des dégâts sont prévenus, réduisez la quantité de dégâts que la cible reçoit (c'est-à-dire la quantité de jetons de dégâts placés sur elle).
+» » Lorsqu'un effet prévient des dégâts infligés à un personnage, la quantité de dégâts que ce personnage "reçoit" est réduite, mais la quantité de dégâts "infligés" ne l'est pas.
+» » Si un effet prévient tous les dégâts infligés à un personnage, ce personnage est considéré comme n'ayant pas reçu de dégâts.
+» » Si tous les dégâts d'une attaque sont prévenus, le personnage attaquant est considéré comme ayant infligé des dégâts, mais n'est pas considéré comme ayant "attaqué et blessé" le personnage cible.
+» » Si infliger des dégâts est un coût, ce coût est considéré comme payé même si une partie ou la totalité des dégâts est prévenue.
+» » Si recevoir des dégâts est un coût, ce coût n'est considéré comme payé que si la totalité des dégâts a été reçue. (Si une partie des dégâts est prévenue, le coût n'est pas payé.)
+• Lorsque de la menace est prévenue, réduisez la quantité de menace assignée avant qu'elle ne soit placée sur la manigance.
+Voir aussi : Capacité, Coût, Dégâts, Manigance (Type de carte), Cible, Menace
+
+PRINTED
+Le mot "imprimé" se réfère au texte, à la caractéristique ou à la valeur physiquement présente sur la carte.
+• Si un joueur doit payer un coût en utilisant des "ressources imprimées", il peut utiliser des ressources générées par une capacité de carte, tant que l'icône de la ressource générée est imprimée dans sa boîte de texte.
+» » Les ressources libres () ne peuvent pas être dépensées comme d'autres types de ressources pour un tel coût.
+Voir aussi : Valeur de base, Modificateurs
+
+QUALIFIERS
+Si le texte d'une capacité inclut un qualificatif suivi de plusieurs termes, le qualificatif s'applique à chaque élément de la liste, si applicable. Par exemple, dans la phrase "chaque personnage et attachement prêt", le mot "prêt" s'applique à la fois à "personnage" et à "attachement".
+
+QUICKSTRIKE
+Après qu'un sbire avec le mot-clé coup rapide a engagé un joueur dont l'identité est sous forme de héros, ce sbire attaque ce joueur.
+Voir aussi : Attaque (Activation d'ennemi), Engager, Forme, Mots-clés, Sbire, Joueur, Texte de rappel
+
+RANGED
+Une attaque avec le mot-clé à distance ignore le mot-clé riposte.
+Voir aussi : Attaque (Activation d'ennemi), Attaque (Type de capacité de joueur), Mots-clés, Texte de rappel, Riposte X
+
+READY
+Les cartes entrent en jeu dans un état prêt, positionnées de manière à ce que leur contrôleur puisse lire leur texte de gauche à droite.
+• Si un joueur reçoit l'instruction de redresser une carte inclinée, la carte revient à son état prêt.
+» » S'il existe un coût supplémentaire pour redresser une carte, le joueur peut choisir de ne pas le payer. S'il ne paie pas le coût, la carte ne se redresse pas.
+Voir aussi : Entre en jeu, Incliné
+
+REC
+Voir : Pouvoir de base, Récupérer
+
+RECOVER
+Récupérer est un pouvoir de base qu'un joueur peut utiliser sous forme d'alter-ego. Pour récupérer, le joueur incline son alter-ego et soigne un nombre de points de vie égal à sa valeur de RÉC.
+• Une identité qui n'a pas de dégâts à soigner ne peut pas effectuer de récupération de base.
+Voir aussi : Pouvoir de base, Forme, Soigner, Points de vie, Identité
+
+REFERENTIAL ABILITY
+Certaines capacités font référence à des cartes spécifiques par leur nom. Si une capacité se réfère à un titre partagé par plusieurs cartes, elle ne concerne que la ou les cartes correspondant aux critères suivants (par ordre de priorité) :
+1. La carte sur laquelle la capacité est imprimée (auto-référence).
+» » Par exemple, la capacité de l'allié basique Spider-Man dit : "Réponse : Après que Spider-Man a attaqué ou contré...". Cette capacité se réfère à la carte sur laquelle elle est imprimée et ne se déclenche pas si une autre carte nommée "Spider-Man" attaque.
+2. Les cartes appartenant à la même identité.
+3. Les cartes de joueur (si la capacité est sur une carte de joueur) ou les cartes de rencontre (si elle est sur une carte de rencontre).
+Voir aussi : Capacité, Personnage, Classifications, Identité, Carte spécifique à l'identité
+
+REMAINING HIT POINTS
+Les points de vie restants d'un personnage correspondent à la quantité de dégâts qu'il peut encore recevoir avant d'atteindre zéro.
+• Le compteur de points de vie d'une identité ou d'un méchant représente ses points de vie restants.
+• Pour calculer les points de vie restants d'un allié ou d'un sbire, partez de ses points de vie maximum (valeur imprimée modifiée par les capacités) et soustrayez les dégâts subis (nombre de jetons de dégâts sur lui).
+Voir aussi : Points de vie, Identité, Dégâts subis, Méchant
+
+REMINDER TEXT
+Certaines capacités peuvent inclure un texte de rappel. Le texte de rappel est en italique et entre parenthèses (comme ceci). Il n'a aucun effet sur le jeu et sert uniquement à rappeler une règle ou une fonction spécifique.
+
+REMOVED FROM THE GAME
+Une carte retirée de la partie est mise de côté et n'interagit plus avec le jeu de quelque manière que ce soit pour la durée spécifiée. Si aucune durée n'est précisée, elle est considérée comme retirée jusqu'à la fin de la partie.
+• "Retiré de la partie" est un état hors-jeu.
+Voir aussi : En jeu et Hors-jeu, Quitte le jeu
+
+REPLACEMENT EFFECT
+Un effet de remplacement remplace un effet spécifié par un autre. La plupart sont des interruptions de type : "quand [condition] devrait arriver, faites [effet] à la place".
+• Lorsqu'un effet est remplacé, il n'est plus considéré comme imminent et aucune autre interruption ou réponse à cet effet ne peut être déclenchée.
+Voir aussi : Capacité, Effet d'altération, Annuler, Interruption, "Sinon", Capacité déclenchée, "Devrait"
+
+REQUIREMENT (RESOURCES)
+Une carte avec le mot-clé exigence ne peut être jouée que si chaque ressource du type spécifié est dépensée lors du paiement du coût.
+• Une carte avec exigence ne peut pas être jouée en "ignorant son coût en ressources" car les ressources exigées ne pourraient pas être payées.
+Voir aussi : Coût, Initier des capacités, Mots-clés, Ressource
+
+RESOURCE
+Les ressources sont utilisées pour payer le coût des cartes et de certaines capacités.
+• Un joueur génère des ressources en défaussant des cartes de sa main (valeur en bas à gauche) ou en utilisant des capacités de cartes.
+• Il existe quatre types de ressources : énergie (), mentale (), physique () et libre (). La ressource libre peut être utilisée comme n'importe quel autre type.
+• Pour payer le coût d'une carte, un nombre de ressources égal ou supérieur au coût doit être généré.
+• Les ressources excédentaires générées pour un coût sont perdues et ne sont pas conservées pour des coûts futurs.
+Voir aussi : Coût, Ressource énergie, Icônes, Ressource mentale, Ressource physique, Ressource libre
+
+RESOURCE ABILITY
+Une capacité de ressource est un type de capacité déclenchée, indiquée par le mot "Ressource" en gras.
+• Elle peut être déclenchée chaque fois que le joueur qui la contrôle génère des ressources pour payer un coût.
+» » Une capacité de ressource qui génère une ressource pour un type de coût spécifique ne peut pas être déclenchée pour un autre type de coût.
+Voir aussi : Coût, Ressource, Capacité déclenchée
+
+RESOURCE CARD
+Les cartes ressource sont un type de carte de joueur. Leur fonction principale est d'être défaussées pour générer des ressources.
+• Elles fournissent généralement plus de ressources (ou plus efficacement) que les autres types de cartes.
+• Les cartes ressource sont considérées comme une extension de l'identité.
+Voir aussi : Types de carte, Icônes, Identité, Carte de joueur, Ressource
+
+RESPONSE
+Une capacité de réponse est un type de capacité déclenchée, indiquée par le mot "Réponse" en gras. Elle s'exécute après la survenue d'une condition de déclenchement spécifiée.
+• Les joueurs ne peuvent déclencher des réponses que sur les cartes qu'ils contrôlent ou sur les cartes de rencontre.
+• Plusieurs réponses peuvent être exécutées pour un même déclencheur, mais chaque réponse ne peut être déclenchée qu'une seule fois par occurrence.
+• Si un seul effet provoque plusieurs conditions de déclenchement, les réponses à chacune peuvent être résolues dans n'importe quel ordre.
+Voir aussi : Capacité, Capacité déclenchée, Condition de déclenchement
+
+RESTRICTED
+Un joueur ne peut pas avoir plus de deux cartes avec le mot-clé restreint en jeu sous son contrôle simultanément.
+• Un joueur peut jouer une carte restreinte même s'il en contrôle déjà deux, mais il doit alors immédiatement en choisir une et la défausser pour n'en garder que deux.
+Voir aussi : Défausse, Mots-clés, Propriété et Contrôle, Joueur, Texte de rappel
+
+RETALIATE X
+Après qu'un personnage avec le mot-clé riposte X a été attaqué, infligez X dégâts à l'attaquant.
+• Le personnage avec riposte X doit être en jeu après la résolution de l'attaque pour infliger ces dégâts.
+• Ordre de résolution :
+1. Capacités "après que [personnage] a reçu des dégâts..."
+2. Riposte X
+3. Capacités "après que [personnage] a été attaqué..." ou "après avoir attaqué..."
+Voir aussi : Allié, Attaque, Dégâts, Identité, Mots-clés, Sbire, Méchant
+
+REVEAL
+Pendant l'étape 4 de la phase du méchant, chaque joueur (dans l'ordre) révèle et résout les cartes de rencontre face cachée qui lui ont été distribuées.
+Étapes pour révéler :
+1. Retournez la carte face visible.
+2. Si le type est :
+- Attachement : entre en jeu attaché à l'élément spécifié.
+- Environnement : entre en jeu dans la zone du méchant.
+- Sbire : entre en jeu dans la zone du joueur (l'engage).
+- Obligation : entre en jeu dans la zone du joueur.
+- Manigance secondaire : entre en jeu dans la zone du méchant.
+- Traîtrise : placée devant le joueur (n'est pas en jeu).
+3. Résolvez chaque capacité "Une fois révélée" (y compris les mots-clés).
+4. Si c'est une traîtrise, défaussez-la.
+Voir aussi : Attachement, Distribuer, Carte de rencontre, Entre en jeu, Environnement, Dans l'ordre des joueurs, Sbire, Obligation, Manigance secondaire, Traîtrise, Phase du méchant
+
+ROOKIE MODE
+Voir : Modes de jeu
+
+RUNNING OUT OF CARDS
+Voir : Paquet de rencontre, Deck de joueur
+
+SCENARIO-SPECIFIC CARD
+Les cartes "spécifiques au scénario" appartiennent au set d'un scénario donné.
+• Un scénario doit inclure toutes les cartes spécifiques associées.
+• Elles sont généralement réparties en trois paquets : le deck du méchant, le deck de manigance principale et le paquet de rencontre.
+Voir aussi : Classifications, Manigance principale, Deck du méchant
+
+SCH
+Voir : Pouvoir de base, Manigance (Activation d'ennemi)
+
+SCHEME (CARD TYPE)
+Le mot "manigance" désigne trois types de cartes : manigances principales, manigances secondaires de joueur et manigances secondaires.
+• Si une capacité place ou retire de la menace d'une "manigance", le joueur choisit laquelle.
+Voir aussi : Manigance principale, Manigance secondaire de joueur, Manigance secondaire
+
+SCHEME (ENEMY ACTIVATION)
+Manigancer est un type d'activation d'ennemi. Étapes :
+1. Si c'est un méchant ou un sbire avec vilenie, donnez-lui une carte de boost face cachée.
+2. Résolvez les cartes de boost (retourner, appliquer les capacités étoile, augmenter la valeur de MAN par les icônes de boost).
+3. Placez de la menace sur la manigance principale égale à la valeur de MAN modifiée.
+Voir aussi : Activation, Boost, Sbire, Modificateurs, Méchant, Phase du méchant, Vilenie
+
+SEARCH
+Lorsqu'un joueur cherche une carte, il peut regarder toutes les cartes de la zone spécifiée. S'il trouve une carte correspondant aux critères, il l'ajoute à la zone indiquée.
+• Si plusieurs cartes correspondent, le joueur choisit.
+• Après une recherche dans un deck, celui-ci doit être mélangé.
+Voir aussi : Paquet de rencontre, Trouver, Deck de joueur, Mélanger
+
+SELF-REFERENTIAL
+Voir : Capacité auto-référencée (Referential Ability)
+
+SET ASIDE, SET-ASIDE
+Mettre de côté signifie que les cartes sont hors-jeu et n'interagissent pas avec la partie jusqu'à ce qu'elles soient appelées par un effet.
+Voir aussi : En jeu et Hors-jeu
+
+SET ICON
+L'icône de set indique l'origine de la carte (set de héros, scénario, etc.).
+Voir aussi : Appendice III : Anatomie d'une carte
+
+SETUP (KEYWORD)
+Une carte avec le mot-clé mise en place commence la partie en jeu.
+Voir aussi : Mots-clés, Texte de rappel
+
+SETUP (TRIGGERED ABILITY)
+"Mise en place" est une capacité déclenchée obligatoire résolue pendant la préparation de la partie.
+Voir aussi : Capacité déclenchée
+
+SHUFFLE
+Mélanger consiste à rendre aléatoire l'ordre des cartes d'un deck. Tout deck cherché doit être mélangé ensuite.
+Voir aussi : Paquet de rencontre, Deck de joueur, Chercher
+
+SIDE SCHEME
+Type de carte de rencontre représentant des obstacles supplémentaires.
+• Entre en jeu avec de la menace (valeur de départ).
+• Reste en jeu jusqu'à ce qu'il n'y ait plus de menace dessus.
+Voir aussi : Types de carte, Vaincre, Entre en jeu, Quitte le jeu, Menace, Contrer
+
+SIMULTANEOUS RESOLUTION
+Si deux effets ou plus avec le même déclencheur devraient se résoudre simultanément, le premier joueur détermine l'ordre.
+
+SKIRMISH MODE
+Voir : Modes de jeu
+
+SPECIAL
+Une capacité spéciale est une capacité déclenchée (mot "Spécial" en gras) qui ne s'exécute que sur instruction explicite d'une autre carte.
+Voir aussi : Capacité déclenchée
+
+STALWART
+Un personnage avec le mot-clé robuste ne peut être ni sonné ni désorienté. Si un personnage devient robuste alors qu'il a ces cartes d'état, elles sont retirées.
+Voir aussi : Allié, Désorienté, Identité, Mots-clés, Sbire, Cartes d'état, Sonné, Méchant
+
+STANDARD MODE
+Voir : Modes de jeu
+
+STANDARD SET
+Le set Standard est un set de rencontre ajouté à la plupart des scénarios. Il n'est pas considéré comme un set modulaire.
+
+STAR ICON
+L'icône étoile () associée à une statistique ou un boost indique qu'une capacité obligatoire dans la boîte de texte correspond à ce champ. Elle sert de rappel pour vérifier le texte.
+• Si utilisée comme valeur de puissance, l'étoile vaut 0.
+Voir aussi : Activation, Allié, Attachement, Pouvoir de base, Boost, Identité, Sbire, Méchant
+
+STATUS CARDS
+Les cartes d'état représentent différents états (Sonné, Désorienté, Tenace).
+• Un personnage ne peut avoir qu'une seule carte de chaque type (sauf s'il est Solide).
+• Les capacités des cartes d'état ont la priorité sur les capacités déclenchées conflictuelles.
+- Désorienté : annule la prochaine manigance ou le prochain contre.
+- Sonné : annule la prochaine attaque.
+- Tenace : prévient la prochaine instance de dégâts.
+
+STEADY
+Un personnage avec le mot-clé solide peut avoir deux cartes d'état sonné et deux désorienté. Il n'est affecté que s'il en possède deux du même type.
+Voir aussi : Désorienté, Mots-clés, Cartes d'état, Sonné
+
+STUN, STUNNED
+Sonné est un état qui annule la prochaine attaque d'un personnage.
+• Si une identité ou un allié sonné tente d'attaquer, défaussez la carte sonné à la place (les coûts comme l'inclinaison sont payés).
+• Si un méchant ou un sbire sonné devait attaquer, défaussez la carte sonné à la place. L'attaque n'est pas considérée comme ayant eu lieu.
+Voir aussi : Allié, Annuler, Identité, Sbire, Cartes d'état, Cible, Méchant
+
+SUBTITLE
+Certaines cartes d'allié possèdent un sous-titre sous leur titre. Un sous-titre représente un alias alternatif qu'un personnage utilise parfois.
+Voir aussi : Icône unique
+
+SUPPORT
+Soutien est un type de carte de joueur qui représente des lieux, des alliés de l'ombre ou des amis, et d'autres éléments de coulisses qu'un héros ou un alter-ego peut avoir à sa disposition.
+• Les cartes soutien entrent en jeu dans la rangée arrière de la zone de jeu d'un joueur.
+• Une carte soutien est active tant qu'elle est en jeu, et elle y reste jusqu'à ce qu'une capacité de carte la fasse quitter le jeu.
+• Les attaques, contres, défenses, capacités d'action et capacités déclenchées qui se résolvent à partir de supports en jeu sous le contrôle d'un joueur ne sont pas considérés comme étant effectués par l'identité de ce joueur.
+Voir aussi : Types de carte, Entre en jeu, En jeu et Hors-jeu, Quitte le jeu, Carte de joueur, Zone de jeu d'un joueur
+
+SURGE
+Après qu'une carte de rencontre avec ce mot-clé est révélée, le joueur qui résout la carte révèle une carte de rencontre supplémentaire du dessus du paquet de rencontre.
+• Terminez le processus de résolution de la carte originale, ainsi que toutes les capacités de réponse déclenchées par la révélation de cette carte, avant de révéler la carte supplémentaire.
+Voir aussi : Carte de rencontre, Paquet de rencontre, Mots-clés, Texte de rappel, Révéler
+
+SUSTAINED DAMAGE
+Les dégâts subis font référence à la différence entre les points de vie maximum d'un personnage et ses points de vie restants.
+• Pour calculer les dégâts subis par une identité ou un méchant (en utilisant un compteur de points de vie), partez des points de vie maximum du personnage (valeur imprimée modifiée par les capacités de carte ou effets de jeu) et soustrayez ses points de vie restants (indiqués par le compteur).
+• Les dégâts subis par un allié ou un sbire sont égaux à la valeur totale de tous les jetons de dégâts présents sur la carte.
+Voir aussi : Allié, Dégâts, Points de vie, Identité, Maximum de points de vie, Points de vie restants, Méchant
+
+"SWAP"
+Une instruction demandant d'échanger deux composants signifie qu'il faut intervertir l'emplacement de ces deux composants.
+• Un échange ne peut être effectué s'il n'y a pas de composant dans les deux emplacements.
+» » Par exemple, vous ne pouvez pas "échanger une carte de votre main avec la carte du dessus de votre deck" si vous n'avez aucune carte en main.
+• Échanger une carte en main avec la carte du dessus d'un deck n'est pas considéré comme piocher cette carte.
+• Lors de l'échange d'une carte en zone de jeu avec une carte en zone hors-jeu, si ces deux cartes :
+» » Partagent un titre, aucune des deux n'est considérée comme entrant ou quittant le jeu. Les pions, cartes attachées, cartes glissées dessous et cartes d'état de la carte précédemment en jeu sont transférés à l'autre carte, et celle-ci conserve l'état (prêt ou incliné) de la carte précédente. Si la carte échangée possède un compteur de points de vie associé, celui-ci conserve la même valeur.
+» » Ne partagent pas de titre, la carte en jeu est considérée comme quittant le jeu et la carte hors-jeu est considérée comme entrant en jeu. Les pions, cartes attachées, cartes glissées dessous et cartes d'état ne sont pas transférés, et la nouvelle carte entre en jeu prête. Si elle possède un compteur de points de vie, celui-ci est réinitialisé à la valeur de points de vie imprimée de la nouvelle carte.
+Voir aussi : Capacité, Cible
+
+TABLE TALK
+Les joueurs sont autorisés et encouragés à se parler pendant le jeu, et à travailler en équipe pour planifier et exécuter la meilleure ligne de conduite. Les joueurs peuvent discuter de tout ce qu'ils souhaitent, y compris des cartes en jeu et des cartes dans leur main. Les joueurs ne sont pas obligés de divulguer les cartes de leur main s'ils ne le souhaitent pas.
+• Lors de la résolution d'une carte de rencontre avec le mot-clé péril, les joueurs ne sont pas autorisés à se consulter.
+Voir aussi : Mots-clés, Péril, Joueur
+
+TARGET
+Si une fonction de jeu ou une capacité de carte est dirigée vers un élément de jeu (comme une attaque qui inflige des dégâts à un ennemi), cet élément devient la cible de cette fonction ou capacité pour la durée de sa résolution.
+• Exemples de cibles : "le méchant", "un sbire", "un ennemi", "une manigance", "un héros", "un allié", "un personnage", "un joueur", "vous", "une carte".
+• Si une capacité ou fonction exige une ou plusieurs cibles, elle ne peut être initiée que si elle possède au moins une cible valide. Par exemple, "infligez 5 dégâts à un sbire" ne peut être initié s'il n'y a pas de sbire en jeu.
+» » Les pouvoirs de base sont des fonctions de jeu qui exigent une cible valide.
+» » L'expression "choisissez un [élément de jeu]" indique qu'une ou plusieurs cibles doivent être sélectionnées pour initier une capacité.
+» » Les capacités qui font piocher une ou plusieurs cartes ont toujours une cible valide tant que le joueur a au moins une carte dans son deck.
+• Une cible est valide si n'importe quelle partie de la capacité peut affecter cette cible.
+» » Exemples d'effets sur une cible : infliger/soigner des dégâts, ajouter/retirer de la menace, donner/retirer une carte d'état, incliner/redresser la cible, vaincre/défausser la cible.
+» » Exception : un personnage avec une ATK, MAN ou CTR de 0 peut effectuer une activation ou un pouvoir de base en utilisant cette valeur contre une cible par ailleurs valide. (Par exemple, un héros avec 0 en CTR peut contrer une manigance possédant de la menace).
+» » Le coût d'une capacité n'est pas pris en compte pour déterminer si elle peut affecter une cible.
+» » Si une capacité a plusieurs effets sur sa cible, celle-ci est valide si au moins l'un des effets peut l'affecter.
+» » Une cible n'est pas valide si la capacité l'obligerait à effectuer une fonction qu'une autre capacité lui interdit. Par exemple, un personnage avec un attachement disant "le personnage attaché ne peut pas se redresser" n'est pas une cible valide pour une carte qui redresse un personnage.
+» » Les dégâts infligés mais non reçus (par exemple, s'ils sont prévenus) sont considérés comme affectant la cible.
+» » Une cible qui "ne peut pas subir de dégâts" n'est pas valide pour une capacité dont le seul effet est de lui infliger des dégâts.
+» » Une cible qui ne peut pas être attaquée n'est pas valide pour une capacité étiquetée comme "attaque".
+» » Une cible qui ne peut pas être contrée n'est pas valide pour une capacité étiquetée comme "contre".
+» » Un effet utilisant "ce [cible]" se réfère à la cible d'un effet précédent et ne peut être résolu que pour une cible valide de cet effet précédent. Par exemple, "Infligez 5 dégâts à un ennemi. Sonnez cet ennemi" ne peut sonner qu'un ennemi capable de recevoir des dégâts.
+• Une capacité ciblant plusieurs éléments d'un type spécifique (ex: "chaque ennemi") peut être initiée tant qu'au moins l'un d'eux est une cible valide.
+» » Elle ne se résout pas contre les éléments qui ne sont pas des cibles valides.
+» » Par exemple, l'icône de crise () empêche de retirer de la menace de la manigance principale. "Retirez 1 menace de chaque manigance" peut être utilisé s'il existe au moins une manigance dont on peut retirer de la menace. Dans ce cas, aucune menace ne sera retirée de la manigance principale.
+• Une capacité se référant à une cible future ("la prochaine carte que vous jouez") ne nécessite pas de cible pour être initiée.
+• Une capacité avec un effet de recherche nécessite seulement une zone de jeu consultable pour être initiée.
+Voir aussi : Capacité, Choisir (Élément de jeu), Coût, Élément de jeu, Capacité étiquetée
+
+TARGET THREAT
+La menace cible est la quantité de menace requise pour que le deck de manigance principale avance. Elle est située dans le coin supérieur gauche de la carte, avant le titre.
+Voir aussi : Manigance principale, Menace
+
+TEAM-UP
+Le mot-clé en équipe nomme deux personnages. Pour inclure une carte avec ce mot-clé dans son deck, l'identité choisie par le joueur doit correspondre à l'un des personnages nommés. De plus, elle ne peut être jouée que si les deux personnages nommés (ami, identité ou allié) sont en jeu.
+• Un allié compte comme un personnage nommé si son titre ou son sous-titre correspond au nom requis.
+Voir aussi : Allié, Identité, En jeu et Hors-jeu, Mots-clés, Jouer, Texte de rappel, Appendice I : Personnalisation du deck
+
+TEAMWORK (TRAIT)
+Après qu'un sbire avec collaboration entre en jeu et engage un joueur, s'il y a au moins un autre sbire partageant le trait spécifié en jeu, le sbire qui vient d'entrer en jeu s'active contre le joueur avec lequel il est engagé.
+Voir aussi : Activation, Engager, Mots-clés
+
+TEMPORARY
+Une carte avec le mot-clé temporaire doit être défaussée du jeu à la fin du round.
+Voir aussi : Mots-clés
+
+TEXT BOX
+La boîte de texte d'une carte est la zone contenant les capacités imprimées, les traits et le texte d'ambiance (le cas échéant).
+• Si une capacité fait référence à la "boîte de texte" d'une carte, elle ne concerne que les capacités imprimées à l'intérieur de celle-ci.
+» » Les icônes imprimées dans la boîte de texte sont considérées comme des capacités.
+Voir aussi : Capacité, Imprimé, Traits, Appendice III : Anatomie d'une carte
+
+"THEN"
+Si le texte d'une capacité inclut le mot "puis", le texte précédant le mot "puis" doit être entièrement vrai ou résolu avant que le reste de l'effet décrit après "puis" puisse être résolu.
+• Si le texte avant le "puis" est entièrement résolu, le texte après le "puis" doit également tenter de se résoudre.
+• Si le texte avant le "puis" n'est pas entièrement résolu, le texte après le "puis" ne tente pas de se résoudre.
+
+THREAT
+Les pions de menace sont utilisés pour suivre la quantité de menace sur les cartes de manigance.
+Voir aussi : Limitations des composants, Manigance (Type de carte), Manigance (Activation d'ennemi), Manigance principale, Manigance secondaire, Prévenir, Contrer
+
+THW
+Voir : Pouvoir de base, Contrer
+
+THWART
+Certains effets de jeu et capacités font référence à une tentative de contre. Cela peut se produire de plusieurs façons :
+• Un héros ou un allié peut utiliser son pouvoir de contre de base pour contrer une manigance. Le personnage doit s'incliner pour utiliser ce pouvoir. Cela retire de la menace de la manigance à hauteur de la valeur de CTR du personnage.
+» » Un personnage ne peut initier un contre de base que s'il y a une manigance avec au moins une menace à retirer ou si ce personnage est désorienté.
+• Si une capacité déclenchée est étiquetée comme un contre — comme "Action de héros (contre)" — résoudre cette capacité est considéré comme un contre de la manigance spécifiée. Sauf indication contraire, un héros ne s'incline pas pour utiliser une telle capacité.
+» » Une capacité étiquetée comme un contre est considérée comme un seul contre, même si elle retire plusieurs instances de menace.
+» » Si une capacité augmente la quantité de menace retirée par une capacité étiquetée comme un contre et que cette dernière retire plusieurs instances de menace, chacune de ces instances qui n'utilise pas le mot "supplémentaire" est augmentée du montant spécifié.
+Voir aussi : Allié, Pouvoir de base, Dégâts consécutifs, Incliné, Capacité étiquetée, Manigance principale, Modificateurs, Manigance secondaire, Menace
+
+TOUGH
+Tenace est un état qui empêche un personnage de subir des dégâts.
+• Si un personnage avec une carte d'état tenace devait subir n'importe quelle quantité de dégâts, prévenez tous ces dégâts et défaussez une carte tenace à la place.
+» » Un personnage avec plusieurs cartes tenaces n'en défausse qu'une seule à chaque fois qu'il devrait subir des dégâts.
+» » Lorsqu'un héros avec une carte tenace défend une attaque, il réduit d'abord les dégâts de l'attaque par sa DEF. Si les dégâts tombent à 0, le héros ne perd pas sa carte tenace.
+• Lorsqu'un allié ou un sbire avec une carte tenace reçoit des dégâts excédentaires d'une attaque avec le mot-clé déferlement, les dégâts de déferlement ne sont pas infligés à l'identité du contrôleur de cet allié ou au méchant, respectivement.
+• Comme la carte tenace prévient entièrement les dégâts, le personnage n'est pas considéré comme ayant subi des dégâts.
+Voir aussi : Dégâts, Déferlement, Cartes d'état, Ténacité
+
+TOUGHNESS
+Lorsqu'un personnage avec le mot-clé ténacité entre en jeu, placez une carte d'état tenace sur lui.
+Voir aussi : Allié, Entre en jeu, Identité, Mots-clés, Sbire, Texte de rappel, Cartes d'état, Méchant
+
+TRAITS
+De nombreuses cartes possèdent un ou plusieurs traits listés en haut de la boîte de texte et imprimés en gras et italique.
+• Les traits n'ont aucun effet inhérent sur le jeu. Cependant, certaines capacités font référence aux cartes possédant ou non certains traits.
+• Les traits ne sont pas considérés comme faisant partie de la boîte de texte imprimée pour les effets des capacités.
+Voir aussi : Imprimé, Appendice III : Anatomie d'une carte
+
+TREACHERY
+Traîtrise est un type de carte de rencontre représentant des tactiques, des ruses, des catastrophes ou d'autres événements immédiats auxquels les joueurs sont confrontés.
+• Si une carte traîtrise est révélée du paquet de rencontre, le joueur qui la révèle doit en résoudre les effets.
+• Après avoir résolu les effets (ou s'ils sont annulés), placez la carte dans la pile de défausse de rencontre.
+» » Si une traîtrise provoque l'activation d'un ou plusieurs ennemis comme dernier effet, elle est considérée comme résolue et défaussée après la résolution de toutes ces activations.
+Voir aussi : Types de carte, Défausse, Carte de rencontre, Paquet de rencontre, Révéler, Méchant
+
+TRIGGERED ABILITY
+Une capacité déclenchée est indiquée par un déclencheur temporel en gras suivi de deux-points et du reste du texte de la capacité.
+Voir aussi : Capacité, Action, Forcé, Interruption, Capacité de ressource, Réponse, Mise en place (Capacité déclenchée), Résolution simultanée, Spécial, Condition de déclenchement, Capacités "Une fois vaincu", Capacités "Une fois révélé"
+
+TRIGGERING CONDITION
+Une condition de déclenchement est un événement spécifique qui survient dans le jeu. Sur les capacités de carte, elle indique le moment précis où la capacité peut être utilisée. La description suit généralement les mots "quand" ou "après".
+• Chaque capacité d'interruption ou de réponse ne peut être déclenchée qu'une seule fois par occurrence.
+» » Plusieurs copies d'une carte avec une interruption ou réponse peuvent être déclenchées par la même condition.
+• Si un seul événement crée plusieurs conditions (comme une attaque causant à la fois des dégâts et la défaite d'un personnage), ces conditions sont traitées dans une seule fenêtre d'interruption et une seule fenêtre de réponse. Pendant chacune, les capacités se référant à n'importe laquelle de ces conditions peuvent être utilisées dans n'importe quel ordre.
+Voir aussi : Interruption, Réponse
+
+TUCK
+Lorsqu'un joueur reçoit l'instruction de glisser une carte sous une autre, il place la carte face visible sous la carte cible.
+• Les cartes glissées dessous ne sont pas en jeu et ne sont pas considérées comme "attachées".
+• Lorsqu'une carte quitte le jeu, chaque carte glissée sous elle est défaussée.
+Voir aussi : En jeu et Hors-jeu
+
+UNDEFENDED
+Voir : Attaque (Activation d'ennemi)
+
+UNIQUE ICON
+L'icône unique indique une carte représentant une personne, un lieu ou un objet singulier dans l'univers Marvel.
+• Deux cartes uniques sont considérées comme "identiques" si :
+» » Elles partagent un titre, sans sous-titre ni titre d'alter-ego (ex: deux Jarnbjorn, ou l'alliée Jessica Jones et le sbire Jessica Jones).
+» » Le sous-titre ou titre d'alter-ego de l'une correspond au titre, sous-titre ou alter-ego de l'autre (ex: l'identité T'Challa, l'allié T'Challa et l'allié Black Panther avec le sous-titre "T'Challa").
+• Un joueur ne peut pas inclure plusieurs cartes identiques dans son deck. L'identité compte dans cette évaluation.
+• Lors du choix des identités à la mise en place, les joueurs ne peuvent pas choisir des identités identiques.
+» » Les joueurs peuvent choisir un scénario même si un ou plusieurs méchants sont identiques à une ou plusieurs identités choisies.
+• Une carte non-méchant hors-jeu identique à une carte en jeu ne peut pas entrer en jeu. S'il s'agit :
+» » D'une carte de joueur, elle ne peut être ni jouée ni mise en jeu.
+» » D'une carte de rencontre non-méchant, elle est défaussée. Si elle était en train d'être révélée, ses effets sont ignorés et le joueur se voit distribuer une nouvelle carte de rencontre face cachée.
+Voir aussi : Allié, Entre en jeu, Identité, Sbire, Joueur, Sous-titre, Méchant, Appendice I : Personnalisation du deck
+
+UPGRADE
+Amélioration est un type de carte de joueur représentant des pouvoirs, des attaques, des équipements et d'autres atouts qui sont (dans la plupart des cas) à la disposition immédiate d'une identité.
+• Une amélioration est active tant qu'elle est en jeu et y reste jusqu'à ce qu'une capacité la fasse quitter le jeu.
+• La plupart des améliorations entrent en jeu près de la carte d'identité d'un joueur et modifient le héros ou l'alter-ego (ou les deux).
+• Certaines améliorations entrent en jeu et "s'attachent à" une autre carte. Elles modifient la carte attachée, pas le héros ou l'alter-ego du joueur.
+» » Un joueur contrôle toutes les améliorations attachées aux personnages qu'il contrôle, même celles appartenant à un autre joueur.
+• Sauf si attachées à un personnage ami différent, les améliorations sont considérées comme une extension de l'identité du contrôleur. Les attaques, contres, défenses et capacités sur ces cartes sont considérés comme effectués par l'identité.
+Voir aussi : Attacher à, Types de carte, Entre en jeu, Identité, En jeu et Hors-jeu, Quitte le jeu, Propriété et Contrôle, Carte de joueur, Zone de jeu d'un joueur
+
+USES (X "TYPE")
+Lorsqu'une carte avec ce mot-clé entre en jeu, placez X pions polyvalents dessus. Le mot suivant la valeur identifie le type d'utilisations.
+Chaque carte avec ce mot-clé possède une capacité qui utilise ces pions comme coût.
+Quand le dernier pion est retiré, défaussez la carte.
+Voir aussi : jeton polyvalent, Défausse, Entre en jeu, Mots-clés, Quitte le jeu, Texte de rappel
+
+VALID TARGET
+Voir : Cible
+
+VICTORY DISPLAY
+La pile de victoire est une zone hors-jeu partagée par tous les joueurs.
+Voir aussi : En jeu et Hors-jeu, Joueur, Victoire X
+
+VICTORY X
+Lorsqu'une carte avec le mot-clé victoire X quitte le jeu dans les conditions suivantes, placez-la dans la pile de victoire au lieu de la défausse :
+• Un personnage ou une manigance secondaire avec victoire X est placé dans la pile de victoire lorsqu'il est vaincu.
+• Un attachement ou une amélioration avec victoire X est placé dans la pile de victoire lorsque la carte à laquelle il est attaché est vaincue.
+• Une carte avec victoire X et utilisations (X "type") est placée dans la pile de victoire quand son dernier pion est retiré.
+Dans la pile de victoire, X indique les points de victoire que vaut la carte.
+Voir aussi : Vaincre, Pile de défausse, Mots-clés, Texte de rappel, Utilisations (X "Type"), Pile de victoire
+
+VILLAIN, VILLAIN DECK
+Méchant est un type de carte de rencontre représentant l'ennemi principal. Le méchant est représenté par un deck séquentiel d'une ou plusieurs cartes. Les joueurs gagnent en réduisant les points de vie de chaque stade à zéro.
+• Les cartes méchant ne peuvent pas être défaussées du jeu.
+Voir aussi : Activation, Attaque (Activation d'ennemi), Manigance (Activation d'ennemi), Vaincre le méchant
+
+VILLAIN DEFEAT
+Si le compteur de points de vie du méchant tombe à zéro, ce stade est vaincu.
+Retirez le stade actuel du jeu et révélez le suivant. Réglez les points de vie comme indiqué.
+Si le dernier stade est vaincu, les joueurs gagnent.
+• La révélation d'un méchant ne peut pas être annulée.
+• Les dégâts excédentaires ne sont pas reportés au stade suivant.
+• Si le nouveau stade a le même titre : il est considéré comme le même personnage (conserve les attachements, cartes d'état, pions, riposte, etc.). S'il était en train de s'activer, il termine son activation.
+• Si le titre est différent : il n'est pas considéré comme le même personnage (ne conserve rien). L'activation en cours s'arrête sans se résoudre.
+Voir aussi : jeton polyvalent, Attachement, Dégâts, Vaincre, Dégâts excédentaires, Points de vie, Cartes d'état, Méchant
+
+VILLAIN PHASE
+Les étapes de la phase du méchant sont :
+1. Placer de la menace : placez sur la manigance principale le montant indiqué par le champ d'accélération (plus icônes/pions d'accélération).
+2. Activation des ennemis : dans l'ordre, pour chaque joueur :
+a. Le méchant s'active contre le joueur.
+b. Chaque sbire engagé avec lui s'active contre lui.
+3. Distribuer les cartes de rencontre : une par joueur (plus une par icône d'aléa).
+4. Révéler les cartes de rencontre : le premier joueur révèle les siennes une par une, puis les autres joueurs font de même dans l'ordre.
+5. Passer le pion de premier joueur au joueur suivant (sens horaire).
+6. Fin de la phase du méchant et du round.
+Voir aussi : Icône d'accélération, Activation, Attaque (Activation d'ennemi), Distribuer, Engager, Trouver, Icône d'aléa, Dans l'ordre des joueurs, Manigance principale, Sbire, Joueur, Révéler, Manigance (Activation d'ennemi), Menace, Méchant
+
+VILLAIN’S PLAY AREA
+La zone de jeu du méchant est l'endroit où se trouvent le deck du méchant, la manigance principale, le paquet de rencontre, la pile de défausse de rencontre et le compteur de points de vie du méchant.
+• Les cartes environnement et manigance secondaire y sont placées.
+• Les attachements sur des cartes de cette zone y restent.
+• Les sbires engagés avec un joueur sont dans la zone du joueur, pas celle du méchant.
+• Les obligations sont dans la zone du joueur concerné.
+Voir aussi : Attachement, Pile de défausse, Paquet de rencontre, Environnement, En jeu et Hors-jeu, Manigance principale, Sbire, Obligation, Méchant
+
+VILLAINOUS
+Lorsqu'un sbire avec le mot-clé vilenie s'active, donnez-lui une carte de boost face cachée. Résolvez-la (icônes et capacité étoile) pour cette activation, puis défaussez-la.
+• Si une capacité de boost réfère au "méchant", elle s'applique au méchant (même si c'est le sbire qui s'active).
+Voir aussi : Activation, Attaque (Activation d'ennemi), Boost, Défausse, Mots-clés, Sbire, Texte de rappel, Manigance (Activation d'ennemi)
+
+VULNERABLE
+Lorsqu'un personnage avec vulnérable devient désorienté ou sonné, il est immédiatement défaussé.
+• S'il subit simultanément assez de dégâts pour être vaincu et un état (sonné/désorienté), il est défaussé avant les dégâts et n'est pas considéré comme vaincu.
+• Si le personnage est à la fois solide et vulnérable, le mot-clé vulnérable ne s'active que lorsqu'il reçoit sa deuxième carte d'état identique.
+
+WHEN COMPLETED ABILITIES
+Une capacité "Une fois achevée" est un type de capacité déclenchée, indiquée par le déclencheur temporel en gras "Une fois achevée". Lorsqu'une manigance principale est achevée, toutes les capacités "Une fois achevée" présentes sur la carte sont résolues.
+Voir aussi : Manigance principale
+
+WHEN DEFEATED ABILITIES
+Une capacité "Une fois vaincu" est un type de capacité déclenchée, indiquée par le déclencheur temporel en gras "Une fois vaincu".
+• Lorsqu'un stade de méchant, une manigance secondaire, un stade de manigance principale, un allié ou un sbire est vaincu, toutes les capacités "Une fois vaincu" de la carte sont résolues.
+» » Une carte vaincue quitte le jeu après la résolution de sa capacité "Une fois vaincu", s'il y en a une.
+Voir aussi : Allié, Vaincre, Manigance principale, Sbire, Manigance secondaire, Capacité déclenchée, Méchant
+
+WHEN REVEALED ABILITIES
+Une capacité "Une fois révélé" est un type de capacité déclenchée, indiquée par le déclencheur temporel en gras "Une fois révélé". Lorsqu'un joueur révèle une carte du paquet de rencontre, un nouveau stade de manigance ou un nouveau stade de méchant, toutes les capacités "Une fois révélé" de la carte sont résolues.
+• Si une carte de rencontre avec une capacité "Une fois révélé" entre en jeu pendant la mise en place, résolvez cette capacité pendant l'étape "Résoudre la mise en place du scénario et les capacités Une fois révélé".
+• Si une carte de rencontre avec une capacité "Une fois révélé" est mise en jeu sans être révélée, la capacité ne se déclenche pas.
+• Les capacités "Une fois révélé" sur les cartes de méchant et de manigance principale ne peuvent pas être annulées.
+Voir aussi : Choisir (Élément de jeu), Carte de rencontre, Manigance principale, Capacité déclenchée, Méchant, Appendice II : Mise en place
+
+WILD RESOURCE
+Une ressource libre () est l'un des quatre types de ressources.
+• Les ressources libres peuvent être dépensées pour payer le coût en ressources des cartes et des capacités. Lorsqu'un joueur génère une ressource libre (), il peut spécifier quel type de ressource (énergie, mentale, physique ou libre) elle remplace.
+» » Lorsqu'une carte qui génère une ressource libre voit ses ressources doublées, chacune de ses ressources libres peut être déclarée comme un type différent.
+• Certaines capacités de cartes exigent spécifiquement que des ressources libres soient dépensées pour résoudre leurs effets.
+• Lorsque des ressources ne sont pas générées pour un coût, une ressource libre n'a aucune autre caractéristique que "ressource libre". Dans ce contexte, elle ne peut pas être interprétée comme l'un des autres types de ressources.
+Voir aussi : Capacité, Coût, Ressource énergie, Icônes, Ressource mentale, Ressource physique, Ressource
+
+WINNING THE GAME
+Si le dernier stade du méchant est vaincu, les joueurs gagnent la partie. Si le dernier stade du deck de manigance principale est achevé, le méchant gagne la partie.
+• Certains scénarios ont des conditions de victoire ou de défaite alternatives. Si ces conditions sont remplies, les joueurs gagnent ou perdent en conséquence.
+» » Les conditions de victoire ou de défaite alternatives ne peuvent pas être annulées ou ignorées.
+
+"WOULD"
+Le mot "devrait" (ou "serait") est utilisé pour définir la condition de déclenchement de certaines capacités d'interruption, et établit une priorité de timing plus élevée pour ces capacités que pour les interruptions au même déclencheur ne possédant pas le mot "devrait".
+• Si une interruption à une condition de déclenchement qui "devrait" se produire modifie la nature de ce qui est sur le point d'arriver (par exemple via un effet de remplacement), aucune autre interruption au déclencheur original ne peut être utilisée car la résolution de ce déclencheur n'est plus valide.
+Par exemple, une interruption qui indique "quand un personnage devrait être vaincu" se déclenche avant une interruption qui indique "quand un personnage est vaincu".
+Voir aussi : Interruption, Effet de remplacement, Capacité déclenchée
+
+"X" (VALUE)
+Voir : Variable non-numérique
+
+YOU, YOUR
+Lors de la résolution des capacités de cartes, si le mot "vous" peut être résolu comme se référant à l'identité du joueur, il doit être résolu ainsi. Cela inclut, sans s'y limiter, les cas suivants :
+• Si une phrase utilise "vous" et/ou "votre" plusieurs fois, toutes les occurrences dans cette phrase se réfèrent à la même identité ou au même joueur.
+• Si une carte inflige des dégâts à "vous", ou si "vous" subissez des dégâts, le joueur qui résout ces dégâts les applique au compteur de points de vie de son identité.
+• Si une capacité inflige des dégâts indirects à "vous", le joueur peut répartir ces dégâts sur les personnages en jeu sous son contrôle.
+• Si une capacité "vous" incline, le joueur incline son identité.
+• Si une capacité place une carte d'état sur "vous" (ex: "vous êtes sonné"), le joueur place cette carte d'état sur son identité.
+• Si une capacité se déclenche à partir d'une fonction de jeu que "vous" effectuez (ex: "après que vous avez attaqué et vaincu un ennemi"), le joueur doit résoudre cette capacité comme si l'identité qu'il contrôle avait effectué cette fonction, si possible. (Par exemple, si une capacité se déclenche "après que vous avez attaqué et vaincu un sbire", elle se déclenche si l'identité du joueur attaque et vainc un sbire, mais pas si c'est un allié sous son contrôle qui le fait).
+• Exception : Pour les capacités qui se déclenchent "après que [ennemi] vous a attaqué", "vous" se réfère au joueur attaqué, même si ce joueur a défendu avec un allié.
+
+Si le mot "vous" ne peut pas être résolu comme se référant à l'identité, il doit être résolu comme se référant au joueur. Cela inclut :
+• Si une étape ou capacité défausse des cartes de "votre" main, le joueur défausse les cartes de sa main.
+• Si une capacité cherche dans "votre" deck, le joueur cherche dans son deck.
+• Si une capacité effectue une fonction contre une carte non-identité que "vous" contrôlez (incliner, défausser, mettre de côté, etc.), le joueur effectue cette fonction contre la carte dans sa zone de jeu.
+
+Certaines cartes de joueur sont considérées comme une extension de l'identité du joueur. Lorsqu'une action ou capacité est résolue sur ces types de cartes, elle est considérée comme effectuée par cette identité :
+• Évènements — Les attaques, contres, défenses, capacités d'action et déclenchées issues d'un évènement joué par un joueur sont considérés comme effectués par son identité.
+• Ressources — Les attaques, contres, défenses et capacités déclenchées issues d'une carte ressource dépensée sont considérés comme effectués par l'identité.
+• Améliorations — Sauf si attachées à un autre personnage ami, les améliorations sont une extension de l'identité.
+
+Les cartes suivantes ne sont PAS considérées comme une extension de l'identité :
+• Alliés — Leurs attaques, contres, défenses et capacités ne sont pas considérés comme effectués par l'identité du joueur.
+• Cartes de rencontre — Leurs capacités déclenchées ne sont pas considérées comme effectuées par l'identité du joueur, qu'elles soient optionnelles ou forcées.
+• Manigances secondaires de joueur — Leurs capacités déclenchées ne sont pas considérées comme effectuées par l'identité du joueur.
+• Supports — Leurs capacités et actions ne sont pas considérées comme effectuées par l'identité du joueur.
+Voir aussi : Capacité, Allié, Évènement, Identité, Joueur, Carte de joueur, Deck de joueur, Zone de jeu d'un joueur, Ressource, Soutien, Amélioration
+
+"X" (VALUE)
+Voir : Variable non-numérique
+

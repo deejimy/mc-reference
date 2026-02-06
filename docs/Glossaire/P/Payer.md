@@ -1,5 +1,5 @@
 # Payer
 
 
-See: Cost
+Voir : Coût
 

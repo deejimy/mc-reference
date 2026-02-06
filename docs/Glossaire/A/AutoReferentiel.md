@@ -1,5 +1,5 @@
 # Auto-Référentiel
 
 
-See: Referential Ability
+Voir : Capacité auto-référencée (Referential Ability)
 

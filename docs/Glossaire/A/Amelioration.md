@@ -1,36 +1,17 @@
 # Amélioration
 
 
-Upgrade is a player card type that represents powers,
-attacks, equipment, and other assets that are (in most cases)
-at an identity’s immediate disposal.
+Amélioration est un type de carte de joueur représentant des pouvoirs, des attaques, des équipements et d'autres atouts qui sont (dans la plupart des cas) à la disposition immédiate d'une identité.
 
-  - An upgrade is active so long as it is in play, and it
-remains in play until a card ability causes it to leave
-play.
+  - Une amélioration est active tant qu'elle est en jeu et y reste jusqu'à ce qu'une capacité la fasse quitter le jeu.
 
-  - Most upgrade cards enter play near a player’s identity
-card, and modify the player’s hero or alter-ego (or
-both).
+  - La plupart des améliorations entrent en jeu près de la carte d'identité d'un joueur et modifient le héros ou l'alter-ego (ou les deux).
 
-  - Some upgrades enter play and "attach to" another
-card. These upgrades modify the card they are
-attached to, not the hero or alter-ego of the player
-who played the upgrade.
+  - Certaines améliorations entrent en jeu et "s'attachent à" une autre carte. Elles modifient la carte attachée, pas le héros ou l'alter-ego du joueur.
 
-  - A player controls any upgrades attached to
-characters they control, including upgrades owned
-by another player.
+  - Un joueur contrôle toutes les améliorations attachées aux personnages qu'il contrôle, même celles appartenant à un autre joueur.
 
-  - Unless attached to a different friendly character,
-upgrade cards are considered to be an extension
-of the controlling player’s identity. Attacks, thwarts,
-defenses, action abilities, and triggered abilities that
-resolve on such upgrades are also considered to be
-resolved by that player’s identity.
+  - Sauf si attachées à un personnage ami différent, les améliorations sont considérées comme une extension de l'identité du contrôleur. Les attaques, contres, défenses et capacités sur ces cartes sont considérés comme effectués par l'identité.
 
-
-See also: Attach To, Card Types, Enters Play, Identity, In
-Play and Out of Play, Leaves Play, Ownership and Control,
-Player Card, Player’s Play Area
+Voir aussi : Attacher à, Types de carte, Entre en jeu, Identité, En jeu et Hors-jeu, Quitte le jeu, Propriété et Contrôle, Carte de joueur, Zone de jeu d'un joueur
 

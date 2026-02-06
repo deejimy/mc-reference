@@ -1,5 +1,5 @@
 # Capacité de carte
 
 
-See: Ability
+Voir : Capacité
 

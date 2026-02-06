@@ -1,37 +1,27 @@
 # Classifications
 
 
-A card’s classification is the group that a card belongs to as
-determined by its specific attributes.
+La classification d'une carte est le groupe auquel une carte appartient, déterminé par ses attributs spécifiques.
 
-  - Cards in the "identity-specific" classification are cards
-that belong to an identity’s set of accompanying
-cards. (See: Identity-Specific Card)
+  - Les cartes de la classification "spécifique à l'identité" sont des cartes qui appartiennent au set de cartes accompagnant une identité. (Voir : Carte spécifique à l'identité)
 
-  - Cards in the "aspect" classification are cards that
-belong to the Aggression, Justice, Leadership,
-Protection, and/or ‘Pool aspects. (See: Aspect Card)
+  - Les cartes de la classification "affinité" sont des cartes qui appartiennent aux affinités Agressivité, Justice, Commandement, Protection et/ou 'Pool. (Voir : Carte d'affinité)
 
-  - Cards in the "Basic" classification are not associated
-with a specific identity or aspect. (See: Basic Card)
+  - Les cartes de la classification "Basique" ne sont pas associées à une identité ou une affinité spécifique. (Voir : Carte Basique)
 
-  - Cards in the "scenario-specific" classification are
-cards that belong to a scenario’s set of accompanying
-cards. (See: Scenario-Specific Card)
+  - Les cartes de la classification "spécifique au scénario" sont des cartes qui appartiennent au set de cartes accompagnant un scénario. (Voir : Carte spécifique au scénario)
 
-  - Cards in the "modular encounter set" or "modular
-set" classification are cards that belong to a modular
-set of encounter cards. (See: Modular Encounter Set)
+  - Les cartes de la classification "set de rencontre modulaire" ou "set modulaire" sont des cartes qui appartiennent à un set de rencontre qui peut être ajouté ou retiré d'un scénario. (Voir : Set de rencontre modulaire)
 
-  - Cards in the "campaign-specific" classification are
-cards that can only be used during a campaign from
-the same product. (See: Campaign-Specific Card)
+  - Les cartes de la classification "spécifique à la campagne" sont des cartes qui appartiennent au set de cartes accompagnant une campagne. (Voir : Carte spécifique à la campagne)
 
-  - Cards in the "Standard" classification are cards that
-are added to most scenarios. (See: Modes of Play,
-Standard Set)
+Voir aussi : Carte d'affinité, Carte Basique, Carte spécifique à la campagne, Carte spécifique à l'identité, Set de rencontre modulaire, Carte spécifique au scénario.
 
-  - Cards in the "Expert" classification are cards that are
-added to scenarios when playing expert mode. (See:
-Expert Set, Modes of Play)
+  - Les cartes de la classification "set de rencontre modulaire" ou "set modulaire" sont des cartes qui appartiennent à un set de rencontre qui peut être ajouté ou retiré d'un scénario. (Voir : Set de rencontre modulaire)
+
+  - Les cartes de la classification "spécifique à la campagne" sont des cartes qui ne peuvent être utilisées que pendant une campagne provenant du même produit. (Voir : Carte spécifique à la campagne)
+
+  - Les cartes de la classification "Standard" sont des cartes qui sont ajoutées à la plupart des scénarios. (Voir : Modes de jeu, Set Standard)
+
+  - Les cartes de la classification "Expert" sont des cartes qui sont ajoutées aux scénarios lors d'une partie en mode expert. (Voir : Set Expert, Modes de jeu)
 

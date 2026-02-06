@@ -1,16 +1,11 @@
 # Traits
 
 
-Many cards have one or more traits listed at the top of the
-text box and printed in bold italics.
+De nombreuses cartes possèdent un ou plusieurs traits listés en haut de la boîte de texte et imprimés en gras et italique.
 
-  - Traits have no inherent effects on the game. Instead,
-some card abilities reference cards that possess or
-lack specific traits.
+  - Les traits n'ont aucun effet inhérent sur le jeu. Cependant, certaines capacités font référence aux cartes possédant ou non certains traits.
 
-  - Traits are not considered to be part of a card’s
-printed text box for the purpose of card abilities.
+  - Les traits ne sont pas considérés comme faisant partie de la boîte de texte imprimée pour les effets des capacités.
 
-
-See also: Printed, Appendix III: Card Anatomy
+Voir aussi : Imprimé, Appendice III : Anatomie d'une carte
 

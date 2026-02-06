@@ -1,5 +1,5 @@
 # Points de Vie Infini
 
 
-See: Hit Points
+Voir : Points de vie
 

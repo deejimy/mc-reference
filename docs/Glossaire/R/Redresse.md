@@ -1,16 +1,11 @@
 # Redressé
 
 
-Cards enter play in a ready state, positioned so that their
-controller can read their text from left to right.
+Les cartes entrent en jeu dans un état prêt, positionnées de manière à ce que leur contrôleur puisse lire leur texte de gauche à droite.
 
-  - If a player is instructed to ready an exhausted card,
-the card is returned to its ready state.
+  - Si un joueur reçoit l'instruction de redresser une carte inclinée, la carte revient à son état prêt.
 
-  - If there is an additional cost for a player to ready a
-card, that player can choose not to pay that cost.
-If they do not pay the cost, the card does not ready.
+  - S'il existe un coût supplémentaire pour redresser une carte, le joueur peut choisir de ne pas le payer. S'il ne paie pas le coût, la carte ne se redresse pas.
 
-
-See also: Enters Play, Exhausted
+Voir aussi : Entre en jeu, Incliné
 

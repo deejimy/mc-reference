@@ -1,5 +1,5 @@
 # Non défendue
 
 
-See: Attack (Enemy Activation)
+Voir : Attaque (Activation d'ennemi)
 

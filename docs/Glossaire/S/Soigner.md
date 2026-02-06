@@ -1,16 +1,11 @@
 # Soigner
 
 
-If an ability heals a character, damage the character has
-sustained can be removed from the character.
+Si une capacité soigne un personnage, les dégâts que le personnage a subis peuvent être retirés de ce personnage.
 
-  - A heal effect can only bring a character to its
-maximum hit points, unless the effect explicitly states
-it can bring the character above its maximum.
+  - Un effet de soin ne peut ramener un personnage qu'à son maximum de points de vie, à moins que l'effet ne stipule explicitement qu'il peut amener le personnage au-dessus de son maximum.
 
-  - Effects that move damage off of a character are
-considered to heal that character.
+  - Les effets qui déplacent des dégâts hors d'un personnage sont considérés comme soignant ce personnage.
 
-
-See also: Ally, Hit Points, Identity, Minion, Villain
+Voir aussi : Allié, Points de vie, Identité, Sbire, Méchant
 

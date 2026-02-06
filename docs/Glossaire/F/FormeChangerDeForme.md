@@ -1,48 +1,25 @@
 # Forme, changer de forme
 
 
-A player can be in either hero or alter-ego form at a given
-time. This is indicated by the player’s identity card.
+Un joueur peut être soit sous forme de héros, soit sous forme d'alter-ego à un moment donné. Cela est indiqué par la carte d'identité du joueur.
 
-  - Once each round, during their turn, each player is
-permitted to change form by flipping their identity
-card.
+  - Une fois par round, pendant son tour, chaque joueur est autorisé à changer de forme en retournant sa carte d'identité.
 
-  - When a player changes form, only the form changes.
-The character retains their sustained damage, status
-cards, lasting effects, attachments, tokens, and
-current state (ready or exhausted).
+  - Lorsqu'un joueur change de forme, seule la forme change. Le personnage conserve ses dégâts subis, ses cartes d'état, ses effets persistants, ses attachements, ses pions et son état actuel (prêt ou incliné).
 
-  - If a card ability causes a player to change forms,
-it does not count against the one voluntary form
-change the player is permitted during their turn that
-round.
+  - Si une capacité de carte amène un joueur à changer de forme, cela ne compte pas dans la limite d'un changement de forme volontaire autorisé par tour pendant ce round.
 
-  - While a player is in hero form, card abilities that
-interact with their alter-ego do not interact with
-their identity.
+  - Tant qu'un joueur est sous forme de héros, les capacités de carte qui interagissent avec son alter-ego n'interagissent pas avec son identité.
 
-  - While a player is in alter-ego form, card abilities
-that interact with their hero do not interact with
-their identity.
+  - Tant qu'un joueur est sous forme d'alter-ego, les capacités de carte qui interagissent avec son héros n'interagissent pas avec son identité.
 
-  - Cards with the "[type] form" keyword grant an
-identity unique forms.
+  - Les cartes avec le mot-clé "forme [type]" confèrent à une identité des formes uniques.
 
-  - These forms are in addition to the identity’s alterego
-and hero forms, and they come with their own
-conditions for changing into them.
+  - Ces formes s'ajoutent aux formes alter-ego et héros de l'identité, et elles possèdent leurs propres conditions pour s'y transformer.
 
-  - When an identity changes their additional form, it
-does not count against the once-per-turn limit on
-flipping from hero to alter-ego (or vice versa), but
-it does count as changing form for the purpose of
-triggering card effects.
+  - Lorsqu'une identité change pour sa forme additionnelle, cela ne compte pas dans la limite d'une fois par tour pour passer de héros à alter-ego (ou vice versa), mais cela compte comme un changement de forme pour le déclenchement des effets de carte.
 
-  - Cards with the text "[type] form only" can only be
-played or put into play by a player whose identity is in
-the specified form.
+  - Les cartes avec le texte "forme [type] uniquement" ne peuvent être jouées ou mises en jeu que par un joueur dont l'identité est sous la forme spécifiée.
 
-
-See also: Flip, Identity, Keywords
+Voir aussi : Retourner, Identité, Mots-clés
 

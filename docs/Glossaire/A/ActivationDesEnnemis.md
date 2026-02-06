@@ -1,8 +1,5 @@
 # Activation des Ennemis
 
 
-See: Activation, Attack (Enemy Activation), Scheme (Enemy
-Activation)
-
-See: Activation, Scheme (Enemy Activation)
+Voir : Activation, Attaque (Activation d'ennemi), Manigance (Activation d'ennemi)
 

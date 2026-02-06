@@ -1,10 +1,7 @@
 # A distance
 
 
-An attack with the ranged keyword ignores the retaliate
-keyword.
+Une attaque avec le mot-clé à distance ignore le mot-clé riposte.
 
-
-See also: Attack (Enemy Activation), Attack (Player Ability
-Type), Keywords, Reminder Text, Retaliate X
+Voir aussi : Attaque (Activation d'ennemi), Attaque (Type de capacité de joueur), Mots-clés, Texte de rappel, Riposte X
 

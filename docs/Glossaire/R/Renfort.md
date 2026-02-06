@@ -1,16 +1,9 @@
 # Renfort
 
 
-After an encounter card with this keyword is revealed, the
-player resolving the card reveals an additional encounter
-card from the top of the encounter deck.
+Après qu'une carte de rencontre avec ce mot-clé est révélée, le joueur qui résout la carte révèle une carte de rencontre supplémentaire du dessus du paquet de rencontre.
 
-  - Complete the process of resolving the original card,
-as well as any response abilities that are triggered
-by that card being revealed, before revealing the
-additional card.
+  - Terminez le processus de résolution de la carte originale, ainsi que toutes les capacités de réponse déclenchées par la révélation de cette carte, avant de révéler la carte supplémentaire.
 
-
-See also: Encounter Card, Encounter Deck, Keywords,
-Reminder Text, Reveal
+Voir aussi : Carte de rencontre, Paquet de rencontre, Mots-clés, Texte de rappel, Révéler
 

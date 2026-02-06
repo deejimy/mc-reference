@@ -1,24 +1,13 @@
 # Traîtrise
 
 
-Treachery is an encounter card type that represent tactics,
-tricks, disasters, and other immediate occurrences that
-confront players during a scenario.
+Traîtrise est un type de carte de rencontre représentant des tactiques, des ruses, des catastrophes ou d'autres événements immédiats auxquels les joueurs sont confrontés.
 
-  - If a treachery card is revealed from the encounter
-deck, the player revealing the card must resolve its
-effects.
+  - Si une carte traîtrise est révélée du paquet de rencontre, le joueur qui la révèle doit en résoudre les effets.
 
-  - After resolving the effects of a treachery card (or the
-effects are canceled), place the card in the encounter
-discard pile.
+  - Après avoir résolu les effets (ou s'ils sont annulés), placez la carte dans la pile de défausse de rencontre.
 
-  - If a treachery causes one or more enemies to
-activate as its last effect, that treachery card is
-considered resolved and is discarded after all of
-those activations have resolved.
+  - Si une traîtrise provoque l'activation d'un ou plusieurs ennemis comme dernier effet, elle est considérée comme résolue et défaussée après la résolution de toutes ces activations.
 
-
-See also: Card Types, Discard, Encounter Card, Encounter
-Deck, Reveal, Villain
+Voir aussi : Types de carte, Défausse, Carte de rencontre, Paquet de rencontre, Révéler, Méchant
 

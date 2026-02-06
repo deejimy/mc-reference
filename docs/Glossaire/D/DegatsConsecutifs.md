@@ -1,34 +1,16 @@
 # Dégâts consécutifs
 
 
-After an ally attacks, it takes consequential damage equal to
-the number of consequential damage icons () beneath its
-ATK field.
-After an ally thwarts, it takes consequential damage equal
-to the number of consequential damage icons () beneath
-its THW field.
+Après qu'un allié a attaqué, il subit des dégâts consécutifs égaux au nombre d'icônes de dégâts consécutifs () sous son champ ATK.
+Après qu'un allié a contré, il subit des dégâts consécutifs égaux au nombre d'icônes de dégâts consécutifs () sous son champ CTR.
 
-  - Consequential damage is dealt to an ally after
-resolving abilities that are triggered by the ally
-attacking or thwarting.
+  - Les dégâts consécutifs sont infligés à un allié après la résolution des capacités déclenchées par l'attaque ou le contre de l'allié.
 
-  - If the target of an ally’s basic power leaves play
-before that ally deals damage equal to its ATK or
-removes threat equal to its THW, the ally does not
-take consequential damage (but still exhausts).
+  - Si la cible de la puissance de base d'un allié quitte le jeu avant que cet allié n'inflige des dégâts égaux à son ATK ou ne retire de la menace égale à son CTR, l'allié ne subit pas de dégâts consécutifs (mais reste incliné).
 
-  - That ally is not considered to have attacked or
-thwarted for the purpose of other abilities.
+  - Cet allié n'est pas considéré comme ayant attaqué ou contré pour les besoins d'autres capacités.
 
-  - For example, Iron Fist’s ability reads: "Interrupt:
-When Iron Fist attacks an enemy, remove 1 mystic
-counter from him → stun that enemy and deal
-1 damage to it." If this effect defeats the enemy
-Iron Fist was attacking, the basic attack aborts as
-soon as the target leaves play, so Iron Fist does not
-take consequential damage from it.
+  - Par exemple, la capacité d'Iron Fist indique : "Interruption : quand Iron Fist attaque un ennemi, retirez 1 pion mystique de lui → sonnez cet ennemi et infligez-lui 1 dégât." Si cet effet vainc l'ennemi qu'Iron Fist attaquait, l'attaque de base avorte dès que la cible quitte le jeu, donc Iron Fist ne subit pas de dégâts consécutifs.
 
-
-See also: Ally, Attack (Player Ability Type), Basic Power,
-Damage, Icons, Thwart
+Voir aussi : Allié, Attaque (Type de capacité de joueur), Puissance de base, Dégâts, Icônes, Contrer
 

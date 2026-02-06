@@ -1,25 +1,13 @@
 # Capacité une fois révélée
 
 
-A when revealed ability is a type of triggered ability,
-indicated by the bold "When Revealed" timing trigger.
-When a player reveals a card from the encounter deck,
-a new scheme stage, or a new villain stage, all "When
-Revealed" abilities on the card resolve.
+Une capacité "Une fois révélé" est un type de capacité déclenchée, indiquée par le déclencheur temporel en gras "Une fois révélé". Lorsqu'un joueur révèle une carte du paquet de rencontre, un nouveau stade de manigance ou un nouveau stade de méchant, toutes les capacités "Une fois révélé" de la carte sont résolues.
 
-  - If an encounter card with a "When Revealed" ability
-enters play during setup, resolve that ability during
-the "Resolve Scenario Setup and When Revealed
-Abilities" step.
+  - Si une carte de rencontre avec une capacité "Une fois révélé" entre en jeu pendant la mise en place, résolvez cette capacité pendant l'étape "Résoudre la mise en place du scénario et les capacités Une fois révélé".
 
-  - If an encounter card with a "When Revealed" ability
-is put into play without being revealed, the "When
-Revealed" ability does not trigger.
+  - Si une carte de rencontre avec une capacité "Une fois révélé" est mise en jeu sans être révélée, la capacité ne se déclenche pas.
 
-  - "When Revealed" abilities on villain and main
-scheme cards cannot be canceled.
+  - Les capacités "Une fois révélé" sur les cartes de méchant et de manigance principale ne peuvent pas être annulées.
 
-
-See also: Choose (Game Element), Encounter Card, Main
-Scheme, Triggered Ability, Villain, Appendix II: Setup
+Voir aussi : Choisir (Élément de jeu), Carte de rencontre, Manigance principale, Capacité déclenchée, Méchant, Appendice II : Mise en place
 

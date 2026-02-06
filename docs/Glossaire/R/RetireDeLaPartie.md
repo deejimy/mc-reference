@@ -1,14 +1,9 @@
 # Retiré de la Partie
 
 
-A card that has been removed from the game is set aside
-and does not interact with the game in any manner for the
-duration of its removal. If there is no specified duration, a
-card that has been removed from the game is considered
-removed until the end of the game.
+Une carte retirée de la partie est mise de côté et n'interagit plus avec le jeu de quelque manière que ce soit pour la durée spécifiée. Si aucune durée n'est précisée, elle est considérée comme retirée jusqu'à la fin de la partie.
 
-  - "Removed from the game" is an out-of-play state.
+  - "Retiré de la partie" est un état hors-jeu.
 
-
-See also: In Play and Out of Play, Leaves Play
+Voir aussi : En jeu et Hors-jeu, Quitte le jeu
 

@@ -1,5 +1,5 @@
 # Effet
 
 
-See: Ability, Cost
+Voir : Capacité, Coût
 

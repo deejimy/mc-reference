@@ -1,5 +1,5 @@
 # Pile de Défausse Rencontre
 
 
-See: Discard Pile
+Voir : Pile de défausse
 

@@ -1,31 +1,13 @@
 # Etre censé
 
 
-A triggering condition is a specific occurrence that takes
-place in the game. On card abilities, the triggering
-condition is the element of the ability that references
-such an occurrence, indicating the timing point at which
-the ability may be used. The description of an ability’s
-triggering condition usually follows the word "when" or
-"after."
+Une condition de déclenchement est un événement spécifique qui survient dans le jeu. Sur les capacités de carte, elle indique le moment précis où la capacité peut être utilisée. La description suit généralement les mots "quand" ou "après".
 
-  - Each "Interrupt" and "Response" ability can only
-be triggered once per occurrence of its triggering
-condition.
+  - Chaque capacité d'interruption ou de réponse ne peut être déclenchée qu'une seule fois par occurrence.
 
-  - Multiple copies of a card with an interrupt or
-response can each be triggered by the same
-triggering condition.
+  - Plusieurs copies d'une carte avec une interruption ou réponse peuvent être déclenchées par la même condition.
 
-  - If a single game occurrence creates multiple
-triggering conditions (such as a single attack causing
-a character to both take damage and be defeated),
-those triggering conditions are handled with a single
-interrupt window and a single response window.
-During each of these windows, abilities that refer
-to any of the triggering conditions created by the
-occurrence may be used in any order.
+  - Si un seul événement crée plusieurs conditions (comme une attaque causant à la fois des dégâts et la défaite d'un personnage), ces conditions sont traitées dans une seule fenêtre d'interruption et une seule fenêtre de réponse. Pendant chacune, les capacités se référant à n'importe laquelle de ces conditions peuvent être utilisées dans n'importe quel ordre.
 
-
-See also: Interrupt, Response
+Voir aussi : Interruption, Réponse
 

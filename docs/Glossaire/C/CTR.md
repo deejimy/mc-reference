@@ -1,5 +1,5 @@
 # CTR
 
 
-See: Basic Power, Thwart
+Voir : Pouvoir de base, Contrer
 

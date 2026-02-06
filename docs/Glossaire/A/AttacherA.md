@@ -1,30 +1,11 @@
 # Attacher À
 
 
-If a card uses the phrase "attach to", it must be attached to
-(placed beneath and slightly overlapped by) the specified
-game element as it enters play.
+Si une carte utilise l'expression "s'attacher à", elle doit être attachée à (placée sous et légèrement chevauchée par) l'élément de jeu spécifié lors de son entrée en jeu.
 
-  - Once a card is attached, it remains in play until either
-the element it is attached to leaves play, in which case
-the attached card is discarded, or an ability or game
-effect causes the attached card to leave play.
+  - Une fois qu'une carte est attachée, elle reste en jeu jusqu'à ce que soit l'élément auquel elle est attachée quitte le jeu (auquel cas la carte attachée est défaussée), soit une capacité ou un effet de jeu provoque le départ de la carte attachée.
 
-  - An attached card exhausts and readies independently
-of the game element it is attached to.
+  - Une carte attachée s'incline et se redresse indépendamment de l'élément de jeu auquel elle est attachée.
 
-  - The "attach to" phrase is checked for legality when
-the card would be attached to a game element, but it
-is not checked again after it is attached. If the initial
-"attach to" check does not pass, the card is not able
-to be attached, so it remains in its prior state or game
-area. If such a card cannot remain in its prior state or
-game area, discard it.
-
-  - The "attach to" phrase on a card is not resolved
-if another ability causes that card to attach to a
-specific game element.
-
-
-See also: Attachment, Game Element, Upgrade
+  - La clause "s'attacher à" est vérifiée lors de l'attachement, mais n'est pas revérifiée ensuite. Si le test initial échoue, la carte n'est pas attachée et reste dans son état ou sa zone précédente. Si elle ne peut y rester, elle est défaussée.
 

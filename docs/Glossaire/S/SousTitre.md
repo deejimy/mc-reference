@@ -1,9 +1,7 @@
 # Sous-Titre
 
 
-Some ally cards have a subtitle beneath the title. A subtitle
-represents an alternate alias a character sometimes uses.
+Certaines cartes d'allié possèdent un sous-titre sous leur titre. Un sous-titre représente un alias alternatif qu'un personnage utilise parfois.
 
-
-See also: Unique Icon
+Voir aussi : Icône unique
 

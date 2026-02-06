@@ -1,5 +1,5 @@
 # Tomber à Court de Cartes
 
 
-See: Encounter Deck, Player Deck
+Voir : Paquet de rencontre, Deck de joueur
 

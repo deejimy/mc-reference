@@ -1,14 +1,9 @@
 # Manigance (type de carte)
 
 
-The word "scheme" denotes three different card types:
-main schemes, player side schemes, and side schemes.
+Le mot "manigance" désigne trois types de cartes : manigances principales, manigances secondaires de joueur et manigances secondaires.
 
-  - If a card ability places threat on or removes threat
-from "a scheme," the player resolving that ability
-chooses which scheme—main scheme or side
-schemes—that ability affects.
+  - Si une capacité place ou retire de la menace d'une "manigance", le joueur choisit laquelle.
 
-
-See also: Main Scheme, Player Side Scheme, Side Scheme
+Voir aussi : Manigance principale, Manigance secondaire de joueur, Manigance secondaire
 

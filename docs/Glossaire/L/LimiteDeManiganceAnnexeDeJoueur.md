@@ -1,18 +1,11 @@
 # Limite de Manigance Annexe de Joueur
 
 
-The number of player side schemes in play at any time is
-limited by the player side scheme limit.
+Le nombre de manigances secondaires de joueur en jeu à tout moment est restreint par la limite de manigances secondaires de joueur.
 
-  - If one or two players started the game, the player
-side scheme limit is one. If three or four players
-started the game, the limit is two.
+  - Si un ou deux joueurs ont commencé la partie, la limite est de une. Si trois ou quatre joueurs ont commencé la partie, la limite est de deux.
 
-  - If there are ever more player side schemes in play
-than the limit, the first player chooses and discards
-player side schemes until there are no longer more in
-play than the limit.
+  - S'il y a plus de manigances secondaires de joueur en jeu que la limite, le premier joueur choisit et défausse des manigances secondaires de joueur jusqu'à ne plus dépasser la limite.
 
-
-See also: Player Side Scheme
+Voir aussi : Manigance secondaire de joueur
 

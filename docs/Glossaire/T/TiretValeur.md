@@ -1,24 +1,13 @@
 # Tiret (Valeur)
 
 
-A value presented as a dash (–) indicates that value cannot
-be used.
+Une valeur représentée par un tiret (–) indique que cette valeur ne peut pas être utilisée.
 
-  - If a card has a dash (–) as its cost value, that card
-cannot be played and can only enter play through
-other means.
+  - Si une carte possède un tiret (–) comme valeur de coût, cette carte ne peut pas être jouée et ne peut entrer en jeu que par d'autres moyens.
 
-  - If a character’s power (ATK, DEF, REC, SCH, and
-THW) has a dash (–) as the value, the character cannot
-exhaust to use that power.
+  - Si la puissance d'un personnage (ATK, DEF, REC, MAN et CTR) possède un tiret (–) comme valeur, le personnage ne peut pas s'incliner pour utiliser cette puissance.
 
-  - If a game step or card ability references a value of
-dash (–), that value is treated as an unmodifiable
-0. (For example, if an ability targets "the ally with
-the lowest SCH," an ally with a dash for its SCH is
-considered to have the same SCH as an ally with
-a SCH of 0.)
+  - Si une étape de jeu ou une capacité de carte fait référence à une valeur représentée par un tiret (–), cette valeur est traitée comme un 0 non modifiable. (Par exemple, si une capacité cible "l'allié ayant la MAN la plus basse", un allié avec un tiret pour sa MAN est considéré comme ayant la même MAN qu'un allié avec une MAN de 0.)
 
-
-See also: Basic Power, Non-Numerical Variable
+Voir aussi : Puissance de base, Variable non numérique
 

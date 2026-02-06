@@ -1,15 +1,11 @@
 # Ressource énergie
 
 
-An energy resource () is one of the four types of resources.
+Une ressource énergie () est l'un des quatre types de ressources.
 
-  - Energy resources can be spent to pay the resource
-cost of cards and abilities.
+  - Les ressources énergie peuvent être dépensées pour payer le coût en ressources des cartes et des capacités.
 
-  - Some card abilities specifically require energy
-resources to be spent in order to resolve their effects.
+  - Certaines capacités de carte exigent spécifiquement que des ressources énergie soient dépensées afin de résoudre leurs effets.
 
-
-See also: Ability, Cost, Icons, Mental Resource, Physical
-Resource, Resource, Wild Resource
+Voir aussi : Capacité, Coût, Icônes, Ressource mentale, Ressource physique, Ressource, Ressource libre
 

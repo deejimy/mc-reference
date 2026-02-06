@@ -1,5 +1,5 @@
 # REC
 
 
-See: Basic Power, Recover
+Voir : Pouvoir de base, Récupérer
 

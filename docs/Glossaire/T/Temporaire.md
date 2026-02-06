@@ -1,9 +1,7 @@
 # Temporaire
 
 
-A card with temporary must be discarded from play at the
-end of the round.
+Une carte avec le mot-clé temporaire doit être défaussée du jeu à la fin du round.
 
-
-See also: Keywords
+Voir aussi : Mots-clés
 

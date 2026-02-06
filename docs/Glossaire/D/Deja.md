@@ -1,5 +1,5 @@
 # Déjà
 
 
-See: Alteration Effect
+Voir : Effet d'altération.
 

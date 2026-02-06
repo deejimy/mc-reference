@@ -1,5 +1,5 @@
 # DEF
 
 
-See: Basic Power, Defend
+Voir : Puissance de base, Défendre
 

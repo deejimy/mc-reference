@@ -1,24 +1,21 @@
 # Elément de Jeu
 
 
-A game element is a component or person involved in
-playing a game of Marvel Champions. All of the following
-are game elements:
+Un élément de jeu est un composant ou une personne impliqué dans une partie de Marvel Champions. Tous les éléments suivants sont des éléments de jeu :
 
-  - Cards
+  - Les cartes
 
-  - Decks
+  - Les decks
 
-  - Discard Piles
+  - Les piles de défausse
 
-  - Hands (of cards)
+  - Les mains (de cartes)
 
-  - Hit Point Dials
+  - Les compteurs de points de vie
 
-  - Players
+  - Les joueurs
 
-  - Tokens
+  - Les pions
 
-
-See also: Card Types, Deck, Discard Pile, Player, Target
+Voir aussi : Types de carte, Deck, Pile de défausse, Joueur, Cible
 

@@ -1,5 +1,5 @@
 # Mode Escarmouche
 
 
-See: Modes of Play
+Voir : Modes de jeu
 

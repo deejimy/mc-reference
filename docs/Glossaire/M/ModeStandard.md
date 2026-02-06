@@ -1,5 +1,5 @@
 # Mode Standard
 
 
-See: Modes of Play
+Voir : Modes de jeu
 

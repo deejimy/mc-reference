@@ -1,34 +1,19 @@
 # Zone de jeu d'un joueur
 
 
-A player’s play area (also sometimes referred to as a
-"player’s game area") is the area of play where a player’s
-identity card, deck, hand, discard pile, and hit point dial are
-located. Each player in the game has their own play area.
+La zone de jeu d'un joueur (parfois appelée "zone de jeu personnelle") est l'endroit où se trouvent sa carte d'identité, son deck, sa main, sa pile de défausse et son compteur de points de vie. Chaque joueur possède sa propre zone de jeu.
 
-  - Ally cards, support cards, and upgrade cards are
-placed in a player’s play area when they enter play.
+  - Les cartes allié, soutien et amélioration sont placées dans la zone de jeu d'un joueur lorsqu'elles entrent en jeu.
 
-  - Attachment cards attached to cards in the villain’s
-play area are not in the player’s play area.
+  - Les cartes attachement attachées à des cartes situées dans la zone de jeu du méchant ne sont pas dans la zone de jeu du joueur.
 
-  - Minion cards engaged with a player are in that
-player’s play area and not in the villain’s play area.
+  - Les cartes sbire engagées avec un joueur sont dans la zone de jeu de ce joueur et non dans celle du méchant.
 
-  - Obligation cards given to a player are in that player’s
-play area and not in the villain’s play area.
+  - Les cartes obligation données à un joueur sont dans la zone de jeu de ce joueur et non dans celle du méchant.
 
-  - While card abilities can affect cards across play areas,
-unless a game rule or card ability states otherwise,
-cards cannot be played into another player’s play
-area.
+  - Bien que les capacités de cartes puissent affecter des cartes d'une zone de jeu à l'autre, sauf indication contraire, les cartes ne peuvent pas être jouées dans la zone de jeu d'un autre joueur.
 
-  - If a player is eliminated from the game (through their
-identity being defeated, or otherwise), their play area
-is removed from the game.
+  - Si un joueur est éliminé (défaite de son identité ou autre), sa zone de jeu est retirée de la partie.
 
-
-See also: Ally, Discard Pile, Identity, In Play and Out of
-Play, Minion, Obligation, Player Deck, Player Elimination,
-Support, Upgrade
+Voir aussi : Allié, Pile de défausse, Identité, En jeu et Hors-jeu, Sbire, Obligation, Deck de joueur, Élimination d'un joueur, Soutien, Amélioration
 

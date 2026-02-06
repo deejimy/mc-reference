@@ -1,5 +1,5 @@
 # Pile de défausse Joueur
 
 
-See: Discard Pile
+Voir : Pile de défausse
 

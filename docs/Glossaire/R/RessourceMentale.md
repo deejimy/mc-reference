@@ -1,15 +1,9 @@
 # Ressource mentale
 
 
-A mental resource () is one of the four types of resources.
+Une ressource mentale () est l'un des quatre types de ressources.
 
-  - Mental resources can be spent to pay the resource
-cost of cards and abilities.
+  - Les ressources mentales sont générées en défaussant des cartes avec l'icône mentale ou en utilisant des capacités de carte "Ressource".
 
-  - Some card abilities specifically require mental
-resources to be spent in order to resolve their effects.
-
-
-See also: Ability, Cost, Energy Resource, Icons, Physical
-Resource, Resource, Wild Resource
+Voir aussi : Icônes, Ressource
 

@@ -1,5 +1,5 @@
 # Variable Non-Numérique
 
 
-See: Non-Numerical Variable
+Voir : Variable non-numérique
 

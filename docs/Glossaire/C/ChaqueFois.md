@@ -1,5 +1,5 @@
 # Chaque fois
 
 
-See: Alteration Effect
+Voir : Effet d'altération
 

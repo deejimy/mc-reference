@@ -1,27 +1,15 @@
 # Action
 
 
-"Action" is a type of triggered ability. Players are permitted
-to trigger action abilities during their turn, or by request
-during other players’ turns.
+"Action" est un type de capacité déclenchée. Les joueurs sont autorisés à déclencher des capacités d'action pendant leur tour, ou sur demande pendant les tours des autres joueurs.
 
-  - Players can only trigger action abilities on cards they
-control or on encounter cards.
+  - Les joueurs ne peuvent déclencher des capacités d'action que sur les cartes qu'ils contrôlent ou sur les cartes de rencontre.
 
-  - Players cannot trigger action abilities on
-obligations in other players’ play areas.
+  - Les joueurs ne peuvent pas déclencher de capacités d'action sur les obligations dans les zones de jeu des autres joueurs.
 
-  - Each "Forced Action" ability must be resolved
-before the player phase can end.
+  - Chaque capacité d'"Action forcée" doit être résolue avant que la phase des joueurs ne puisse se terminer.
 
-  - A forced action ability can be triggered at any time
-a non-forced action ability could be triggered.
+  - Une capacité d'action forcée peut être déclenchée à tout moment où une capacité d'action non-forcée pourrait être déclenchée.
 
-  - If such an ability has a cost that cannot be paid
-or requires one or more valid targets and has
-none, the phase can end without that ability being
-resolved.
-
-
-See also: Ability, Player Turn, Triggered Ability
+  - Si une telle capacité a un coût qui ne peut pas être payé ou nécessite une ou plusieurs cibles valides et n'en possède aucune, la phase peut se terminer sans que cette capacité ne soit résolue.
 

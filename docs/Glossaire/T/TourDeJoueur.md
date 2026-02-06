@@ -1,44 +1,18 @@
 # Tour de joueur
 
 
-During their turn, a player may perform the following
-options, in any order. Each option, except "change form,"
-may be performed as many times as the player is able, so
-long as they are able to pay the required costs.
+Pendant son tour, un joueur peut effectuer les options suivantes, dans n'importe quel ordre. Chaque option, sauf "changer de forme", peut être effectuée autant de fois que le joueur le peut, tant qu'il est en mesure d'en payer les coûts.
 
-  - Change form from hero to alter-ego, or from alterego
-to hero. This option may only be performed
-once each turn.
+  - Changer de forme (de héros à alter-ego, ou vice versa). Cette option ne peut être effectuée qu'une seule fois par tour.
 
-  - Play an ally, upgrade, support, or player side scheme
-card from hand.
+  - Jouer un allié, une amélioration, un soutien ou une manigance secondaire de joueur depuis sa main.
 
-  - Use their alter-ego’s basic recovery (if in alter-ego
-form) or their hero’s basic attack or thwart power (if in
-hero form).
+  - Utiliser la récupération de base de son alter-ego (si sous forme d'alter-ego) ou la puissance d'attaque ou de contre de base de son héros (si sous forme de héros).
 
-  - Use an ally card they control in play to attack an
-enemy or thwart a scheme.
+  - Utiliser une carte allié qu'il contrôle en jeu pour attaquer un ennemi ou contrer une manigance.
 
-  - Trigger an "Action" ability on:
-a. A card in play they control.
-b. An encounter card in play.
-c. Any card in play with text that allows that player to
-trigger its action ability.
-d. An event card in their hand (by playing that event).
-
-  - If the action ability is preceded by "Hero" or "Alter-
-Ego", the player must be in the specified form in
-order to trigger the ability.
-
-  - Ask another player to trigger any "Action" ability
-that player could trigger on their own turn. The other
-player then decides whether or not to trigger the
-ability. (Another player may offer to use an action
-during the active player’s turn, as well.)
-
-
-See also: Ally, Basic Power, Encounter Card, Event, Form,
-Ownership and Control, Play, Player, Player Phase, Support,
-Triggered Ability, Upgrade
+  - Déclencher une capacité "Action" sur :
+a. Une carte en jeu qu'il contrôle.
+b. Une carte de rencontre en jeu.
+c. Toute carte en jeu dont le texte autorise ce joueur...
 

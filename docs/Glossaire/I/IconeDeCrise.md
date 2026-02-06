@@ -1,12 +1,7 @@
 # Icône de Crise
 
 
-While at least one crisis icon is in play, threat cannot be
-removed from the main scheme by player cards.
+L'icône de crise représente un obstacle immédiat qui doit être surmonté. Tant qu'au moins une icône de crise est en jeu, de la menace ne peut pas être retirée de la manigance principale.
 
-  - Abilities on encounter cards are not affected by the
-crisis icon.
-
-
-See also: Main Scheme, Threat
+  - Une icône de crise peut être retirée du jeu en vainquant la carte de rencontre sur laquelle elle est imprimée.
 

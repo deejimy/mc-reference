@@ -1,5 +1,5 @@
 # Deck vide
 
 
-See: Encounter Deck, Player Deck
+Voir : Paquet de rencontre, Deck de joueur
 

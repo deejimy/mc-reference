@@ -1,69 +1,35 @@
 # Propriété et contrôle
 
 
-A card’s owner is the player whose deck contained the card
-at the start of setup. The scenario is considered to be the
-owner of the encounter deck and each encounter card.
+Le propriétaire d'une carte est le joueur dont le deck contenait la carte au début de la mise en place. Le scénario est considéré comme le propriétaire du paquet de rencontre et de chaque carte de rencontre.
 
-  - Identity cards are owned and controlled by the player
-playing as that identity.
+  - Les cartes d'identité appartiennent et sont contrôlées par le joueur incarnant cette identité.
 
-  - Cards enter play under their owner’s control.
-Encounter cards are considered to be under the
-control of the scenario.
+  - Les cartes entrent en jeu sous le contrôle de leur propriétaire. Les cartes de rencontre sont considérées comme étant sous le contrôle du scénario.
 
-  - Upgrades attached to a card controlled by a player
-other than the upgrade’s owner are controlled by
-that other player.
+  - Les améliorations attachées à une carte contrôlée par un joueur autre que le propriétaire de l'amélioration sont contrôlées par cet autre joueur.
 
-  - When a player takes control of a campaign-specific
-or scenario-specific player card (such as an ally,
-support, or upgrade) with a player card back, that
-player becomes the owner of that card until the
-game ends or another player takes control of that
-card.
+  - Lorsqu'un joueur prend le contrôle d'une carte de joueur spécifique à une campagne ou à un scénario (comme un allié, un support ou une amélioration) possédant un dos de carte de joueur, ce joueur devient le propriétaire de cette carte jusqu'à ce que la partie se termine ou qu'un autre joueur en prenne le contrôle.
 
-  - Control of a card remains constant unless an ability
-explicitly causes the card to change control.
+  - Le contrôle d'une carte reste constant à moins qu'une capacité ne provoque explicitement un changement de contrôle.
 
-  - A player controls the cards in their own out-of-play
-areas (such as the hand, the deck, and the discard
-pile).
+  - Un joueur contrôle les cartes situées dans ses propres zones hors-jeu (telles que la main, le deck et la pile de défausse).
 
-  - If a character changes control while it is in play, it
-remains in the same state (i.e., readied or exhausted,
-damaged or not, etc.) and is moved to its new
-controller’s play area.
+  - Si un personnage change de contrôleur alors qu'il est en jeu, il reste dans le même état (c'est-à-dire redressé ou incliné, blessé ou non, etc.) et est déplacé vers la zone de jeu de son nouveau contrôleur.
 
-  - Upgrades on a card that changes control also change
-control to the same new controller.
+  - Les améliorations présentes sur une carte qui change de contrôleur changent également de contrôleur pour le même nouveau joueur.
 
-  - A change in control of a card remains in effect until
-one of the following occurs:
+  - Un changement de contrôle d'une carte reste en vigueur jusqu'à ce que l'un des événements suivants se produise :
 
-  - The ability that changed control of that card ceases
-to be in effect (for instance, when an attachment or
-upgrade that changes control of the attached card
-is removed), that card reverts to its owner’s control.
+  - La capacité qui a changé le contrôle de cette carte cesse d'être en vigueur (par exemple, lorsqu'un attachement ou une amélioration changeant le contrôle est retiré), la carte revient alors sous le contrôle de son propriétaire.
 
-  - That card leaves play, it is placed in its owner’s
-equivalent out-of-play area (hand, deck, or discard
-pile, or removed from the game if that player is no
-longer in the game).
+  - La carte quitte le jeu ; elle est alors placée dans la zone hors-jeu équivalente de son propriétaire (main, deck ou pile de défausse, ou retirée de la partie si ce joueur n'est plus dans la partie).
 
-  - That card is an event that was played, it is placed in
-its owner’s discard pile.
+  - La carte est un évènement qui a été joué ; elle est alors placée dans la pile de défausse de son propriétaire.
 
-  - That card is discarded from a player’s hand, it is
-placed in its owner’s discard pile.
+  - La carte est défaussée de la main d'un joueur ; elle est alors placée dans la pile de défausse de son propriétaire.
 
-  - If a game step or card ability references a card that
-"you control" or a "player controls," that game step
-or card ability only refers to cards in play currently
-under that player’s control.
+  - Si une étape de jeu ou une capacité de carte fait référence à une carte que "vous contrôlez" ou qu'un "joueur contrôle", cela ne se réfère qu'aux cartes en jeu actuellement sous le contrôle de ce joueur.
 
-
-See also: Classifications, Encounter Card, Encounter Deck,
-In Play and Out of Play, Player, Player Card, Player Deck,
-Player’s Play Area, Villain’s Play Area
+Voir aussi : Classifications, Carte de rencontre, Paquet de rencontre, En jeu et Hors-jeu, Joueur, Carte de joueur, Deck de joueur, Zone de jeu d'un joueur, Zone de jeu du méchant
 

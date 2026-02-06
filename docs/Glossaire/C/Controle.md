@@ -1,5 +1,5 @@
 # Contrôle
 
 
-See: Ownership and Control
+Voir : Propriété et Contrôle
 

@@ -1,9 +1,7 @@
 # Personnage
 
 
-Identities (heroes and alter-egos), allies, villains, and minions
-are all characters.
+Les identités (héros et alter-egos), alliés, méchants et sbires sont tous des personnages.
 
-
-See also: Ally, Identity, Minion, Villain
+Voir aussi : Allié, Identité, Sbire, Méchant
 

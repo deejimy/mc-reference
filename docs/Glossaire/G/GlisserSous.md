@@ -1,16 +1,11 @@
 # Glisser Sous
 
 
-When a player is instructed to tuck a card under another
-card, they place the tucked card faceup under the other
-card.
+Lorsqu'un joueur reçoit l'instruction de glisser une carte sous une autre, il place la carte face visible sous la carte cible.
 
-  - Tucked cards are not in play and are not considered
-"attached" to the card under which they are tucked.
+  - Les cartes glissées dessous ne sont pas en jeu et ne sont pas considérées comme "attachées".
 
-  - When a card leaves play, each card tucked under it is
-discarded.
+  - Lorsqu'une carte quitte le jeu, chaque carte glissée sous elle est défaussée.
 
-
-See also: In Play and Out of Play
+Voir aussi : En jeu et Hors-jeu
 

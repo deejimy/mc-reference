@@ -1,20 +1,11 @@
 # Dégâts Subis
 
 
-Sustained damage refers to the difference between a
-character’s maximum hit points and remaining hit points.
+Les dégâts subis font référence à la différence entre les points de vie maximum d'un personnage et ses points de vie restants.
 
-  - To calculate sustained damage for an identity or
-villain (using a hit point dial), start with the character’s
-maximum hit points (as indicated by its printed value
-modified by any card abilities or game effects), and
-subtract their remaining hit points (as indicated by the
-dial).
+  - Pour calculer les dégâts subis par une identité ou un méchant (en utilisant un compteur de points de vie), partez des points de vie maximum du personnage (valeur imprimée modifiée par les capacités de carte ou effets de jeu) et soustrayez ses points de vie restants (indiqués par le compteur).
 
-  - Sustained damage on an ally or minion is equal to the
-total value of all damage tokens on the card.
+  - Les dégâts subis par un allié ou un sbire sont égaux à la valeur totale de tous les jetons de dégâts présents sur la carte.
 
-
-See also: Ally, Damage, Hit Points, Identity, Maximum Hit
-Points, Remaining Hit Points, Villain
+Voir aussi : Allié, Dégâts, Points de vie, Identité, Maximum de points de vie, Points de vie restants, Méchant
 

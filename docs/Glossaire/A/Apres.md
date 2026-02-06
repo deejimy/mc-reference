@@ -1,10 +1,5 @@
 # Après
 
 
-The word "after" refers to a game occurrence that just
-concluded. Many response abilities use the term "after" to
-specify the time at which they can be used.
-
-
-See also: Ability, Response
+Le mot "après" se réfère à un évènement de jeu qui vient de se conclure. De nombreuses capacités de réponse utilisent le terme "après" pour spécifier le moment où elles peuvent être utilisées.
 

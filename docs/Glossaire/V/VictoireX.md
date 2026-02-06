@@ -1,30 +1,14 @@
 # Victoire X
 
 
-When a card with the victory X keyword leaves play under
-the following conditions, place it in the victory display
-instead of its owner’s discard pile:
+Lorsqu'une carte avec le mot-clé victoire X quitte le jeu dans les conditions suivantes, placez-la dans la pile de victoire au lieu de la défausse :
 
-  - A character or side scheme with the victory X
-keyword is placed in the victory display when it is
-defeated.
+  - Un personnage ou une manigance secondaire avec victoire X est placé dans la pile de victoire lorsqu'il est vaincu.
 
-  - An attachment or upgrade with the victory X keyword
-is placed in the victory display when the card to which
-it is attached is defeated. (The card the attachment or
-upgrade was attached to is discarded as normal.)
+  - Un attachement ou une amélioration avec victoire X est placé dans la pile de victoire lorsque la carte à laquelle il est attaché est vaincue.
 
-  - A card with both the victory X and uses (X "type")
-keywords is placed in the victory display when its last
-all-purpose counter is removed from it.
-While in the victory display, X indicates how many victory
-points that card is worth. (X is the value next to the victory
-keyword.)
+  - Une carte avec victoire X et utilisations (X "type") est placée dans la pile de victoire quand son dernier pion est retiré.
+Dans la pile de victoire, X indique les points de victoire que vaut la carte.
 
-  - Some scenarios or campaigns may count the number
-of victory points in the victory display.
-
-
-See also: Defeat, Discard Pile, Keywords, Reminder Text,
-Uses (X "Type"), Victory Display
+Voir aussi : Vaincre, Pile de défausse, Mots-clés, Texte de rappel, Utilisations (X "Type"), Pile de victoire
 

@@ -1,23 +1,15 @@
 # Retourner
 
 
-When instructed to flip a card, turn that card upside down
-so that the face that was faceup is now facedown.
+Lorsqu'un joueur reçoit l'instruction de retourner une carte, il tourne cette carte de sorte que la face qui était visible soit maintenant face cachée.
 
-  - A foldable, "three-sided" card is considered to have
-flipped any time the faceup side of the card changes.
+  - Une carte pliable à "trois faces" est considérée comme ayant été retournée chaque fois que la face visible de la carte change.
 
-  - When a card flips, if the new faceup side of that card
-has:
+  - Lorsqu'une carte est retournée, si la nouvelle face visible de cette carte possède :
 
-  - The same card type as the previous face, the card
-retains all attached cards, tucked cards, status
-cards, and tokens.
+  - Le même type de carte que la face précédente, la carte conserve toutes les cartes attachées, les cartes glissées dessous, les cartes d'état et les jetons.
 
-  - A different card type from the previous face,
-all attachments, status cards, and tokens are
-discarded from the card.
+  - Un type de carte différent de la face précédente, tous les attachements, cartes d'état et jetons sont défaussés de la carte.
 
-
-See also: Double-Sided Card
+Voir aussi : Carte double-face
 

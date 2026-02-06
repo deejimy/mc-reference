@@ -1,5 +1,5 @@
 # MNG
 
 
-See: Basic Power, Scheme (Enemy Activation)
+Voir : Pouvoir de base, Manigance (Activation d'ennemi)
 

@@ -1,5 +1,5 @@
 # Générer
 
 
-See: Resource
+Voir : Ressource
 

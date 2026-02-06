@@ -1,19 +1,11 @@
 # Cartes de rencontre
 
 
-There are eight encounter card types: attachment cards,
-environment cards, minion cards, main scheme cards,
-obligation cards, side scheme cards, treachery cards, and
-villain cards.
+Il existe huit types de cartes de rencontre : les cartes attachement, les cartes environnement, les cartes sbire, les cartes manigance principale, les cartes obligation, les cartes manigance secondaire, les cartes traîtrise et les cartes méchant.
 
-  - Encounter cards belong to various classifications,
-such as scenario-specific encounter cards or modular
-set encounter cards.
+  - Les cartes de rencontre appartiennent à diverses classifications, telles que les cartes de rencontre spécifiques au scénario ou les cartes de rencontre de set modulaire.
 
-  - Most encounter cards have an orange card back.
+  - La plupart des cartes de rencontre ont un dos de carte orange.
 
-
-See also: Attachment, Classifications, Environment, Main
-Scheme, Minion, Obligation, Side Scheme, Treachery,
-Villain, Appendix I: Deck Customization
+Voir aussi : Attachement, Classifications, Environnement, Manigance principale, Sbire, Obligation, Manigance secondaire, Traîtrise, Méchant, Appendice I : Personnalisation du deck
 

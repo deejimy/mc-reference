@@ -1,11 +1,9 @@
 # Icône Par Joueur
 
 
-The  icon next to a value multiplies that value by the
-number of players who started the scenario.
+L'icône  à côté d'une valeur multiplie cette valeur par le nombre de joueurs ayant commencé le scénario.
 
-  - If a player is eliminated, this value does not change.
+  - Si un joueur est éliminé, cette valeur ne change pas.
 
-
-See also: Icons, Modifiers, Player Elimination
+Voir aussi : Icônes, Modificateurs, Élimination d'un joueur
 

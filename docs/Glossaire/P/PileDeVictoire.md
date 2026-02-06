@@ -1,10 +1,7 @@
 # Pile de victoire
 
 
-The victory display is an out-of-play game area shared by
-all players. Cards in the victory display follow the standard
-rules for out-of-play cards.
+La pile de victoire est une zone hors-jeu partagée par tous les joueurs.
 
-
-See also: In Play and Out of Play, Player, Victory X
+Voir aussi : En jeu et Hors-jeu, Joueur, Victoire X
 

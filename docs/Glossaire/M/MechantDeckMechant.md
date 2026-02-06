@@ -1,15 +1,9 @@
 # Méchant, Deck Méchant
 
 
-Villain is an encounter card type that represents the primary
-enemy the players are attempting to defeat in a scenario.
-The villain is represented by a sequential deck of one or
-more cards. The players defeat the villain by reducing the
-hit points of each stage of the villain deck to zero.
+Méchant est un type de carte de rencontre représentant l'ennemi principal. Le méchant est représenté par un deck séquentiel d'une ou plusieurs cartes. Les joueurs gagnent en réduisant les points de vie de chaque stade à zéro.
 
-  - Villain cards cannot be discarded from play.
+  - Les cartes méchant ne peuvent pas être défaussées du jeu.
 
-
-See also: Activation, Attack (Enemy Activation), Scheme
-(Enemy Activation), Villain Defeat
+Voir aussi : Activation, Attaque (Activation d'ennemi), Manigance (Activation d'ennemi), Vaincre le méchant
 

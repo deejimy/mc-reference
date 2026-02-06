@@ -1,5 +1,5 @@
 # Jouer des cartes
 
 
-See: Initiating Abilities
+Voir : Initier des capacités
 

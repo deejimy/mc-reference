@@ -1,5 +1,5 @@
 # Capacité constante
 
 
-See: Ability
+Voir : Capacité
 

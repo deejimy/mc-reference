@@ -1,57 +1,25 @@
 # Activation
 
 
-There are two types of enemy activations: an attack
-activation and a scheme activation. Whenever an enemy
-attacks or schemes, it is considered to have activated.
+Il existe deux types d'activations d'ennemi : une activation d'attaque et une activation de manigance. Chaque fois qu'un ennemi attaque ou manigance, il est considéré comme s'étant activé.
 
-  - During step two of the villain phase, the villain
-activates once per player, in player order. If the
-identity of the player resolving the activation is in
-hero form, the villain initiates an attack against that
-player’s identity. If the identity of the player resolving
-the activation is in alter-ego form, the villain initiates
-a scheme.
+  - Pendant l'étape deux de la phase du méchant, le méchant s'active une fois par joueur, dans l'ordre des joueurs. Si l'identité du joueur résolvant l'activation est sous forme de héros, le méchant initie une attaque contre l'identité de ce joueur. Si l'identité du joueur résolvant l'activation est sous forme d'alter-ego, le méchant initie une manigance.
 
-  - During step two of the villain phase, each minion
-engaged with a player activates against that player.
-If the identity of the engaged player is in hero form,
-the minion initiates an attack against that player’s
-identity. If the identity of the engaged player is in
-alter-ego form, the minion initiates a scheme.
+  - Pendant l'étape deux de la phase du méchant, chaque sbire engagé avec un joueur s'active contre ce joueur. Si l'identité du joueur engagé est sous forme de héros, le sbire initie une attaque contre l'identité de ce joueur. Si l'identité du joueur engagé est sous forme d'alter-ego, le sbire initie une manigance.
 
-  - Each time the villain activates, give the villain
-one boost card from the encounter deck for that
-activation.
+  - Chaque fois que le méchant s'active, donnez au méchant une carte de boost du paquet de rencontre pour cette activation.
 
-  - Some card abilities can also cause enemies to attack
-or scheme. These are also considered activations.
+  - Certaines capacités de carte peuvent également amener des ennemis à attaquer ou à manigancer. Celles-ci sont également considérées comme des activations.
 
-  - If multiple enemies activate against you
-simultaneously, resolve the villain’s activation first (if
-any) in the order of your choice, followed by minion
-activations in the order of your choice.
+  - Si plusieurs ennemis s'activent contre vous simultanément, résolvez d'abord l'activation du méchant (le cas échéant) dans l'ordre de votre choix, suivie des activations de sbires dans l'ordre de votre choix.
 
-  - If an activating minion leaves play, that minion’s
-activation ends immediately and no further steps of
-that activation resolve.
+  - Si un sbire en train de s'activer quitte le jeu, l'activation de ce sbire se termine immédiatement et aucune autre étape de cette activation ne se résout.
 
-  - An effect that initiates an enemy activation is
-considered resolved after that activation has fully
-resolved.
+  - Un effet qui initie une activation d'ennemi est considéré comme résolu une fois que cette activation a été entièrement résolue.
 
-  - If an effect initiates an activation during the
-resolution of another activation, the newly initiated
-activation resolves after the current activation has
-finished resolving.
+  - Si un effet initie une activation pendant la résolution d'une autre activation, la nouvelle activation se résout après que l'activation actuelle est terminée.
 
-  - If multiple activations are initiated this way, the first
-player decides the order in which they are resolved.
+  - Si plusieurs activations sont initiées de cette manière, le premier joueur décide de leur ordre de résolution.
 
-  - All abilities triggered by the initial activation
-resolve before subsequent activations initiate.
-
-
-See also: Boost, Attack (Enemy Activation), Scheme (Enemy
-Activation), Minion, Villain, Villain Phase
+  - Toutes les capacités déclenchées par l'activation initiale se résolvent avant que les activations suivantes ne débutent.
 
