@@ -11,5 +11,5 @@ L'expression "choisissez un [élément de jeu]" (tel qu'un allié, un sbire ou u
 
   - Un effet qui permet de choisir "n'importe quel nombre" de cibles ne se résout pas avec succès si zéro cible est choisie.
 
-Voir aussi : Capacité, Élément de jeu, Joueur, Cible
+**Voir aussi** : Capacité, Élément de jeu, Joueur, Cible
 

@@ -5,5 +5,5 @@ Il existe quatre types principaux de decks (paquets) qui apparaissent dans une p
 
   - L'ordre des cartes au sein d'un deck ne peut pas être modifié, à moins qu'un joueur n'en reçoive l'instruction par une étape de jeu, une fonction de jeu ou une capacité de carte.
 
-Voir aussi : Paquet de rencontre, Manigance principale, Deck de joueur, Méchant
+**Voir aussi** : Paquet de rencontre, Manigance principale, Deck de joueur, Méchant
 

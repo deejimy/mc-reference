@@ -15,5 +15,5 @@ La zone de jeu d'un joueur (parfois appelée "zone de jeu personnelle") est l'en
 
   - Si un joueur est éliminé (défaite de son identité ou autre), sa zone de jeu est retirée de la partie.
 
-Voir aussi : Allié, Pile de défausse, Identité, En jeu et Hors-jeu, Sbire, Obligation, Deck de joueur, Élimination d'un joueur, Soutien, Amélioration
+**Voir aussi** : Allié, Pile de défausse, Identité, En jeu et Hors-jeu, Sbire, Obligation, Deck de joueur, Élimination d'un joueur, Soutien, Amélioration
 

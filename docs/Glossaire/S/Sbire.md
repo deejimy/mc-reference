@@ -7,5 +7,5 @@ Sbire est un type de carte de rencontre qui représente les sous-fifres du méch
 
   - Tant qu'un sbire est engagé avec un joueur, il s'active (attaque ou manigance) pendant la phase du méchant.
 
-Voir aussi : Types de carte, Carte de rencontre, Engager, Activation
+**Voir aussi** : Types de carte, Carte de rencontre, Engager, Activation
 

@@ -7,5 +7,5 @@ Si une capacité soigne un personnage, les dégâts que le personnage a subis pe
 
   - Les effets qui déplacent des dégâts hors d'un personnage sont considérés comme soignant ce personnage.
 
-Voir aussi : Allié, Points de vie, Identité, Sbire, Méchant
+**Voir aussi** : Allié, Points de vie, Identité, Sbire, Méchant
 

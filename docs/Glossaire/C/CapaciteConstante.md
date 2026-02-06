@@ -1,5 +1,0 @@
-# Capacité constante
-
-
-Voir : Capacité
-

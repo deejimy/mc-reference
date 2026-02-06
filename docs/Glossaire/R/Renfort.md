@@ -5,5 +5,5 @@ Après qu'une carte de rencontre avec ce mot-clé est révélée, le joueur qui 
 
   - Terminez le processus de résolution de la carte originale, ainsi que toutes les capacités de réponse déclenchées par la révélation de cette carte, avant de révéler la carte supplémentaire.
 
-Voir aussi : Carte de rencontre, Paquet de rencontre, Mots-clés, Texte de rappel, Révéler
+**Voir aussi** : Carte de rencontre, Paquet de rencontre, Mots-clés, Texte de rappel, Révéler
 

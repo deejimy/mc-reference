@@ -15,7 +15,7 @@ La classification d'une carte est le groupe auquel une carte appartient, déterm
 
   - Les cartes de la classification "spécifique à la campagne" sont des cartes qui appartiennent au set de cartes accompagnant une campagne. (Voir : Carte spécifique à la campagne)
 
-Voir aussi : Carte d'affinité, Carte Basique, Carte spécifique à la campagne, Carte spécifique à l'identité, Set de rencontre modulaire, Carte spécifique au scénario.
+**Voir aussi** : Carte d'affinité, Carte Basique, Carte spécifique à la campagne, Carte spécifique à l'identité, Set de rencontre modulaire, Carte spécifique au scénario.
 
   - Les cartes de la classification "set de rencontre modulaire" ou "set modulaire" sont des cartes qui appartiennent à un set de rencontre qui peut être ajouté ou retiré d'un scénario. (Voir : Set de rencontre modulaire)
 

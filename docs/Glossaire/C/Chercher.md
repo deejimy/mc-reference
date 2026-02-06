@@ -7,5 +7,5 @@ Lorsqu'un joueur cherche une carte, il peut regarder toutes les cartes de la zon
 
   - Après une recherche dans un deck, celui-ci doit être mélangé.
 
-Voir aussi : Paquet de rencontre, Trouver, Deck de joueur, Mélanger
+**Voir aussi** : Paquet de rencontre, Trouver, Deck de joueur, Mélanger
 

@@ -11,5 +11,5 @@ Lorsqu'un joueur reçoit l'instruction de retourner une carte, il tourne cette c
 
   - Un type de carte différent de la face précédente, tous les attachements, cartes d'état et jetons sont défaussés de la carte.
 
-Voir aussi : Carte double-face
+**Voir aussi** : Carte double-face
 

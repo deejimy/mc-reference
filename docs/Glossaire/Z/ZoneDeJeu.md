@@ -10,5 +10,5 @@ Il existe deux types de zones de jeu : la zone de jeu d'un joueur et la zone de 
   - Une carte ne peut pas se trouver dans plus d'une zone de jeu à la fois.
 
 
-Voir aussi : En jeu et Hors-jeu, Zone de jeu d'un joueur, Zone de jeu du méchant
+**Voir aussi** : En jeu et Hors-jeu, Zone de jeu d'un joueur, Zone de jeu du méchant
 

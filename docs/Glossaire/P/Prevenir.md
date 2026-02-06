@@ -17,5 +17,5 @@ Certaines capacités de cartes préviennent les dégâts ou la menace.
 
   - Lorsque de la menace est prévenue, réduisez la quantité de menace assignée avant qu'elle ne soit placée sur la manigance.
 
-Voir aussi : Capacité, Coût, Dégâts, Manigance (Type de carte), Cible, Menace
+**Voir aussi** : Capacité, Coût, Dégâts, Manigance (Type de carte), Cible, Menace
 

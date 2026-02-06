@@ -9,5 +9,5 @@ La manigance principale est un type de carte de rencontre qui représente l'obje
 
   - Si l'étape finale de la manigance principale est terminée, les joueurs perdent la partie.
 
-Voir aussi : Types de carte, Carte de rencontre, Menace, Méchant
+**Voir aussi** : Types de carte, Carte de rencontre, Menace, Méchant
 

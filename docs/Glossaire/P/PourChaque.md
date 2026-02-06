@@ -19,5 +19,5 @@
 
   - Si une autre capacité modifie un effet "pour chaque", ce modificateur est appliqué à chaque instance de l'effet "pour chaque". (Par exemple, Rafale de Lames est un évènement qui possède l'effet : "Pour chaque Psi-Katana, choisissez un ennemi et infligez-lui 2 dégâts." S'il est modifié par un effet qui dit "cet évènement inflige 1 dégât supplémentaire", Rafale de Lames infligera 3 dégâts à chaque ennemi choisi.)
 
-Voir aussi : Capacité, Cible
+**Voir aussi** : Capacité, Cible
 

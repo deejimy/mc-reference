@@ -10,5 +10,5 @@ Sauf indication contraire par le sbire ou par l'effet qui a mis le sbire en jeu,
 
   - Tant qu'un sbire est engagé avec un joueur, les capacités de carte ne peuvent pas amener le sbire à engager à nouveau le même joueur (car les deux sont déjà engagés).
 
-Voir aussi : Capacité, Vaincre, Sbire, Joueur, Zone de jeu d'un joueur
+**Voir aussi** : Capacité, Vaincre, Sbire, Joueur, Zone de jeu d'un joueur
 

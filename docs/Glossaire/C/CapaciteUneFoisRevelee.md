@@ -9,5 +9,5 @@ Une capacité "Une fois révélé" est un type de capacité déclenchée, indiqu
 
   - Les capacités "Une fois révélé" sur les cartes de méchant et de manigance principale ne peuvent pas être annulées.
 
-Voir aussi : Choisir (Élément de jeu), Carte de rencontre, Manigance principale, Capacité déclenchée, Méchant, Appendice II : Mise en place
+**Voir aussi** : Choisir (Élément de jeu), Carte de rencontre, Manigance principale, Capacité déclenchée, Méchant, Appendice II : Mise en place
 

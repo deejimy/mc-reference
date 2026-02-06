@@ -1,7 +1,7 @@
 # Icône Unique
 
 
-L'icône unique indique une carte représentant une personne, un lieu ou un objet singulier dans l'univers Marvel.
+L'icône unique (![[icone_unique.jpg|15]]) indique une carte représentant une personne, un lieu ou un objet singulier dans l'univers Marvel.
 
   - Deux cartes uniques sont considérées comme "identiques" si :
 
@@ -21,5 +21,5 @@ L'icône unique indique une carte représentant une personne, un lieu ou un obje
 
   - D'une carte de rencontre non-méchant, elle est défaussée. Si elle était en train d'être révélée, ses effets sont ignorés et le joueur se voit distribuer une nouvelle carte de rencontre face cachée.
 
-Voir aussi : Allié, Entre en jeu, Identité, Sbire, Joueur, Sous-titre, Méchant, Appendice I : Personnalisation du deck
+**Voir aussi** : Allié, Entre en jeu, Identité, Sbire, Joueur, Sous-titre, Méchant, Appendice I : Personnalisation du deck
 

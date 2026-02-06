@@ -7,5 +7,5 @@ Il existe huit types de cartes de rencontre : les cartes attachement, les cartes
 
   - La plupart des cartes de rencontre ont un dos de carte orange.
 
-Voir aussi : Attachement, Classifications, Environnement, Manigance principale, Sbire, Obligation, Manigance secondaire, Traîtrise, Méchant, Appendice I : Personnalisation du deck
+**Voir aussi** : Attachement, Classifications, Environnement, Manigance principale, Sbire, Obligation, Manigance secondaire, Traîtrise, Méchant, Appendice I : Personnalisation du deck
 

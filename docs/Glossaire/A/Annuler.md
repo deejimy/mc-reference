@@ -15,5 +15,5 @@ Certaines capacités de carte peuvent annuler des effets de carte ou de jeu.
 
   - Les capacités dépendantes de l'effet annulé ne peuvent pas se déclencher car l'effet annulé est considéré comme n'ayant pas eu lieu.
 
-Voir aussi : Capacité, Effet de remplacement
+**Voir aussi** : Capacité, Effet de remplacement
 

@@ -21,5 +21,5 @@ Un joueur peut être soit sous forme de héros, soit sous forme d'alter-ego à u
 
   - Les cartes avec le texte "forme [type] uniquement" ne peuvent être jouées ou mises en jeu que par un joueur dont l'identité est sous la forme spécifiée.
 
-Voir aussi : Retourner, Identité, Mots-clés
+**Voir aussi** : Retourner, Identité, Mots-clés
 

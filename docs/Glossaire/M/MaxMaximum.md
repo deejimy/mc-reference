@@ -7,5 +7,5 @@ Le terme "Max X par [période]" impose une limite globale sur le nombre de fois 
 
   - "Max 1 par joueur" signifie que chaque joueur ne peut avoir qu'une seule copie de cette carte en jeu sous son contrôle à la fois.
 
-Voir aussi : Capacité, Limite
+**Voir aussi** : Capacité, Limite
 

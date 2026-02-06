@@ -15,5 +15,5 @@ Une instruction demandant d'échanger deux composants signifie qu'il faut interv
 
   - Ne partagent pas de titre, la carte en jeu est considérée comme quittant le jeu et la carte hors-jeu est considérée comme entrant en jeu. Les pions, cartes attachées, cartes glissées dessous et cartes d'état ne sont pas transférés, et la nouvelle carte entre en jeu prête. Si elle possède un compteur de points de vie, celui-ci est réinitialisé à la valeur de points de vie imprimée de la nouvelle carte.
 
-Voir aussi : Capacité, Cible
+**Voir aussi** : Capacité, Cible
 

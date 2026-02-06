@@ -11,5 +11,5 @@ La zone de jeu du méchant est l'endroit où se trouvent le deck du méchant, la
 
   - Les obligations sont dans la zone du joueur concerné.
 
-Voir aussi : Attachement, Pile de défausse, Paquet de rencontre, Environnement, En jeu et Hors-jeu, Manigance principale, Sbire, Obligation, Méchant
+**Voir aussi** : Attachement, Pile de défausse, Paquet de rencontre, Environnement, En jeu et Hors-jeu, Manigance principale, Sbire, Obligation, Méchant
 

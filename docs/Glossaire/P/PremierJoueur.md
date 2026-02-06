@@ -17,5 +17,5 @@ Le premier joueur a la priorité temporelle dans les situations suivantes :
 
   - Le premier joueur a la première occasion d'utiliser une réponse à chaque moment approprié de la partie. Les occasions de réponse passent ensuite parmi les joueurs restants dans l'ordre des joueurs.
 
-Voir aussi : Dans l'ordre des joueurs, Joueur, Élimination d'un joueur, Phase des joueurs
+**Voir aussi** : Dans l'ordre des joueurs, Joueur, Élimination d'un joueur, Phase des joueurs
 

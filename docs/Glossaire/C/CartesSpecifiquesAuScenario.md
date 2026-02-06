@@ -7,5 +7,5 @@ Les cartes "spécifiques au scénario" appartiennent au set d'un scénario donn�
 
   - Elles sont généralement réparties en trois paquets : le deck du méchant, le deck de manigance principale et le paquet de rencontre.
 
-Voir aussi : Classifications, Manigance principale, Deck du méchant
+**Voir aussi** : Classifications, Manigance principale, Deck du méchant
 

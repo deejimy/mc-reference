@@ -7,5 +7,5 @@ Si les joueurs reçoivent l'instruction d'effectuer une séquence "dans l'ordre 
 
   - L'expression "joueur suivant" se réfère toujours au joueur suivant (dans le sens des aiguilles d'une montre) dans l'ordre des joueurs.
 
-Voir aussi : Trouver, Joueur, Phase des joueurs, Tour de joueur
+**Voir aussi** : Trouver, Joueur, Phase des joueurs, Tour de joueur
 

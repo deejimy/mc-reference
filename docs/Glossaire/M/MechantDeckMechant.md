@@ -5,5 +5,5 @@ Méchant est un type de carte de rencontre représentant l'ennemi principal. Le 
 
   - Les cartes méchant ne peuvent pas être défaussées du jeu.
 
-Voir aussi : Activation, Attaque (Activation d'ennemi), Manigance (Activation d'ennemi), Vaincre le méchant
+**Voir aussi** : Activation, Attaque (Activation d'ennemi), Manigance (Activation d'ennemi), Vaincre le méchant
 

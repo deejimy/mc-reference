@@ -11,5 +11,5 @@ Un joueur est une personne qui participe à une partie de Marvel Champions.
 
   - Certaines étapes, fonctions de jeu ou capacités de cartes peuvent faire référence au "premier joueur". Le premier joueur est celui qui possède le pion de premier joueur.
 
-Voir aussi : Défausse, Pile de défausse, Trouver, Identité, En jeu et Hors-jeu, Deck de joueur, Élimination d'un joueur, Phase des joueurs, Tour de joueur, Zone de jeu d'un joueur, Vous
+**Voir aussi** : Défausse, Pile de défausse, Trouver, Identité, En jeu et Hors-jeu, Deck de joueur, Élimination d'un joueur, Phase des joueurs, Tour de joueur, Zone de jeu d'un joueur, Vous
 

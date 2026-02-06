@@ -29,8 +29,6 @@
 
 ## C
 
-[[CapaciteConstante|Capacité constante]]  
-[[CapaciteDeCarte|Capacité de carte]]  
 [[CapaciteDeclenchee|Capacité déclenchée]]  
 [[CapaciteEtiquetee|Capacité étiquetée]]  
 [[CapaciteReferentielle|Capacité référentielle]]  
@@ -130,14 +128,15 @@
 
 ## I
 
-[[IconeDacceleration|Icône d'Accélération]]  
-[[IconeDaleas|Icône d'aléas]]  
-[[IconeDamplification|Icône d'Amplification]]  
-[[IconeDeCrise|Icône de Crise]]  
+[[IconeDacceleration|Icône d'Accélération]] (![[icone_acceleration.jpg|15]])  
+[[IconeDaleas|Icône d'aléas]] (![[icone_aleas.jpg|15]])  
+[[IconeDamplification|Icône d'Amplification]] (![[icone_amplification.jpg|15]])  
+[[IconeDeCrise|Icône de Crise]] (![[icone_crise.jpg|15]])  
+[[IconeDeCoutEnFormeDeFleche|Icône de coût en forme de flèche]] (→) 
 [[IconeDeSet|Icône de Set]]  
-[[IconeDetoile|Icône d'Étoile]]  
-[[IconeParJoueur|Icône Par Joueur]]  
-[[IconeUnique|Icône Unique]]  
+[[IconeDetoile|Icône d'Étoile]] (![[icone_etoile.jpg|15]])  
+[[IconeParJoueur|Icône Par Joueur]] (![[icone_joueur.jpg|15]])  
+[[IconeUnique|Icône Unique]] (![[icone_unique.jpg|15]])  
 [[Icone|Icône]]  
 [[Identite|Identité]]  
 [[Ignorer|Ignorer]]  

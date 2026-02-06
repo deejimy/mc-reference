@@ -7,5 +7,5 @@ De nombreuses cartes possèdent un ou plusieurs traits listés en haut de la bo�
 
   - Les traits ne sont pas considérés comme faisant partie de la boîte de texte imprimée pour les effets des capacités.
 
-Voir aussi : Imprimé, Appendice III : Anatomie d'une carte
+**Voir aussi** : Imprimé, Appendice III : Anatomie d'une carte
 

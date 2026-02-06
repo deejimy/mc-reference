@@ -7,5 +7,5 @@ Une capacité "Une fois vaincu" est un type de capacité déclenchée, indiquée
 
   - Une carte vaincue quitte le jeu après la résolution de sa capacité "Une fois vaincu", s'il y en a une.
 
-Voir aussi : Allié, Vaincre, Manigance principale, Sbire, Manigance secondaire, Capacité déclenchée, Méchant
+**Voir aussi** : Allié, Vaincre, Manigance principale, Sbire, Manigance secondaire, Capacité déclenchée, Méchant
 

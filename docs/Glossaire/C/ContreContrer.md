@@ -13,5 +13,5 @@ Certains effets de jeu et capacités font référence à une tentative de contre
 
   - Si une capacité augmente la quantité de menace retirée par une capacité étiquetée comme un contre et que cette dernière retire plusieurs instances de menace, chacune de ces instances qui n'utilise pas le mot "supplémentaire" est augmentée du montant spécifié.
 
-Voir aussi : Allié, Pouvoir de base, Dégâts consécutifs, Incliné, Capacité étiquetée, Manigance principale, Modificateurs, Manigance secondaire, Menace
+**Voir aussi** : Allié, Pouvoir de base, Dégâts consécutifs, Incliné, Capacité étiquetée, Manigance principale, Modificateurs, Manigance secondaire, Menace
 

@@ -7,5 +7,5 @@ Une carte est double-face si aucune de ses faces ne possède un dos de carte (jo
 
   - Si une carte double-face possède des faces "Mode Standard uniquement" et "Mode Expert uniquement", elle est mise en jeu avec la face "Mode Expert uniquement" visible si les joueurs jouent en mode expert. Sinon, la carte est mise en jeu avec la face "Mode Standard uniquement" visible.
 
-Voir aussi : Carte de rencontre, En jeu et Hors-jeu, Carte de joueur, Victoire X, Méchant
+**Voir aussi** : Carte de rencontre, En jeu et Hors-jeu, Carte de joueur, Victoire X, Méchant
 

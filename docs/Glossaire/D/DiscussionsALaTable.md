@@ -5,5 +5,5 @@ Les joueurs sont autorisés et encouragés à se parler pendant le jeu, et à tr
 
   - Lors de la résolution d'une carte de rencontre avec le mot-clé péril, les joueurs ne sont pas autorisés à se consulter.
 
-Voir aussi : Mots-clés, Péril, Joueur
+**Voir aussi** : Mots-clés, Péril, Joueur
 

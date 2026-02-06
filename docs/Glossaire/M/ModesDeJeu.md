@@ -9,5 +9,5 @@ Marvel Champions peut être joué selon différents modes de difficulté :
 
   - Mode Héroïque : augmente le nombre de cartes de rencontre distribuées à chaque joueur pendant la phase du méchant.
 
-Voir aussi : Set Expert, Set Standard
+**Voir aussi** : Set Expert, Set Standard
 

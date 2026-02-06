@@ -7,5 +7,5 @@ Il existe sept types de cartes de joueur : les cartes allié, les cartes évène
 
   - La plupart des cartes de joueur ont un dos de carte bleu.
 
-Voir aussi : Allié, Classifications, Évènement, Identité, Manigance secondaire de joueur, Carte ressource, Soutien, Amélioration, Appendice I : Personnalisation du deck
+**Voir aussi** : Allié, Classifications, Évènement, Identité, Manigance secondaire de joueur, Carte ressource, Soutien, Amélioration, Appendice I : Personnalisation du deck
 

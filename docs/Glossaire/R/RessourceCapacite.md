@@ -7,5 +7,5 @@ Une capacité de ressource est un type de capacité déclenchée, indiquée par 
 
   - Une capacité de ressource qui génère une ressource pour un type de coût spécifique ne peut pas être déclenchée pour un autre type de coût.
 
-Voir aussi : Coût, Ressource, Capacité déclenchée
+**Voir aussi** : Coût, Ressource, Capacité déclenchée
 

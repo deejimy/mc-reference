@@ -7,5 +7,5 @@ De nombreuses cartes et capacités contiennent des instructions spécifiques ind
 
   - Une autorisation est une restriction de jeu facultative, qui permet à un joueur de jouer une carte ou d'utiliser une capacité en dehors du timing ou des spécifications prévus par les règles du jeu. Par exemple, une autorisation pourrait permettre de jouer une carte allié depuis la pile de défausse d'un joueur.
 
-Voir aussi : Capacité, Jouer, Joueur
+**Voir aussi** : Capacité, Jouer, Joueur
 

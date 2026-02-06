@@ -9,5 +9,5 @@ Traîtrise est un type de carte de rencontre représentant des tactiques, des ru
 
   - Si une traîtrise provoque l'activation d'un ou plusieurs ennemis comme dernier effet, elle est considérée comme résolue et défaussée après la résolution de toutes ces activations.
 
-Voir aussi : Types de carte, Défausse, Carte de rencontre, Paquet de rencontre, Révéler, Méchant
+**Voir aussi** : Types de carte, Défausse, Carte de rencontre, Paquet de rencontre, Révéler, Méchant
 

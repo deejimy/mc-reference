@@ -43,5 +43,5 @@ Les cartes suivantes ne sont PAS considérées comme une extension de l'identit�
 
   - Supports — Leurs capacités et actions ne sont pas considérées comme effectuées par l'identité du joueur.
 
-Voir aussi : Capacité, Allié, Évènement, Identité, Joueur, Carte de joueur, Deck de joueur, Zone de jeu d'un joueur, Ressource, Soutien, Amélioration
+**Voir aussi** : Capacité, Allié, Évènement, Identité, Joueur, Carte de joueur, Deck de joueur, Zone de jeu d'un joueur, Ressource, Soutien, Amélioration
 

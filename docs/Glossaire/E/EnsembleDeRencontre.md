@@ -7,5 +7,5 @@ Un set de rencontre est un groupement de cartes de rencontre.
 
   - Les sets de rencontre portant le même nom mais ayant des icônes de set différentes sont considérés comme des sets distincts.
 
-Voir aussi : Classifications, Set Expert, Set de rencontre modulaire, Carte spécifique au scénario, Set Standard
+**Voir aussi** : Classifications, Set Expert, Set de rencontre modulaire, Carte spécifique au scénario, Set Standard
 

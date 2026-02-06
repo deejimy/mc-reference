@@ -7,5 +7,5 @@ Certaines capacités créent des effets persistants. Ces effets ont une durée s
 
   - Un effet persistant affecte l'état du jeu et les cartes au fur et à mesure qu'ils entrent en jeu, tant que la durée de l'effet est active.
 
-Voir aussi : Capacité
+**Voir aussi** : Capacité
 

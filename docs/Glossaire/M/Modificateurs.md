@@ -7,5 +7,5 @@ Les modificateurs sont des capacités de carte ou des règles de jeu qui modifie
 
   - Si plusieurs modificateurs s'appliquent, appliquez d'abord les additions et soustractions, puis les multiplications et divisions.
 
-Voir aussi : Valeur de base, Points de vie
+**Voir aussi** : Valeur de base, Points de vie
 

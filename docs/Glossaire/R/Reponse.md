@@ -9,5 +9,5 @@ Une capacité de réponse est un type de capacité déclenchée, indiquée par l
 
   - Si un seul effet provoque plusieurs conditions de déclenchement, les réponses à chacune peuvent être résolues dans n'importe quel ordre.
 
-Voir aussi : Capacité, Capacité déclenchée, Condition de déclenchement
+**Voir aussi** : Capacité, Capacité déclenchée, Condition de déclenchement
 

@@ -9,5 +9,5 @@ Une condition de déclenchement est un événement spécifique qui survient dans
 
   - Si un seul événement crée plusieurs conditions (comme une attaque causant à la fois des dégâts et la défaite d'un personnage), ces conditions sont traitées dans une seule fenêtre d'interruption et une seule fenêtre de réponse. Pendant chacune, les capacités se référant à n'importe laquelle de ces conditions peuvent être utilisées dans n'importe quel ordre.
 
-Voir aussi : Interruption, Réponse
+**Voir aussi** : Interruption, Réponse
 

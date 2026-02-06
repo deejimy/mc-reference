@@ -7,5 +7,5 @@ Si une carte est inclinée, elle est tournée à 90 degrés.
 
   - Une capacité de carte sur une carte inclinée est active et peut toujours interagir avec l'état de la partie. Cependant, si une carte inclinée doit s'incliner pour payer le coût d'utilisation de sa capacité, cette capacité ne peut pas être utilisée tant que la carte n'est pas prête.
 
-Voir aussi : Prêt
+**Voir aussi** : Prêt
 

@@ -5,5 +5,5 @@ Le mot-clé en équipe nomme deux personnages. Pour inclure une carte avec ce mo
 
   - Un allié compte comme un personnage nommé si son titre ou son sous-titre correspond au nom requis.
 
-Voir aussi : Allié, Identité, En jeu et Hors-jeu, Mots-clés, Jouer, Texte de rappel, Appendice I : Personnalisation du deck
+**Voir aussi** : Allié, Identité, En jeu et Hors-jeu, Mots-clés, Jouer, Texte de rappel, Appendice I : Personnalisation du deck
 

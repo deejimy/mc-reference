@@ -15,5 +15,5 @@ Une carte avec le mot-clé permanent ne peut pas être vaincue, quitter le jeu o
 
   - Si un joueur est éliminé de la partie alors qu'une carte permanente (autre qu'un attachement) qu'il ne possède pas se trouve dans sa zone de jeu, retirez cette carte permanente de la partie.
 
-Voir aussi : En jeu et Hors-jeu, Mots-clés, Quitte le jeu, Propriété et Contrôle, Texte de rappel
+**Voir aussi** : En jeu et Hors-jeu, Mots-clés, Quitte le jeu, Propriété et Contrôle, Texte de rappel
 

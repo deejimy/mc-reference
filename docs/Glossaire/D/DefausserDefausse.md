@@ -17,5 +17,5 @@ La défausse est l'acte de tenter de déplacer une carte d'une zone de jeu (autr
 
   - Si un joueur regarde un certain nombre de cartes du dessus d'un deck et en défausse une ou plusieurs, ces cartes sont considérées comme ayant été défaussées du dessus de ce deck.
 
-Voir aussi : Pile de défausse, Carte de rencontre, En jeu et Hors-jeu, Propriété et Contrôle, Carte de joueur, Mélanger
+**Voir aussi** : Pile de défausse, Carte de rencontre, En jeu et Hors-jeu, Propriété et Contrôle, Carte de joueur, Mélanger
 

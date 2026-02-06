@@ -19,5 +19,5 @@ Désorienté est un état qui annule la prochaine manigance ou le prochain contr
 
   - Comme l'action de contre ou l'activation de manigance a été remplacée par le retrait de la carte d'état désorienté, ce personnage n'est pas considéré comme ayant contré ou manigancé.
 
-Voir aussi : Allié, Annuler, Identité, Sbire, Cartes d'état, Cible, Méchant
+**Voir aussi** : Allié, Annuler, Identité, Sbire, Cartes d'état, Cible, Méchant
 

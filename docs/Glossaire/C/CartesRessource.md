@@ -7,5 +7,5 @@ Les cartes ressource sont un type de carte de joueur. Leur fonction principale e
 
   - Les cartes ressource sont considérées comme une extension de l'identité.
 
-Voir aussi : Types de carte, Icônes, Identité, Carte de joueur, Ressource
+**Voir aussi** : Types de carte, Icônes, Identité, Carte de joueur, Ressource
 

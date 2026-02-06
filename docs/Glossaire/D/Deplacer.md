@@ -7,5 +7,5 @@ Certaines capacités permettent de "déplacer" des éléments de jeu (comme de l
 
   - Si de la menace est déplacée d'une manigance à une autre, cela n'est pas considéré comme "retirer de la menace" de la première, ni comme "placer de la menace" sur la seconde pour le déclenchement d'autres capacités.
 
-Voir aussi : Dégâts, Menace
+**Voir aussi** : Dégâts, Menace
 

@@ -19,5 +19,5 @@ Lorsque des dégâts sont infligés à un personnage, cela réduit les points de
   - Si une capacité qui dit qu'un allié ou un sbire "gagne +X points de vie" cesse d'être en vigueur et amène cet allié ou sbire à avoir des dégâts sur lui égaux ou supérieurs à ses points de vie, cet allié ou sbire est vaincu.
 Certains personnages peuvent avoir un nombre infini de points de vie. Un personnage avec des points de vie infinis ne peut pas être vaincu en subissant des dégâts, car la quantité de dégâts que ce personnage subit ne fera jamais tomber ses points de vie restants à zéro. Cependant, des dégâts peuvent toujours être infligés à un personnage ayant des points de vie infinis par le biais d'attaques et de capacités de carte.
 
-Voir aussi : Allié, Dégâts, Vaincre, Soigner, Identité, Maximum de points de vie, Sbire, Modificateurs, Élimination d'un joueur, Points de vie restants, Dégâts subis, Méchant, Vaincre le méchant
+**Voir aussi** : Allié, Dégâts, Vaincre, Soigner, Identité, Maximum de points de vie, Sbire, Modificateurs, Élimination d'un joueur, Points de vie restants, Dégâts subis, Méchant, Vaincre le méchant
 

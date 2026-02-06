@@ -17,5 +17,5 @@ Les manigances secondaires de joueur sont des missions que les héros entreprenn
 
   - Les capacités qui retirent de la menace d'une "manigance" ou d'une "manigance secondaire" peuvent retirer de la menace d'une manigance secondaire de joueur.
 
-Voir aussi : Types de carte, Carte de joueur, Limite de manigances secondaires de joueur, Manigance (Type de carte), Manigance secondaire, Victoire X
+**Voir aussi** : Types de carte, Carte de joueur, Limite de manigances secondaires de joueur, Manigance (Type de carte), Manigance secondaire, Victoire X
 

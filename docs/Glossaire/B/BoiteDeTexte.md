@@ -7,5 +7,5 @@ La boîte de texte d'une carte est la zone contenant les capacités imprimées, 
 
   - Les icônes imprimées dans la boîte de texte sont considérées comme des capacités.
 
-Voir aussi : Capacité, Imprimé, Traits, Appendice III : Anatomie d'une carte
+**Voir aussi** : Capacité, Imprimé, Traits, Appendice III : Anatomie d'une carte
 

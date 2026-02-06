@@ -5,5 +5,5 @@ Une carte retirée de la partie est mise de côté et n'interagit plus avec le j
 
   - "Retiré de la partie" est un état hors-jeu.
 
-Voir aussi : En jeu et Hors-jeu, Quitte le jeu
+**Voir aussi** : En jeu et Hors-jeu, Quitte le jeu
 

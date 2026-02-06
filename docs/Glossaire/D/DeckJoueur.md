@@ -12,5 +12,5 @@ Si le deck d'un joueur se vide, le joueur mélange sa pile de défausse pour for
 
   - Si le deck d'un joueur se vide et qu'il n'a aucune carte dans sa pile de défausse, le deck n'est pas réinitialisé tant qu'il n'y a pas au moins une carte dans la pile de défausse ; à ce moment, le joueur se distribue une carte de rencontre face cachée.
 
-Voir aussi : Défausse, Pile de défausse, Piocher, Paquet de rencontre, Mélanger
+**Voir aussi** : Défausse, Pile de défausse, Piocher, Paquet de rencontre, Mélanger
 

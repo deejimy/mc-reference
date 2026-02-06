@@ -7,5 +7,5 @@ Les dégâts subis font référence à la différence entre les points de vie ma
 
   - Les dégâts subis par un allié ou un sbire sont égaux à la valeur totale de tous les jetons de dégâts présents sur la carte.
 
-Voir aussi : Allié, Dégâts, Points de vie, Identité, Maximum de points de vie, Points de vie restants, Méchant
+**Voir aussi** : Allié, Dégâts, Points de vie, Identité, Maximum de points de vie, Points de vie restants, Méchant
 

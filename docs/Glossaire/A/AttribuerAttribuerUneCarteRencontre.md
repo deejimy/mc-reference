@@ -6,5 +6,5 @@ Si une capacité de carte ordonne qu'une carte de rencontre soit distribuée à 
 
   - Si une carte de rencontre est distribuée à un joueur pendant l'étape trois ou quatre de la phase du méchant, la carte de rencontre supplémentaire est ajoutée à la file d'attente des cartes qui sont distribuées et révélées lors de ces mêmes étapes.
 
-Voir aussi : Capacité, Carte de rencontre, Paquet de rencontre, Joueur, Phase du méchant
+**Voir aussi** : Capacité, Carte de rencontre, Paquet de rencontre, Joueur, Phase du méchant
 

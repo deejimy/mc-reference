@@ -15,5 +15,5 @@ Le type de carte d'une carte désigne diverses règles et fonctions de jeu assoc
 
   - Lorsqu'un joueur change un sbire en allié, ce joueur prend le contrôle de cet allié.
 
-Voir aussi : Allié, Attachement, Carte de rencontre, Environnement, Évènement, Identité, Manigance principale, Sbire, Obligation, Carte de joueur, Manigance secondaire de joueur, Carte ressource, Manigance secondaire, Soutien, Traîtrise, Amélioration, Méchant, Appendice III : Anatomie d'une carte
+**Voir aussi** : Allié, Attachement, Carte de rencontre, Environnement, Évènement, Identité, Manigance principale, Sbire, Obligation, Carte de joueur, Manigance secondaire de joueur, Carte ressource, Manigance secondaire, Soutien, Traîtrise, Amélioration, Méchant, Appendice III : Anatomie d'une carte
 

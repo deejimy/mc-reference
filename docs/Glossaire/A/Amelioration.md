@@ -13,5 +13,5 @@ Amélioration est un type de carte de joueur représentant des pouvoirs, des att
 
   - Sauf si attachées à un personnage ami différent, les améliorations sont considérées comme une extension de l'identité du contrôleur. Les attaques, contres, défenses et capacités sur ces cartes sont considérés comme effectués par l'identité.
 
-Voir aussi : Attacher à, Types de carte, Entre en jeu, Identité, En jeu et Hors-jeu, Quitte le jeu, Propriété et Contrôle, Carte de joueur, Zone de jeu d'un joueur
+**Voir aussi** : Attacher à, Types de carte, Entre en jeu, Identité, En jeu et Hors-jeu, Quitte le jeu, Propriété et Contrôle, Carte de joueur, Zone de jeu d'un joueur
 

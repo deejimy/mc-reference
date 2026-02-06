@@ -9,5 +9,5 @@ L'expression "quitte le jeu" se réfère à tout moment où une carte passe du j
 
   - Si une carte quitte le jeu, toutes les capacités de carte qui étaient actives sur cette carte (à l'exception des capacités de réponse ou d'interruption déclenchées par le départ de la carte) cessent d'être actives.
 
-Voir aussi : En jeu et Hors-jeu, Vaincre
+**Voir aussi** : En jeu et Hors-jeu, Vaincre
 

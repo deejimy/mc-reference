@@ -9,5 +9,5 @@ Certaines capacités possèdent un libellé en gras (entre parenthèses) immédi
 
   - Une capacité étiquetée comme une "défense" est considérée comme une défense.
 
-Voir aussi : Capacité, Attaque, Contrer, Défendre
+**Voir aussi** : Capacité, Attaque, Contrer, Défendre
 

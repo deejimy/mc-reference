@@ -1,4 +1,4 @@
-site_name: Marvel Champions - Guide de Référence v1.7
+site_name: Marvel Champions - Guide de Référence v1.7 (beta)
 site_url: https://deejimy.github.io/mc-reference/
 
 
@@ -11,6 +11,8 @@ theme:
       scheme: default
       primary: red
       accent: black
+    features:
+    - navigation.footer 
     
 # Extensions
 markdown_extensions:

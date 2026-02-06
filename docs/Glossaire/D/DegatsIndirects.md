@@ -23,5 +23,5 @@ Certaines capacités de carte peuvent infliger des "dégâts indirects".
 
   - Par exemple, si vous subissez 5 dégâts indirects, mais que vous contrôlez un allié avec 4 points de vie restants, vous pouvez assigner 4 de ces dégâts indirects à l'allié, puis assigner le dégât indirect restant à votre identité.
 
-Voir aussi : Allié, Attaque (Activation d'ennemi), Dégâts, Vaincre, Joueur
+**Voir aussi** : Allié, Attaque (Activation d'ennemi), Dégâts, Vaincre, Joueur
 

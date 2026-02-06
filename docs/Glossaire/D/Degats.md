@@ -1,7 +1,7 @@
 # Dégâts
 
 
-Les dégâts réduisent la santé d'un personnage. S'ils ne sont pas prévenus, les dégâts sont infligés à un personnage en plaçant un nombre de jetons de dégâts sur ce personnage égal à la quantité de dégâts infligés.
+![[pion_degat.png]] Les dégâts réduisent la santé d'un personnage. S'ils ne sont pas prévenus, les dégâts sont infligés à un personnage en plaçant un nombre de jetons de dégâts sur ce personnage égal à la quantité de dégâts infligés.
 
   - Si un personnage subit une quantité de dégâts égale ou supérieure à sa santé, le personnage est vaincu.
 

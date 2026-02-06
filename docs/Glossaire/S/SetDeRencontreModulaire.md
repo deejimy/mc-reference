@@ -5,5 +5,5 @@ Un set de rencontre modulaire est un groupe de cartes de rencontre thématiques 
 
   - Les sets modulaires sont désignés par une icône de set spécifique.
 
-Voir aussi : Classifications, Set de rencontre
+**Voir aussi** : Classifications, Set de rencontre
 

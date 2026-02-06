@@ -9,5 +9,5 @@ Certaines capacités contiennent des effets retardés. De telles capacités spé
 
   - Lorsqu'un effet retardé se résout, il n'est pas traité comme une nouvelle capacité déclenchée, même si l'effet retardé a été initialement créé par une capacité déclenchée.
 
-Voir aussi : Capacité
+**Voir aussi** : Capacité
 

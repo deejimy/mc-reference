@@ -7,5 +7,5 @@ Le set Expert est un set de rencontre qui est ajouté aux scénarios pendant le 
 
   - Les cartes de la classification "Expert" sont toutes les cartes qui portent le mot "Expert" imprimé au bas de la carte dans sa zone de nom de set de rencontre.
 
-Voir aussi : Classifications, Modes de jeu, Set de rencontre modulaire, Appendice I : Personnalisation du deck
+**Voir aussi** : Classifications, Modes de jeu, Set de rencontre modulaire, Appendice I : Personnalisation du deck
 

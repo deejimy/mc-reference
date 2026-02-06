@@ -5,5 +5,5 @@ Une capacité qui ignore une certaine capacité, icône ou coût traite cette ca
 
   - Lorsqu'une carte est jouée en "ignorant son coût en ressources", aucune ressource n'est payée pour cette carte. Pour les besoins des effets de carte, cette carte est considérée comme ayant été jouée avec zéro ressource payée pour son coût.
 
-Voir aussi : Capacité, Coût, Icônes, Exigence (Ressources)
+**Voir aussi** : Capacité, Coût, Icônes, Exigence (Ressources)
 

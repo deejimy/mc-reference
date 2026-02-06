@@ -9,5 +9,5 @@ Le mot "ne peut pas" est absolu et ne peut pas être contredit par d'autres capa
 
   - Une capacité peut supplanter une règle avec "ne peut pas" selon les Règles d'Or.
 
-Voir aussi : Les Règles d’Or, Cible
+**Voir aussi** : Les Règles d’Or, Cible
 

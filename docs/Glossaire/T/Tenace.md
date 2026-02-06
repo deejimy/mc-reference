@@ -13,5 +13,5 @@ Tenace est un état qui empêche un personnage de subir des dégâts.
 
   - Comme la carte tenace prévient entièrement les dégâts, le personnage n'est pas considéré comme ayant subi des dégâts.
 
-Voir aussi : Dégâts, Déferlement, Cartes d'état, Ténacité
+**Voir aussi** : Dégâts, Déferlement, Cartes d'état, Ténacité
 

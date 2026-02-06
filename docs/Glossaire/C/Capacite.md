@@ -44,12 +44,13 @@ Capacités déclenchées — Une capacité déclenchée est indiquée par un dé
   - Si des guillemets sont utilisés autour d'un déclencheur et de deux-points, le texte entre guillemets n'est pas lui-même un déclencheur, mais se réfère plutôt à d'autres capacités possédant ce déclencheur.
 
 Priorité de chronologie simultanée — Certaines capacités ont une priorité temporelle sur d'autres capacités. Dans l'ordre, la priorité temporelle des capacités ayant la même condition de déclenchement est :
-1. Capacités constantes, effets retardés, effets persistants, mots-clés et icônes , , , .
-2. Cartes d'état.
-3. Capacités d'"Interruption forcée".
-4. Capacités d'"Interruption".
-5. Capacités de "Boost", "Une fois vaincu" et "Une fois révélée".
-6. Capacités de "Réponse forcée".
-7. Capacités de "Réponse".
-8. Dégâts consécutifs.
+
+1. Capacités constantes, effets retardés, effets persistants, mots-clés et icônes ![[icone_acceleration.jpg|15]], ![[icone_amplification.jpg|15]], ![[icone_crise.jpg|15]], ![[icone_aleas.jpg|15]].  
+2. Cartes d'état.  
+3. Capacités d'"Interruption forcée".  
+4. Capacités d'"Interruption".  
+5. Capacités de "Boost", "Une fois vaincu" et "Une fois révélée".  
+6. Capacités de "Réponse forcée".  
+7. Capacités de "Réponse".  
+8. Dégâts consécutifs.  
 

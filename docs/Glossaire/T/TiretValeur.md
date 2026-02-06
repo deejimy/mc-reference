@@ -9,5 +9,5 @@ Une valeur représentée par un tiret (–) indique que cette valeur ne peut pas
 
   - Si une étape de jeu ou une capacité de carte fait référence à une valeur représentée par un tiret (–), cette valeur est traitée comme un 0 non modifiable. (Par exemple, si une capacité cible "l'allié ayant la MAN la plus basse", un allié avec un tiret pour sa MAN est considéré comme ayant la même MAN qu'un allié avec une MAN de 0.)
 
-Voir aussi : Puissance de base, Variable non numérique
+**Voir aussi** : Puissance de base, Variable non numérique
 

@@ -7,5 +7,5 @@ Interruption est un type de capacité déclenchée. Une capacité d'interruption
 
   - Si une interruption est utilisée, la résolution de la condition de déclenchement est temporairement suspendue jusqu'à ce que l'interruption soit résolue.
 
-Voir aussi : Capacité, Interruption forcée, Priorité temporelle, Capacité déclenchée
+**Voir aussi** : Capacité, Interruption forcée, Priorité temporelle, Capacité déclenchée
 

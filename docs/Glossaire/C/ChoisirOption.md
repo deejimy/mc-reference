@@ -11,5 +11,5 @@ Certaines capacités ordonnent à un joueur de choisir entre plusieurs options. 
 
   - Nécessitent une ou plusieurs cibles et il n'y a pas de cibles valides.
 
-Voir aussi : Capacité, Joueur, Cible
+**Voir aussi** : Capacité, Joueur, Cible
 

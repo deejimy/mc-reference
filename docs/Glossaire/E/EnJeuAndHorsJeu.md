@@ -31,5 +31,5 @@ Si une carte est hors-jeu, son texte est inactif et ne peut pas affecter la part
 
   - Si une carte est double-face (ayant du texte de jeu sur chaque face de la carte), la face cachée est hors-jeu.
 
-Voir aussi : Capacité, Entre en jeu, Quitte le jeu, Jouer, Restrictions et autorisations de jeu, Mis de côté, Cible, Pile de victoire
+**Voir aussi** : Capacité, Entre en jeu, Quitte le jeu, Jouer, Restrictions et autorisations de jeu, Mis de côté, Cible, Pile de victoire
 

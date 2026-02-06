@@ -7,5 +7,5 @@ Si un personnage a zéro point de vie restant ou moins, ou si une manigance seco
 
   - Si une identité ou un stade du méchant est vaincu, il est retiré de la partie.
 
-Voir aussi : Allié, Points de vie, Sbire, Joueur, Élimination d'un joueur, Retiré de la partie, Manigance secondaire, Méchant, Vaincre le méchant
+**Voir aussi** : Allié, Points de vie, Sbire, Joueur, Élimination d'un joueur, Retiré de la partie, Manigance secondaire, Méchant, Vaincre le méchant
 

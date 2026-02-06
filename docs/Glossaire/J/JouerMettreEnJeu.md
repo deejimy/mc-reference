@@ -14,5 +14,5 @@ Certaines capacités font que des cartes sont "mises en jeu". Cela permet d'igno
 
   - Sauf indication contraire par l'effet de mise en jeu, les cartes qui sont mises en jeu doivent l'être dans une zone de jeu ou un état correspondant aux règles de mise en jeu de la carte.
 
-Voir aussi : Entre en jeu, En jeu et Hors-jeu, Initier des capacités, Quitte le jeu, Restrictions et autorisations de jeu
+**Voir aussi** : Entre en jeu, En jeu et Hors-jeu, Initier des capacités, Quitte le jeu, Restrictions et autorisations de jeu
 

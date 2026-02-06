@@ -31,5 +31,5 @@ Le propriétaire d'une carte est le joueur dont le deck contenait la carte au d�
 
   - Si une étape de jeu ou une capacité de carte fait référence à une carte que "vous contrôlez" ou qu'un "joueur contrôle", cela ne se réfère qu'aux cartes en jeu actuellement sous le contrôle de ce joueur.
 
-Voir aussi : Classifications, Carte de rencontre, Paquet de rencontre, En jeu et Hors-jeu, Joueur, Carte de joueur, Deck de joueur, Zone de jeu d'un joueur, Zone de jeu du méchant
+**Voir aussi** : Classifications, Carte de rencontre, Paquet de rencontre, En jeu et Hors-jeu, Joueur, Carte de joueur, Deck de joueur, Zone de jeu d'un joueur, Zone de jeu du méchant
 

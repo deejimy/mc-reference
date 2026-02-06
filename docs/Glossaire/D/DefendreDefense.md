@@ -45,5 +45,5 @@ Pendant une attaque ennemie, un joueur peut défendre contre cette attaque en ut
 
   - Si une capacité se déclenche après qu'un personnage a utilisé une puissance de base, cette capacité se déclenche après la résolution d'une attaque au cours de laquelle un personnage a effectué une défense de base.
 
-Voir aussi : Capacité, Allié, Attaque (Activation d'ennemi), Dégâts, "Ami", Identité, Capacité étiquetée, Joueur
+**Voir aussi** : Capacité, Allié, Attaque (Activation d'ennemi), Dégâts, "Ami", Identité, Capacité étiquetée, Joueur
 

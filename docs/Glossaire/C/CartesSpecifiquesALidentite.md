@@ -11,5 +11,5 @@ Les cartes de la classification "spécifique à l'identité" (parfois aussi appe
 
   - Les cartes d'identité sont des cartes spécifiques à l'identité.
 
-Voir aussi : Carte d'affinité, Carte Basique, Classifications, Identité, Set de rencontre Némésis, Appendice I : Personnalisation du deck
+**Voir aussi** : Carte d'affinité, Carte Basique, Classifications, Identité, Set de rencontre Némésis, Appendice I : Personnalisation du deck
 

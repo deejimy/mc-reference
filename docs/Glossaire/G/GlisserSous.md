@@ -7,5 +7,5 @@ Lorsqu'un joueur reçoit l'instruction de glisser une carte sous une autre, il p
 
   - Lorsqu'une carte quitte le jeu, chaque carte glissée sous elle est défaussée.
 
-Voir aussi : En jeu et Hors-jeu
+**Voir aussi** : En jeu et Hors-jeu
 

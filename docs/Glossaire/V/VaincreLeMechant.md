@@ -13,5 +13,5 @@ Si le dernier stade est vaincu, les joueurs gagnent.
 
   - Si le titre est différent : il n'est pas considéré comme le même personnage (ne conserve rien). L'activation en cours s'arrête sans se résoudre.
 
-Voir aussi : jeton polyvalent, Attachement, Dégâts, Vaincre, Dégâts excédentaires, Points de vie, Cartes d'état, Méchant
+**Voir aussi** : jeton polyvalent, Attachement, Dégâts, Vaincre, Dégâts excédentaires, Points de vie, Cartes d'état, Méchant
 

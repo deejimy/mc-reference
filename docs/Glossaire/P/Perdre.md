@@ -7,5 +7,5 @@ Si un joueur "perd" un élément de jeu (tel que des points de vie ou des ressou
 
   - Si un joueur perd des ressources, ces ressources sont retirées de sa réserve sans être dépensées.
 
-Voir aussi : Dégâts, Points de vie, Ressource
+**Voir aussi** : Dégâts, Points de vie, Ressource
 

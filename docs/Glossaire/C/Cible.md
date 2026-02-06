@@ -39,11 +39,11 @@ Si une fonction de jeu ou une capacité de carte est dirigée vers un élément 
 
   - Elle ne se résout pas contre les éléments qui ne sont pas des cibles valides.
 
-  - Par exemple, l'icône de crise () empêche de retirer de la menace de la manigance principale. "Retirez 1 menace de chaque manigance" peut être utilisé s'il existe au moins une manigance dont on peut retirer de la menace. Dans ce cas, aucune menace ne sera retirée de la manigance principale.
+  - Par exemple, l'icône de crise (![[icone_crise.jpg|15]]) empêche de retirer de la menace de la manigance principale. "Retirez 1 menace de chaque manigance" peut être utilisé s'il existe au moins une manigance dont on peut retirer de la menace. Dans ce cas, aucune menace ne sera retirée de la manigance principale.
 
   - Une capacité se référant à une cible future ("la prochaine carte que vous jouez") ne nécessite pas de cible pour être initiée.
 
   - Une capacité avec un effet de recherche nécessite seulement une zone de jeu consultable pour être initiée.
 
-Voir aussi : Capacité, Choisir (Élément de jeu), Coût, Élément de jeu, Capacité étiquetée
+**Voir aussi** : Capacité, Choisir (Élément de jeu), Coût, Élément de jeu, Capacité étiquetée
 

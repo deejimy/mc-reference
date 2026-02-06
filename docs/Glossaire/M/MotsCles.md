@@ -9,5 +9,5 @@ Un mot-clé est un attribut de carte qui possède un ensemble de règles inhére
 
   - Si une carte possède plusieurs instances d'un même mot-clé, chaque instance agit indépendamment.
 
-Voir aussi : À distance, Coup rapide, Déferlement, En équipe, Entrave X, Garde, Incitation X, Lié, Patrouille, Perçant, Permanent, Péril, Restreint, Riposte X, Robuste, Solide, Ténacité
+**Voir aussi** : À distance, Coup rapide, Déferlement, En équipe, Entrave X, Garde, Incitation X, Lié, Patrouille, Perçant, Permanent, Péril, Restreint, Riposte X, Robuste, Solide, Ténacité
 

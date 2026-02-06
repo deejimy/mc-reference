@@ -5,5 +5,5 @@ Récupérer est un pouvoir de base qu'un joueur peut utiliser sous forme d'alter
 
   - Une identité qui n'a pas de dégâts à soigner ne peut pas effectuer de récupération de base.
 
-Voir aussi : Pouvoir de base, Forme, Soigner, Points de vie, Identité
+**Voir aussi** : Pouvoir de base, Forme, Soigner, Points de vie, Identité
 

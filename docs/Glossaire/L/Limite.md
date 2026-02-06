@@ -9,5 +9,5 @@ Le texte "Limite de X par [période]" restreint le nombre de fois qu'une capacit
 
   - Le terme "par joueur" dans une limite signifie que chaque joueur possède sa propre limite pour cette capacité.
 
-Voir aussi : Capacité, Max
+**Voir aussi** : Capacité, Max
 

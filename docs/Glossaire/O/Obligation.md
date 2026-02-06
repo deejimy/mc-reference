@@ -7,5 +7,5 @@ Obligation est un type de carte de rencontre associé à une identité spécifiq
 
   - Le joueur doit résoudre le texte de l'obligation, ce qui l'oblige souvent à choisir entre plusieurs options (comme incliner son identité ou défausser des cartes).
 
-Voir aussi : Types de carte, Carte de rencontre, Identité
+**Voir aussi** : Types de carte, Carte de rencontre, Identité
 
