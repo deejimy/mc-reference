@@ -5,7 +5,7 @@ Pendant son tour, un joueur peut effectuer les options suivantes, dans n'importe
 
   - Changer de forme (de héros à alter-ego, ou vice versa). Cette option ne peut être effectuée qu'une seule fois par tour.
 
-  - Jouer un allié, une amélioration, un soutien ou une manigance secondaire de joueur depuis sa main.
+  - Jouer un allié, une amélioration, un soutien ou une manigance annexe de joueur depuis sa main.
 
   - Utiliser la récupération de base de son alter-ego (si sous forme d'alter-ego) ou la puissance d'attaque ou de contre de base de son héros (si sous forme de héros).
 

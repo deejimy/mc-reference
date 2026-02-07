@@ -9,7 +9,7 @@ Une carte avec le mot-clé permanent ne peut pas être vaincue, quitter le jeu o
 
   - Les cartes permanentes ne sont pas des cibles valides pour les effets de carte qui les feraient quitter le jeu.
 
-  - Si une carte permanente devait être ciblée par un tel effet (par exemple : "défaussez le soutien au coût le plus bas que vous contrôlez"), cet effet cible à la place la carte non-permanente qui correspond aux critères.
+    - Si une carte permanente devait être ciblée par un tel effet (par exemple : "défaussez le soutien au coût le plus bas que vous contrôlez"), cet effet cible à la place la carte non-permanente qui correspond aux critères.
 
   - Si la carte à laquelle un attachement permanent était attaché quitte le jeu, résolvez le texte "attachez à" de cet attachement. S'il n'en a pas ou si ce texte n'a pas de cible valide, retirez l'attachement de la partie.
 

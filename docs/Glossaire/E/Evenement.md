@@ -14,7 +14,7 @@ Chaque fois qu'un joueur joue une carte évènement, ce joueur la place face vis
 
   - Si un effet modifie la quantité de dégâts qu'un évènement inflige ou la quantité de menace qu'un évènement retire, et que cet évènement inflige plusieurs instances de dégâts ou retire plusieurs instances de menace, chacune de ces instances est modifiée.
 
-  - Si un effet modifie la quantité de dégâts qu'une "attaque" inflige (plutôt qu'un "évènement"), et qu'un évènement initie plusieurs attaques, seule la première de ces attaques voit ses dégâts modifiés.
+    - Si un effet modifie la quantité de dégâts qu'une "attaque" inflige (plutôt qu'un "évènement"), et qu'un évènement initie plusieurs attaques, seule la première de ces attaques voit ses dégâts modifiés.
 
 **Voir aussi** : Types de carte, Défausse, Identité, Capacité étiquetée, Joueur, Carte de joueur, Propriété et Contrôle
 

@@ -9,7 +9,7 @@ Amélioration est un type de carte de joueur représentant des pouvoirs, des att
 
   - Certaines améliorations entrent en jeu et "s'attachent à" une autre carte. Elles modifient la carte attachée, pas le héros ou l'alter-ego du joueur.
 
-  - Un joueur contrôle toutes les améliorations attachées aux personnages qu'il contrôle, même celles appartenant à un autre joueur.
+    - Un joueur contrôle toutes les améliorations attachées aux personnages qu'il contrôle, même celles appartenant à un autre joueur.
 
   - Sauf si attachées à un personnage ami différent, les améliorations sont considérées comme une extension de l'identité du contrôleur. Les attaques, contres, défenses et capacités sur ces cartes sont considérés comme effectués par l'identité.
 

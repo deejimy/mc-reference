@@ -6,7 +6,7 @@ Si une carte est en jeu, son texte est actif et il peut affecter la partie.
 
   - Pour les cartes de joueur, la face visible de la carte d'identité d'un joueur est en jeu. Les cartes allié, les cartes soutien et les cartes amélioration face visible qui sont entrées en jeu (jouées, mises en jeu, etc.) sont en jeu.
 
-  - Pour les cartes de rencontre, la face visible de la carte du dessus du deck du méchant et la face visible de la carte du dessus du deck de manigance principale sont en jeu. Les cartes attachement, les cartes environnement, les cartes sbire, les cartes obligation et les cartes manigance secondaire face visible qui sont entrées en jeu (révélées, mises en jeu, etc.) sont en jeu.
+  - Pour les cartes de rencontre, la face visible de la carte du dessus du deck du méchant et la face visible de la carte du dessus du deck de manigance principale sont en jeu. Les cartes attachement, les cartes environnement, les cartes sbire, les cartes obligation et les cartes manigance annexe face visible qui sont entrées en jeu (révélées, mises en jeu, etc.) sont en jeu.
 
   - Une carte entre en jeu lorsqu'elle passe d'une zone hors-jeu à une zone de jeu.
 

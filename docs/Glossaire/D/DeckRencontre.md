@@ -10,5 +10,5 @@ Si le paquet de rencontre est vide, la pile de défausse de rencontre est imméd
 
   - S'il n'y a plus aucune carte à la fois dans le paquet de rencontre et dans la pile de défausse de rencontre simultanément (par exemple si toutes les cartes du paquet de rencontre sont en jeu), une boucle infinie se produit avec un nombre infini de jetons d'accélération placés à côté du deck de manigance principale. Si cela arrive, les joueurs perdent.
 
-**Voir aussi** : jeton d'accélération, Attachement, Choisir (Élément de jeu), Défausse, Pile de défausse, Environnement, Sbire, Manigance secondaire, Traîtrise
+**Voir aussi** : jeton d'accélération, Attachement, Choisir (Élément de jeu), Défausse, Pile de défausse, Environnement, Sbire, Manigance annexe, Traîtrise
 

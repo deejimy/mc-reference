@@ -9,7 +9,7 @@ Une capacité est le texte de jeu d'une carte qui explique ce que la carte fait 
 
   - Si une capacité spécifie une ou plusieurs cibles, cette capacité ne peut être initiée que si elle possède au moins une cible valide. Par exemple, une capacité qui dit "infligez 5 dégâts à un sbire" ne peut pas être initiée s'il n'y a aucun sbire en jeu.
 
-  - Des exemples de cibles incluent, sans s'y limiter : "le méchant", "un sbire", "un ennemi", "une manigance", "un héros", "un allié", "un personnage", "un joueur", "vous", "une carte".
+    - Des exemples de cibles incluent, sans s'y limiter : "le méchant", "un sbire", "un ennemi", "une manigance", "un héros", "un allié", "un personnage", "un joueur", "vous", "une carte".
 
   - Lorsqu'une capacité comporte plus d'une phrase de texte, lisez l'intégralité de la capacité pour vérifier s'il existe des effets d'altération susceptibles de modifier la manière dont la capacité se résout. Ensuite, résolvez la capacité une phrase à la fois.
 
@@ -19,13 +19,13 @@ Une capacité est le texte de jeu d'une carte qui explique ce que la carte fait 
 
   - La résolution des types de capacités suivants est obligatoire : capacités constantes, capacités de "Mise en place", capacités "Une fois révélée", capacités "Une fois vaincu", capacités d'"Action forcée", capacités d'"Interruption forcée", capacités de "Réponse forcée", capacités de "Boost" et mots-clés.
 
-  - Si l'un de ces types de capacité utilise le mot "peut", la partie de la capacité suivant "peut" est optionnelle.
+    - Si l'un de ces types de capacité utilise le mot "peut", la partie de la capacité suivant "peut" est optionnelle.
 
   - La résolution des types de capacités suivants est optionnelle : "Action", "Interruption", "Réponse", "Ressource". Le joueur qui contrôle la carte possédant une capacité optionnelle détermine s'il souhaite ou non utiliser cette capacité au moment approprié. Tout joueur peut utiliser une telle capacité sur une carte de rencontre, avec les exceptions suivantes :
 
-  - Seul le joueur qui contrôle une carte de joueur avec un attachement utilisant le mot "vous" ou "votre" peut déclencher des capacités ou payer des coûts sur cet attachement.
+    - Seul le joueur qui contrôle une carte de joueur avec un attachement utilisant le mot "vous" ou "votre" peut déclencher des capacités ou payer des coûts sur cet attachement.
 
-  - Seul le joueur ayant une obligation dans sa zone de jeu peut déclencher des capacités ou payer des coûts sur cette obligation.
+    - Seul le joueur ayant une obligation dans sa zone de jeu peut déclencher des capacités ou payer des coûts sur cette obligation.
 
 Capacités constantes — Une capacité constante est toute capacité (autre qu'un mot-clé) dont le texte ne contient aucun déclencheur en gras définissant son type de capacité. Une capacité constante devient active dès que sa carte entre en jeu et reste active tant que la carte est en jeu.
 

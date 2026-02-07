@@ -5,7 +5,7 @@ Attachement est un type de carte de rencontre. Lorsqu'un attachement entre en je
 
   - Si un attachement s'attache à un personnage, il peut modifier les valeurs d'ATK, de MNGet/ou de CTR de ce personnage, comme indiqué par les valeurs dans les champs associés sur la carte d'attachement.
 
-    - Si un attachement a un modificateur "MAN/CTR", il modifie la MNGdu personnage attaché s'il s'agit d'un méchant ou d'un sbire, et modifie la CTR du personnage s'il s'agit d'un héros ou d'un allié.
+    - Si un attachement a un modificateur "MNG/CTR", il modifie la MNGdu personnage attaché s'il s'agit d'un méchant ou d'un sbire, et modifie la CTR du personnage s'il s'agit d'un héros ou d'un allié.
 
     - Si un attachement modifie une valeur que le personnage attaché ne possède pas ou pour laquelle ce personnage a un tiret (–), ce modificateur est ignoré.
 

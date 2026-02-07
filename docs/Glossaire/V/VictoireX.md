@@ -3,7 +3,7 @@
 
 Lorsqu'une carte avec le mot-clé victoire X quitte le jeu dans les conditions suivantes, placez-la dans la pile de victoire au lieu de la défausse :
 
-  - Un personnage ou une manigance secondaire avec victoire X est placé dans la pile de victoire lorsqu'il est vaincu.
+  - Un personnage ou une manigance annexe avec victoire X est placé dans la pile de victoire lorsqu'il est vaincu.
 
   - Un attachement ou une amélioration avec victoire X est placé dans la pile de victoire lorsque la carte à laquelle il est attaché est vaincue.
 

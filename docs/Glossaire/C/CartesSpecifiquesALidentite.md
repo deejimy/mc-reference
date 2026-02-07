@@ -9,7 +9,7 @@ Les cartes de la classification "spécifique à l'identité" (parfois aussi appe
 
   - Une carte spécifique à l'identité est désignée par l'icône d'identité imprimée dans le coin inférieur droit de la carte.
 
-  - Les cartes d'identité sont des cartes spécifiques à l'identité.
+    - Les cartes d'identité sont des cartes spécifiques à l'identité.
 
 **Voir aussi** : Carte d'affinité, Carte Basique, Classifications, Identité, Set de rencontre Némésis, Appendice I : Personnalisation du deck
 

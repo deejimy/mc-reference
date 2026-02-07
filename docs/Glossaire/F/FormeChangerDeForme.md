@@ -15,9 +15,9 @@ Un joueur peut être soit sous forme de héros, soit sous forme d'alter-ego à u
 
   - Les cartes avec le mot-clé "forme [type]" confèrent à une identité des formes uniques.
 
-  - Ces formes s'ajoutent aux formes alter-ego et héros de l'identité, et elles possèdent leurs propres conditions pour s'y transformer.
+    - Ces formes s'ajoutent aux formes alter-ego et héros de l'identité, et elles possèdent leurs propres conditions pour s'y transformer.
 
-  - Lorsqu'une identité change pour sa forme additionnelle, cela ne compte pas dans la limite d'une fois par tour pour passer de héros à alter-ego (ou vice versa), mais cela compte comme un changement de forme pour le déclenchement des effets de carte.
+    - Lorsqu'une identité change pour sa forme additionnelle, cela ne compte pas dans la limite d'une fois par tour pour passer de héros à alter-ego (ou vice versa), mais cela compte comme un changement de forme pour le déclenchement des effets de carte.
 
   - Les cartes avec le texte "forme [type] uniquement" ne peuvent être jouées ou mises en jeu que par un joueur dont l'identité est sous la forme spécifiée.
 

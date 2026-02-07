@@ -6,7 +6,7 @@ L'objectif de ce projet est de mettre à disposition des joueurs francophones un
 
 ## Contribuer au projet
 
-Si vous êtes un expert des règles ou un passionné de mise en page, votre aide est la bienvenue !
+Si vous souhaitez contribuer au projet, votre aide est la bienvenue !
 
-- Traduction & Relecture : Vous avez repéré une coquille ou une tournure de phrase peu claire ?
-- Suggestions : Toute idée pour améliorer cet outil de référence est appréciée.
+- Traduction & Relecture : Vous avez repéré une coquille, une tournure de phrase peu claire ou des traductions oubliées ?  
+- Suggestions : Toute idée pour améliorer cet outil de référence est appréciée.  

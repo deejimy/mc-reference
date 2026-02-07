@@ -5,5 +5,5 @@ Si le dernier stade du méchant est vaincu, les joueurs gagnent la partie. Si le
 
   - Certains scénarios ont des conditions de victoire ou de défaite alternatives. Si ces conditions sont remplies, les joueurs gagnent ou perdent en conséquence.
 
-  - Les conditions de victoire ou de défaite alternatives ne peuvent pas être annulées ou ignorées.
+    - Les conditions de victoire ou de défaite alternatives ne peuvent pas être annulées ou ignorées.
 

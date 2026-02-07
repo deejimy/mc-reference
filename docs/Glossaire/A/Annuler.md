@@ -13,7 +13,7 @@ Certaines capacités de carte peuvent annuler des effets de carte ou de jeu.
 
   - Les effets d'annulation sont considérés comme un sous-type d'effet de remplacement, l'effet annulé étant remplacé par l'absence d'effet.
 
-  - Les capacités dépendantes de l'effet annulé ne peuvent pas se déclencher car l'effet annulé est considéré comme n'ayant pas eu lieu.
+    - Les capacités dépendantes de l'effet annulé ne peuvent pas se déclencher car l'effet annulé est considéré comme n'ayant pas eu lieu.
 
 **Voir aussi** : Capacité, Effet de remplacement
 

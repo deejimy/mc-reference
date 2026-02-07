@@ -11,9 +11,9 @@ La défausse est l'acte de tenter de déplacer une carte d'une zone de jeu (autr
 
   - Si plusieurs cartes sont défaussées d'un deck par un effet unique, placez ces cartes dans la pile de défausse appropriée une par une (sans changer l'ordre).
 
-  - Ces défausses sont considérées comme simultanées.
+    - Ces défausses sont considérées comme simultanées.
 
-  - Les réponses à la défausse de l'une de ces cartes sont résolues après que toutes les défausses ont été effectuées.
+    - Les réponses à la défausse de l'une de ces cartes sont résolues après que toutes les défausses ont été effectuées.
 
   - Si un joueur regarde un certain nombre de cartes du dessus d'un deck et en défausse une ou plusieurs, ces cartes sont considérées comme ayant été défaussées du dessus de ce deck.
 

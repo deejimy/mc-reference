@@ -7,9 +7,9 @@ Le propriétaire d'une carte est le joueur dont le deck contenait la carte au d�
 
   - Les cartes entrent en jeu sous le contrôle de leur propriétaire. Les cartes de rencontre sont considérées comme étant sous le contrôle du scénario.
 
-  - Les améliorations attachées à une carte contrôlée par un joueur autre que le propriétaire de l'amélioration sont contrôlées par cet autre joueur.
+    - Les améliorations attachées à une carte contrôlée par un joueur autre que le propriétaire de l'amélioration sont contrôlées par cet autre joueur.
 
-  - Lorsqu'un joueur prend le contrôle d'une carte de joueur spécifique à une campagne ou à un scénario (comme un allié, un support ou une amélioration) possédant un dos de carte de joueur, ce joueur devient le propriétaire de cette carte jusqu'à ce que la partie se termine ou qu'un autre joueur en prenne le contrôle.
+    - Lorsqu'un joueur prend le contrôle d'une carte de joueur spécifique à une campagne ou à un scénario (comme un allié, un support ou une amélioration) possédant un dos de carte de joueur, ce joueur devient le propriétaire de cette carte jusqu'à ce que la partie se termine ou qu'un autre joueur en prenne le contrôle.
 
   - Le contrôle d'une carte reste constant à moins qu'une capacité ne provoque explicitement un changement de contrôle.
 
@@ -21,13 +21,13 @@ Le propriétaire d'une carte est le joueur dont le deck contenait la carte au d�
 
   - Un changement de contrôle d'une carte reste en vigueur jusqu'à ce que l'un des événements suivants se produise :
 
-  - La capacité qui a changé le contrôle de cette carte cesse d'être en vigueur (par exemple, lorsqu'un attachement ou une amélioration changeant le contrôle est retiré), la carte revient alors sous le contrôle de son propriétaire.
+    - La capacité qui a changé le contrôle de cette carte cesse d'être en vigueur (par exemple, lorsqu'un attachement ou une amélioration changeant le contrôle est retiré), la carte revient alors sous le contrôle de son propriétaire.
 
-  - La carte quitte le jeu ; elle est alors placée dans la zone hors-jeu équivalente de son propriétaire (main, deck ou pile de défausse, ou retirée de la partie si ce joueur n'est plus dans la partie).
+    - La carte quitte le jeu ; elle est alors placée dans la zone hors-jeu équivalente de son propriétaire (main, deck ou pile de défausse, ou retirée de la partie si ce joueur n'est plus dans la partie).
 
-  - La carte est un évènement qui a été joué ; elle est alors placée dans la pile de défausse de son propriétaire.
+    - La carte est un évènement qui a été joué ; elle est alors placée dans la pile de défausse de son propriétaire.
 
-  - La carte est défaussée de la main d'un joueur ; elle est alors placée dans la pile de défausse de son propriétaire.
+    - La carte est défaussée de la main d'un joueur ; elle est alors placée dans la pile de défausse de son propriétaire.
 
   - Si une étape de jeu ou une capacité de carte fait référence à une carte que "vous contrôlez" ou qu'un "joueur contrôle", cela ne se réfère qu'aux cartes en jeu actuellement sous le contrôle de ce joueur.
 

@@ -17,7 +17,7 @@
 [[Attachement|Attachement]]  
 [[AttacherA|Attacher À]]  
 [[ATQ]]
-[[AttaqueActionDeJoueur|Attaque (Action de Joueur)]]  
+[[AttaqueActionDeJoueur|Attaque (Activation du Joueur)]]  
 [[AttaqueActivationDesEnnemis|Attaque (Activation des Ennemis)]]  
 [[AttaquesContreLesAllies|Attaques Contre les Alliés]]  
 [[AttribuerAttribuerUneCarteRencontre|Attribuer, Attribuer une Carte Rencontre]]  
