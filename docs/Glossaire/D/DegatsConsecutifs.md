@@ -6,7 +6,7 @@ Après qu'un allié a contré, il subit des dégâts consécutifs égaux au nomb
 
   - Les dégâts consécutifs sont infligés à un allié après la résolution des capacités déclenchées par l'attaque ou le contre de l'allié.
 
-  - Si la cible de la puissance de base d'un allié quitte le jeu avant que cet allié n'inflige des dégâts égaux à son ATK ou ne retire de la menace égale à son CTR, l'allié ne subit pas de dégâts consécutifs (mais reste incliné).
+  - Si la cible du pouvoir de base d'un allié quitte le jeu avant que cet allié n'inflige des dégâts égaux à son ATK ou ne retire de la menace égale à son CTR, l'allié ne subit pas de dégâts consécutifs (mais reste incliné).
 
     - Cet allié n'est pas considéré comme ayant attaqué ou contré pour les besoins d'autres capacités.
 

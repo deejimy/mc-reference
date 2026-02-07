@@ -13,7 +13,7 @@ Un joueur peut être soit sous forme de héros, soit sous forme d'alter-ego à u
 
   - Tant qu'un joueur est sous forme d'alter-ego, les capacités de carte qui interagissent avec son héros n'interagissent pas avec son identité.
 
-  - Les cartes avec le mot-clé "forme [type]" confèrent à une identité des formes uniques.
+  - Les cartes avec le mot-clé `forme [type]` confèrent à une identité des formes uniques.
 
     - Ces formes s'ajoutent aux formes alter-ego et héros de l'identité, et elles possèdent leurs propres conditions pour s'y transformer.
 

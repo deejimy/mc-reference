@@ -1,7 +1,7 @@
 # Victoire "X"
 
 
-Lorsqu'une carte avec le mot-clé victoire X quitte le jeu dans les conditions suivantes, placez-la dans la pile de victoire au lieu de la défausse :
+Lorsqu'une carte avec le mot-clé `victoire X` quitte le jeu dans les conditions suivantes, placez-la dans la pile de victoire au lieu de la défausse :
 
   - Un personnage ou une manigance annexe avec victoire X est placé dans la pile de victoire lorsqu'il est vaincu.
 

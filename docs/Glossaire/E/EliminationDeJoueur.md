@@ -10,8 +10,8 @@ Lorsqu'un joueur est éliminé, effectuez les étapes suivantes dans l'ordre :
 
 3. Pour chaque carte dans la zone de jeu du joueur éliminé qui n'appartient pas à ce joueur, faites ce qui suit :  
 
-  - S'il s'agit d'un attachement avec le mot-clé permanent, résolvez son texte "attachez à". S'il n'en a pas ou si ce texte n'a pas de cible valide, retirez l'attachement de la partie.
-  - Retirez de la partie chaque carte non-attachement possédant le mot-clé permanent.
+  - S'il s'agit d'un attachement avec le mot-clé `permanent`, résolvez son texte "attachez à". S'il n'en a pas ou si ce texte n'a pas de cible valide, retirez l'attachement de la partie.
+  - Retirez de la partie chaque carte non-attachement possédant le mot-clé `permanent`.
   - Placez chaque autre carte dans la pile de défausse de son propriétaire.
 
 4. Placez chaque carte appartenant au joueur éliminé dans sa pile de défausse.  

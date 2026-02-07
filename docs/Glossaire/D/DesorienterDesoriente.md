@@ -7,7 +7,7 @@ Désorienté est un état qui annule la prochaine manigance ou le prochain contr
 
   - Un personnage est désorienté s'il possède une carte d'état désorienté.
 
-    - Un personnage avec le mot-clé solide n'est désorienté que s'il possède deux cartes d'état désorienté.
+    - Un personnage avec le mot-clé `solide` n'est désorienté que s'il possède deux cartes d'état désorienté.
 
   - Si un personnage possède une capacité stipulant qu'il "ne peut pas être désorienté", aucune carte d'état désorienté ne peut être placée sur ce personnage.
 

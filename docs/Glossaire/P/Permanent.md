@@ -1,7 +1,7 @@
 # Permanent
 
 
-Une carte avec le mot-clé permanent ne peut pas être vaincue, quitter le jeu ou voir une partie de sa boîte de texte annulée, sauf par des capacités de cartes du même set (set de héros, set de scénario ou set modulaire). (Par exemple, une capacité sur une carte de héros peut faire quitter le jeu à une carte permanente appartenant au set de ce héros.)
+Une carte avec le mot-clé `permanent` ne peut pas être vaincue, quitter le jeu ou voir une partie de sa boîte de texte annulée, sauf par des capacités de cartes du même set (set de héros, set de scénario ou set modulaire). (Par exemple, une capacité sur une carte de héros peut faire quitter le jeu à une carte permanente appartenant au set de ce héros.)
 
   - Les cartes permanentes sont mises de côté avant l'étape 1 de la mise en place et sont mises en jeu plus tard par des capacités d'autres cartes.
 

@@ -1,7 +1,7 @@
 # Riposte X
 
 
-Après qu'un personnage avec le mot-clé riposte X a été attaqué, infligez X dégâts à l'attaquant.
+Après qu'un personnage avec le mot-clé `riposte X` a été attaqué, infligez X dégâts à l'attaquant.
 
   - Le personnage avec riposte X doit être en jeu après la résolution de l'attaque pour infliger ces dégâts.
 

@@ -9,7 +9,7 @@ Tenace est un état qui empêche un personnage de subir des dégâts.
 
     - Lorsqu'un héros avec une carte tenace défend une attaque, il réduit d'abord les dégâts de l'attaque par sa DEF. Si les dégâts tombent à 0, le héros ne perd pas sa carte tenace.
 
-  - Lorsqu'un allié ou un sbire avec une carte tenace reçoit des dégâts excédentaires d'une attaque avec le mot-clé déferlement, les dégâts de déferlement ne sont pas infligés à l'identité du contrôleur de cet allié ou au méchant, respectivement.
+  - Lorsqu'un allié ou un sbire avec une carte tenace reçoit des dégâts excédentaires d'une attaque avec le mot-clé `déferlement`, les dégâts de déferlement ne sont pas infligés à l'identité du contrôleur de cet allié ou au méchant, respectivement.
 
   - Comme la carte tenace prévient entièrement les dégâts, le personnage n'est pas considéré comme ayant subi des dégâts.
 

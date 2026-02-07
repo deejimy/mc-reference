@@ -9,7 +9,7 @@ Les manigances secondaires de joueur sont des missions que les héros entreprenn
 
   - Le nombre de manigances secondaires de joueur en jeu à tout moment est limité par la limite de manigances secondaires de joueur.
 
-  - Une manigance annexe de joueur reste en jeu jusqu'à ce qu'il n'y ait plus de menace sur elle (ce qui la fait vaincre et soit défausser, soit, si elle possède le mot-clé victoire X, l'ajouter à la pile de victoire) ou qu'elle soit défaussée parce qu'il y en a plus en jeu que la limite autorisée.
+  - Une manigance annexe de joueur reste en jeu jusqu'à ce qu'il n'y ait plus de menace sur elle (ce qui la fait vaincre et soit défausser, soit, si elle possède le mot-clé `victoire X`, l'ajouter à la pile de victoire) ou qu'elle soit défaussée parce qu'il y en a plus en jeu que la limite autorisée.
 
   - Toute règle ou effet de carte se référant aux "manigances" ou "manigances secondaires" se réfère également aux manigances secondaires de joueur.
 

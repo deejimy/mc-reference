@@ -13,7 +13,7 @@
 
   - Les dégâts infligés par une capacité non étiquetée comme une attaque ne sont pas des dégâts d'attaque, même si l'effet a été déclenché par une attaque.
 
-  - Les dégâts infligés par un mot-clé (tel que riposte) ne sont pas des dégâts d'attaque.
+  - Les dégâts infligés par un mot-clé (tel que `riposte`) ne sont pas des dégâts d'attaque.
 
   - Tout effet de carte qui "inflige" des dégâts est considéré comme une attaque si la capacité est étiquetée comme telle.
 
