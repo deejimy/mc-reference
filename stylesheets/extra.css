@@ -1,4 +1,4 @@
-
+/* --- HEADER ET LOGO --- */
 .md-header__logo {
     width: 200px !important;
     height: 200px !important;
@@ -16,133 +16,100 @@
     height: auto !important;
 }
 
-.md-content {
+/* --- COULEURS DES TEXTES ET TITRES --- */
+.md-typeset {
   color: #000000;
 }
 
-.md-content h1 {
-  color: #0d47a1; 
+.md-typeset h1 { color: #0d47a1; }
+.md-typeset h2 { color: #1565c0; }
+.md-typeset h3 { color: #1976d2; }
+.md-typeset h4, .md-typeset h5, .md-typeset h6 { color: #1e88e5; }
+
+/* --- CONFIGURATION GÉNÉRALE DES LISTES --- */
+.md-typeset ol, 
+.md-typeset ul {
+    list-style: none !important;
+    padding-left: 1.5em !important;
+    margin-bottom: 0.5em !important;
 }
 
-.md-content h2 {
-  color: #1565c0;
-}
-
-.md-content h3 {
-  color: #1976d2;
-}
-
-.md-content h4,
-.md-content h5,
-.md-content h6 {
-  color: #1e88e5;
-}
-
-.md-content ul > li {
-    list-style-type: none;
-    position: relative;
-    margin-bottom: 0.5em;
-    padding-left: 0.5em; 
-}
-
-.md-content ul > li::before {
-    content: "";
-    position: absolute;
-    left: -1em;
-    top: 0.6em;
-    width: 7px;
-    height: 7px;
-    background-color: #2196f3;
-    border-radius: 50%;
-}
-
-.md-content ol {
-    counter-reset: custom-counter;
-    list-style-type: none;
-    padding-left: 1.5em;
-}
-
-.md-content ol > li {
-    counter-increment: custom-counter;
-    position: relative;
+/* --- NIVEAU 1 : LISTES À PUCES (Rond bleu) --- */
+.md-typeset ul > li {
+    position: relative !important;
     margin-bottom: 0.5em;
 }
 
-.md-content ol > li::before {
-    content: counter(custom-counter) ".";
-    position: absolute;
-    left: -1.5em;
-    font-weight: bold;
-    color: #2196f3;
-    width: 1.2em;
-    text-align: right;
+.md-typeset ul > li::before {
+    content: "" !important;
+    position: absolute !important;
+    left: -1.2em !important;
+    top: 0.6em !important;
+    width: 7px !important;
+    height: 7px !important;
+    background-color: #2196f3 !important;
+    border-radius: 50% !important;
 }
 
-.md-content ol li ul {
-    padding-left: 1.5em;
-    margin-top: 0.5em;
+/* --- NIVEAU 1 : LISTES NUMÉROTÉES (1. 2. 3.) --- */
+.md-typeset ol {
+    counter-reset: level1 !important;
 }
 
-.md-content ul li::before {
-    display: inline-block;
+.md-typeset ol > li {
+    counter-increment: level1 !important;
+    position: relative !important;
 }
 
-.md-content ul li ul > li::before {
-    content: "»";             
-    background-color: transparent; 
-    border-radius: 0;          
-    width: auto;               
-    height: auto;
-    left: -1.2em;              
-    top: -0.1em;               
-    font-size: 1.2em;          
-    color: #2196f3;           
-    font-weight: bold;
+.md-typeset ol > li::before {
+    content: counter(level1) "." !important;
+    position: absolute !important;
+    left: -1.8em !important;
+    font-weight: bold !important;
+    color: #2196f3 !important;
+    width: 1.5em !important;
+    text-align: right !important;
 }
 
-.md-content ul li ul {
-    margin-left: 0.5em;
-    margin-top: 0.3em;
+/* --- IMBRICATION : PUCES DANS UNE LISTE (Chevrons) --- */
+/* Cible les UL qui sont enfants d'un LI (peu importe le type de liste parent) */
+.md-typeset li > ul > li::before {
+    content: "»" !important;
+    background: none !important;
+    width: auto !important;
+    height: auto !important;
+    left: -1.2em !important;
+    top: -0.1em !important;
+    font-size: 1.2em !important;
+    color: #2196f3 !important;
+    font-weight: bold !important;
+    border-radius: 0 !important;
 }
 
-.md-content ol li ol {
-    counter-reset: sub-counter; 
-    list-style-type: none;
-    padding-left: 1.5em;
-    margin-top: 0.5em;
+/* --- IMBRICATION : NUMÉROS DANS UNE LISTE (a. b. c.) --- */
+/* Cible les OL qui sont enfants d'un LI */
+.md-typeset li > ol {
+    counter-reset: level2 !important;
+    margin-top: 0.5em !important;
 }
 
-.md-content ol li ol > li {
-    counter-increment: sub-counter;
-    position: relative;
+.md-typeset li > ol > li {
+    counter-increment: level2 !important;
 }
 
-.md-content ol li ol > li::before {
-    content: counter(sub-counter, lower-alpha) "."; 
-    
-    position: absolute;
-    left: -1.5em;
-    font-weight: bold;
-    color: #2196f3; 
-    width: 1.2em;
-    text-align: right;
+.md-typeset li > ol > li::before {
+    content: counter(level2, lower-alpha) "." !important;
+    background: none !important;
+    border-radius: 0 !important;
+    width: 1.5em !important;
+    left: -1.8em !important;
 }
 
-.md-content ol li ol li ol {
-    counter-reset: sub-sub-counter;
-    padding-left: 1.5em;
+/* --- IMBRICATION PROFONDE : NIVEAU 3 (i. ii. iii.) --- */
+.md-typeset ol ol ol {
+    counter-reset: level3 !important;
 }
 
-.md-content ol li ol li ol > li {
-    counter-increment: sub-sub-counter;
-}
-
-.md-content ol li ol li ol > li::before {
-    content: counter(sub-sub-counter, lower-roman) ".";
-    position: absolute;
-    left: -1.5em;
-    font-weight: bold;
-    color: #2196f3;
-    width: 1.2em;
-    text-align: right;
+.md-typeset ol ol ol > li::before {
+    content: counter(level3, lower-roman) "." !important;
 }
