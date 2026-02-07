@@ -1,5 +1,5 @@
 # DEF
 
 
-Voir : Puissance de base, Défendre
+**Voir** : Puissance de base, Défendre
 

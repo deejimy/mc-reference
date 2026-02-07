@@ -1,5 +1,5 @@
 # Mode Expert
 
 
-Voir : Modes de jeu
+**Voir** : Modes de jeu
 

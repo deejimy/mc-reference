@@ -1,5 +1,5 @@
 # Obtient
 
 
-Voir : Points de vie, Modificateurs
+**Voir** : Points de vie, Modificateurs
 

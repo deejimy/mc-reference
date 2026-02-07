@@ -1,5 +1,5 @@
 # Effet
 
 
-Voir : Capacité, Coût
+**Voir** : Capacité, Coût
 

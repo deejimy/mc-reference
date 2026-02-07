@@ -1,4 +1,4 @@
-# Victoire X
+# Victoire "X"
 
 
 Lorsqu'une carte avec le mot-clé victoire X quitte le jeu dans les conditions suivantes, placez-la dans la pile de victoire au lieu de la défausse :

@@ -1,4 +1,4 @@
-# Pour Chaque
+# "Pour Chaque"
 
 
 "Pour chaque" indique qu'un effet est répété en fonction du nombre d'un élément de jeu dénombrable.

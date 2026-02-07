@@ -1,5 +1,5 @@
 # Payer
 
 
-Voir : Coût
+**Voir** : Coût
 

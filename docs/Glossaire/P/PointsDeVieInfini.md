@@ -1,5 +1,5 @@
 # Points de Vie Infini
 
 
-Voir : Points de vie
+**Voir** : Points de vie
 

@@ -1,5 +1,5 @@
 # Mode Débutant
 
 
-Voir : Modes de jeu
+**Voir** : Modes de jeu
 

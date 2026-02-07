@@ -2,20 +2,22 @@
 
 
 ## A
-
 [[ADistance|A distance]]  
+[[ALaPlace|"A la place"]]  
 [[Action|Action]]  
-[[ActivationDesEnnemis|Activation des Ennemis]]  
 [[Activation|Activation]]  
+[[ActivationDesEnnemis|Activation des Ennemis]]  
 [[Alliance|Alliance]]  
-[[Allie|Allié]]
+[[Allie|Allié]]  
+[[AlterEgo|Alter ego, forme d’alter ego]]
 [[Amelioration|Amélioration]]  
 [[Ami|Ami]]  
 [[Annuler|Annuler]]  
-[[Apres|Après]]  
+[[Apres|"Après"]]  
 [[Assaut|Assaut]]  
 [[Attachement|Attachement]]  
 [[AttacherA|Attacher À]]  
+[[ATQ]]
 [[AttaqueActionDeJoueur|Attaque (Action de Joueur)]]  
 [[AttaqueActivationDesEnnemis|Attaque (Activation des Ennemis)]]  
 [[AttaquesContreLesAllies|Attaques Contre les Alliés]]  
@@ -23,38 +25,36 @@
 [[AutoReferentiel|Auto-Référentiel]]  
 
 ## B
-
 [[BoiteDeTexte|Boîte de texte]]  
 [[BoostIconeDeBoost|Boost, icône de boost]]  
 
 ## C
-
+[[Capacite|Capacité]]  
 [[CapaciteDeclenchee|Capacité déclenchée]]  
 [[CapaciteEtiquetee|Capacité étiquetée]]  
 [[CapaciteReferentielle|Capacité référentielle]]  
-[[CapaciteUneFoisDejouee|Capacité une fois déjouée]]  
+[[CapaciteUneFoisDejouee|Capacité "une fois achevée"]]  
 [[CapaciteUneFoisRevelee|Capacité une fois révélée]]  
 [[CapaciteUneFoisVaincuDejouee|Capacité une fois vaincu, déjouée]]  
-[[Capacite|Capacité]]  
 [[CartesBasiques|Cartes basiques]]  
 [[CartesDaffinite|Cartes d'affinité]]  
-[[CartesDeRencontre|Cartes de rencontre]]  
 [[CartesDetat|Cartes d'état]]  
 [[CartesDoubleFace|Cartes Double-Face]]  
 [[CartesJoueur|Cartes joueur]]  
-[[CartesRessource|Cartes Ressource]]  
+[[CartesDeRencontre|Cartes rencontre]]  
 [[CartesSpecifiquesALidentite|Cartes spécifiques à l'identité]]  
 [[CartesSpecifiquesAUneCampagne|Cartes spécifiques à une campagne]]  
 [[CartesSpecifiquesAuScenario|Cartes spécifiques au scénario]]  
-[[ChaqueFois|Chaque fois]]  
+[[ChaqueFois|"Chaque fois"]]  
 [[ChaqueJoueur|Chaque Joueur]]  
 [[Chercher|Chercher]]  
 [[ChoisirElementDeJeu|Choisir (Élément de Jeu)]]  
 [[ChoisirOption|Choisir (Option)]]  
-[[CibleValide|Cible Valide]]  
 [[Cible|Cible]]  
+[[CibleValide|Cible Valide]]  
 [[Classifications|Classifications]]  
 [[Compteur|Compteur]]  
+[[ConditionDeDeclenchement|Condition de déclenchement]]  
 [[ContreContrer|Contre, contrer]]  
 [[Controle|Contrôle]]  
 [[CoupRapide|Coup rapide]]  
@@ -62,34 +62,32 @@
 [[Ctr|CTR]]  
 
 ## D
-
 [[DansLordreDesJoueurs|Dans l'ordre des joueurs]]  
+[[Deck|Deck]]  
 [[DeckJoueur|Deck joueur]]  
 [[DeckRencontre|Deck rencontre]]  
 [[DeckVide|Deck vide]]  
-[[Deck|Deck]]  
 [[DefausserDefausse|Défausser, défausse]]  
+[[Def|DEF]]  
 [[DefendreDefense|Défendre, Défense]]  
 [[Deferlement|Déferlement]]  
-[[Def|DEF]]  
+[[Degats|Dégâts]]  
 [[DegatsConsecutifs|Dégâts consécutifs]]  
 [[DegatsEnExces|Dégâts en excès]]  
 [[DegatsIndirects|Dégâts indirects]]  
 [[DegatsSubis|Dégâts Subis]]  
-[[Degats|Dégâts]]  
-[[Deja|Déjà]]  
+[[Deja|"Déjà"]]  
 [[Deplacer|Déplacer]]  
 [[DesorienterDesoriente|Désorienter, désorienté]]  
 [[DiscussionsALaTable|Discussions à la Table]]  
 
 ## E
-
 [[Echanger|Echanger]]  
+[[Effet|Effet]]  
 [[EffetDalteration|Effet d'altération]]  
 [[EffetsDeRemplacement|Effets de remplacement]]  
 [[EffetsPersistants|Effets persistants]]  
 [[EffetsRetardes|Effets retardés]]  
-[[Effet|Effet]]  
 [[ElementDeJeu|Elément de Jeu]]  
 [[EliminationDeJoueur|Elimination de Joueur]]  
 [[EnEquipe|En équipe]]  
@@ -102,42 +100,39 @@
 [[EntrerEnJeu|Entrer en jeu]]  
 [[Environnement|Environnement]]  
 [[EspritDequipeTrait|Esprit d'Équipe (Trait)]]  
-[[EtreCense|Etre censé]]  
 [[Et|Et]]  
+[[EtreCense|"Etre censé"]]  
 [[Evenement|Evénement]]  
 [[Exemplaire|Exemplaire]]  
 [[ExigenceRessources|Exigence (Ressources)]]  
 
 ## F
-
 [[FinDeLaPhaseDesJoueurs|Fin de la phase des joueurs]]  
 [[Forcee|Forcée]]  
 [[FormeChangerDeForme|Forme, changer de forme]]  
 
 ## G
-
-[[GagnerLaPartie|Gagner la Partie]]  
 [[Gagner|Gagner]]  
+[[GagnerLaPartie|Gagner la Partie]]  
+[[GagnerUnElement|Gagner un élément]]
 [[Garde|Garde]]  
 [[Generer|Générer]]  
 [[GlisserSous|Glisser Sous]]  
 
 ## H
-
 [[HerosFormeDeHeros|Héros, forme de héros]]  
 
 ## I
-
+[[Icone|Icône]]  
 [[IconeDacceleration|Icône d'Accélération]] (![[icone_acceleration.jpg|15]])  
 [[IconeDaleas|Icône d'aléas]] (![[icone_aleas.jpg|15]])  
 [[IconeDamplification|Icône d'Amplification]] (![[icone_amplification.jpg|15]])  
-[[IconeDeCrise|Icône de Crise]] (![[icone_crise.jpg|15]])  
-[[IconeDeCoutEnFormeDeFleche|Icône de coût en forme de flèche]] (→) 
-[[IconeDeSet|Icône de Set]]  
 [[IconeDetoile|Icône d'Étoile]] (![[icone_etoile.jpg|15]])  
+[[IconeDeCrise|Icône de Crise]] (![[icone_crise.jpg|15]])  
+[[IconeDeCoutEnFormeDeFleche|Icône de coût en forme de flèche]] (→)   
+[[IconeDeSet|Icône de Set]]  
 [[IconeParJoueur|Icône Par Joueur]] (![[icone_joueur.jpg|15]])  
 [[IconeUnique|Icône Unique]] (![[icone_unique.jpg|15]])  
-[[Icone|Icône]]  
 [[Identite|Identité]]  
 [[Ignorer|Ignorer]]  
 [[Imprime|Imprimé]]  
@@ -147,22 +142,19 @@
 [[Interruption|Interruption]]  
 
 ## J
-
 [[JetonsGeneriques|Jetons Génériques]]  
-[[JouerDesCartes|Jouer des cartes]]  
 [[JouerMettreEnJeu|Jouer, Mettre en Jeu]]  
-[[JoueurActif|Joueur Actif]]  
+[[JouerDesCartes|Jouer des cartes]]  
 [[Joueur|Joueur]]  
+[[JoueurActif|Joueur Actif]]  
 
 ## L
-
 [[LieTitreDeCarte|Lié (Titre de Carte)]]  
+[[Limite|Limite]]  
 [[LimiteDallies|Limite d'Alliés]]  
 [[LimiteDeManiganceAnnexeDeJoueur|Limite de Manigance Annexe de Joueur]]  
-[[Limite|Limite]]  
 
 ## M
-
 [[ManiganceActivationDesEnnemis|Manigance (activation des ennemis)]]  
 [[ManiganceAnnexeDeJoueur|Manigance Annexe de Joueur]]  
 [[ManiganceAnnexe|Manigance Annexe]]  
@@ -186,17 +178,14 @@
 [[MotsCles|Mots-clés]]  
 
 ## N
-
 [[NePeutPas|Ne peut pas]]  
 [[NonDefendue|Non défendue]]  
 
 ## O
-
 [[Obligation|Obligation]]  
 [[Obtient|Obtient]]  
 
 ## P
-
 [[Patrouille|Patrouille]]  
 [[Payer|Payer]]  
 [[Percant|Perçant]]  
@@ -204,42 +193,45 @@
 [[Peril|Péril]]  
 [[Permanent|Permanent]]  
 [[Personnage|Personnage]]  
+[[PersonnalisationDuDeck|Personnalisation du deck]]  
 [[PhaseDesJoueurs|Phase des joueurs]]  
 [[PhaseDuMechant|Phase du Méchant]]  
+[[PileDeDefausse|Pile de défausse]]  
 [[PileDeDefausseJoueur|Pile de défausse Joueur]]  
 [[PileDeDefausseRencontre|Pile de Défausse Rencontre]]  
-[[PileDeDefausse|Pile de défausse]]  
 [[PileDeVictoire|Pile de victoire]]  
 [[PiocherPiocherDesCartes|Piocher, Piocher des Cartes]]  
 [[PionDacceleration|Pion d'Accélération]]  
+[[PointsDeVie|Points de vie]]  
+[[PointsDeVieMaximaux|Points de vie maximums]]  
 [[PointsDeVieInfini|Points de Vie Infini]]  
 [[PointsDeVieRestants|Points de Vie Restants]]  
-[[PointsDeVie|Points de vie]]  
-[[PourChaque|Pour Chaque]]  
+[[PourChaque|"Pour Chaque"]]    
+[[Pouvoir|"Pouvoir"]]  
 [[PouvoirDeBase|Pouvoir de Base]]  
 [[PremierJoueur|Premier joueur]]  
 [[Prevenir|Prévenir]]  
 [[ProprieteEtControle|Propriété et contrôle]]  
 
 ## Q
-
 [[Qualificatifs|Qualificatifs]]  
 [[QuitterLeJeu|Quitter le jeu]]  
 
 ## R
-
-[[RecuperationRecuperer|Récupération, récupérer]]  
 [[Rec|REC]]  
+[[RecuperationRecuperer|Récupération, récupérer]]  
 [[Redresse|Redressé]]  
+[[Regarder|Regarder, regardée]]  
 [[Renfort|Renfort]]  
 [[Reponse|Réponse]]  
 [[ResolutionSimultanee|Résolution simultanée]]  
+[[Ressource|Ressource]]  
+[[RessourceCarte|Ressource (carte)]]  
 [[RessourceCapacite|Ressource (capacité)]]  
 [[RessourceEnergie|Ressource énergie]]  
 [[RessourceLibre|Ressource Libre]]  
 [[RessourceMentale|Ressource mentale]]  
 [[RessourcePhysique|Ressource physique]]  
-[[Ressource|Ressource]]  
 [[Restreint|Restreint]]  
 [[RestrictionsEtPermissionsDeJeu|Restrictions et permissions de jeu]]  
 [[RetireDeLaPartie|Retiré de la Partie]]  
@@ -249,10 +241,10 @@
 [[Robuste|Robuste]]  
 
 ## S
-
 [[Sbire|Sbire]]  
 [[Serait|Serait]]  
 [[SetDeRencontreModulaire|Set de Rencontre Modulaire]]  
+[[SetDeRencontreNemesis|Set de Rencontre némésis]]  
 [[SetExpert|Set Expert]]  
 [[SetStandard|Set standard]]  
 [[SeuilDeMenace|Seuil de Menace]]  
@@ -262,10 +254,9 @@
 [[SousTitre|Sous-Titre]]  
 [[Soutien|Soutien]]  
 [[Special|Spécial]]  
-[[Supplementaire|Supplémentaire]]  
+[[Supplementaire|"Supplémentaire"]]  
 
 ## T
-
 [[TailleDeMain|Taille de main]]  
 [[Temporaire|Temporaire]]  
 [[Tenace|Tenace]]  
@@ -280,24 +271,23 @@
 [[TypesDeCarte|Types de carte]]  
 
 ## U
-
-[[UtilisationsXType|Utilisations (X "Type")]]  
+[[IconeUnique|Unique]]
+[[UtilisationsXType|Utilisations ("X" Type)]]  
 
 ## V
-
 [[VaincreDejouer|Vaincre, déjouer]]  
 [[VaincreLeMechant|Vaincre le Méchant]]  
 [[ValeurDeBase|Valeur de Base]]  
 [[VariableNonNumerique|Variable Non-Numérique]]  
-[[VariableNonNumerique|Variable Non-Numérique]]  
-[[VariableNonNumerique|Variable Non-Numérique]]  
-[[VictoireX|Victoire X]]  
+[[VictoireX|Victoire "X"]]  
 [[Vilenie|Vilenie]]  
 [[VousVotre|Vous, votre]]  
 [[Vulnerable|Vulnérable]]  
 
-## Z
+# X
+[[XValeur|"X" (valeur)]]
 
+## Z
+[[ZoneDeJeu|Zone de jeu]]  
 [[ZoneDeJeuDuMechant|Zone de Jeu du Méchant]]  
 [[ZoneDeJeuDunJoueur|Zone de jeu d'un joueur]]  
-[[ZoneDeJeu|Zone de jeu]]  

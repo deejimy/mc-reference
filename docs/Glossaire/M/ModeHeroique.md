@@ -1,5 +1,5 @@
 # Mode Héroïque
 
 
-Voir : Modes de jeu
+**Voir** : Modes de jeu
 

@@ -1,5 +1,5 @@
 # REC
 
 
-Voir : Pouvoir de base, Récupérer
+**Voir** : Pouvoir de base, Récupérer
 

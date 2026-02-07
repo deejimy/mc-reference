@@ -1,13 +1,10 @@
-# Etre censé
+# "Etre censé"
 
+La proposition « est censé » est utilisée pour définir la condition de déclenchement de certaines capacités d’interruption et établit une priorité de timing supérieure à des interruptions qui posséderaient la même condition de déclenchement, mais sans les mots « est censé ».
 
-Une condition de déclenchement est un événement spécifique qui survient dans le jeu. Sur les capacités de carte, elle indique le moment précis où la capacité peut être utilisée. La description suit généralement les mots "quand" ou "après".
+• Si une interruption à une condition de déclenchement qui s’apprête à se réaliser change la nature de ce qui est sur le point de se produire (par un effet de remplacement,
+par exemple), aucune autre interruption au déclenchement initial ne peut être utilisée, car la résolution de ce déclencheur n’est plus valide.
 
-  - Chaque capacité d'interruption ou de réponse ne peut être déclenchée qu'une seule fois par occurrence.
+Par exemple, l’interruption « quand un personnage est censé être vaincu » se déclenche avant une interruption telle que « quand un personnage est vaincu ».
 
-  - Plusieurs copies d'une carte avec une interruption ou réponse peuvent être déclenchées par la même condition.
-
-  - Si un seul événement crée plusieurs conditions (comme une attaque causant à la fois des dégâts et la défaite d'un personnage), ces conditions sont traitées dans une seule fenêtre d'interruption et une seule fenêtre de réponse. Pendant chacune, les capacités se référant à n'importe laquelle de ces conditions peuvent être utilisées dans n'importe quel ordre.
-
-**Voir aussi** : Interruption, Réponse
-
+**Voir aussi** : Capacité Déclenchée, Effet de Remplacement, Interruption

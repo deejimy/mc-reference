@@ -1,5 +1,5 @@
 # Non défendue
 
 
-Voir : Attaque (Activation d'ennemi)
+**Voir** : Attaque (Activation d'ennemi)
 

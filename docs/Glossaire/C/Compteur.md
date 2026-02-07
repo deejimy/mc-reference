@@ -1,5 +1,5 @@
 # Compteur
 
 
-Voir : jeton générique
+**Voir** : jeton générique
 
