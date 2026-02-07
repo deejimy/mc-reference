@@ -37,3 +37,112 @@
 .md-content h6 {
   color: #1e88e5;
 }
+
+.md-content ul > li {
+    list-style-type: none;
+    position: relative;
+    margin-bottom: 0.5em;
+    padding-left: 0.5em; 
+}
+
+.md-content ul > li::before {
+    content: "";
+    position: absolute;
+    left: -1em;
+    top: 0.6em;
+    width: 7px;
+    height: 7px;
+    background-color: #2196f3;
+    border-radius: 50%;
+}
+
+.md-content ol {
+    counter-reset: custom-counter;
+    list-style-type: none;
+    padding-left: 1.5em;
+}
+
+.md-content ol > li {
+    counter-increment: custom-counter;
+    position: relative;
+    margin-bottom: 0.5em;
+}
+
+.md-content ol > li::before {
+    content: counter(custom-counter) ".";
+    position: absolute;
+    left: -1.5em;
+    font-weight: bold;
+    color: #2196f3;
+    width: 1.2em;
+    text-align: right;
+}
+
+.md-content ol li ul {
+    padding-left: 1.5em;
+    margin-top: 0.5em;
+}
+
+.md-content ul li::before {
+    display: inline-block;
+}
+
+.md-content ul li ul > li::before {
+    content: "»";             
+    background-color: transparent; 
+    border-radius: 0;          
+    width: auto;               
+    height: auto;
+    left: -1.2em;              
+    top: -0.1em;               
+    font-size: 1.2em;          
+    color: #2196f3;           
+    font-weight: bold;
+}
+
+.md-content ul li ul {
+    margin-left: 0.5em;
+    margin-top: 0.3em;
+}
+
+.md-content ol li ol {
+    counter-reset: sub-counter; 
+    list-style-type: none;
+    padding-left: 1.5em;
+    margin-top: 0.5em;
+}
+
+.md-content ol li ol > li {
+    counter-increment: sub-counter;
+    position: relative;
+}
+
+.md-content ol li ol > li::before {
+    content: counter(sub-counter, lower-alpha) "."; 
+    
+    position: absolute;
+    left: -1.5em;
+    font-weight: bold;
+    color: #2196f3; 
+    width: 1.2em;
+    text-align: right;
+}
+
+.md-content ol li ol li ol {
+    counter-reset: sub-sub-counter;
+    padding-left: 1.5em;
+}
+
+.md-content ol li ol li ol > li {
+    counter-increment: sub-sub-counter;
+}
+
+.md-content ol li ol li ol > li::before {
+    content: counter(sub-sub-counter, lower-roman) ".";
+    position: absolute;
+    left: -1.5em;
+    font-weight: bold;
+    color: #2196f3;
+    width: 1.2em;
+    text-align: right;
+}

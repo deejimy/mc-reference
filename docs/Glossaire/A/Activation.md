@@ -19,7 +19,7 @@ Il existe deux types d'activations d'ennemi : une activation d'attaque et une ac
 
   - Si un effet initie une activation pendant la résolution d'une autre activation, la nouvelle activation se résout après que l'activation actuelle est terminée.
 
-  - Si plusieurs activations sont initiées de cette manière, le premier joueur décide de leur ordre de résolution.
+    - Si plusieurs activations sont initiées de cette manière, le premier joueur décide de leur ordre de résolution.
 
-  - Toutes les capacités déclenchées par l'activation initiale se résolvent avant que les activations suivantes ne débutent.
+    - Toutes les capacités déclenchées par l'activation initiale se résolvent avant que les activations suivantes ne débutent.
 

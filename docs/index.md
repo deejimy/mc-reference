@@ -2,7 +2,6 @@
 Ce document est conçu pour être la référence définitive en matière de règles, mais il ne vous apprendra pas à jouer. Les joueurs doivent d’abord lire le Livret d’Apprentissage en intégralité et n’utiliser ce Guide de Référence que si le besoin s’en fait sentir au cours de la partie.  
 La majorité de ce guide consiste en un glossaire qui fournit une liste alphabétique des termes et situations qu’un joueur peut rencontrer durant une partie. Ce glossaire devrait être la première destination des joueurs qui ont une question concernant les règles.  
 Les trois appendices situés à la fin de ce livret contiennent les règles de personnalisation de deck, les règles de mise en place et la description du gabarit des cartes.
-
 ## Les règles d'Or
 Si le texte de ce Guide de Référence contredit directement le texte du Livret d’Apprentissage, le texte du Guide de Référence a préséance.  
 Si le texte d’une carte contredit le texte du Guide de Référence ou du Livret d’Apprentissage, le texte de la carte a préséance.
