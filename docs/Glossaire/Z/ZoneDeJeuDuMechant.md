@@ -1,7 +1,7 @@
 # Zone de Jeu du Méchant
 
 
-La zone de jeu du méchant est l'endroit où se trouvent le deck du méchant, la manigance principale, le paquet de rencontre, la pile de défausse de rencontre et le compteur de points de vie du méchant.
+La zone de jeu du méchant est l'endroit où se trouvent le deck du méchant, la manigance principale, le deck Rencontre, la pile de défausse Rencontre et le compteur de points de vie du méchant.
 
   - Les cartes environnement et manigance annexe y sont placées.
 

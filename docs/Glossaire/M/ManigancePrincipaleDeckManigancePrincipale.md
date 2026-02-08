@@ -1,7 +1,7 @@
 # Manigance principale, deck manigance principale
 
 
-La manigance principale est un type de carte de rencontre qui représente l'objectif du méchant. Le deck de manigance principale contient les différents stades de la manigance principale pour un scénario donné.
+La manigance principale est un type de carte Rencontre qui représente l'objectif du méchant. Le deck de manigance principale contient les différents stades de la manigance principale pour un scénario donné.
 
   - La manigance principale est toujours en jeu.
 

@@ -17,7 +17,7 @@ Si une fonction de jeu ou une capacité de carte est dirigée vers un élément 
 
     - Exemples d'effets sur une cible : infliger/soigner des dégâts, ajouter/retirer de la menace, donner/retirer une carte d'état, incliner/redresser la cible, vaincre/défausser la cible.
 
-    - Exception : un personnage avec une ATK, MNGou CTR de 0 peut effectuer une activation ou un pouvoir de base en utilisant cette valeur contre une cible par ailleurs valide. (Par exemple, un héros avec 0 en CTR peut contrer une manigance possédant de la menace).
+    - Exception : un personnage avec une ATK, MNG ou CTR de 0 peut effectuer une activation ou un pouvoir de base en utilisant cette valeur contre une cible par ailleurs valide. (Par exemple, un héros avec 0 en CTR peut contrer une manigance possédant de la menace).
 
     - Le coût d'une capacité n'est pas pris en compte pour déterminer si elle peut affecter une cible.
 

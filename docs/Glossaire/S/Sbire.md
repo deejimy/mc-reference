@@ -1,7 +1,7 @@
 # Sbire
 
 
-Sbire est un type de carte de rencontre qui représente les sous-fifres du méchant.
+Sbire est un type de carte Rencontre qui représente les sous-fifres du méchant.
 
   - Lorsqu'un sbire est révélé, il entre en jeu engagé avec le joueur qui l'a révélé.
 

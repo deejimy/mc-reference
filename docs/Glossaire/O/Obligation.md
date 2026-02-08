@@ -1,7 +1,7 @@
 # Obligation
 
 
-Obligation est un type de carte de rencontre associé à une identité spécifique.
+Obligation est un type de carte Rencontre associé à une identité spécifique.
 
   - Lorsqu'une obligation est révélée, elle est donnée au joueur dont elle porte l'icône d'identité.
 

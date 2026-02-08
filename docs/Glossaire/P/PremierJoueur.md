@@ -6,9 +6,9 @@ Le pion de premier joueur est utilisé pour indiquer quel joueur est le premier 
 Si le premier joueur est éliminé, le pion de premier joueur passe immédiatement au joueur suivant dans le sens des aiguilles d'une montre.
 Les joueurs en tant que groupe sont encouragés à travailler ensemble, mais le premier joueur décide de ce qui suit :
 
-  - Si une carte de rencontre cible un joueur ou une carte spécifique, et qu'il y a plusieurs cibles éligibles, le premier joueur choisit parmi les options éligibles.
+  - Si une carte Rencontre cible un joueur ou une carte spécifique, et qu'il y a plusieurs cibles éligibles, le premier joueur choisit parmi les options éligibles.
 
-  - Si une carte de rencontre exige qu'une capacité de carte soit résolue, qu'une fonction de jeu soit effectuée ou qu'un choix soit fait, mais ne spécifie pas quel joueur doit agir, c'est le premier joueur qui s'en charge.
+  - Si une carte Rencontre exige qu'une capacité de carte soit résolue, qu'une fonction de jeu soit effectuée ou qu'un choix soit fait, mais ne spécifie pas quel joueur doit agir, c'est le premier joueur qui s'en charge.
 
   - Si deux effets ou plus se résolvent simultanément, le premier joueur décide de l'ordre dans lequel ils se résolvent.
 Le premier joueur a la priorité temporelle dans les situations suivantes :

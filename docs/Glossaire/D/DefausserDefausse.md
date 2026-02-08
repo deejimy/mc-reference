@@ -5,7 +5,7 @@ La défausse est l'acte de tenter de déplacer une carte d'une zone de jeu (autr
 
   - Si une carte de joueur est défaussée, elle est placée face visible au sommet de la pile de défausse du joueur propriétaire.
 
-  - Si une carte de rencontre est défaussée, elle est placée face visible au sommet de la pile de défausse de rencontre.
+  - Si une carte Rencontre est défaussée, elle est placée face visible au sommet de la pile de défausse Rencontre.
 
   - Si plusieurs cartes sont défaussées de la main d'un joueur ou du jeu par un effet unique, placez ces cartes dans la pile de défausse appropriée dans n'importe quel ordre.
 

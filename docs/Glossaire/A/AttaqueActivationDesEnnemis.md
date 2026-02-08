@@ -11,7 +11,7 @@ Une attaque est un type d'activation d'ennemi. Lorsqu'un ennemi initie une attaq
 
 Pour résoudre une attaque d'ennemi, suivez ces étapes :
 
-1. Si un méchant, ou un sbire avec le mot-clé `vilenie`, attaque, donnez-lui une carte de boost face cachée du paquet de rencontre. (Si un sbire sans le mot-clé `vilenie` attaque, ignorez cette étape.)
+1. Si un méchant, ou un sbire avec le mot-clé `vilenie`, attaque, donnez-lui une carte de boost face cachée du deck Rencontre. (Si un sbire sans le mot-clé `vilenie` attaque, ignorez cette étape.)
 2. Si un joueur souhaite défendre, ce joueur incline un héros ou un allié en tant que défenseur. Si un joueur autre que le joueur ciblé défend, le joueur défenseur devient le joueur cible pour cette attaque.
 3. Résolvez chacune des cartes de boost de l'ennemi attaquant, une par une et dans l'ordre où elles ont été distribuées, en procédant comme suit :
     1. Retournez la carte de boost face visible.

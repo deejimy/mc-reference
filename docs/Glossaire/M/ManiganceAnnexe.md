@@ -1,7 +1,7 @@
 # Manigance Annexe
 
 
-Type de carte de rencontre représentant des obstacles supplémentaires.
+Type de carte Rencontre représentant des obstacles supplémentaires.
 
   - Entre en jeu avec de la menace (valeur de départ).
 

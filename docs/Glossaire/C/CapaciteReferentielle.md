@@ -9,7 +9,7 @@ Certaines capacités font référence à des cartes spécifiques par leur nom. S
 
 2. Les cartes appartenant à la même identité.
 
-3. Les cartes de joueur (si la capacité est sur une carte de joueur) ou les cartes de rencontre (si elle est sur une carte de rencontre).
+3. Les cartes de joueur (si la capacité est sur une carte de joueur) ou les cartes de rencontre (si elle est sur une carte Rencontre).
 
 **Voir aussi** : Capacité, Personnage, Classifications, Identité, Carte spécifique à l'identité
 

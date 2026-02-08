@@ -7,7 +7,7 @@ L'expression "quitte le jeu" se réfère à tout moment où une carte passe du j
 
   - Toutes les cartes attachées à une carte qui quitte le jeu sont défaussées.
 
-  - Si une carte quitte le jeu, toutes les capacités de carte qui étaient actives sur cette carte (à l'exception des capacités de réponse ou d'interruption déclenchées par le départ de la carte) cessent d'être actives.
+  - Si une carte quitte le jeu, toutes les capacités de carte qui étaient actives sur cette carte (à l'exception des capacités Réponse ou d'interruption déclenchées par le départ de la carte) cessent d'être actives.
 
 **Voir aussi** : En jeu et Hors-jeu, Vaincre
 

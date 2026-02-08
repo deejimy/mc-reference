@@ -8,7 +8,7 @@
 [[ActivationDesEnnemis|Activation des Ennemis]]  
 [[Alliance|Alliance]]  
 [[Allie|Allié]]  
-[[AlterEgo|Alter ego, forme d’alter ego]]
+[[AlterEgo|Alter ego, forme d'alter ego]]
 [[Amelioration|Amélioration]]  
 [[Ami|Ami]]  
 [[Annuler|Annuler]]  

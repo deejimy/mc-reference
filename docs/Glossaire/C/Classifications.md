@@ -5,7 +5,7 @@ La classification d'une carte est le groupe auquel une carte appartient, déterm
 
   - Les cartes de la classification "spécifique à l'identité" sont des cartes qui appartiennent au set de cartes accompagnant une identité. (**Voir** : Carte spécifique à l'identité)
 
-  - Les cartes de la classification "affinité" sont des cartes qui appartiennent aux affinités Agressivité, Justice, Commandement, Protection et/ou 'Pool. (**Voir** : Carte d'affinité)
+  - Les cartes de la classification "affinité" sont des cartes qui appartiennent aux affinités Agressivité, Justice, Commandement, Protection et/ou'Pool. (**Voir** : Carte d'affinité)
 
   - Les cartes de la classification "Basique" ne sont pas associées à une identité ou une affinité spécifique. (**Voir** : Carte Basique)
 

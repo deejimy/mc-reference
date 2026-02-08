@@ -21,7 +21,7 @@ Une capacité est le texte de jeu d'une carte qui explique ce que la carte fait 
 
     - Si l'un de ces types de capacité utilise le mot "peut", la partie de la capacité suivant "peut" est optionnelle.
 
-  - La résolution des types de capacités suivants est optionnelle : "Action", "Interruption", "Réponse", "Ressource". Le joueur qui contrôle la carte possédant une capacité optionnelle détermine s'il souhaite ou non utiliser cette capacité au moment approprié. Tout joueur peut utiliser une telle capacité sur une carte de rencontre, avec les exceptions suivantes :
+  - La résolution des types de capacités suivants est optionnelle : "Action", "Interruption", "Réponse", "Ressource". Le joueur qui contrôle la carte possédant une capacité optionnelle détermine s'il souhaite ou non utiliser cette capacité au moment approprié. Tout joueur peut utiliser une telle capacité sur une carte Rencontre, avec les exceptions suivantes :
 
     - Seul le joueur qui contrôle une carte de joueur avec un attachement utilisant le mot "vous" ou "votre" peut déclencher des capacités ou payer des coûts sur cet attachement.
 

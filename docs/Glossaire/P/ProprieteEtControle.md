@@ -1,7 +1,7 @@
 # Propriété et contrôle
 
 
-Le propriétaire d'une carte est le joueur dont le deck contenait la carte au début de la mise en place. Le scénario est considéré comme le propriétaire du paquet de rencontre et de chaque carte de rencontre.
+Le propriétaire d'une carte est le joueur dont le deck contenait la carte au début de la mise en place. Le scénario est considéré comme le propriétaire du deck Rencontre et de chaque carte Rencontre.
 
   - Les cartes d'identité appartiennent et sont contrôlées par le joueur incarnant cette identité.
 

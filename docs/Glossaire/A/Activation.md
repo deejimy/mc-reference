@@ -1,13 +1,13 @@
 # Activation
 
 
-Il existe deux types d'activations d'ennemi : une activation d'attaque et une activation de manigance. Chaque fois qu'un ennemi attaque ou manigance, il est considéré comme s'étant activé.
+Il existe deux types d'activations des ennemis : une activation d'attaque et une activation de manigance. Chaque fois qu'un ennemi attaque ou manigance, il est considéré comme ayanrt été activé.
 
-  - Pendant l'étape deux de la phase du méchant, le méchant s'active une fois par joueur, dans l'ordre des joueurs. Si l'identité du joueur résolvant l'activation est sous forme de héros, le méchant initie une attaque contre l'identité de ce joueur. Si l'identité du joueur résolvant l'activation est sous forme d'alter-ego, le méchant initie une manigance.
+  - Lors de la deuxième étape de la phase du Méchant, le méchant s'active une fois par joueur, dans l'ordre des joueurs. Si l'identité du joueur qui résoud l'activation est sous forme de héros, le méchant initie une attaque contre l'identité de ce joueur. Si l'identité du joueur qui résoud l'activation est sous forme d'alter-ego, le méchant initie une manigance.
 
-  - Pendant l'étape deux de la phase du méchant, chaque sbire engagé avec un joueur s'active contre ce joueur. Si l'identité du joueur engagé est sous forme de héros, le sbire initie une attaque contre l'identité de ce joueur. Si l'identité du joueur engagé est sous forme d'alter-ego, le sbire initie une manigance.
+  - Lors de la deuxième étape de la phase du Méchant, chaque sbire engagé avec un joueur s'active contre ce joueur. Si l'identité du joueur engagé est sous forme de héros, le sbire initie une attaque contre l'identité de ce joueur. Si l'identité du joueur engagé est sous forme d'alter-ego, le sbire initie une manigance.
 
-  - Chaque fois que le méchant s'active, donnez au méchant une carte de boost du paquet de rencontre pour cette activation.
+  - Chaque fois qu'un méchant s'active, donnez au méchant une carte de boost du deck Rencontre pour cette activation.
 
   - Certaines capacités de carte peuvent également amener des ennemis à attaquer ou à manigancer. Celles-ci sont également considérées comme des activations.
 

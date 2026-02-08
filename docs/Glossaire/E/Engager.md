@@ -2,7 +2,7 @@
 
 
 Lorsqu'un sbire entre en jeu dans la zone de jeu d'un joueur, il engage ce joueur.
-Sauf indication contraire par le sbire ou par l'effet qui a mis le sbire en jeu, le sbire engage le joueur qui est en train de résoudre la carte de rencontre actuelle.
+Sauf indication contraire par le sbire ou par l'effet qui a mis le sbire en jeu, le sbire engage le joueur qui est en train de résoudre la carte Rencontre actuelle.
 
   - Un sbire engagé reste engagé avec le même joueur jusqu'à ce qu'il soit vaincu, retiré du jeu, ou qu'une capacité de carte l'amène à engager un autre joueur.
 

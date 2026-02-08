@@ -1,5 +1,4 @@
 # Ami
 
 
-Ami est un terme générique qui se rapporte aux cartes que les joueurs contrôlent.
-
+Ami est un terme général qui désigne les cartes contrôlées par les joueurs.

@@ -1,7 +1,7 @@
 # Manigance Annexe de Joueur
 
 
-Les manigances annexes de joueur sont des missions que les héros entreprennent pour faciliter la défaite du méchant. Elles sont l'équivalent, en cartes de joueur, des manigances annexes trouvées dans le paquet de rencontre.
+Les manigances annexes de joueur sont des missions que les héros entreprennent pour faciliter la défaite du méchant. Elles sont l'équivalent, en cartes de joueur, des manigances annexes trouvées dans le deck Rencontre.
 
   - Lorsqu'une manigance annexe de joueur entre en jeu, elle est placée à côté de la manigance principale dans la zone de jeu du méchant.
 

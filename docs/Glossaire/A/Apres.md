@@ -1,5 +1,3 @@
 # "Après"
 
-
-Le mot "après" se réfère à un évènement de jeu qui vient de se conclure. De nombreuses capacités de réponse utilisent le terme "après" pour spécifier le moment où elles peuvent être utilisées.
-
+Le mot "après" se réfère à une situation de jeu qui vient juste de se conclure. Beaucoup de capacités Réponse utilisent le terme "après" pour indiquer à quel moment elles peuvent être utilisées.

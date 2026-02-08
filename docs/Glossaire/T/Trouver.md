@@ -1,7 +1,7 @@
 # Trouver
 
 
-Lorsqu'un joueur reçoit l'instruction de trouver une carte, il cherche dans chaque zone de jeu où cette carte pourrait se trouver (zone de jeu, zone de mise de côté, deck de joueur, pile de défausse, paquet de rencontre, etc.).
+Lorsqu'un joueur reçoit l'instruction de trouver une carte, il cherche dans chaque zone de jeu où cette carte pourrait se trouver (zone de jeu, zone de mise de côté, deck de joueur, pile de défausse, deck Rencontre, etc.).
 
   - Les joueurs ne devraient pas chercher inutilement dans les zones de jeu s'ils savent où se trouve la carte qu'ils recherchent.
 

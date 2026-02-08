@@ -21,7 +21,7 @@ Si une carte est hors-jeu, son texte est inactif et ne peut pas affecter la part
 
   - Les cartes dans la main, le deck et la pile de défausse d'un joueur sont hors-jeu.
 
-  - Les cartes dans le paquet de rencontre, la pile de défausse de rencontre, les cartes non révélées du deck du méchant, les cartes non révélées du deck de manigance principale et les cartes de rencontre face cachée distribuées à un joueur sont hors-jeu.
+  - Les cartes dans le deck Rencontre, la pile de défausse Rencontre, les cartes non révélées du deck du méchant, les cartes non révélées du deck de manigance principale et les cartes de rencontre face cachée distribuées à un joueur sont hors-jeu.
 
   - Les cartes face cachée attachées à des cartes en jeu sont hors-jeu.
 

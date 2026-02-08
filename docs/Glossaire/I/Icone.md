@@ -19,7 +19,7 @@ Les icônes sont des éléments graphiques qui représentent diverses fonctions 
 
   - Icône d'aléa (![[icone_aleas.jpg|15]]) : une icône d'aléa augmente le nombre de cartes de rencontre distribuées aux joueurs pendant la phase du méchant. Chaque icône d'aléa distribue à un joueur une carte supplémentaire (pas une carte par joueur). (**Voir** : Icône d'aléa)
 
-  - Icône de Boost (![[icone_boost.jpg|15]]) : une icône de boost augmente la valeur d'ATK ou de MNGde l'ennemi qui s'active pendant les activations ennemies. (**Voir** : Boost)
+  - Icône de Boost (![[icone_boost.jpg|15]]) : une icône de boost augmente la valeur d'ATK ou de MNG de l'ennemi qui s'active pendant les activations ennemies. (**Voir** : Boost)
 
   - Icône Étoile (![[icone_etoile.jpg|15]]) : une icône étoile est utilisée conjointement avec le champ de statistique ou de boost d'une carte pour indiquer qu'il existe une capacité obligatoire dans la boîte de texte correspondant à ce champ. (**Voir** : Icône étoile)
 

@@ -9,5 +9,5 @@ Une pile de défausse est une zone hors-jeu qui contient des cartes ayant été 
 
   - L'ordre des cartes dans une pile de défausse ne peut pas être modifié, à moins qu'un joueur n'en reçoive l'instruction par une capacité de carte.
 
-  - Si un deck de joueur ou le paquet de rencontre est vide, la pile de défausse correspondante est immédiatement mélangée pour former un nouveau deck.
+  - Si un deck de joueur ou le deck Rencontre est vide, la pile de défausse correspondante est immédiatement mélangée pour former un nouveau deck.
 
