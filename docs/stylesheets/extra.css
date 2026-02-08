@@ -1,3 +1,18 @@
+/* --- CONFIGURATION GLOBALE ET TAILLE DE POLICE --- */
+:root {
+  --md-typeset-font-size: 0.70rem;
+}
+
+.md-typeset {
+  font-size: var(--md-typeset-font-size);
+  line-height: 1.35; /* Légèrement réduit pour maximiser la densité */
+  color: #000000;
+}
+
+.md-typeset p {
+  margin-bottom: 0.35em; /* Espacement très serré pour le lexique */
+}
+
 /* --- HEADER ET LOGO --- */
 .md-header__logo {
     width: 200px !important;
@@ -16,37 +31,33 @@
     height: auto !important;
 }
 
-/* --- COULEURS DES TEXTES ET TITRES --- */
-.md-typeset {
-  color: #000000;
-}
-
-.md-typeset h1 { color: #0d47a1; }
-.md-typeset h2 { color: #1565c0; }
-.md-typeset h3 { color: #1976d2; }
-.md-typeset h4, .md-typeset h5, .md-typeset h6 { color: #1e88e5; }
+/* --- HARMONISATION DES TITRES (Adaptés au 0.70rem) --- */
+.md-typeset h1 { color: #0d47a1; font-size: 1.7em; margin-bottom: 0.4em; }
+.md-typeset h2 { color: #1565c0; font-size: 1.35em; margin-top: 0.9em; margin-bottom: 0.35em; }
+.md-typeset h3 { color: #1976d2; font-size: 1.15em; margin-top: 0.7em; margin-bottom: 0.25em; }
+.md-typeset h4, .md-typeset h5, .md-typeset h6 { color: #1e88e5; font-size: 1.05em; }
 
 /* --- CONFIGURATION GÉNÉRALE DES LISTES --- */
 .md-typeset ol, 
 .md-typeset ul {
     list-style: none !important;
-    padding-left: 1.5em !important;
-    margin-bottom: 0.5em !important;
+    padding-left: 1.4em !important;
+    margin-bottom: 0.35em !important;
 }
 
 /* --- NIVEAU 1 : LISTES À PUCES (Rond bleu) --- */
 .md-typeset ul > li {
     position: relative !important;
-    margin-bottom: 0.5em;
+    margin-bottom: 0.15em;
 }
 
 .md-typeset ul > li::before {
     content: "" !important;
     position: absolute !important;
-    left: -1.2em !important;
-    top: 0.6em !important;
-    width: 7px !important;
-    height: 7px !important;
+    left: -1.1em !important;
+    top: 0.55em !important; /* Ajustement précis pour le 0.70rem */
+    width: 5px !important; /* Réduit pour ne pas paraître trop gros */
+    height: 5px !important;
     background-color: #2196f3 !important;
     border-radius: 50% !important;
 }
@@ -59,38 +70,37 @@
 .md-typeset ol > li {
     counter-increment: level1 !important;
     position: relative !important;
+    margin-bottom: 0.15em;
 }
 
 .md-typeset ol > li::before {
     content: counter(level1) "." !important;
     position: absolute !important;
-    left: -1.8em !important;
+    left: -1.7em !important;
     font-weight: bold !important;
     color: #2196f3 !important;
-    width: 1.5em !important;
+    width: 1.4em !important;
     text-align: right !important;
 }
 
 /* --- IMBRICATION : PUCES DANS UNE LISTE (Chevrons) --- */
-/* Cible les UL qui sont enfants d'un LI (peu importe le type de liste parent) */
 .md-typeset li > ul > li::before {
     content: "»" !important;
     background: none !important;
     width: auto !important;
     height: auto !important;
-    left: -1.2em !important;
-    top: -0.1em !important;
-    font-size: 1.2em !important;
+    left: -1.1em !important;
+    top: -0.18em !important; /* Ajusté pour l'interligne 1.35 */
+    font-size: 1.15em !important;
     color: #2196f3 !important;
     font-weight: bold !important;
     border-radius: 0 !important;
 }
 
 /* --- IMBRICATION : NUMÉROS DANS UNE LISTE (a. b. c.) --- */
-/* Cible les OL qui sont enfants d'un LI */
 .md-typeset li > ol {
     counter-reset: level2 !important;
-    margin-top: 0.5em !important;
+    margin-top: 0.15em !important;
 }
 
 .md-typeset li > ol > li {
@@ -101,23 +111,32 @@
     content: counter(level2, lower-alpha) "." !important;
     background: none !important;
     border-radius: 0 !important;
-    width: 1.5em !important;
-    left: -1.8em !important;
+    width: 1.4em !important;
+    left: -1.7em !important;
 }
 
-/* --- IMBRICATION PROFONDE : NIVEAU 3 (i. ii. iii.) --- */
-.md-typeset ol ol ol {
-    counter-reset: level3 !important;
+/* --- ICÔNES SPÉCIFIQUES --- */
+.icon-verified svg {
+    fill: #4caf50 !important;
+    color: #4caf50 !important;
+    vertical-align: middle;
+    width: 1.1em;
+    height: 1.1em;
 }
 
-.md-typeset ol ol ol > li::before {
-    content: counter(level3, lower-roman) "." !important;
+.icon-warning svg {
+    fill: #ff9800 !important;
+    color: #ff9800 !important;
+    vertical-align: middle;
+    width: 1em;
+    height: 1em;
 }
 
+/* --- TWEMOJI / SYMBOLES MARVEL --- */
 .twemoji {
     fill: #ef5552 !important;
     color: #ef5552 !important;
     vertical-align: middle;
-    width: 1.1em;
-    height: 1.1em;
+    width: 1.05em;
+    height: 1.05em;
 }

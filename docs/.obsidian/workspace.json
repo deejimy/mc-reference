@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "8583ac6d3ab219f8",
+        "id": "751b4a64c5d54377",
         "type": "tabs",
         "children": [
           {
-            "id": "8710324faf595203",
+            "id": "05d77fb1bb8bb07c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Glossaire/A/AttacherCetteCarte.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "AttacherCetteCarte"
+              "title": "New tab"
             }
           }
         ]
@@ -180,10 +176,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "881f02d742a74674",
+  "active": "05d77fb1bb8bb07c",
   "lastOpenFiles": [
-    "Glossaire/A/Action.md",
     "index.md",
+    "Glossaire/A/AttacherCetteCarte.md",
+    "Glossaire/A/Action.md",
     "Glossaire/T/TourDeJoueur.md",
     "Glossaire/P/PhaseDesJoueurs.md",
     "Glossaire/I/IconeDetoile.md",
@@ -216,7 +213,6 @@
     "Glossaire/I/IconeUnique.md",
     "Glossaire/S/SetDeRencontreNemesis.md",
     "Glossaire/S/SetDeRencontreModulaire copy.md",
-    "Glossaire/R/RessourceCarte.md",
     "img/pion_menace.png",
     "img/Pasted image 20260207003142.png",
     "Pasted image 20260207003142.png",
