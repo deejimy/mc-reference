@@ -9,3 +9,21 @@ Si une carte est inclinée, elle est tournée à 90 degrés.
 
 **Voir aussi** : Prêt
 
+
+```
+EXHAUSTED
+If a card is exhausted, it is rotated 90 degrees.
+
+  - An exhausted card cannot be exhausted again until it
+is ready. Cards are typically readied by a game step
+or card ability.
+
+  - A card ability on an exhausted card is active and
+can still interact with the game state. However, if an
+exhausted card must exhaust to pay the cost of using
+its ability, that ability cannot be used until the card
+is ready.
+
+
+See also: Ready
+```

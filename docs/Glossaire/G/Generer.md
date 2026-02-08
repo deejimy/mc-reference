@@ -3,3 +3,8 @@
 
 **Voir** : Ressource
 
+
+```
+GENERATE
+See: Resource
+```

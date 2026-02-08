@@ -3,3 +3,8 @@
 
 **Voir** : Points de vie
 
+
+```
+INFINITE HIT POINTS
+See: Hit Points
+```

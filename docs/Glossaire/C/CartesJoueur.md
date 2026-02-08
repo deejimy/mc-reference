@@ -9,3 +9,21 @@ Il existe sept types de cartes de joueur : les cartes allié, les cartes évène
 
 **Voir aussi** : Allié, Classifications, Évènement, Identité, Manigance annexe de joueur, Carte ressource, Soutien, Amélioration, Appendice I : Personnalisation du deck
 
+
+```
+PLAYER CARD
+There are seven player card types: ally cards, event cards,
+identity cards, player side scheme cards, resource cards,
+support cards, and upgrade cards.
+
+  - Player cards may belong to various classifications,
+such as identity-specific player cards or aspect player
+cards.
+
+  - Most player cards have a blue card back.
+
+
+See also: Ally, Classifications, Event, Identity, Player Side
+Scheme, Resource Card, Support, Upgrade, Appendix I:
+Deck Customization
+```

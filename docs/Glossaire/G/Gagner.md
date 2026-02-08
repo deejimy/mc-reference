@@ -5,3 +5,14 @@ Si une carte gagne une caractéristique (telle qu'un trait, un mot-clé ou un te
 
 **Voir aussi** : Mots-clés, Imprimé, Traits
 
+
+```
+"GAINS"
+If a card gains a characteristic (such as a trait, keyword, or
+ability text), the card functions as if it possesses the gained
+characteristic. Gained characteristics are not considered to
+be printed on the card.
+
+
+See also: Keywords, Printed, Traits
+```

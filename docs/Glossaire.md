@@ -1,22 +1,22 @@
 # Index
 
 ## A
-[[ADistance|A distance]]  
-[[ALaPlace|"A la place"]]    
-[[Action|Action]]  
-[[Activation|Activation]]  
-[[ActivationDesEnnemis|Activation des Ennemis]]  
-[[Alliance|Alliance]]  
-[[Allie|Allié]]  
-[[AlterEgoFormeAlterEgo|Alter ego, forme d'alter ego]]
-[[Amelioration|Amélioration]]  
-[[Ami|Ami]]  
-[[Annuler|Annuler]]  
-[[Apres|"Après"]]  
-[[Assaut|Assaut]]  
-[[Attachement|Attachement]]  
-[[AttacherCetteCarte|Attacher cette carte]]  
-[[ATQ]]
+[[ADistance|A distance]] :material-alert-outline:    
+[[ALaPlace|"A la place"]] :material-alert-outline:      
+[[Action|Action]] :material-alert-outline:    
+[[Activation|Activation]] :material-alert-outline:    
+[[ActivationDesEnnemis|Activation des Ennemis]] :material-alert-outline:    
+[[Alliance|Alliance]] :material-alert-outline:    
+[[Allie|Allié]] :material-alert-outline:    
+[[AlterEgo|Alter ego, forme d'alter ego]] :material-alert-outline:  
+[[Amelioration|Amélioration]] :material-alert-outline:    
+[[Ami|Ami]] :material-alert-outline:    
+[[Annuler|Annuler]] :material-alert-outline:    
+[[Apres|"Après"]] :material-alert-outline:    
+[[Assaut|Assaut]] :material-alert-outline:    
+[[Attachement|Attachement]] :material-alert-outline:    
+[[AttacherCetteCarte|Attacher cette carte]] :material-alert-outline:  
+[[ATQ]] :material-alert-outline:  
 [[AttaqueActivationDuJoueur|Attaque (Activation du Joueur)]] :material-alert-outline:  
 [[AttaqueActivationDesEnnemis|Attaque (Activation des Ennemis)]] :material-alert-outline:  
 [[AttaquesContreLesAllies|Attaques Contre les Alliés]] :material-alert-outline:  

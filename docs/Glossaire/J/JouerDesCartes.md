@@ -3,3 +3,8 @@
 
 **Voir** : Initier des capacités
 
+
+```
+PLAYING CARDS
+See: Initiating Abilities
+```

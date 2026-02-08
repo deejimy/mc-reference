@@ -7,3 +7,17 @@ Si le dernier stade du méchant est vaincu, les joueurs gagnent la partie. Si le
 
     - Les conditions de victoire ou de défaite alternatives ne peuvent pas être annulées ou ignorées.
 
+
+```
+WINNING THE GAME
+If the final villain stage is defeated, the players win the
+game. If the final stage of the main scheme deck is
+completed, the villain wins the game.
+
+  - Some scenarios have alternate win or loss conditions.
+If these conditions are met, the players win or lose
+accordingly.
+
+  - Alternate win or loss conditions cannot be blanked
+or canceled.
+```

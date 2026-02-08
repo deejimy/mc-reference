@@ -9,3 +9,23 @@ Les dégâts subis font référence à la différence entre les points de vie ma
 
 **Voir aussi** : Allié, Dégâts, Points de vie, Identité, Maximum de points de vie, Points de vie restants, Méchant
 
+
+```
+SUSTAINED DAMAGE
+Sustained damage refers to the difference between a
+character’s maximum hit points and remaining hit points.
+
+  - To calculate sustained damage for an identity or
+villain (using a hit point dial), start with the character’s
+maximum hit points (as indicated by its printed value
+modified by any card abilities or game effects), and
+subtract their remaining hit points (as indicated by the
+dial).
+
+  - Sustained damage on an ally or minion is equal to the
+total value of all damage tokens on the card.
+
+
+See also: Ally, Damage, Hit Points, Identity, Maximum Hit
+Points, Remaining Hit Points, Villain
+```

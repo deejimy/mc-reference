@@ -7,3 +7,20 @@ Les joueurs sont autorisés et encouragés à se parler pendant le jeu, et à tr
 
 **Voir aussi** : Mots-clés, Péril, Joueur
 
+
+```
+TABLE TALK
+Players are permitted and encouraged to talk to one
+another during play, and to work as a team to plan and
+execute the best course of action. Players can discuss
+anything they would like, including cards in play and cards
+in their hand. Players are not obligated to disclose the cards
+in their hand if they do not wish to do so.
+
+  - While resolving an encounter card with the peril
+keyword, players are not permitted to consult with
+one another.
+
+
+See also: Keywords, Peril, Player
+```

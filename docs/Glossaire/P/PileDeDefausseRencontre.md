@@ -3,3 +3,8 @@
 
 **Voir** : Pile de défausse
 
+
+```
+ENCOUNTER DISCARD PILE
+See: Discard Pile
+```

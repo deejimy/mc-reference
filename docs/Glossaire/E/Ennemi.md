@@ -6,3 +6,14 @@ Lorsqu'il est utilisé comme descripteur, "ennemi" se réfère aux éléments de
 
 **Voir aussi** : Élément de jeu, Sbire, Méchant
 
+
+```
+ENEMY
+An enemy is a minion or villain.
+When used as a descriptor, "enemy" refers to game
+elements that belong to the scenario: "enemy cards",
+"enemy abilities" etc.
+
+
+See also: Game Element, Minion, Villain
+```

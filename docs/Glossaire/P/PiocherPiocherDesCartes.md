@@ -9,3 +9,21 @@ Si un joueur reçoit l'instruction de piocher une ou plusieurs cartes, ces carte
 
 **Voir aussi** : Défausse, En jeu et Hors-jeu, Propriété et Contrôle, Joueur, Deck de joueur, Phase des joueurs
 
+
+```
+DRAW, DRAWING CARDS
+If a player is instructed to draw one or more cards, those
+cards are drawn from the top of their deck one at a time.
+
+  - Drawn cards are added to a player’s hand.
+
+  - Each player’s hand size is checked at the end of the
+player phase. If a player has more cards in their hand
+than their hand size value at this time, they must
+choose and discard cards from hand until they are at
+their hand size.
+
+
+See also: Discard, In Play and Out of Play, Ownership and
+Control, Player, Player Deck, Player Phase
+```
