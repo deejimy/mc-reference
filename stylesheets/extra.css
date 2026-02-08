@@ -113,3 +113,11 @@
 .md-typeset ol ol ol > li::before {
     content: counter(level3, lower-roman) "." !important;
 }
+
+.twemoji {
+    fill: #ef5552 !important;
+    color: #ef5552 !important;
+    vertical-align: middle;
+    width: 1.1em;
+    height: 1.1em;
+}
