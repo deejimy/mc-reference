@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Glossaire/T/TourDeJoueur.md",
+                "file": "Glossaire/A/AttacherCetteCarte.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TourDeJoueur"
+              "title": "AttacherCetteCarte"
             }
           }
         ]
@@ -180,9 +180,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "8710324faf595203",
+  "active": "881f02d742a74674",
   "lastOpenFiles": [
+    "Glossaire/A/Action.md",
     "index.md",
+    "Glossaire/T/TourDeJoueur.md",
     "Glossaire/P/PhaseDesJoueurs.md",
     "Glossaire/I/IconeDetoile.md",
     "img/etoile.png",
@@ -215,8 +217,6 @@
     "Glossaire/S/SetDeRencontreNemesis.md",
     "Glossaire/S/SetDeRencontreModulaire copy.md",
     "Glossaire/R/RessourceCarte.md",
-    "Glossaire/C/RessourceCarte.md",
-    "Glossaire/P/PersonnalisationDuDeck.md",
     "img/pion_menace.png",
     "img/Pasted image 20260207003142.png",
     "Pasted image 20260207003142.png",

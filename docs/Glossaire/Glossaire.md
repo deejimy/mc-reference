@@ -15,7 +15,7 @@
 [[Apres|"Après"]]  
 [[Assaut|Assaut]]  
 [[Attachement|Attachement]]  
-[[AttacherA|Attacher À]]  
+[[AttacherCetteCarte|Attacher cette carte]]  
 [[ATQ]]
 [[AttaqueActionDeJoueur|Attaque (Activation du Joueur)]]  
 [[AttaqueActivationDesEnnemis|Attaque (Activation des Ennemis)]]  

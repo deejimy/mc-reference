@@ -1,4 +1,13 @@
-# Présentation Générale
+# Guide de référence v1.7 FR
+
+!!! note "Information"
+    Ce document est une traduction **non officielle** du livret de règles version 1.7 de Marvel Champions : Le Jeu de Cartes, édité par Fantasy Flight Games (FFG).  
+
+    L'objectif de ce projet est de mettre à disposition des joueurs francophones une version actualisée aux dernières clarifications de règles publiées par l'éditeur.  
+
+    Si vous souhaitez contribuer au projet, votre aide est la bienvenue !
+
+## Présentation Générale
 Ce document est conçu pour être la référence définitive en matière de règles, mais il ne vous apprendra pas à jouer. Les joueurs doivent d’abord lire le Livret d’Apprentissage en intégralité et n’utiliser ce Guide de Référence que si le besoin s’en fait sentir au cours de la partie.  
 La majorité de ce guide consiste en un glossaire qui fournit une liste alphabétique des termes et situations qu’un joueur peut rencontrer durant une partie. Ce glossaire devrait être la première destination des joueurs qui ont une question concernant les règles.  
 Les trois appendices situés à la fin de ce livret contiennent les règles de personnalisation de deck, les règles de mise en place et la description du gabarit des cartes.
@@ -29,5 +38,3 @@ Cette section vous donne un aperçu du déroulement d’un round de jeu et les e
 Cette section fournit des règles, termes et situations de jeu susceptibles d’intervenir en cours de partie, le tout classé par ordre alphabétique.  
 [[Glossaire]]
 
-## A propos
-"© Traduction non officielle v1.7 — [[EnSavoirPlus|En savoir plus / Contribuer]]"
