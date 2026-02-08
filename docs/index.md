@@ -5,7 +5,10 @@
 
     L'objectif de ce projet est de mettre à disposition des joueurs francophones une version actualisée aux dernières clarifications de règles publiées par l'éditeur.  
 
+    Les index du [[Glossaire|glossaire]] indiqués par l'icône :material-alert-outline: sont en attente de vérification.
+
     Si vous souhaitez contribuer au projet, votre aide est la bienvenue !
+
 
 ## Présentation Générale
 Ce document est conçu pour être la référence définitive en matière de règles, mais il ne vous apprendra pas à jouer. Les joueurs doivent d’abord lire le Livret d’Apprentissage en intégralité et n’utiliser ce Guide de Référence que si le besoin s’en fait sentir au cours de la partie.  
