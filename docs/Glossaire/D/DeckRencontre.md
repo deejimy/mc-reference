@@ -1,7 +1,7 @@
 # Deck rencontre
 
 
-Le paquet de rencontre contient les cartes de rencontre (attachements, environnements, sbires, manigances secondaires et traîtrises) que les joueurs peuvent affronter au cours d'un scénario.
+Le paquet de rencontre contient les cartes de rencontre (attachements, environnements, sbires, manigances annexes et traîtrises) que les joueurs peuvent affronter au cours d'un scénario.
 
   - L'ordre des cartes au sein du paquet de rencontre ne peut pas être modifié, à moins qu'un joueur n'en reçoive l'instruction par une étape de jeu, une fonction de jeu ou une capacité de carte.
 Si le paquet de rencontre est vide, la pile de défausse de rencontre est immédiatement mélangée pour créer un nouveau paquet de rencontre. Lorsque cela se produit, placez un pion d'accélération à côté du deck de manigance principale.

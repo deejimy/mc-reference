@@ -1,7 +1,7 @@
 # Deck joueur
 
 
-Le deck d'un joueur contient les cartes de joueur (alliés, évènements, manigances secondaires de joueur, ressources, supports et améliorations) appartenant au joueur qui a commencé la partie avec ce deck.
+Le deck d'un joueur contient les cartes de joueur (alliés, évènements, manigances annexes de joueur, ressources, supports et améliorations) appartenant au joueur qui a commencé la partie avec ce deck.
 
   - L'ordre des cartes au sein d'un deck de joueur ne peut pas être modifié à moins qu'un joueur n'en reçoive l'instruction par une étape de jeu, une fonction de jeu ou une capacité de carte.
 Si le deck d'un joueur se vide, le joueur mélange sa pile de défausse pour former un nouveau deck. Ce joueur se distribue immédiatement une carte de rencontre face cachée du dessus du paquet de rencontre.
