@@ -783,7 +783,7 @@
   <span class="md-ellipsis">
     
   
-    Attacher cette carte
+    Attachez cette carte
   
 
     
@@ -1166,6 +1166,62 @@
   
   
     <li class="md-nav__item">
+      <a href="../../C/CapaciteConstante/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    CapaciteConstante
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../C/CapaciteDeCarte/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    CapaciteDeCarte
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
       <a href="../../C/CapaciteDeclenchee/" class="md-nav__link">
         
   
@@ -1250,7 +1306,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../C/CapaciteUneFoisDejouee/" class="md-nav__link">
+      <a href="../../C/CapaciteUneFoisAchevee/" class="md-nav__link">
         
   
   
@@ -1390,34 +1446,6 @@
   
   
     <li class="md-nav__item">
-      <a href="../../C/CartesDeRencontre/" class="md-nav__link">
-        
-  
-  
-  <span class="md-ellipsis">
-    
-  
-    Cartes de rencontre
-  
-
-    
-  </span>
-  
-  
-
-      </a>
-    </li>
-  
-
-              
-            
-              
-                
-  
-  
-  
-  
-    <li class="md-nav__item">
       <a href="../../C/CartesDetat/" class="md-nav__link">
         
   
@@ -1482,6 +1510,34 @@
     
   
     Cartes joueur
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../C/CartesRencontre/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Cartes Rencontre
   
 
     
@@ -2208,7 +2264,7 @@
   <span class="md-ellipsis">
     
   
-    Défausser, défausse
+    Défausser
   
 
     
@@ -3486,34 +3542,6 @@
   
   
     <li class="md-nav__item">
-      <a href="../../G/GagnerUnElement/" class="md-nav__link">
-        
-  
-  
-  <span class="md-ellipsis">
-    
-  
-    Gagner un élément
-  
-
-    
-  </span>
-  
-  
-
-      </a>
-    </li>
-  
-
-              
-            
-              
-                
-  
-  
-  
-  
-    <li class="md-nav__item">
       <a href="../../G/Garde/" class="md-nav__link">
         
   
@@ -4163,7 +4191,7 @@
   <span class="md-ellipsis">
     
   
-    Initier des Capacités
+    Initier des Capacités, Jouer des cartes
   
 
     
@@ -5720,6 +5748,62 @@
   
   
     <li class="md-nav__item">
+      <a href="../PersonnalisationDuDeck/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Personnalisation du deck
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Peut/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Peut
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
       <a href="../PhaseDesJoueurs/" class="md-nav__link">
         
   
@@ -5923,7 +6007,7 @@
   <span class="md-ellipsis">
     
   
-    Pion d'Accélération
+    Pion Accélération
   
 
     
@@ -6000,14 +6084,14 @@
   
   
     <li class="md-nav__item">
-      <a href="../PointsDeVieMaximaux/" class="md-nav__link">
+      <a href="../PointsDeVieMaximus/" class="md-nav__link">
         
   
   
   <span class="md-ellipsis">
     
   
-    Points de vie maximaux
+    Points de vie maximums
   
 
     
@@ -6492,6 +6576,34 @@
     
   
     Regarder, regardé
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../R/RegarderRegardee/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    RegarderRegardee
   
 
     
@@ -8540,59 +8652,19 @@
 </li>
 </ul>
 <p><strong>Voir aussi</strong> : Capacité, Cible</p>
+<p><strong>EN v1.7</strong>:<br />
 <div class="highlight"><pre><span></span><code>&quot;FOR EACH&quot;
-&quot;For each&quot; indicates an effect is repeated based on the
-number of a countable game element.
-
-  - If an effect with &quot;for each&quot; requires a target, that
-effect applies to a single target unless the &quot;for each&quot;
-clause includes a &quot;choose&quot; instruction.
-
-  - For example, an effect that reads &quot;For each
-treachery looked at this way, remove 1 threat from
-a scheme&quot; removes threat from a single scheme.
-Alternatively, an effect that reads &quot;For each
-upgrade you control, choose an enemy and deal
-2 damage to it&quot; allows you to choose a different
-enemy for each upgrade you control.
-
-  - If a &quot;for each&quot; effect without a &quot;choose&quot; instruction
-deals damage or removes threat, it is considered a
-single instance of damage dealt or threat removed,
-respectively.
-
-  - If a &quot;for each&quot; effect has a &quot;choose&quot; instruction,
-each iteration of that choice is considered a separate
-instance of that effect, even if the same target is
-chosen multiple times.
-
-  - The game state updates after each instance (for
-example, if a minion or side scheme is defeated).
-
-  - Responses can be triggered after each instance.
-
-  - For example, if a player is engaged with a guard
-minion and uses an effect that says &quot;for each
-resource you spent this way, choose an enemy
-and deal 2 damage to it,&quot; that player can defeat
-the guard minion with one instance of 2 damage,
-making the villain a valid target for further
-instances. That player can trigger a response ability
-like &quot;After you deal damage to an enemy&quot; after
-each instance.
-
-  - If another ability modifies a &quot;for each&quot; effect, that
-modifier is applied to each instance of the &quot;for each&quot;
-effect. (For example, Flurry of Blades is an event
-that has the effect: &quot;For each Psi-Katana, choose
-an enemy and deal 2 damage to it.&quot; If modified by
-an effect that says &quot;that event deals 1 additional
-damage,&quot; Flurry of Blades deals 3 damage to each
-chosen enemy.)
-
-
-See also: Ability, Target
-</code></pre></div>
+&quot;For each&quot; indicates an effect is repeated based on the number of a countable game element.
+• If an effect with &quot;for each&quot; requires a target, that effect applies to a single target unless the &quot;for each&quot; clause includes a &quot;choose&quot; instruction.
+» » For example, an effect that reads &quot;For each treachery looked at this way, remove 1 threat from a scheme&quot; removes threat from a single scheme.
+Alternatively, an effect that reads &quot;For each upgrade you control, choose an enemy and deal 2 damage to it&quot; allows you to choose a different enemy for each upgrade you control.
+• If a &quot;for each&quot; effect without a &quot;choose&quot; instruction deals damage or removes threat, it is considered a single instance of damage dealt or threat removed, respectively.
+• If a &quot;for each&quot; effect has a &quot;choose&quot; instruction, each iteration of that choice is considered a separate instance of that effect, even if the same target is chosen multiple times.
+» » The game state updates after each instance (for example, if a minion or side scheme is defeated).
+» » Responses can be triggered after each instance.
+» » For example, if a player is engaged with a guard minion and uses an effect that says &quot;for each resource you spent this way, choose an enemy and deal 2 damage to it,&quot; that player can defeat the guard minion with one instance of 2 damage, making the villain a valid target for further instances. That player can trigger a response ability like &quot;After you deal damage to an enemy&quot; after each instance.
+• If another ability modifies a &quot;for each&quot; effect, that modifier is applied to each instance of the &quot;for each&quot; effect. (For example, Flurry of Blades is an event that has the effect: &quot;For each Psi-Katana, choose an enemy and deal 2 damage to it.&quot; If modified by an effect that says &quot;that event deals 1 additional damage,&quot; Flurry of Blades deals 3 damage to each chosen enemy.) See also: Ability, Target
+</code></pre></div></p>
 
 
 

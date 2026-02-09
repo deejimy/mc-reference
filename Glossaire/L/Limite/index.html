@@ -783,7 +783,7 @@
   <span class="md-ellipsis">
     
   
-    Attacher cette carte
+    Attachez cette carte
   
 
     
@@ -1166,6 +1166,62 @@
   
   
     <li class="md-nav__item">
+      <a href="../../C/CapaciteConstante/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    CapaciteConstante
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../C/CapaciteDeCarte/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    CapaciteDeCarte
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
       <a href="../../C/CapaciteDeclenchee/" class="md-nav__link">
         
   
@@ -1250,7 +1306,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../C/CapaciteUneFoisDejouee/" class="md-nav__link">
+      <a href="../../C/CapaciteUneFoisAchevee/" class="md-nav__link">
         
   
   
@@ -1390,34 +1446,6 @@
   
   
     <li class="md-nav__item">
-      <a href="../../C/CartesDeRencontre/" class="md-nav__link">
-        
-  
-  
-  <span class="md-ellipsis">
-    
-  
-    Cartes de rencontre
-  
-
-    
-  </span>
-  
-  
-
-      </a>
-    </li>
-  
-
-              
-            
-              
-                
-  
-  
-  
-  
-    <li class="md-nav__item">
       <a href="../../C/CartesDetat/" class="md-nav__link">
         
   
@@ -1482,6 +1510,34 @@
     
   
     Cartes joueur
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../C/CartesRencontre/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Cartes Rencontre
   
 
     
@@ -2208,7 +2264,7 @@
   <span class="md-ellipsis">
     
   
-    Défausser, défausse
+    Défausser
   
 
     
@@ -3486,34 +3542,6 @@
   
   
     <li class="md-nav__item">
-      <a href="../../G/GagnerUnElement/" class="md-nav__link">
-        
-  
-  
-  <span class="md-ellipsis">
-    
-  
-    Gagner un élément
-  
-
-    
-  </span>
-  
-  
-
-      </a>
-    </li>
-  
-
-              
-            
-              
-                
-  
-  
-  
-  
-    <li class="md-nav__item">
       <a href="../../G/Garde/" class="md-nav__link">
         
   
@@ -4163,7 +4191,7 @@
   <span class="md-ellipsis">
     
   
-    Initier des Capacités
+    Initier des Capacités, Jouer des cartes
   
 
     
@@ -5730,6 +5758,62 @@
   
   
     <li class="md-nav__item">
+      <a href="../../P/PersonnalisationDuDeck/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Personnalisation du deck
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../P/Peut/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Peut
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
       <a href="../../P/PhaseDesJoueurs/" class="md-nav__link">
         
   
@@ -5933,7 +6017,7 @@
   <span class="md-ellipsis">
     
   
-    Pion d'Accélération
+    Pion Accélération
   
 
     
@@ -6010,14 +6094,14 @@
   
   
     <li class="md-nav__item">
-      <a href="../../P/PointsDeVieMaximaux/" class="md-nav__link">
+      <a href="../../P/PointsDeVieMaximus/" class="md-nav__link">
         
   
   
   <span class="md-ellipsis">
     
   
-    Points de vie maximaux
+    Points de vie maximums
   
 
     
@@ -6492,6 +6576,34 @@
     
   
     Regarder, regardé
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../R/RegarderRegardee/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    RegarderRegardee
   
 
     
@@ -8523,19 +8635,17 @@
 </li>
 </ul>
 <p><strong>Voir aussi</strong> : Capacité, Max</p>
+<p><strong>EN v1.7</strong>:<br />
 <div class="highlight"><pre><span></span><code>LIMIT
-&quot;Limit X per [period]&quot; is a limit that appears on some player
-cards. These limits are card-specific. Each copy of an ability
-with such a limit may be used X times per the specified
-period, per instance of that ability.
-
-  - If an effect with a limit is canceled, the card is
-still considered to have been played or the ability
-initiated, and it counts toward the limit.
-
-
+&quot;Limit X per [period]&quot; is a limit that appears on some player cards. These limits are card-specific. Each copy of an ability with such a limit may be used X times per the specified period, per instance of that ability.
+• If an effect with a limit is canceled, the card is still considered to have been played or the ability initiated, and it counts toward the limit.
 See also: Player Card
-</code></pre></div>
+</code></pre></div></p>
+<p><strong>FR v1.4</strong>:<br />
+<div class="highlight"><pre><span></span><code>LIMITE
+« Limite de X fois par [période] » est une limite qui apparaît sur certaines cartes Joueur. Ces limites sont spécifiques à chaque carte. Chaque exemplaire d’une capacité avec une telle limite peut être utilisé X fois lors de la période spécifiée par occurrence de cette capacité.
+• Si un effet avec une limite est annulé, la carte est toujours considérée comme ayant été jouée ou la capacité comme ayant été initiée et compte donc dans la limite.
+</code></pre></div></p>
 
 
 
