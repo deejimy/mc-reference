@@ -5,14 +5,10 @@ L'icône de crise  (![[icone_crise.jpg|15]]) représente un obstacle immédiat q
   - Une icône de crise peut être retirée du jeu en vainquant la carte Rencontre sur laquelle elle est imprimée.
 
 
+**EN v1.7**:  
 ```
 CRISIS ICON
-While at least one crisis icon is in play, threat cannot be
-removed from the main scheme by player cards.
-
-  - Abilities on encounter cards are not affected by the
-crisis icon.
-
-
+While at least one crisis icon is in play, threat cannot be removed from the main scheme by player cards.
+• Abilities on encounter cards are not affected by the crisis icon.
 See also: Main Scheme, Threat
 ```

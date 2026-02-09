@@ -3,14 +3,20 @@
 L'icône d'amplification  (![[icone_amplification.jpg|15]]) représente diverses forces qui renforcent ou soutiennent le méchant. Lorsqu'une carte de boost est retournée face visible pendant une activation d'ennemi, ajoutez une icône de boost supplémentaire à cette carte pour chaque icône d'amplification en jeu.
 
 
+**EN v1.7**:  
 ```
 AMPLIFY ICON
-The amplify icon represents various forces that are
-empowering or bolstering the villain.
-When a boost card is turned faceup during an enemy
-activation, add one additional boost icon to that card for
-each amplify icon in play.
-
-
+The amplify icon represents various forces that are empowering or bolstering the villain.
+When a boost card is turned faceup during an enemy activation, add one additional boost icon to that card for each amplify icon in play.
 See also: Activation, Boost, Enemy, Icons
+```
+
+
+
+**FR v1.4**:  
+```
+ICÔNE D’AMPLIFICATION ()
+L’icône d’amplification simule les différentes forces qui peuvent soutenir et renforcer le méchant.
+Quand une carte de boost est retournée face visible lors de l’activation d’un ennemi, ajoutez une icône de boost supplémentaire à cette carte pour chaque icône d’amplification en jeu.
+Voir aussi : Activation, Boost, Ennemi, Icônes
 ```

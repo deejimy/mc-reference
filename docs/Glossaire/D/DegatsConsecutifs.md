@@ -15,36 +15,27 @@ Après qu'un allié a contré, il subit des dégâts consécutifs égaux au nomb
 **Voir aussi** : Allié, Attaque (Type de capacité de joueur), Puissance de base, Dégâts, Icônes, Contrer
 
 
+**EN v1.7**:  
 ```
 CONSEQUENTIAL DAMAGE
-After an ally attacks, it takes consequential damage equal to
-the number of consequential damage icons () beneath its
-ATK field.
-After an ally thwarts, it takes consequential damage equal
-to the number of consequential damage icons () beneath
-its THW field.
-
-  - Consequential damage is dealt to an ally after
-resolving abilities that are triggered by the ally
-attacking or thwarting.
-
-  - If the target of an ally’s basic power leaves play
-before that ally deals damage equal to its ATK or
-removes threat equal to its THW, the ally does not
-take consequential damage (but still exhausts).
-
-  - That ally is not considered to have attacked or
-thwarted for the purpose of other abilities.
-
-  - For example, Iron Fist’s ability reads: "Interrupt:
-When Iron Fist attacks an enemy, remove 1 mystic
-counter from him → stun that enemy and deal
-1 damage to it." If this effect defeats the enemy
-Iron Fist was attacking, the basic attack aborts as
-soon as the target leaves play, so Iron Fist does not
-take consequential damage from it.
+After an ally attacks, it takes consequential damage equal to the number of consequential damage icons () beneath its ATK field.
+After an ally thwarts, it takes consequential damage equal to the number of consequential damage icons () beneath its THW field.
+• Consequential damage is dealt to an ally after resolving abilities that are triggered by the ally attacking or thwarting.
+• If the target of an ally’s basic power leaves play before that ally deals damage equal to its ATK or removes threat equal to its THW, the ally does not take consequential damage (but still exhausts).
+» » That ally is not considered to have attacked or thwarted for the purpose of other abilities.
+» » For example, Iron Fist’s ability reads: "Interrupt:
+When Iron Fist attacks an enemy, remove 1 mystic counter from him → stun that enemy and deal 1 damage to it." If this effect defeats the enemy Iron Fist was attacking, the basic attack aborts as soon as the target leaves play, so Iron Fist does not take consequential damage from it.
+See also: Ally, Attack (Player Ability Type), Basic Power, Damage, Icons, Thwart
+```
 
 
-See also: Ally, Attack (Player Ability Type), Basic Power,
-Damage, Icons, Thwart
+
+
+**FR v1.4**:  
+```
+DEGÂTS CONSECUTIFS
+Après qu’un allié a attaqué, il subit des dégâts consécutifs égaux au nombre d’icônes de dégâts consécutifs () en dessous de son champ d’ATQ.
+Après qu’un allié a contré, il subit des dégâts consécutifs égaux au nombre d’icônes de dégâts consécutifs () en dessous de son champ de CTR.
+• Les dégâts consécutifs sont infligés après avoir résolu les capacités déclenchées par l’allié qui attaque ou qui contre.
+Voir aussi : Allié, Attaque, Contre, Dégâts, Icônes, Pouvoir de Base
 ```

@@ -32,7 +32,7 @@
 [[CapaciteDeclenchee|Capacité déclenchée]] :material-alert-outline:  
 [[CapaciteEtiquetee|Capacité étiquetée]] :material-alert-outline:  
 [[CapaciteReferentielle|Capacité référentielle]] :material-alert-outline:  
-[[CapaciteUneFoisDejouee|Capacité "une fois achevée"]] :material-alert-outline:  
+[[CapaciteUneFoisAchevee]] :material-alert-outline:  
 [[CapaciteUneFoisRevelee|Capacité une fois révélée]] :material-alert-outline:  
 [[CapaciteUneFoisVaincuDejouee|Capacité une fois vaincu, déjouée]] :material-alert-outline:  
 [[CartesBasiques|Cartes basiques]] :material-alert-outline:  
@@ -40,7 +40,7 @@
 [[CartesDetat|Cartes d'état]] :material-alert-outline:  
 [[CartesDoubleFace|Cartes Double-Face]] :material-alert-outline:  
 [[CartesJoueur|Cartes joueur]] :material-alert-outline:  
-[[CartesDeRencontre|Cartes rencontre]] :material-alert-outline:  
+[[CartesRencontre]] :material-alert-outline:  
 [[CartesSpecifiquesALidentite|Cartes spécifiques à l'identité]] :material-alert-outline:  
 [[CartesSpecifiquesAUneCampagne|Cartes spécifiques à une campagne]] :material-alert-outline:  
 [[CartesSpecifiquesAuScenario|Cartes spécifiques au scénario]] :material-alert-outline:  
@@ -113,7 +113,6 @@
 ## G
 [[Gagner|Gagner]] :material-alert-outline:  
 [[GagnerLaPartie|Gagner la Partie]] :material-alert-outline:  
-[[GagnerUnElement|Gagner un élément]] :material-alert-outline:  
 [[Garde|Garde]] :material-alert-outline:  
 [[Generer|Générer]] :material-alert-outline:  
 [[GlisserSous|Glisser Sous]] :material-alert-outline:  
@@ -202,7 +201,7 @@
 [[PiocherPiocherDesCartes|Piocher, Piocher des Cartes]] :material-alert-outline:  
 [[PionDacceleration|Pion d'Accélération]] :material-alert-outline:  
 [[PointsDeVie|Points de vie]] :material-alert-outline:  
-[[PointsDeVieMaximaux|Points de vie maximums]] :material-alert-outline:  
+[[PointsDeVieMaximus|Points de vie maximums]] :material-alert-outline:  
 [[PointsDeVieInfini|Points de Vie Infini]] :material-alert-outline:  
 [[PointsDeVieRestants|Points de Vie Restants]] :material-alert-outline:  
 [[PourChaque|"Pour Chaque"]] :material-alert-outline:   :material-alert-outline:  

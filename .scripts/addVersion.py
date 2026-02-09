@@ -10,6 +10,9 @@ import os
 from pathlib import Path
 import unicodedata
 
+input = '../.work/v14fr.txt'
+version = "**FR v1.4**:  "
+output_dir = 'Glossaire_back'
 
 def normalize_quotes(text):
     """Normalise tous les types de guillemets vers des guillemets ASCII simples."""
@@ -114,7 +117,7 @@ def parse_glossary_ref(ref_file_path):
 
 def extract_chapters(glossary_file_path):
     """
-    Extrait les chapitres du fichier glossary.txt.
+    Extrait les chapitres du fichier input.
     Retourne une liste de tuples (titre_anglais, contenu).
     Préserver les retours à la ligne dans le contenu pour une meilleure lisibilité.
     """
@@ -153,16 +156,14 @@ def extract_chapters(glossary_file_path):
 
 def main():
     # Chemins des fichiers (à ajuster selon votre configuration)
-    glossary_file = '../.work/glossary.txt'
     glossary_ref_file = '../.work/glossary_ref.txt'
-    output_dir = 'Glossaire'
     
     print("Parsing du fichier de référence...")
     translation_dict = parse_glossary_ref(glossary_ref_file)
     print(f"  {len(translation_dict)} traductions trouvées")
     
     print("\nExtraction des chapitres...")
-    chapters = extract_chapters(glossary_file)
+    chapters = extract_chapters(input)
     print(f"  {len(chapters)} chapitres trouvés")
     
     print("\nGénération des fichiers .md...")
@@ -189,7 +190,10 @@ def main():
             if not french_title:
                 english_clean = english_upper.strip('"').strip()
                 french_title = translation_dict.get(english_clean)
-            
+
+            if not french_title:
+                french_title = english_clean # fallback
+
             if french_title:
                 # Retrouver le fichier dans le dossier de sortie
                 filename = clean_filename(french_title) + '.md'
@@ -203,14 +207,7 @@ def main():
                         existing_content = f.read()
                 else:                    existing_content = ''
 
-                # Formater le contenu
-                content = content.replace('See also', '\n\nSee also')
-                content = content.replace('•', '\n - ')
-                content = content.replace('» »', '\n\t - ')
-                content = re.sub(r'^\s*-\s+', '\n  - ', content, flags=re.MULTILINE)
-                
-                # Concaténer le contenu existant avec le nouveau contenu
-                content = existing_content.strip() + '\n\n\n```\n' + content.strip() + '\n```'
+                content = existing_content.strip() + '\n\n\n'+version+'\n```\n' + content.strip() + '\n```'
 
                 # Écrire le contenu dans le fichier
                 with open(filepath, 'w', encoding='utf-8') as f:

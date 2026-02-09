@@ -10,18 +10,20 @@ Si une capacité soigne un personnage, les dégâts que le personnage a subis pe
 **Voir aussi** : Allié, Points de vie, Identité, Sbire, Méchant
 
 
+**EN v1.7**:  
 ```
 HEAL
-If an ability heals a character, damage the character has
-sustained can be removed from the character.
-
-  - A heal effect can only bring a character to its
-maximum hit points, unless the effect explicitly states
-it can bring the character above its maximum.
-
-  - Effects that move damage off of a character are
-considered to heal that character.
-
-
+If an ability heals a character, damage the character has sustained can be removed from the character.
+• A heal effect can only bring a character to its maximum hit points, unless the effect explicitly states it can bring the character above its maximum.
+• Effects that move damage off of a character are considered to heal that character.
 See also: Ally, Hit Points, Identity, Minion, Villain
+```
+
+
+**FR v1.4**:  
+```
+SOIGNER
+Si une capacité soigne un personnage, les dégâts subis par ce personnage peuvent être retirés de ce personnage.
+• Un effet de soin peut seulement amener un personnage jusqu’à ses points de vie maximums, il ne peut pas amener un personnage à dépasser ses points de vie maximums, sauf si l’effet l’indique spécifiquement.
+Voir aussi : Allié, Identité, Gagner / Perdre (une statistique), Méchant, Points de Vie, Sbire
 ```

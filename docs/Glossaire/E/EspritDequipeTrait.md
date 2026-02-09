@@ -6,13 +6,9 @@ Après qu'un sbire avec collaboration entre en jeu et engage un joueur, s'il y a
 **Voir aussi** : Activation, Engager, Mots-clés
 
 
+**EN v1.7**:  
 ```
 TEAMWORK (TRAIT)
-After a minion with teamwork enters play and engages a
-player, if there is at least one other minion that shares the
-specified trait in play, the minion that just entered play
-activates against the player it is engaged with.
-
-
+After a minion with teamwork enters play and engages a player, if there is at least one other minion that shares the specified trait in play, the minion that just entered play activates against the player it is engaged with.
 See also: Activation, Engage, Keywords
 ```

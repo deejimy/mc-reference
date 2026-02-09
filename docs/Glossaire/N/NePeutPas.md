@@ -12,20 +12,19 @@ Le mot "ne peut pas" est absolu et ne peut pas être contredit par d'autres capa
 **Voir aussi** : Les Règles d'Or, Cible
 
 
+**EN v1.7**:  
 ```
 "CANNOT"
-The word "cannot" is absolute and cannot be
-countermanded by other abilities or effects.
-
-  - If two abilities conflict, the ability with "cannot" takes
-precedence.
-
-  - If two rules conflict, the rule with "cannot" takes
-precedence.
-
-  - An ability can override a rule with "cannot" per the
-Golden Rules.
-
-
+The word "cannot" is absolute and cannot be countermanded by other abilities or effects.
+• If two abilities conflict, the ability with "cannot" takes precedence.
+• If two rules conflict, the rule with "cannot" takes precedence.
+• An ability can override a rule with "cannot" per the Golden Rules.
 See also: The Golden Rules, Target
+```
+
+
+**FR v1.4**:  
+```
+NE PEUT PAS
+La locution « ne peut pas » (de même que ses dérivés) est absolue et ne peut pas être contournée par d’autres capacités ou effets.
 ```

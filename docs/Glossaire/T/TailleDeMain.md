@@ -8,16 +8,18 @@ Chaque joueur vérifie sa taille de main à la fin de la phase des joueurs, soit
 **Voir aussi** : Fin de la phase des joueurs, Modificateurs
 
 
+**EN v1.7**:  
 ```
 HAND SIZE
-Each player checks their hand size at the end of the player
-phase, either discarding down to or drawing up to the
-number of cards indicated by their hand size value.
-
-  - When drawing up to their hand size, a player draws
-cards one at a time, checking after each card is drawn
-whether they are at their hand size.
-
-
+Each player checks their hand size at the end of the player phase, either discarding down to or drawing up to the number of cards indicated by their hand size value.
+• When drawing up to their hand size, a player draws cards one at a time, checking after each card is drawn whether they are at their hand size.
 See also: End of Player Phase, Modifiers
+```
+
+
+**FR v1.4**:  
+```
+TAILLE DE MAIN
+Chaque joueur vérifie la taille de sa main à la fin de la phase des Joueurs. Soit il défausse des cartes, soit il pioche des cartes jusqu’à atteindre sa valeur de taille de main.
+Voir aussi : Fin de la Phase des Joueurs
 ```

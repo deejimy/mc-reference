@@ -4,12 +4,17 @@
 Si deux effets ou plus avec le même déclencheur devraient se résoudre simultanément, le premier joueur détermine l'ordre.
 
 
+**EN v1.7**:  
 ```
 SIMULTANEOUS RESOLUTION
-If two or more effects with the same bold timing trigger
-would resolve simultaneously, the first player determines the
-order in which the effects resolve.
-
-
+If two or more effects with the same bold timing trigger would resolve simultaneously, the first player determines the order in which the effects resolve.
 See also: "Each Player", Triggered Ability
+```
+
+
+**FR v1.4**:  
+```
+RESOLUTION SIMULTANEE
+Si deux effets ou plus avec le même indicatif de déclenchement en gras sont censés se résoudre simultanément, le premier joueur détermine l’ordre dans lequel ils sont résolus.
+Voir aussi : Capacité Déclenchée, Premier Joueur
 ```

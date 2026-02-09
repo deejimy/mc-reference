@@ -10,18 +10,11 @@ Un set de rencontre est un groupement de cartes de rencontre.
 **Voir aussi** : Classifications, Set Expert, Set de rencontre modulaire, Carte spécifique au scénario, Set Standard
 
 
+**EN v1.7**:  
 ```
 ENCOUNTER SET
 An encounter set is a grouping of encounter cards.
-
-  - There are four types of encounter sets: scenariospecific
-encounter sets, modular encounter sets, the
-Standard set, and the Expert set.
-
-  - Encounter sets with the same name but different set
-icons are considered distinct sets.
-
-
-See also: Classifications, Expert Set, Modular Encounter
-Set, Scenario-Specific Card, Standard Set
+• There are four types of encounter sets: scenariospecific encounter sets, modular encounter sets, the Standard set, and the Expert set.
+• Encounter sets with the same name but different set icons are considered distinct sets.
+See also: Classifications, Expert Set, Modular Encounter Set, Scenario-Specific Card, Standard Set
 ```
