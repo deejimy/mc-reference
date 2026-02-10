@@ -1175,7 +1175,7 @@
   <span class="md-ellipsis">
     
   
-    CapaciteConstante
+    Capacité constante
   
 
     
@@ -1203,7 +1203,7 @@
   <span class="md-ellipsis">
     
   
-    CapaciteDeCarte
+    Capacité de carte
   
 
     
@@ -8622,19 +8622,23 @@
 
 
 <h1 id="capacite-etiquetee">Capacité étiquetée<a class="headerlink" href="#capacite-etiquetee" title="Permanent link">&para;</a></h1>
-<p>Certaines capacités possèdent un libellé en gras (entre parenthèses) immédiatement après le mot de déclenchement en gras de la capacité. Ces libellés (tels que "attaque", "contre" ou "défense") associent la capacité à une fonction de jeu spécifique.</p>
+<p><span class="new">Une capacité étiquetée est une capacité déclenchée dont l’indicatif de déclenchement en gras est suivi, entre parenthèses, d’une désignation indiquant que la capacité est une attaque, une défense et/ou un contre.  </p>
 <ul>
-<li>
-<p>Une capacité étiquetée comme une "attaque" est considérée comme une attaque.</p>
+<li>Lorsque un joueur résout une capacité étiquetée "(attaque)", cette capacité est considérée comme une attaque effectuée par l’identité de ce joueur.  </li>
+<li>Lorsque un joueur résout une capacité étiquetée "(défense)", cette capacité est considérée comme une défense effectuée par l’identité de ce joueur.  <ul>
+<li>Lorsque cette capacité est initiée pendant une attaque, l’identité du joueur devient le défenseur de cette attaque.  </li>
+</ul>
 </li>
-<li>
-<p>Une capacité étiquetée comme un "contre" est considérée comme un contre.</p>
-</li>
-<li>
-<p>Une capacité étiquetée comme une "défense" est considérée comme une défense.</p>
+<li>Lorsque un joueur résout une capacité étiquetée "(contrer)", cette capacité est considérée comme un contrer effectué par l’identité de ce joueur.  </li>
+<li>Lorsque un joueur résout une capacité portant plusieurs étiquettes, cette capacité est considérée comme étant de chacun des types étiquetés, tous effectués par l’identité de ce joueur.  </li>
+<li>Si un joueur déclenche une capacité étiquetée alors que son identité possède une ou plusieurs cartes d’état qui annulent l’un des types étiquetés, la capacité entière (sauf ses coûts) est annulée.  <ul>
+<li>Cette identité n’est pas considérée comme ayant attaqué, défendu ou contré.  </li>
+<li>Chaque carte d’état sur l’identité du joueur qui annule l’un des types de la capacité étiquetée est retirée lorsque cette capacité est annulée. Par exemple, une capacité étiquetée "(attaque/contrer)" retirerait à la fois un statut « désorienté » et un statut « sonné » de l’identité du joueur qui a déclenché la capacité.<br />
+</span>  </li>
+</ul>
 </li>
 </ul>
-<p><strong>Voir aussi</strong> : Capacité, Attaque, Contrer, Défendre</p>
+<p><em>Voir aussi : <a href="../../A/AttaqueActivationDuJoueur/">Attaque (Action de Joueur)</a>, <a href="../../D/DefendreDefense/">Défendre</a>, <a href="../CTR/">Contre / Contrer</a></em></p>
 <p><strong>EN v1.7</strong>:<br />
 <div class="highlight"><pre><span></span><code>LABELED ABILITY
 A labeled ability is a triggered ability with a parenthetical following its bold trigger text that designates that ability as an attack, defense, and/or thwart.
