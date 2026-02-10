@@ -1,15 +1,18 @@
 # Capacité étiquetée
 
+<span class="new">Une capacité étiquetée est une capacité déclenchée dont l’indicatif de déclenchement en gras est suivi, entre parenthèses, d’une désignation indiquant que la capacité est une attaque, une défense et/ou un contre.  
 
-Certaines capacités possèdent un libellé en gras (entre parenthèses) immédiatement après le mot de déclenchement en gras de la capacité. Ces libellés (tels que "attaque", "contre" ou "défense") associent la capacité à une fonction de jeu spécifique.
+- Lorsque un joueur résout une capacité étiquetée "(attaque)", cette capacité est considérée comme une attaque effectuée par l’identité de ce joueur.  
+- Lorsque un joueur résout une capacité étiquetée "(défense)", cette capacité est considérée comme une défense effectuée par l’identité de ce joueur.  
+    - Lorsque cette capacité est initiée pendant une attaque, l’identité du joueur devient le défenseur de cette attaque.  
+- Lorsque un joueur résout une capacité étiquetée "(contrer)", cette capacité est considérée comme un contrer effectué par l’identité de ce joueur.  
+- Lorsque un joueur résout une capacité portant plusieurs étiquettes, cette capacité est considérée comme étant de chacun des types étiquetés, tous effectués par l’identité de ce joueur.  
+- Si un joueur déclenche une capacité étiquetée alors que son identité possède une ou plusieurs cartes d’état qui annulent l’un des types étiquetés, la capacité entière (sauf ses coûts) est annulée.  
+    - Cette identité n’est pas considérée comme ayant attaqué, défendu ou contré.  
+    - Chaque carte d’état sur l’identité du joueur qui annule l’un des types de la capacité étiquetée est retirée lorsque cette capacité est annulée. Par exemple, une capacité étiquetée "(attaque/contrer)" retirerait à la fois un statut « désorienté » et un statut « sonné » de l’identité du joueur qui a déclenché la capacité.  
+</span>  
 
-  - Une capacité étiquetée comme une "attaque" est considérée comme une attaque.
-
-  - Une capacité étiquetée comme un "contre" est considérée comme un contre.
-
-  - Une capacité étiquetée comme une "défense" est considérée comme une défense.
-
-**Voir aussi** : Capacité, Attaque, Contrer, Défendre
+_Voir aussi : [[AttaqueActivationDuJoueur|Attaque (Action de Joueur)]], [[DefendreDefense|Défendre]], [[CTR|Contre / Contrer]]_
 
 
 **EN v1.7**:  

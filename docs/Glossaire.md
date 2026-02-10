@@ -24,23 +24,23 @@
 [[AutoReferentiel|Auto-Référentiel]]  
 
 ## B
-[[BoiteDeTexte|Boîte de texte]] :material-alert-outline:  
-[[BoostIconeDeBoost|Boost, icône de boost]] :material-alert-outline:  
+[[BoiteDeTexte|Boîte de texte]]  
+[[BoostIconeDeBoost|Boost, icône de boost]]  
 
 ## C
-[[Capacite|Capacité]] :material-alert-outline:  
-[[CapaciteDeclenchee|Capacité déclenchée]] :material-alert-outline:  
-[[CapaciteEtiquetee|Capacité étiquetée]] :material-alert-outline:  
-[[CapaciteReferentielle|Capacité référentielle]] :material-alert-outline:  
-[[CapaciteUneFoisAchevee]] :material-alert-outline:  
-[[CapaciteUneFoisRevelee|Capacité une fois révélée]] :material-alert-outline:  
-[[CapaciteUneFoisVaincuDejouee|Capacité une fois vaincu, déjouée]] :material-alert-outline:  
-[[CartesBasiques|Cartes basiques]] :material-alert-outline:  
-[[CartesDaffinite|Cartes d'affinité]] :material-alert-outline:  
-[[CartesDetat|Cartes d'état]] :material-alert-outline:  
-[[CartesDoubleFace|Cartes Double-Face]] :material-alert-outline:  
-[[CartesJoueur|Cartes joueur]] :material-alert-outline:  
-[[CartesRencontre]] :material-alert-outline:  
+[[Capacite|Capacité]]   
+[[CapaciteDeclenchee|Capacité déclenchée]]  
+[[CapaciteEtiquetee|Capacité étiquetée]]  
+[[CapaciteReferentielle|Capacité référentielle]]    
+[[CapaciteUneFoisAchevee]]  
+[[CapaciteUneFoisRevelee|Capacité une fois révélée]]  
+[[CapaciteUneFoisVaincuDejouee|Capacité une fois vaincu, déjouée]]  
+[[CartesBasiques|Cartes basiques]]  
+[[CartesDaffinite|Cartes d'affinité]]  
+[[CartesDetat|Cartes d'état]]  
+[[CartesDoubleFace|Cartes Double-Face]]  
+[[CartesJoueur|Cartes joueur]]  
+[[CartesRencontre]]  
 [[CartesSpecifiquesALidentite|Cartes spécifiques à l'identité]] :material-alert-outline:  
 [[CartesSpecifiquesAUneCampagne|Cartes spécifiques à une campagne]] :material-alert-outline:  
 [[CartesSpecifiquesAuScenario|Cartes spécifiques au scénario]] :material-alert-outline:  
@@ -58,7 +58,7 @@
 [[Controle|Contrôle]] :material-alert-outline:  
 [[CoupRapide|Coup rapide]] :material-alert-outline:  
 [[Cout|Coût]] :material-alert-outline:  
-[[Ctr|CTR]] :material-alert-outline:  
+[[Ctr|CTR]]  
 
 ## D
 [[DansLordreDesJoueurs|Dans l'ordre des joueurs]] :material-alert-outline:  

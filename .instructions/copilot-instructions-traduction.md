@@ -18,12 +18,13 @@ Règles à suivre:
 1. Ne pas toucher aux blocs `**EN v1.7**` et `**FR v1.4**`.
 2. Si la traduction existe dans le bloc `**FR v1.4**`, il faut la réutiliser et ne pas la réécrire.
 3. Traduire intégralement le bloc EN v1.7 en français entre le titre (#TITLE) et le bloc EN v1.7
-4. A partir de la traduction produite: remplacer les listes à puces `•` par un retour de ligne + tiret `\n-` et les chevrons `» »` par un tiret précédé d'un retour de ligne + 4 espaces `\n  -`. Respecter l'indentation des sub-bullets
-5. Pour tout texte non présent dans le bloc FR v1.4, l'englober par `<span class="new">...</span>` pour indiquer que ce texte a été ajouté entre les version v1.4 et v1.7
-6. Précéder les prahses `Voir` et `Voir aussi` d'une ligne vide et englober la cette phrase en italique. Exemple: `_Voir aussi: Keyword1, keyword2_`. Créer les liens markdowns.
-7. Remplacer les icones par l'image correspondantes (voir section Correspondance Icone) 
-8. Ajouter 2 espaces en fin de ligne pour assurer un bon rendu markdown.
-9. Vérifier les correspondances (voir chapitre) pour vérifier les traductions sur certains mots-clés. Exemple le mot `villainous`doit se traduire `vilenie`
+4. Si une phrase du bloc EN v1.7 n'existe pas dans le bloc FR v1.4, ignorer cette phrase.
+5. A partir de la traduction produite: remplacer les listes à puces `•` par un retour de ligne + tiret `\n-` et les chevrons `» »` par un tiret précédé d'un retour de ligne + 4 espaces `\n    -`. Respecter l'indentation des sub-bullets
+6. Pour tout texte non présent dans le bloc FR v1.4, l'englober par `<span class="new">...</span>` pour indiquer que ce texte a été ajouté entre les version v1.4 et v1.7
+7. Précéder les prahses `Voir` et `Voir aussi` d'une ligne vide et englober la cette phrase en italique. Exemple: `_Voir aussi: Keyword1, keyword2_`. Ne pas englober cette section dans un <span class="new">...</span>. Créer les liens markdowns de type [[Page|Title]]
+8. Remplacer les icones par l'image correspondantes (voir section Correspondance Icone) 
+9. Ajouter 2 espaces en fin de ligne pour assurer un bon rendu markdown.
+10. Vérifier les correspondances (voir chapitre) pour vérifier les traductions sur certains mots-clés. Exemple le mot `villainous`doit se traduire `vilenie`
 
 ## Correspondance Icone
 

@@ -1,10 +1,10 @@
 # Capacité "une fois achevée"
 
+Une capacité Une fois achevé, est un type de capacité déclenchée introduite par l’indicatif de déclenchement en gras « **Une fois achevé** ».  
 
-Une capacité "Une fois achevée" est un type de capacité déclenchée, indiquée par le déclencheur temporel en gras "Une fois achevée". Lorsqu'une manigance principale est achevée, toutes les capacités "Une fois achevée" présentes sur la carte sont résolues.
+Quand le stade d’une manigance principale est achevé, toutes les capacités « **Une fois achevé** » de la carte se résolvent.  
 
-**Voir aussi** : Manigance principale
-
+_Voir aussi : [[ManigancePrincipaleDeckManigancePrincipale|Manigance Principale]]_  
 
 **EN v1.7**:  
 ```

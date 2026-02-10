@@ -1,14 +1,11 @@
 # Cartes joueur
 
+Il existe six types de carte Joueur : cartes Allié, cartes Amélioration, cartes Événement, cartes Identité, cartes Ressource, cartes Soutien.  
 
-Il existe sept types de cartes de joueur : les cartes allié, les cartes évènement, les cartes identité, les cartes manigance annexe de joueur, les cartes ressource, les cartes soutien et les cartes amélioration.
+- Les cartes Joueur appartiennent à diverses classifications, telles que les cartes Joueur spécifiques à l’identité ou les cartes Joueur d’Affinité.  
+- La plupart des cartes Joueur ont un dos bleu.  
 
-  - Les cartes de joueur peuvent appartenir à diverses classifications, telles que les cartes de joueur spécifiques à l'identité ou les cartes de joueur d'affinité.
-
-  - La plupart des cartes de joueur ont un dos de carte bleu.
-
-**Voir aussi** : Allié, Classifications, Évènement, Identité, Manigance annexe de joueur, Carte ressource, Soutien, Amélioration, Appendice I : Personnalisation du deck
-
+_Voir aussi : [[Allie|Allié]], [[Amelioration|Amélioration]], [[RessourceCarte|Carte Ressource]], [[Classifications|Classifications]], [[Identite|Identité]], [[Evenement|Evénement]], [[Soutien|Soutien]], Appendice I : Decks Personnalisés_  
 
 **EN v1.7**:  
 ```

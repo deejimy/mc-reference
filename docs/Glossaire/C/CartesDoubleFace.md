@@ -1,14 +1,11 @@
 # Cartes Double-Face
 
+<span class="new">Une carte est double-face est une carte spécial qui ne ne possède pas le dos habituel (carte joueur, carte méchant ou carte de rencontre).  
 
-Une carte est double-face si aucune de ses faces ne possède un dos de carte (joueur, méchant ou rencontre).
+- Lorsqu'une carte double-face est placée dans une zone hors-jeu autre que la pile de victoires ou la zone mise de côté, elle est retirée de la partie.  
+- Si une carte double-face possède des faces « en mode Standard seulement » et « en mode Expert seulement », elle est mise en jeu avec la face « en mode Expert seulement » face visible si les joueurs jouent en mode expert. Sinon, la carte est mise en jeu avec la face « en mode Standard seulement » face visible.</span>  
 
-  - Lorsqu'une carte double-face devrait entrer dans une zone hors-jeu autre que la pile de victoire ou la zone de cartes mises de côté, elle est retirée de la partie.
-
-  - Si une carte double-face possède des faces "Mode Standard uniquement" et "Mode Expert uniquement", elle est mise en jeu avec la face "Mode Expert uniquement" visible si les joueurs jouent en mode expert. Sinon, la carte est mise en jeu avec la face "Mode Standard uniquement" visible.
-
-**Voir aussi** : Carte de rencontre, En jeu et Hors-jeu, Carte de joueur, Victoire X, Méchant
-
+_Voir aussi : [[CartesRencontre|Carte Rencontre]], [[EnJeuAndHorsJeu|En Jeu et Hors Jeu]], [[CartesJoueur|Carte Joueur]], [[VictoireX|Victoire X]], [[MechantDeckMechant|Méchant]]_  
 
 **EN v1.7**:  
 ```

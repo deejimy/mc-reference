@@ -1,59 +1,46 @@
 # Capacité
 
+Une capacité est un texte de jeu sur une carte qui indique spécifiquement ce que fait une carte (ou ce qu’elle peut faire). Plusieurs exemples sont en appendice III de ce Guide de Référence.  
 
-Une capacité est le texte de jeu d'une carte qui explique ce que la carte fait (ou peut faire). Plusieurs exemples peuvent être consultés dans l'Appendice III de ce document.
+- Les capacités de carte ne peuvent interagir qu’avec les cartes qui sont en jeu, sauf si la capacité se réfère spécifiquement à une zone ou un élément hors jeu.  
+- Les capacités de carte sur les cartes Héros, Alter ego, Allié, Amélioration et Soutien ne peuvent être utilisées que si la carte sur laquelle est inscrite la capacité est en jeu, sauf si la capacité indique spécifiquement une utilisation possible depuis un état hors jeu. Les cartes Événement interagissent implicitement avec la partie depuis une zone hors jeu comme l’indiquent les règles spécifiques aux cartes Événement.  
+- <span class="new">Si une capacité spécifie une ou plusieurs cibles, cette capacité ne peut être initiée que si elle a au moins une cible valide.</span>  
+- <span class="new">Par exemple, une capacité qui dit "infliger 5 dégâts à un sbire" ne peut pas être initiée s’il n’y a pas de sbires en jeu.</span>  
+    - <span class="new">Des exemples de cibles incluent, mais ne sont pas limités à : _"le méchant", "un sbire", "un ennemi", "une manigance", "un héros", "un allié", "un personnage", "un joueur", "vous", "une carte"_</span>  
 
-  - Les capacités de carte n'interagissent qu'avec les cartes en jeu, à moins que la capacité ne se réfère spécifiquement à une zone ou un élément hors-jeu.
+- Quand une capacité possède plusieurs phrases de texte, lisez cette capacité intégralement pour repérer tous les effets d’altération qui peuvent changer la manière de résoudre cette capacité. Ensuite, résolvez la capacité une phrase à la fois.  
+- Une capacité précédée d’un indicatif de déclenchement en gras suivi de deux points est appelée « capacité déclenchée ». Une capacité sans indicatif de déclenchement en gras est appelée « capacité constante ».  
+- Les capacités des cartes Joueur ne peuvent pas être résolues lors de la mise en place de la partie, sauf si elles sont précédées de l’indicatif « Mise en place ».  
+- La résolution des types de capacités suivants est obligatoire : capacités constantes, capacités « Mise en place », « Une fois révélée », « Une fois vaincu », « Une fois déjouée », <span class="new">« Action forcée »</span>, « Interruption forcée », « Réponse forcée », « Boost » et les mots-clés.  
+    - Si une capacité de l’un de ces types utilise le verbe « pouvoir », la partie de la capacité qui suit le verbe « pouvoir » est optionnelle.  
+- La résolution des types de capacités suivants est optionnelle : « **Action** », « **Interruption** », « **Réponse** », « **Ressource** ». Le joueur qui contrôle la carte qui possède la capacité optionnelle choisit ou non d’utiliser cette capacité au moment approprié.  
+- <span class="new">Tout joueur peut utiliser une telle capacité sur une carte Rencontre, avec les exceptions suivantes :</span>  
+    - <span class="new">Seul le joueur qui contrôle une carte Joueur avec un attachement contenant le mot « vous » ou « votre » peut déclencher des capacités ou payer des coûts sur cet attachement.</span>  
+    - <span class="new">Seul le joueur ayant une obligation dans sa zone de jeu peut déclencher des capacités ou payer des coûts sur cette obligation.</span>  
 
-  - Les capacités de carte sur les cartes héros, alter-ego, allié, amélioration et soutien ne peuvent être utilisées que si la carte est en jeu, à moins que la capacité ne se réfère spécifiquement à une utilisation depuis un état hors-jeu. Les cartes évènement interagissent implicitement avec le jeu depuis une zone hors-jeu, conformément aux règles du type de carte évènement.
+**Capacité constante** — Une capacité constante désigne toute capacité (hors mots-clés) dont le texte ne contient pas d’indicatif de déclenchement en gras. Une capacité constante devient active dès que la carte entre en jeu et reste active tant que la carte est en jeu.  
 
-  - Si une capacité spécifie une ou plusieurs cibles, cette capacité ne peut être initiée que si elle possède au moins une cible valide. Par exemple, une capacité qui dit "infligez 5 dégâts à un sbire" ne peut pas être initiée s'il n'y a aucun sbire en jeu.
+- Certaines capacités constantes nécessitent continuellement une condition spécifique (traduite par des mots comme « lors de », « si » ou « tant que »). Les effets de telles capacités sont actifs tant que la condition spécifique est remplie.  
+- Si plusieurs instances de la même capacité constante sont en jeu, chaque instance affecte la partie de manière indépendante.  
 
-    - Des exemples de cibles incluent, sans s'y limiter : "le méchant", "un sbire", "un ennemi", "une manigance", "un héros", "un allié", "un personnage", "un joueur", "vous", "une carte".
+**Capacité déclenchée** — Une capacité déclenchée est une capacité indiquée par un indicatif de déclenchement en gras suivi de deux points, puis du texte de la capacité.  
 
-  - Lorsqu'une capacité comporte plus d'une phrase de texte, lisez l'intégralité de la capacité pour vérifier s'il existe des effets d'altération susceptibles de modifier la manière dont la capacité se résout. Ensuite, résolvez la capacité une phrase à la fois.
+- À moins de contenir le mot « **forcée** », toutes les capacités d’action et de réponse sont optionnelles.  
+- Les capacités **forcées**, **une fois révélée**, **une fois vaincu** et **une fois déjouée** sont déclenchées par le jeu au point de timing correspondant de la capacité.  
+- Si l’indicatif de déclenchement en gras contient le mot « héros » ou le mot « alter ego », la capacité ne peut être utilisée que si le joueur déclenchant la capacité est sous la forme spécifiée.  
+- Si des guillemets entourent l’indicatif de déclenchement et les deux points, le texte cité n’est pas un indicatif de déclenchement en lui-même, mais un texte qui se réfère aux capacités ayant cet indicatif de déclenchement.  
 
-  - Une capacité préfacée par un déclencheur en gras suivi de deux-points est appelée capacité déclenchée. Une capacité sans déclencheur en gras est appelée capacité constante. (Voir ci-dessous.)
+Certaines capacités ont des *priorités de timing* par rapport à d’autres capacités. Dans l’ordre, la priorité de timing des capacités ayant la même condition de déclenchement est :  
+1. Capacités constantes, <span class="new">effets retardés, effets persistants, mots-clés, et ![[icone_acceleration.jpg|15]], ![[icone_amplification.jpg|15]], ![[icone_crise.jpg|15]], ![[icone_aleas.jpg|15]] icônes</span>.  
+2. <span class="new">Cartes d'état.</span>  
+3. Capacités « **Interruption forcée** ».  
+4. Capacités « **Interruption** ».  
+5. <span class="new">Capacités « **Boost** », « **Une fois vaincu** » et « **Une fois révélée** ».</span>  
+6. Capacités « **Réponse forcée** ».  
+7. Capacités « **Réponse** ».  
+8. <span class="new">Dommages consécutifs.</span>  
 
-  - Les capacités de carte de joueur ne peuvent pas être résolues pendant la mise en place du jeu, à moins d'être préfacées par un déclencheur de "Mise en place".
-
-  - La résolution des types de capacités suivants est obligatoire : capacités constantes, capacités de "Mise en place", capacités "Une fois révélée", capacités "Une fois vaincu", capacités d'"Action forcée", capacités d'"Interruption forcée", capacités de "Réponse forcée", capacités de "Boost" et mots-clés.
-
-    - Si l'un de ces types de capacité utilise le mot "peut", la partie de la capacité suivant "peut" est optionnelle.
-
-  - La résolution des types de capacités suivants est optionnelle : "Action", "Interruption", "Réponse", "Ressource". Le joueur qui contrôle la carte possédant une capacité optionnelle détermine s'il souhaite ou non utiliser cette capacité au moment approprié. Tout joueur peut utiliser une telle capacité sur une carte Rencontre, avec les exceptions suivantes :
-
-    - Seul le joueur qui contrôle une carte de joueur avec un attachement utilisant le mot "vous" ou "votre" peut déclencher des capacités ou payer des coûts sur cet attachement.
-
-    - Seul le joueur ayant une obligation dans sa zone de jeu peut déclencher des capacités ou payer des coûts sur cette obligation.
-
-Capacités constantes — Une capacité constante est toute capacité (autre qu'un mot-clé) dont le texte ne contient aucun déclencheur en gras définissant son type de capacité. Une capacité constante devient active dès que sa carte entre en jeu et reste active tant que la carte est en jeu.
-
-  - Certaines capacités constantes recherchent continuellement une condition spécifique (dénotée par des mots tels que "pendant", "si" ou "tant que"). Les effets de telles capacités sont actifs chaque fois que la condition spécifique est remplie.
-
-  - Si plusieurs instances de la même capacité constante sont en jeu, chaque instance affecte le jeu indépendamment.
-
-Capacités déclenchées — Une capacité déclenchée est indiquée par un déclencheur en gras suivi de deux-points et du reste du texte de la capacité.
-
-  - À moins d'être préfacées par le mot "Forcée", toutes les capacités d'interruption et de réponse sont optionnelles.
-
-  - Les capacités "Forcées", les capacités "Une fois révélée", les capacités "Une fois vaincu" et les capacités "Une fois déjouée" sont déclenchées par le jeu au moment approprié.
-
-  - Si le déclencheur en gras d'une capacité contient le mot "Héros" ou "Alter-Ego", la capacité ne peut être utilisée que si le joueur déclenchant la capacité est sous la forme spécifiée.
-
-  - Si des guillemets sont utilisés autour d'un déclencheur et de deux-points, le texte entre guillemets n'est pas lui-même un déclencheur, mais se réfère plutôt à d'autres capacités possédant ce déclencheur.
-
-Priorité de chronologie simultanée — Certaines capacités ont une priorité temporelle sur d'autres capacités. Dans l'ordre, la priorité temporelle des capacités ayant la même condition de déclenchement est :
-
-1. Capacités constantes, effets retardés, effets persistants, mots-clés et icônes ![[icone_acceleration.jpg|15]], ![[icone_amplification.jpg|15]], ![[icone_crise.jpg|15]], ![[icone_aleas.jpg|15]].  
-2. Cartes d'état.  
-3. Capacités d'"Interruption forcée".  
-4. Capacités d'"Interruption".  
-5. Capacités de "Boost", "Une fois vaincu" et "Une fois révélée".  
-6. Capacités de "Réponse forcée".  
-7. Capacités de "Réponse".  
-8. Dégâts consécutifs.
-
+_ Voir aussi : [[Action]], [[Annuler]], [[CapaciteUneFoisRevelee|Capacité une fois révélée]], [[CapaciteUneFoisVaincuDejouee|Capacité une fois vaincu/déjouée]], [[EffetDalteration|Effets d'Alteration]], [[EffetsDeRemplacement|Effets de Remplacement]], [[EffetsRetardes|Effets Retardés]], [[EffetsPersistants|Effets Persistants]], [[EnJeuAndHorsJeu|En Jeu et Hors Jeu]], [[Ensuite]], [[Et|« Et »]], [[Forcee|Forcée]], [[InitierDesCapacites|Initier des Capacités]], [[Interruption]], [[Qualificatifs]], [[Reponse|Réponse]], [[ResolutionSimultanee|Résolution Simultanée]], [[RessourceCapacite|Ressource (Capacité)]], [[Special]], [[Cible|Cible]]_
 
 **EN v1.7**:  
 ```

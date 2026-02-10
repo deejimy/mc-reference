@@ -1,12 +1,12 @@
 # Cartes d'affinité
 
+On appelle cartes d’affinité, les cartes qui appartiennent aux affinités Agressivité, Justice, Commandement, Protection.  
 
-Les cartes de la classification "affinité" sont toutes les cartes qui appartiennent aux affinités Agressivité, Justice, Commandement, Protection et/ou'Pool.
+- Lors de la construction d’un deck joueur, un joueur doit choisir une des quatre affinités (Agressivité, Justice, Commandement ou Protection) pour le personnaliser.  
+- Le reste de son deck (la portion qui n’est pas constituée des cartes spécifiques à son identité) peut donc être personnalisé avec des cartes qui appartiennent à l’affinité choisie.  
+- L’affinité d’une carte est identifiable par le nom de l’affinité imprimé en bas de la carte dans le champ de Classification de Construction.  
 
-  - Lors de la construction d'un deck de joueur, un joueur doit choisir l'une des cinq affinités à utiliser pour la personnalisation. Le reste de son deck (la portion non allouée à ses cartes spécifiques à son identité) peut ensuite être personnalisé avec des cartes appartenant à l'affinité choisie.
-
-  - L'affinité d'une carte est désignée par le nom de l'affinité imprimé au bas de la carte dans sa zone de classification de construction de deck.
-
+_Voir aussi : [[CartesBasiques|Cartes Basiques]], [[CartesSpecifiquesALidentite|Cartes Spécifiques à l’Identité]], [[Classifications|Classifications]], Appendice I : Decks Personnalisés_  
 
 **EN v1.7**:  
 ```

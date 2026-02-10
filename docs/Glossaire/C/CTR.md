@@ -1,8 +1,8 @@
 # CTR
 
+CTR  
 
-**Voir** : Pouvoir de base, Contrer
-
+_Voir : [[ContreContrer|Contre / Contrer]], [[PouvoirDeBase|Pouvoir de Base]]_  
 
 **EN v1.7**:  
 ```

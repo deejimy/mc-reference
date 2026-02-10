@@ -1,18 +1,16 @@
 # Capacité référentielle
 
+Certaines capacités font référence au nom de cartes spécifiques. Ce sont des capacités référentielles.  
 
-Certaines capacités font référence à des cartes spécifiques par leur nom. Si une capacité se réfère à un titre partagé par plusieurs cartes, elle ne concerne que la ou les cartes correspondant aux critères suivants (par ordre de priorité) :
+<span class="new">Si une capacité fait référence à un nom partagé par plusieurs cartes du jeu, cette capacité ne se réfère qu’à la ou aux carte(s) qui correspondent au critère le plus élevé dans la liste suivante :</span>  
 
-1. La carte sur laquelle la capacité est imprimée (auto-référence).
+1. La carte sur laquelle la capacité référentielle est imprimée.  
+    - Une capacité autoréférentielle ne fait référence qu’à la carte sur laquelle elle est située et non aux autres exemplaires de cette carte ou aux autres cartes qui porteraient le même titre.  
+    - <span class="new">Par exemple, la capacité de l’allié basique Spider-Man se lit : "**Réponse** : Après que Spider-Man attaque ou contrer, choisissez un autre personnage `Web-Warrior` → redressez ce personnage." Cette capacité se réfère à la carte sur laquelle elle est imprimée et ne se déclenche pas lorsqu’une autre carte intitulée "Spider-Man" attaque ou contrer.</span>  
+2. Les cartes qui appartiennent à la même identité.  
+3. Les cartes Joueur (si la capacité est sur une carte Joueur) ou les cartes Rencontre (si la capacité est sur une carte Rencontre).  
 
-	  - Par exemple, la capacité de l'allié basique Spider-Man dit : _"Réponse : Après que Spider-Man a attaqué ou contré...". Cette capacité se réfère à la carte sur laquelle elle est imprimée et ne se déclenche pas si une autre carte nommée "Spider-Man" attaque._
-
-2. Les cartes appartenant à la même identité.
-
-3. Les cartes de joueur (si la capacité est sur une carte de joueur) ou les cartes de rencontre (si elle est sur une carte Rencontre).
-
-**Voir aussi** : Capacité, Personnage, Classifications, Identité, Carte spécifique à l'identité
-
+_Voir aussi : [[Capacite|Capacité]], [[CartesSpecifiquesALidentite|Carte Spécifique à l’Identité]], [[Classifications|Classifications]], [[Identite|Identité]], [[Personnage|Personnage]]_  
 
 **EN v1.7**:  
 ```

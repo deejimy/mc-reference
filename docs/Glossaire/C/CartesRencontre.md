@@ -1,14 +1,11 @@
 # Cartes Rencontre
 
+Il existe 8 types de carte Rencontre : cartes Attachement, cartes Environnement, cartes Manigance principale, cartes Manigance annexe, cartes Méchant, cartes Obligation, cartes Sbire, cartes Traitrise.  
 
-Il existe huit types de cartes de rencontre : les cartes attachement, les cartes environnement, les cartes sbire, les cartes manigance principale, les cartes obligation, les cartes manigance annexe, les cartes traîtrise et les cartes méchant.
+- Les cartes Rencontre appartiennent à diverses classifications, telles que les cartes Rencontre spécifiques à un scénario ou les cartes Rencontre de set modulaire.  
+- La plupart des cartes Rencontre ont un dos orange.  
 
-  - Les cartes de rencontre appartiennent à diverses classifications, telles que les cartes de rencontre spécifiques au scénario ou les cartes de rencontre de set modulaire.
-
-  - La plupart des cartes de rencontre ont un dos de carte orange.
-
-**Voir aussi** : Attachement, Classifications, Environnement, Manigance principale, Sbire, Obligation, Manigance annexe, Traîtrise, Méchant, Appendice I : Personnalisation du deck
-
+_Voir aussi : [[Attachement|Attachement]], [[Classifications|Classifications]], [[Environnement|Environnement]], [[ManiganceAnnexe|Manigance Annexe]], [[ManigancePrincipaleDeckManigancePrincipale|Manigance Principale]], [[MechantDeckMechant|Méchant]], [[Sbire|Sbire]], [[Traitrise|Traîtrise]], Appendice I : Decks Personnalisés_  
 
 **EN v1.7**:  
 ```

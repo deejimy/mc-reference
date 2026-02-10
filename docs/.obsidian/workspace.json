@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Glossaire/B/BoostIconeDeBoost.md",
+                "file": "Glossaire/C/CartesDetat.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "BoostIconeDeBoost"
+              "title": "CartesDetat"
             }
           }
         ]
@@ -182,8 +182,18 @@
   },
   "active": "291a340d23ae6f3d",
   "lastOpenFiles": [
-    "icone_boost.md",
+    "Glossaire/C/CartesDaffinite.md",
+    "Glossaire/C/CartesBasiques.md",
+    "Glossaire/C/CapaciteUneFoisVaincuDejouee.md",
+    "Glossaire/C/CapaciteUneFoisAchevee.md",
+    "Glossaire/C/CapaciteReferentielle.md",
+    "Glossaire/C/CapaciteEtiquetee.md",
+    "Glossaire/C/CapaciteDeclenchee.md",
+    "Glossaire/C/CapaciteDeCarte.md",
+    "Glossaire/C/CTR.md",
+    "Glossaire/C/Capacite.md",
     "Glossaire/B/BoostIconeDeBoost.md",
+    "icone_boost.md",
     "Glossaire/A/AttaqueActivationDesEnnemis.md",
     "Glossaire/A/AttaqueActivationDuJoueur.md",
     "Glossaire/A/AutoReferentiel.md",
@@ -196,18 +206,8 @@
     "index.md",
     "Glossaire/P/PointsDeVieMaximus.md",
     "Glossaire/C/CartesRencontre.md",
-    "Glossaire/C/CapaciteUneFoisAchevee.md",
     "Glossaire/Z/ZoneDeJeuDuMechant.md",
     "Glossaire/Z/ZoneDeJeuDUnJoueur.md",
-    "Glossaire/V/Vulnerable.md",
-    "Glossaire/Z/ZoneDeJeu.md",
-    "Glossaire/V/VousVotre.md",
-    "Glossaire/V/Vilenie.md",
-    "Glossaire/V/VictoireX.md",
-    "Glossaire/V/VariableNonNumerique.md",
-    "Glossaire/V/VaincreLeMechant.md",
-    "Glossaire/V/ValeurDeBase.md",
-    "Glossaire/V/VaincreDejouer.md",
     "Glossaire/Z",
     "Glossaire/V",
     "Glossaire/X",
