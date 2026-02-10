@@ -8622,47 +8622,46 @@
 
 
 <h1 id="attaque-activation-du-joueur">Attaque (Activation du Joueur)<a class="headerlink" href="#attaque-activation-du-joueur" title="Permanent link">&para;</a></h1>
-<p>Certains effets de jeu et capacités de carte font référence à une attaque. Il existe plusieurs façons pour qu'une attaque se produise :</p>
+<p>Certains effets de jeu et capacités de cartes parlent d’attaque.  </p>
 <ul>
-<li>Un héros ou un allié peut utiliser son pouvoir d'attaque de base pour attaquer un ennemi. Un personnage doit s'incliner pour utiliser ce pouvoir. Cela inflige des dégâts égaux à la valeur d'ATK du personnage à l'ennemi.<ul>
-<li>Un personnage ne peut initier une attaque de base que s'il y a un ennemi qui peut être attaqué par ce personnage ou si ce personnage est sonné.</li>
-</ul>
-</li>
-<li>Si une capacité déclenchée est étiquetée comme une attaque — telle que <code>Action de Héros (attaque)</code> — la résolution de cette capacité est considérée comme attaquer la cible spécifiée. Sauf indication contraire dans le texte de la capacité, un héros ne s'incline pas lorsqu'il utilise une telle capacité.<ul>
-<li>Une capacité étiquetée comme une attaque est considérée comme une seule et unique attaque, même si cette attaque inflige plusieurs instances de dégâts.</li>
-<li>Lorsqu'une capacité d'attaque voit ses dégâts augmentés par une autre capacité, chaque instance de dégâts de cette capacité d'attaque qui n'utilise pas le mot <code>supplémentaire</code> est augmentée du montant spécifié.</li>
-</ul>
-</li>
 <li>
-<p>Si une capacité indique <code>Effectuez les X attaques suivantes dans l'ordre</code>, suivies de deux instances de dégâts ou plus, chacune de ces instances est considérée comme une attaque distincte.</p>
+<p>Il y a différentes façons d’attaquer :  </p>
 <ul>
-<li>Une capacité qui augmente les dégâts d'une attaque n'augmente les dégâts que de l'une des attaques de cette capacité, bien qu'une telle capacité puisse être déclenchée séparément pour chaque attaque.</li>
+<li>Un héros peut utiliser son pouvoir de base d’attaque pour attaquer un ennemi. Un héros doit s’incliner pour utiliser ce pouvoir. Cela inflige à l’ennemi des dégâts égaux à la valeur d’ATQ du héros.  <ul>
+<li><span class="new">Un personnage ne peut initier une attaque de base que s’il existe un ennemi pouvant être attaqué par ce personnage ou si ce personnage est sonné.</span>  </li>
+</ul>
+</li>
+<li>Un allié peut utiliser son pouvoir de base d’attaque pour attaquer un ennemi. Cela inflige à l’ennemi des dégâts égaux à la valeur d’ATQ de cet allié.  </li>
+<li>Si une capacité déclenchée est référencée en tant qu’attaque — comme « Action de héros (attaque) » — résoudre cette capacité est considéré comme une attaque contre la cible spécifiée. À moins que cela ne soit spécifiquement indiqué, un héros ne s’incline pas lorsqu’il utilise une telle capacité.  </li>
+<li>Les attaques des héros et des alliés peuvent cibler n’importe quel ennemi, à moins qu’une capacité de carte (comme Garde) n’empêche cet ennemi d’être attaqué.  </li>
+<li><span class="new">Lorsque une attaque cible plusieurs ennemis, le personnage attaquant est considéré comme ayant attaqué chacun de ces ennemis.</span>  <ul>
+<li><span class="new">Chaque ennemi attaqué possédant le mot‑clé Riposte X et qui est encore en jeu après la résolution de l’attaque inflige ses dégâts de riposte au personnage attaquant.</span>  </li>
+</ul>
+</li>
+<li>Des capacités de cartes peuvent faire attaquer le méchant et/ou les sbires à d’autres moments si la capacité en question demande explicitement au méchant ou au sbire « d’attaquer ».  </li>
 </ul>
 </li>
 <li>
-<p>Les attaques des héros et des alliés peuvent cibler n'importe quel ennemi, à moins qu'une capacité de carte (telle que Garde) n'empêche cet ennemi d'être attaqué.</p>
+<p><span class="new">Si une capacité déclenchée est étiquetée comme une attaque — telle que « Action de Héros (attaque) » — la résolution de cette capacité est considérée comme attaquer la cible spécifiée. Une capacité étiquetée comme une attaque est considérée comme une seule attaque, même si cette attaque inflige plusieurs instances de dégâts.</span>  </p>
 </li>
-<li>
-<p>Lorsqu'une attaque cible plusieurs ennemis, le personnage attaquant est considéré comme ayant attaqué chacun de ces ennemis.</p>
-<ul>
-<li>Chaque ennemi attaqué possédant le mot-clé <code>riposte X</code> qui est toujours en jeu après la résolution de l'attaque inflige ses dégâts de riposte au personnage attaquant.</li>
+<li><span class="new">Lorsque les dégâts d’une capacité d’attaque sont augmentés par une autre capacité, chaque instance de dégâts dans cette capacité d’attaque qui n’utilise pas le mot « supplémentaire » est augmentée du montant spécifié.</span>  </li>
+<li><span class="new">Si une capacité indique « Faites les X attaques suivantes dans l’ordre », suivie de deux instances de dégâts ou plus, chacune de ces instances est considérée comme une attaque séparée.</span>  <ul>
+<li><span class="new">Une capacité qui augmente les dégâts d’une attaque n’augmente que les dégâts d’une seule des attaques de cette capacité, bien qu’une telle capacité puisse se déclencher séparément pour chaque attaque.</span>  </li>
 </ul>
 </li>
-<li>
-<p>L'ordre de résolution des capacités déclenchées par la résolution d'une attaque est le suivant :</p>
-<ol>
-<li>Le mot-clé <code>riposte X</code> (si le personnage attaqué n'a pas été vaincu).</li>
-<li>Les capacités forcées avec les déclencheurs suivants (dans n'importe quel ordre) :<ul>
-<li><code>après que [personnage] attaque [et blesse/vainc] [un ennemi/un sbire]...</code></li>
-<li><code>après que [personnage] est attaqué...</code></li>
+<li><span class="new">Lorsque la résolution d’une attaque déclenche des capacités, l’ordre de résolution est :  <ol>
+<li>Riposte X (si le personnage attaqué n'est pas vaincu)  </li>
+<li>Capacités forcées avec les déclencheurs spécifiés (dans n’importe quel ordre)  <ul>
+<li>« après [personnage] attaque [et inflige des dégâts/vainc] [un ennemi/un sbire]... »  </li>
+<li>« après [personnage] est attaqué... »  </li>
 </ul>
 </li>
-<li>Les capacités non-forcées avec les déclencheurs listés ci-dessus.</li>
-<li>Les dégâts consécutifs (pour les alliés).</li>
+<li>Capacités non‑forcées avec les déclencheurs ci-dessus</li>
+<li>Dégâts consécutifs (pour les alliés).</span>  </li>
 </ol>
 </li>
 </ul>
-<p>Voir aussi : Allié, Pouvoir de base, Dégâts, Défendre, Ennemi, Identité, Capacité étiquetée, Sbire, Modificateurs, Riposte X, Cible, Méchant</p>
+<p><em>Voir aussi : <a href="../Allie/">Allié</a>, <a href="../../P/PouvoirDeBase/">Pouvoir de Base</a>, <a href="../../D/Degats/">Dégâts</a>, <a href="../../D/DefendreDefense/">Défendre</a>, <a href="../../E/Ennemi/">Ennemi</a>, <a href="../../C/CapaciteEtiquetee/">Capacité étiquetée</a>, <a href="../../S/Sbire/">Sbire</a>, <a href="../../M/Modificateurs/">Modificateurs</a>, <a href="../../R/RiposteX/">Riposte X</a>, <a href="../../C/Cible/">Cible</a>, <a href="../../M/MechantDeckMechant/">Méchant</a></em>  </p>
 <p><strong>EN v1.7</strong>:<br />
 <div class="highlight"><pre><span></span><code>ATTACK (PLAYER ABILITY TYPE)
 Some game effects and card abilities reference an attack.
