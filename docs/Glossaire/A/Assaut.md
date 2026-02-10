@@ -1,12 +1,11 @@
 # Assaut
 
+<span class="new">Lorsqu’un personnage effectue un contre de base contre une manigance portant le mot‑clé `Assaut`, ce personnage utilise sa valeur d’ATQ au lieu de sa valeur de CTR.</span>  
 
-Lorsqu'un personnage effectue un contre de base contre une manigance avec le mot-clé `assaut`, ce personnage utilise son ATK au lieu de son CTR.
+- <span class="new">Si le personnage qui contre est un allié, il subit les dégâts consécutifs indiqués sous son champ d’ATQ plutôt que sous son champ de CTR après le contre.</span>  
+- <span class="new">Les capacités qui augmentent le « pouvoir de base » d’un personnage peuvent être utilisées pour augmenter son ATQ lorsque ce personnage contre une manigance avec Assaut.</span>  
 
-  - Si le personnage qui contre est un allié, il subit les dégâts consécutifs indiqués sous son ATK au lieu de son CTR après le contre.
-
-  - Les capacités qui augmentent le "pouvoir de base" d'un personnage peuvent être utilisées pour augmenter l'ATK de ce personnage lorsqu'il contre une manigance avec assaut.
-
+_Voir aussi : [[DegatsConsecutifs|Dégâts consécutifs]], [[MotsCles|Mots-clés]]_  
 
 **EN v1.7**:  
 ```

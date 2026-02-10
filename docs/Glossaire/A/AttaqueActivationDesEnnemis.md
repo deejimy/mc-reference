@@ -1,49 +1,32 @@
 # Attaque (Activation des Ennemis)
 
+Une attaque est un type d’activation des ennemis. Lorsqu’un ennemi attaque, il cible un joueur spécifique. Ensuite, il résout cette attaque contre ce joueur.  
 
-Une attaque est un type d'activation d'ennemi. Lorsqu'un ennemi initie une attaque, il cible un joueur spécifique, puis résout cette attaque contre ce joueur.
+- <span class="new">Les attaques ennemies sont toujours initiées à la fois contre un joueur et contre un personnage.</span>  
+    - <span class="new">Normalement, le personnage attaqué est le héros du joueur, mais des capacités peuvent faire en sorte qu’un ennemi attaque l’alter‑ego d’un joueur ou un allié contrôlé par ce joueur. Dans tous ces cas, le joueur est toujours considéré comme attaqué.</span>  
+    - <span class="new">Si un personnage autre que le personnage attaqué défend l’attaque, ce personnage devient la nouvelle cible de l’attaque.</span>  
+    - <span class="new">Si un joueur autre que le joueur attaqué défend l’attaque avec un personnage qu’il contrôle, ce joueur devient le nouveau joueur ciblé par cette attaque.</span>  
+    - <span class="new">Les capacités qui déclenchent « Quand/Après [ennemi] vous attaque » se résolvent lorsque/qu’après qu’un joueur est attaqué, indépendamment du personnage de ce joueur qui a été attaqué.</span>  
 
-- Les attaques d'ennemis sont toujours initiées à la fois contre un joueur et contre un personnage.
-    - Normalement, le personnage attaqué est le héros du joueur, mais des capacités peuvent forcer un ennemi à attaquer l'alter-ego d'un joueur ou un allié que ce joueur contrôle. Dans tous ces cas, le joueur est toujours considéré comme étant attaqué.
-    - Si un personnage autre que le personnage attaqué défend l'attaque, ce personnage devient la nouvelle cible de cette attaque.
-    - Si un joueur autre que le joueur attaqué défend l'attaque avec un personnage qu'il contrôle, ce joueur devient la nouvelle cible de cette attaque.
-    - Les capacités qui se déclenchent `Quand/Après que [ennemi] vous attaque` sont résolues quand/après qu'un joueur est attaqué, quel que soit le personnage qu'il contrôle qui a été attaqué. (Par exemple, Ultron I indique : `Réponse forcée : après qu'Ultron vous a attaqué, choisissez de soit placer 1 menace sur la manigance principale, soit de mettre la carte du dessus de votre deck en jeu face cachée, engagée avec vous en tant que sbire drone.` Cet effet se résout contre le joueur attaqué, peu importe si ce joueur a utilisé un allié pour défendre l'attaque.)
+Pour résoudre une attaque ennemie, respectez les étapes suivantes :  
 
-Pour résoudre une attaque d'ennemi, suivez ces étapes :
+1. Si un méchant ou un sbire ayant le mot clé `Vilenie` attaque, donnez‑lui une carte de boost face cachée prise sur le deck Rencontre. (Si un sbire sans le mot clé `Vilenie` attaque, ignorez cette étape.)  
+2. Si un joueur souhaite défendre, il incline un héros ou un allié en tant que défenseur. Si un joueur autre que le joueur ciblé défend, le joueur qui défend devient le nouveau joueur ciblé par cette attaque.  
+3. Retournez chaque carte de boost de l’ennemi attaquant face visible, une à la fois. (Si un sbire sans le mot clé `Vilenie` attaque, ignorez cette étape.) Puis dans cet ordre :  
+    - Résolvez toute capacité « Boost : », indiquée par une icône d’étoile dans le champ de boost.  
+    - Augmentez de 1 la valeur d’ATQ de l’ennemi attaquant pour chaque icône de boost sur la carte.  
+    - Défaussez chaque carte de boost après sa résolution.  
+4. Infligez les dégâts de l’attaque. Ces derniers sont égaux à la valeur d’ATQ de l’ennemi attaquant modifiée de la manière suivante :  
+    - Si un héros effectue une défense de base contre l’attaque, la quantité de dégâts infligés est réduite par la valeur de DEF de ce héros et les dégâts restants sont infligés à ce héros.  
+        - <span class="new">Le héros défenseur est considéré comme ayant été attaqué.</span>  
+        - <span class="new">Si un héros avec le statut `Tenace` effectue une défense de base, les dégâts sont d’abord réduits par la valeur DEF de ce héros. Si les dégâts sont réduits à 0, le héros conserve son statut `Tenace`.</span>  
+    - Si un allié défend contre l’attaque, tous les dégâts de l’attaque sont infligés à cet allié. (Si l’allié est vaincu par l’attaque, les dégâts en excès ne sont pas infligés à l’identité.)  
+        - <span class="new">L’allié défenseur est considéré comme ayant été attaqué.</span>  
+        - <span class="new">Si l’allié défenseur quitte le jeu avant que les dégâts ne soient infligés, l’attaque est considérée comme n’ayant aucun personnage défendant et l’identité du contrôleur de cet allié devient la cible de l’attaque.</span>  
+    - Si aucun personnage ne défend contre l’attaque, l’attaque est considérée comme non défendue. Tous les dégâts de cette attaque sont infligés à l’identité du joueur ciblé (même si cette identité est sous sa forme d’alter ego).  
+        - <span class="new">Le personnage ciblé est considéré comme ayant été attaqué.</span>  
 
-1. Si un méchant, ou un sbire avec le mot-clé `vilenie`, attaque, donnez-lui une carte de boost face cachée du deck Rencontre. (Si un sbire sans le mot-clé `vilenie` attaque, ignorez cette étape.)
-2. Si un joueur souhaite défendre, ce joueur incline un héros ou un allié en tant que défenseur. Si un joueur autre que le joueur ciblé défend, le joueur défenseur devient le joueur cible pour cette attaque.
-3. Résolvez chacune des cartes de boost de l'ennemi attaquant, une par une et dans l'ordre où elles ont été distribuées, en procédant comme suit :
-    1. Retournez la carte de boost face visible.
-    2. Résolvez toutes les capacités de `Boost`, indiquées par l'icône étoile (![[icone_etoile.jpg|15]]) dans la zone de boost. (Toutes les autres capacités sur la carte de boost sont ignorées.)
-    3. Augmentez la valeur d'ATK de l'ennemi attaquant de 1 pour chaque icône de boost sur la carte.
-    4. Défaussez la carte de boost.
-    5. Si l'ennemi possède encore des cartes de boost, répétez ces étapes avec la carte suivante.
-4. Infligez les dégâts de l'attaque égaux à la valeur d'ATK modifiée de l'ennemi, selon les cas suivants :
-    - Si un héros effectue une défense de base contre l'attaque, la quantité de dégâts infligés est réduite de la valeur de DEF de ce héros, et les dégâts restants de l'attaque sont infligés à ce héros.
-        - Le héros défenseur est considéré comme ayant été attaqué.
-        - Si un héros avec un état tenace effectue une défense de base, les dégâts sont d'abord réduits par la valeur de DEF du héros. Si les dégâts sont réduits à 0, le héros conserve son état tenace.
-    - Si un allié défend contre l'attaque, tous les dégâts de l'attaque sont infligés à l'allié. (Si l'allié est vaincu par l'attaque, les dégâts excédentaires ne sont pas reportés sur l'identité.)
-        - L'allié défenseur est considéré comme ayant été attaqué.
-        - Si l'allié défenseur quitte le jeu avant que les dégâts de l'attaque ne soient infligés, l'attaque est considérée comme n'ayant aucun personnage défenseur et l'identité du contrôleur de cet allié devient la cible de l'attaque.
-    - Si aucun personnage ne défend contre l'attaque, l'attaque est considérée comme sans défense. Tous les dégâts de l'attaque sont infligés au personnage ciblé par l'attaque.
-        - Le personnage ciblé est considéré comme ayant été attaqué.
-5. L'attaque finit de se résoudre et les types de capacités suivantes se déclenchent dans l'ordre :
-    1. Le mot-clé `riposte X` (si le personnage attaqué est toujours en jeu).
-    2. Les capacités forcées avec les déclencheurs suivants (dans n'importe quel ordre) :
-        - `après que [personnage] attaque [et blesse/vainc] [vous/un allié]...`
-        - `après que [personnage] est attaqué...`
-        - `après que [personnage] défend [et ne subit aucun dégât]...`
-        - `après que [personnage] [subit/inflige] des dégâts...`
-    3. Les capacités non-forcées avec les déclencheurs listés ci-dessus.
-
-Ces règles s'appliquent également aux attaques d'ennemis :
-
-- Les interruptions qui se déclenchent `quand [nom de l'ennemi] attaque` ont le même timing que les interruptions qui se déclenchent `quand [le méchant/un ennemi] initie une attaque`.
-- Si une attaque d'ennemi se termine avant que les dégâts ne soient infligés, les capacités qui se déclenchent après qu'un personnage défend une attaque se résolvent, mais les capacités qui se déclenchent après qu'un ennemi attaque ne se résolvent pas.
-
-**Voir aussi** : Activation, Allié, Attaques contre des alliés, Boost, Dégâts, Défendre, Ennemi, Identité, Sbire, Modificateurs, Riposte X, Cible, Méchant, Vilenie
-
+_Voir aussi : [[Activation|Activation]], [[Allie|Allié]], [[AttaquesContreLesAllies|Attaques Contre les Alliés]], [[BoostIconeDeBoost|Boost]], [[Degats|Dégâts]], [[DefendreDefense|Défendre]], [[Ennemi|Ennemi]], [[Identite|Identité]], [[Sbire|Sbire]], [[Modificateurs|Modificateurs]], [[RiposteX|Riposte X]], [[Cible|Cible]], [[MechantDeckMechant|Méchant]], [[Vilenie|Vilenie]]_  
 
 **EN v1.7**:  
 ```

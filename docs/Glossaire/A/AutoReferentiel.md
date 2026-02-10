@@ -1,8 +1,6 @@
 # Auto-Référentiel
 
-
-**Voir** : Capacité auto-référencée
-
+_Voir aussi : [[CapaciteReferentielle|Capacité référentielle]]_  
 
 **EN v1.7**:  
 ```

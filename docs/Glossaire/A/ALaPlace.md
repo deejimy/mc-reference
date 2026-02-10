@@ -1,7 +1,6 @@
 # "A la place"
 
-**Voir** : Effet de Remplacement
-
+_Voir aussi : [[EffetsDeRemplacement|Effets de remplacement]]_  
 
 **EN v1.7**:  
 ```

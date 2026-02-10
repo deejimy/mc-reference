@@ -1,7 +1,6 @@
 # ATQ
 
-**Voir** : Attaque (Activation du Joueur), Pouvoir de Base
-
+_Voir aussi : [[AttaqueActivationDuJoueur|Attaque (Action de joueur)]], [[PouvoirDeBase|Pouvoir de Base]]_  
 
 **EN v1.7**:  
 ```

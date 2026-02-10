@@ -1,16 +1,12 @@
 # Alter ego, forme d'alter ego
 
-
-**voir** : Identité, Forme
-
+_Voir aussi : [[FormeChangerDeForme|Forme]], [[Identite|Identité]]_  
 
 **EN v1.7**:  
 ```
 ALTER-EGO, ALTER-EGO FORM
 See: Form, Identity
 ```
-
-
 
 **FR v1.4**:  
 ```

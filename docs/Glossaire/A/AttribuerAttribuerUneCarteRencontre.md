@@ -1,13 +1,11 @@
 # Attribuer, Attribuer une Carte Rencontre
 
+Lors de la troisième étape de la phase du Méchant, chaque joueur se voit attribuer une carte Rencontre, face cachée.  
 
-Pendant l'étape trois de la phase du méchant, chaque joueur reçoit une carte Rencontre face cachée.
-Si une capacité de carte ordonne qu'une carte Rencontre soit distribuée à un joueur, le joueur prend la carte du dessus du deck Rencontre et la place face cachée devant lui. Cette carte n'est pas révélée à ce moment-là. Cette carte est ajoutée à la file d'attente des cartes que ce joueur résoudra pendant la phase du méchant.
+- Si une capacité de carte demande à un joueur de se voir attribuer une carte Rencontre, ce joueur prend la carte du dessus du deck Rencontre et la place face cachée devant lui. Cette carte n’est pas révélée pour le moment. Cette carte est ajoutée à la suite des cartes que ce joueur résoudra lors de la phase du Méchant.  
+- Si un joueur se voit attribuer une carte Rencontre lors de la troisième ou de la quatrième étape de la phase du Méchant, la carte Rencontre supplémentaire est ajoutée à la suite des cartes qui sont attribuées et révélées lors de ces mêmes étapes.  
 
-  - Si une carte Rencontre est distribuée à un joueur pendant l'étape trois ou quatre de la phase du méchant, la carte Rencontre supplémentaire est ajoutée à la file d'attente des cartes qui sont distribuées et révélées lors de ces mêmes étapes.
-
-**Voir aussi** : Capacité, Carte de rencontre, Paquet de rencontre, Joueur, Phase du méchant
-
+_Voir aussi : [[CartesRencontre|Carte Rencontre]], [[Capacite|Capacité]], [[Deck|Deck]], [[DeckRencontre|Deck Rencontre]], [[Joueur|Joueur]], [[PhaseDuMechant|Phase du Méchant]]_  
 
 **EN v1.7**:  
 ```

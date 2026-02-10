@@ -1,14 +1,10 @@
 # Boîte de texte
 
+La boîte de texte d’une carte est la zone d’une carte qui contient ses capacités imprimés, ses traits, son texte d’ambiance (le cas échéant).  
+- Si une capacité de carte fait référence à une « boîte de texte », cette capacité ne fait référence qu’aux capacités imprimées à l’intérieur de la boîte de texte de cette carte.  
+    - <span class="new">Les icônes imprimées dans la boîte de texte d’une carte sont considérées comme des capacités à l’intérieur de cette boîte de texte.</span>  
 
-La boîte de texte d'une carte est la zone contenant les capacités imprimées, les traits et le texte d'ambiance (le cas échéant).
-
-  - Si une capacité fait référence à la "boîte de texte" d'une carte, elle ne concerne que les capacités imprimées à l'intérieur de celle-ci.
-
-    - Les icônes imprimées dans la boîte de texte sont considérées comme des capacités.
-
-**Voir aussi** : Capacité, Imprimé, Traits, Appendice III : Anatomie d'une carte
-
+_Voir aussi : [[Capacite|Capacité]], [[Imprime|Imprimé]], [[Traits|Traits]], Appendice III : Description des Cartes_  
 
 **EN v1.7**:  
 ```

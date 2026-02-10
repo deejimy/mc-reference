@@ -1,9 +1,10 @@
 # Alliance
 
+<span class="new">Lorsqu’un joueur déclare qu’il souhaite jouer une carte portant le mot‑clé `Alliance`, n’importe quel autre joueur peut aider à payer les coûts de cette carte.</span>  
 
-Lorsqu'un joueur déclare son intention de jouer une carte avec le mot-clé `alliance`, tout joueur peut aider à payer les coûts de cette carte.
+- <span class="new">Seul le joueur qui joue la carte portant le mot‑clé `Alliance` est considéré comme étant en train de résoudre cette carte.</span>  
 
-  - Seul le joueur jouant la carte avec le mot-clé `alliance` est considéré comme résolvant cette carte.
+_Voir aussi : [[Cout|Coût]], [[InitierDesCapacites|Initier des Capacités]], [[MotsCles|Mots-clés]]_  
 
 
 **EN v1.7**:  

@@ -1,10 +1,8 @@
 # A distance
 
+Une attaque avec le mot-clé `A Distance` ignore le mot-clé `Riposte`.  
 
-Une attaque avec le mot-clé `à distance` ignore le mot-clé `riposte`.
-
-**Voir aussi** : Attaque (Activation d'ennemi), Attaque (Type de capacité de joueur), Mots-clés, Texte de rappel, Riposte X
-
+_Voir aussi : [[AttaqueActivationDesEnnemis|Attaque (Activation des Ennemis)]], [[AttaqueActivationDuJoueur|Attaque (Action de joueur)]], [[MotsCles|Mots-clés]], [[TexteDeRappel|Texte de Rappel]], [[RiposteX|Riposte X]]_  
 
 **EN v1.7**:  
 ```
