@@ -1,13 +1,11 @@
 # Environnement
 
 
-Environnement est un type de carte Rencontre qui crée une règle globale ou un ensemble de règles pour le scénario.
-Une carte environnement entre en jeu dans la zone de jeu du méchant et est active tant qu'elle reste en jeu.
+Environnement est un type de carte Rencontre qui crée une règle ou une série de règles prédominante pour ce scénario.
+- Une carte Environnement entre en jeu dans la zone de jeu du méchant et reste active aussi longtemps qu’elle est en jeu.
+- Si un environnement entre en jeu, il reste en jeu jusqu’à ce qu’une capacité de carte ou un effet de jeu lui fasse quitter le jeu.  
 
-  - Si un environnement entre en jeu, il y reste jusqu'à ce qu'une capacité de carte ou un effet de jeu ne le fasse quitter le jeu.
-
-**Voir aussi** : Types de carte, Carte de rencontre, Entre en jeu, Quitte le jeu, Méchant
-
+_Voir aussi : [[CarteRencontre|Carte Rencontre]], [[EntrerEnJeu|Entrer en Jeu]], [[QuitterLeJeu|Quitter le Jeu]], [[TypesDeCarte|Types de Carte]]_  
 
 **EN v1.7**:  
 ```

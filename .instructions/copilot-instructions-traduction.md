@@ -13,18 +13,19 @@ Hébergé sur GitHub Pages pour un accès facile et une distribution publique.
 ## Instructions de traduction
 Le but est de traduire le bloc `EN v1.7` en n'oubliant aucune phrase.
 
-Règles à suivre: 
+Etapes à suivre de 1 à 11 :
 
 1. Ne pas toucher aux blocs `**EN v1.7**` et `**FR v1.4**`.
-2. Si la traduction existe dans le bloc `**FR v1.4**`, il faut la réutiliser et ne pas la réécrire.
-3. Traduire intégralement le bloc EN v1.7 en français entre le titre (#TITLE) et le bloc EN v1.7
-4. Si une phrase du bloc EN v1.7 n'existe pas dans le bloc FR v1.4, ignorer cette phrase.
+2. Si la traduction existe dans le bloc `**FR v1.4**`, il faut la réutiliser pour être fidèle à la version précédente.
+3. Traduire intégralement le bloc EN v1.7 en français entre le titre (#TITLE) et le bloc EN v1.7 La traduction doit être complète et fidèle au texte original, en respectant les termes spécifiques du jeu et en utilisant un langage clair et précis.
+4.  Ne pas préfixer la traduction par le titre en majuscule (éviter DUPLICATION).
 5. A partir de la traduction produite: remplacer les listes à puces `•` par un retour de ligne + tiret `\n-` et les chevrons `» »` par un tiret précédé d'un retour de ligne + 4 espaces `\n    -`. Respecter l'indentation des sub-bullets
-6. Pour tout texte non présent dans le bloc FR v1.4, l'englober par `<span class="new">...</span>` pour indiquer que ce texte a été ajouté entre les version v1.4 et v1.7
-7. Précéder les prahses `Voir` et `Voir aussi` d'une ligne vide et englober la cette phrase en italique. Exemple: `_Voir aussi: Keyword1, keyword2_`. Ne pas englober cette section dans un <span class="new">...</span>. Créer les liens markdowns de type [[Page|Title]]
+6. Pour tout texte non présent dans le bloc FR v1.4, l'englober par `<span class="new">...</span>` pour indiquer que ce texte a été ajouté dans la nouvelle version.
+7. Précéder les phrases `Voir` et `Voir aussi` d'une ligne vide et englober cette phrase en italique. Exemple: `_Voir aussi: Keyword1, keyword2_`. ATTENTION:Ne pas englober cette section dans un <span class="new">...</span>. Créer les liens markdowns de type [[Page|Title]]
 8. Remplacer les icones par l'image correspondantes (voir section Correspondance Icone) 
 9. Ajouter 2 espaces en fin de ligne pour assurer un bon rendu markdown.
 10. Vérifier les correspondances (voir chapitre) pour vérifier les traductions sur certains mots-clés. Exemple le mot `villainous`doit se traduire `vilenie`
+11. RE-Vérifier que le texte EN v1.7 a été intégralement traduit, si il manque une phrase ou une partie de phrase, recommencer à l'étape 3.
 
 ## Correspondance Icone
 

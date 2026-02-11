@@ -1,17 +1,15 @@
 # Elément de Jeu
 
+Un élément de jeu est un composant ou une personne impliquée dans une partie de Marvel Champions.
+- Cartes
+- Decks
+- Piles de défausse
+- Mains (de cartes)
+- Cadrans de points de vie
+- Joueurs
+- Jetons
 
-Un élément de jeu est un composant ou une personne impliqué dans une partie de Marvel Champions. Tous les éléments suivants sont des éléments de jeu :
-
-  - Les cartes
-  - Les decks
-  - Les piles de défausse
-  - Les mains (de cartes)
-  - Les compteurs de points de vie
-  - Les joueurs
-  - Les pions
-
-**Voir aussi** : Types de carte, Deck, Pile de défausse, Joueur, Cible
+_Voir aussi : [[TypesDeCarte|Types de carte]], [[Deck|Deck]], [[PileDeDefausse|Pile de défausse]], [[Joueur|Joueur]], [[Cible|Cible]]_  
 
 
 **EN v1.7**:  

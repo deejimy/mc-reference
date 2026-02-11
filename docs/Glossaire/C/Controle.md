@@ -1,7 +1,6 @@
 # Contrôle
 
-
-**Voir** : Propriété et Contrôle
+_Voir : [[ProprieteEtControle|Propriété et Contrôle]]_
 
 
 **EN v1.7**:  

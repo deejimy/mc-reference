@@ -4,6 +4,7 @@ Les cartes d’état représentent les différents états dans lesquels un perso
 
 - Les cartes d’état suivantes sont utilisées dans le jeu. Quand un personnage reçoit une carte d’état, prenez une carte d’état du type indiqué dans la réserve et placez-la sur ce personnage.  
 - Un personnage ne peut pas avoir plus d’une carte d’état de chaque type à la fois.  
+    - <span class="new">Les personnages disposant du mot-clé **Solide** peuvent avoir une carte d’état Désorienté supplémentaire et une carte d’état Sonné supplémentaire.</span>  
 - Les capacités des cartes d’état ont une priorité de timing sur toutes les autres capacités de cartes en cas de conflit de résolutions simultanées.  
 
 Les trois types de carte d’état sont :  

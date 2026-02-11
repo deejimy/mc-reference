@@ -1,14 +1,11 @@
 # Dans l'ordre des joueurs
 
+DANS L’ORDRE DES JOUEURS  
+S’il est demandé aux joueurs d’effectuer une séquence « dans l’ordre des joueurs », le premier joueur effectue sa partie de la séquence en premier, suivi par les autres joueurs dans le sens horaire.  
+- Si une séquence effectuée dans l’ordre des joueurs ne se conclut pas après que chaque joueur a effectué sa partie de la séquence une fois, la séquence d’opportunités continue dans le sens horaire jusqu’à ce qu’elle soit terminée.  
+- La locution « joueur suivant » se réfère toujours au prochain joueur (dans le sens horaire) dans l’ordre des joueurs.  
 
-Si les joueurs reçoivent l'instruction d'effectuer une séquence "dans l'ordre des joueurs", le premier joueur effectue sa part de la séquence en premier, suivi des autres joueurs dans le sens des aiguilles d'une montre.
-
-  - Si une séquence effectuée dans l'ordre des joueurs ne se termine pas après que chaque joueur a effectué sa part de la séquence une fois, la séquence d'opportunités continue dans le sens des aiguilles d'une montre jusqu'à ce qu'elle soit complète.
-
-  - L'expression "joueur suivant" se réfère toujours au joueur suivant (dans le sens des aiguilles d'une montre) dans l'ordre des joueurs.
-
-**Voir aussi** : Trouver, Joueur, Phase des joueurs, Tour de joueur
-
+_Voir aussi : [[PremierJoueur|Premier Joueur]]_  
 
 **EN v1.7**:  
 ```

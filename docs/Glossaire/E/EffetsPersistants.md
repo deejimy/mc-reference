@@ -1,13 +1,13 @@
 # Effets persistants
 
+Un effet persistant est un effet qui affecte la partie pour une durée spécifiée (comme « jusqu’à la fin de la phase » ou « jusqu’à la fin de cette attaque »).
+- Un effet persistant continue après la résolution de la capacité qui l’a créée et pour la durée spécifiée par l’effet. L’effet continue d’affecter la partie pour la durée spécifiée, que la carte qui a créé l’effet persistant soit encore en jeu ou non.
+- Considérez un effet persistant comme s’il s’agissait d’une capacité constante pendant la durée spécifiée.
+- Si une carte entre en jeu (ou change d’état de manière à remplir les critères spécifiques affectant un groupe de cartes) après la création de l’effet persistant, elle est quand même affectée par cet effet persistant.
+- Un effet persistant expire dès que le point de timing spécifié dans sa durée est atteint. Cela signifie qu’un effet persistant qui dure « jusqu’à la fin du round » expire juste avant que les capacités ou les effets retardés « à la fin du round » ne puissent s’initier.
+- Un effet persistant qui expire à la fin d’une période de temps spécifiée ne peut être initié que durant cette période de temps.
 
-Certaines capacités créent des effets persistants. Ces effets ont une durée spécifiée (telle que "jusqu'à la fin de la phase" ou "pour ce round") et restent actifs pour cette durée.
-
-  - Un effet persistant expire à la fin de sa durée, quel que soit l'état de la carte qui l'a créé. (Par exemple, si une amélioration crée un effet persistant qui dure jusqu'à la fin du round et que cette amélioration est défaussée, l'effet persiste jusqu'à la fin du round.)
-
-  - Un effet persistant affecte l'état du jeu et les cartes au fur et à mesure qu'ils entrent en jeu, tant que la durée de l'effet est active.
-
-**Voir aussi** : Capacité
+_Voir aussi : [[Capacite|Capacité]], [[EntrerEnJeu|Entrer en Jeu]]_  
 
 
 **EN v1.7**:  

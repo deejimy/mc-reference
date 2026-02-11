@@ -1,20 +1,14 @@
 # Contre, contrer
 
 
-Certains effets de jeu et capacités font référence à une tentative de contre. Cela peut se produire de plusieurs façons :
 
-  - Un héros ou un allié peut utiliser son pouvoir de contre de base pour contrer une manigance. Le personnage doit s'incliner pour utiliser ce pouvoir. Cela retire de la menace de la manigance à hauteur de la valeur de CTR du personnage.
+Certains effets de jeu et capacités de carte font référence à des tentatives de contre. Il y a différentes façons de contrer :  
 
-    - Un personnage ne peut initier un contre de base que s'il y a une manigance avec au moins une menace à retirer ou si ce personnage est désorienté.
+- Un héros peut utiliser son pouvoir de base de contre pour contrer une manigance. Un héros doit s’incliner pour utiliser ce pouvoir. Cela retire de la manigance un nombre de menaces égal à la valeur de CTR de ce héros.  
+- Un allié peut utiliser son pouvoir de base de contre pour contrer une manigance. Cela retire de la manigance un nombre de menaces égal à la valeur de CTR de cet allié.  
+- Si une capacité déclenchée est référencée en tant que contre — comme « Action de héros (contre) » — résoudre cette capacité est considéré comme contrer la manigance spécifiée. À moins que cela ne soit spécifiquement indiqué, un héros ne s’incline pas lorsqu’il utilise une telle capacité.  
 
-  - Si une capacité déclenchée est étiquetée comme un contre — comme "Action de héros (contre)" — résoudre cette capacité est considéré comme un contre de la manigance spécifiée. Sauf indication contraire, un héros ne s'incline pas pour utiliser une telle capacité.
-
-    - Une capacité étiquetée comme un contre est considérée comme un seul contre, même si elle retire plusieurs instances de menace.
-
-    - Si une capacité augmente la quantité de menace retirée par une capacité étiquetée comme un contre et que cette dernière retire plusieurs instances de menace, chacune de ces instances qui n'utilise pas le mot "supplémentaire" est augmentée du montant spécifié.
-
-**Voir aussi** : Allié, Pouvoir de base, Dégâts consécutifs, Incliné, Capacité étiquetée, Manigance principale, Modificateurs, Manigance annexe, Menace
-
+_Voir aussi : [[Allie|Allié]], [[DegatsConsecutifs|Dégâts Consécutifs]], [[Incline|Incliné]], [[ManiganceAnnexe|Manigance Annexe]], [[ManigancePrincipaleDeckManigancePrincipale|Manigance Principale]], [[SeuilDeMenace|Menace]], [[PouvoirDeBase|Pouvoir de Base]]_  
 
 **EN v1.7**:  
 ```
@@ -34,7 +28,10 @@ See also: Ally, Basic Power, Consequential Damage, Exhausted, Labeled Ability, M
 CONTRE, CONTRER
 Certains effets de jeu et capacités de carte font référence à des tentatives de contre. Il y a différentes façons de contrer :
 • Un héros peut utiliser son pouvoir de base de contre pour contrer une manigance. Un héros doit s’incliner pour utiliser ce pouvoir. Cela retire de la manigance un nombre de menaces égal à la valeur de CTR de ce héros.
-• Un allié peut utiliser son pouvoir de base de contre pour contrer une manigance. Cela retire de la manigance un nombre de menaces égal à la valeur de CTR de cet allié.
-• Si une capacité déclenchée est référencée en tant que contre — comme « Action de héros (contre) » — résoudre cette capacité est considéré comme contrer 10 Guide de Référence la manigance spécifiée. À moins que cela ne soit spécifiquement indiqué, un héros ne s’incline pas lorsqu’il utilise une telle capacité.
+    - <span class="new">Un personnage ne peut initier un contre de base que s’il existe une manigance avec au moins une menace que le personnage peut retirer ou si ce personnage est désorienté.</span>  
+- Un allié peut utiliser son pouvoir de base de contre pour contrer une manigance. Cela retire de la manigance un nombre de menaces égal à la valeur de CTR de cet allié.  
+- Si une capacité déclenchée est référencée en tant que contre — comme « Action de héros (contre) » — résoudre cette capacité est considéré comme contrer la manigance spécifiée. À moins que cela ne soit spécifiquement indiqué, un héros ne s’incline pas lorsqu’il utilise une telle capacité.  
+    - <span class="new">Une capacité étiquetée comme un contre est considérée comme un seul contre, même si ce contre retire plusieurs instances de menace.</span>  
+    - <span class="new">Si une capacité augmente la quantité de menace qu’une capacité étiquetée comme un contre retire et que cette capacité retire plusieurs instances de menace, chacune de ces instances qui n’utilise pas le mot « supplémentaire » est augmentée du montant spécifié.</span>  
 Voir aussi : Allié, Dégâts Consécutifs, Incliné, Manigance Annexe, Manigance Principale, Menace, Pouvoir de Base
 ```

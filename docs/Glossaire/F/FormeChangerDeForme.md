@@ -1,28 +1,18 @@
 # Forme, changer de forme
 
 
-Un joueur peut être soit sous forme de héros, soit sous forme d'alter-ego à un moment donné. Cela est indiqué par la carte d'identité du joueur.
 
-  - Une fois par round, pendant son tour, chaque joueur est autorisé à changer de forme en retournant sa carte d'identité.
+Un joueur peut être soit sous forme de héros, soit sous forme d’alter‑ego. Cela est indiqué par la carte Identité du joueur.  
 
-  - Lorsqu'un joueur change de forme, seule la forme change. Le personnage conserve ses dégâts subis, ses cartes d'état, ses effets persistants, ses attachements, ses pions et son état actuel (prêt ou incliné).
+- Une fois par round, lors de son tour, chaque joueur peut changer de forme en retournant sa carte Identité.  
+- Quand un joueur change de forme, seule sa forme change. Le personnage conserve ses dégâts subis, ses cartes d’état, ses effets persistants, ses attachements, ses jetons et son état actuel (redressé ou incliné).  
+- <span class="new">Si une capacité de carte fait changer de forme un joueur, cela ne compte pas comme le changement de forme volontaire unique que le joueur a le droit d’effectuer lors de son tour ce round.</span>  
+- <span class="new">Les cartes portant le mot‑clé « [type] form » octroient à une identité des formes supplémentaires uniques.</span>  
+    - <span class="new">Ces formes s’ajoutent aux formes héros et alter‑ego de l’identité et possèdent leurs propres conditions de changement de forme.</span>  
+    - <span class="new">Quand une identité change pour l’une de ces formes supplémentaires, cela ne compte pas contre la limite d’un changement volontaire par tour (héros ↔ alter‑ego), mais cela est considéré comme un changement de forme pour le déclenchement des effets de carte.</span>  
+- <span class="new">Les cartes contenant le texte « [type] form only » ne peuvent être jouées ou mises en jeu que par un joueur dont l’identité est dans la forme spécifiée.</span>  
 
-  - Si une capacité de carte amène un joueur à changer de forme, cela ne compte pas dans la limite d'un changement de forme volontaire autorisé par tour pendant ce round.
-
-  - Tant qu'un joueur est sous forme de héros, les capacités de carte qui interagissent avec son alter-ego n'interagissent pas avec son identité.
-
-  - Tant qu'un joueur est sous forme d'alter-ego, les capacités de carte qui interagissent avec son héros n'interagissent pas avec son identité.
-
-  - Les cartes avec le mot-clé `forme [type]` confèrent à une identité des formes uniques.
-
-    - Ces formes s'ajoutent aux formes alter-ego et héros de l'identité, et elles possèdent leurs propres conditions pour s'y transformer.
-
-    - Lorsqu'une identité change pour sa forme additionnelle, cela ne compte pas dans la limite d'une fois par tour pour passer de héros à alter-ego (ou vice versa), mais cela compte comme un changement de forme pour le déclenchement des effets de carte.
-
-  - Les cartes avec le texte "forme [type] uniquement" ne peuvent être jouées ou mises en jeu que par un joueur dont l'identité est sous la forme spécifiée.
-
-**Voir aussi** : Retourner, Identité, Mots-clés
-
+_Voir aussi : [[Flip|Retourner]], [[Identite|Identité]], [[MotsCles|Mots-clés]]_  
 
 **EN v1.7**:  
 ```

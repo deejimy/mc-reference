@@ -1,8 +1,8 @@
 # Deck vide
 
+Deck Vide  
 
-**Voir** : Paquet de rencontre, Deck de joueur
-
+_Voir : [[DeckRencontre|Deck Rencontre]], [[DeckJoueur|Deck Joueur]]_  
 
 **EN v1.7**:  
 ```

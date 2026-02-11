@@ -1,13 +1,10 @@
 # Ensemble de Rencontre
 
+Un ensemble de rencontre est un regroupement de cartes Rencontre.
+- Il existe quatre types d’ensembles de rencontre : ensembles spécifiques au scénario, ensembles modulaires, le set Standard et le set Expert.
+- Les ensembles de rencontre portant le même nom mais des icônes de set différentes sont considérés comme des ensembles distincts.
 
-Un set de rencontre est un groupement de cartes de rencontre.
-
-  - Il existe quatre types de sets de rencontre : les sets de rencontre spécifiques au scénario, les sets de rencontre modulaires, le set Standard et le set Expert.
-
-  - Les sets de rencontre portant le même nom mais ayant des icônes de set différentes sont considérés comme des sets distincts.
-
-**Voir aussi** : Classifications, Set Expert, Set de rencontre modulaire, Carte spécifique au scénario, Set Standard
+_Voir aussi : [[Classifications|Classifications]], [[SetExpert|Set Expert]], [[SetDeRencontreModulaire|Set de Rencontre Modulaire]], [[CartesSpecifiquesAuScenario|Cartes spécifiques au scénario]], [[SetStandard|Set Standard]]_  
 
 
 **EN v1.7**:  

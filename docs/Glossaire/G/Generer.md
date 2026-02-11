@@ -1,8 +1,6 @@
 # Générer
 
-
-**Voir** : Ressource
-
+_Voir : [[Ressource|Ressource]]_  
 
 **EN v1.7**:  
 ```

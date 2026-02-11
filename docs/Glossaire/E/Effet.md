@@ -1,8 +1,7 @@
 # Effet
 
 
-**Voir** : Capacité, Coût
-
+_Voir : [[Capacite|Capacité]], [[Cout|Coût]]_  
 
 **EN v1.7**:  
 ```

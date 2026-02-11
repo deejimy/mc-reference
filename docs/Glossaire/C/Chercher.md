@@ -1,14 +1,17 @@
 # Chercher
 
 
-Lorsqu'un joueur cherche une carte, il peut regarder toutes les cartes de la zone spécifiée. S'il trouve une carte correspondant aux critères, il l'ajoute à la zone indiquée.
 
-  - Si plusieurs cartes correspondent, le joueur choisit.
+Quand il est demandé à un joueur de chercher une carte, ce joueur a le droit de regarder toutes les cartes de la zone consultée.  
 
-  - Après une recherche dans un deck, celui-ci doit être mélangé.
+- Si le joueur trouve une carte qui satisfait les critères de la recherche, ce joueur ajoute cette carte à l’aire de jeu indiqué par les instructions de l’effet de recherche.  
+- Si un joueur trouve plusieurs cartes qui satisfont les critères de la recherche, ce joueur choisit parmi ces options.  
+- Les cartes consultées ne sont pas considérées comme ayant quitté la zone consultée.  
+- Si une quelconque partie d’un deck est consultée, à cause d’une étape de jeu, une fonction de jeu ou une capacité de carte, mélangez l’intégralité du deck.  
+- <span class="new">Si un joueur est instruit de « chercher [sa] collection » pour une carte, le joueur parcourt toutes ses cartes Marvel Champions hors de la partie pour trouver la carte spécifiée.</span>  
+    - <span class="new">Il devient le propriétaire de cette carte jusqu’à la fin de la partie.</span>  
 
-**Voir aussi** : Paquet de rencontre, Trouver, Deck de joueur, Mélanger
-
+_Voir aussi : [[DeckRencontre|Deck Rencontre]], [[CartesJoueur|Deck Joueur]], [[Melanger|Mélanger]]_  
 
 **EN v1.7**:  
 ```

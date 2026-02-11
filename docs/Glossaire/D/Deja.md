@@ -1,8 +1,8 @@
 # "Déjà"
 
+« DEJÀ »  
 
-**Voir** : Effet d'altération.
-
+_Voir : [[EffetDalteration|Effet d’Altération]]_  
 
 **EN v1.7**:  
 ```

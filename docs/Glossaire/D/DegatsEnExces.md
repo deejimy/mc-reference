@@ -1,10 +1,8 @@
 # Dégâts en excès
 
+Les dégâts en excès sont la quantité de dégâts infligés à un personnage au-delà de ses points de vie restants.  
 
-Les dégâts excédentaires sont toute quantité de dégâts infligés à un personnage au-delà des points de vie restants de ce personnage.
-
-**Voir aussi** : Allié, Dégâts, Points de vie, Identité, Sbire, Points de vie restants, Méchant
-
+_Voir aussi : [[Allie|Allié]], [[Degats|Dégâts]], [[Identite|Identité]], [[Mechant|Méchant]], [[PointsDeVie|Points de Vie]], [[PointsDeVieRestants|Points de Vie Restants]], [[Sbire|Sbire]]_  
 
 **EN v1.7**:  
 ```

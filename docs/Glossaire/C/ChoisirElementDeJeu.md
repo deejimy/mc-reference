@@ -1,18 +1,16 @@
 # Choisir (Élément de Jeu)
 
 
-L'expression "choisissez un [élément de jeu]" (tel qu'un allié, un sbire ou une manigance) indique qu'un joueur doit sélectionner un élément de jeu qui répond aux exigences spécifiques d'une capacité.
 
-  - Le joueur résolvant la capacité qui utilise le mot "choisissez" est le joueur qui fait le choix spécifié par la carte.
+Le verbe « choisir » indique qu’un joueur doit sélectionner un élément de jeu qui correspond à un prérequis précisé par la capacité qui est en train d’être résolue.  
 
-  - Si une capacité de carte de joueur nécessite le choix d'une ou plusieurs cibles, et qu'il n'y a aucune cible valide pour une partie quelconque de la capacité, la capacité ne peut pas être initiée.
+- Le choix spécifié sur la carte doit être fait par le joueur qui résout la capacité.  
+- Si une capacité de carte Joueur requiert de choisir une cible et qu’il n’existe pas de cible valide, la capacité ne peut pas être initiée.  
+- S’il est demandé à un même joueur de choisir plusieurs cibles, choisissez simultanément autant de cibles disponibles que possible, jusqu’à un maximum égal au nombre spécifié.  
+- Un effet qui peut choisir « n’importe quel nombre » de cibles ne se résout pas avec succès (et ne peut pas changer l’état de la partie) si le nombre de cibles choisies est égal à zéro.  
+- Une carte n’est pas une cible éligible pour une capacité si la résolution de l’effet de la capacité ne change pas l’état de la carte.  
 
-  - Si plusieurs cibles doivent être choisies par le même joueur, choisissez simultanément autant de cibles qu'il y en a de disponibles, jusqu'au nombre maximum spécifié.
-
-  - Un effet qui permet de choisir "n'importe quel nombre" de cibles ne se résout pas avec succès si zéro cible est choisie.
-
-**Voir aussi** : Capacité, Élément de jeu, Joueur, Cible
-
+_Voir aussi : [[Capacite|Capacité]], [[Cible|Cible]], [[Joueur|Joueur]]_  
 
 **EN v1.7**:  
 ```

@@ -1,22 +1,18 @@
 # Forcée
 
 
-Forcée est un mot de déclenchement en gras. Si le mot "Forcée" précède une capacité déclenchée, l'initiation de la capacité est obligatoire.
 
-  - Les capacités d'"Interruption forcée" et de "Réponse forcée" doivent être résolues lorsque leurs conditions de déclenchement sont remplies.
+Forcée est un indicatif de déclenchement en gras. Si le mot « Forcée » précède une capacité déclenchée, l’initiation de cette capacité est obligatoire.  
 
-  - Les capacités d'"Action forcée" peuvent être déclenchées à n'importe quel moment pendant la phase des joueurs où une capacité d'action non forcée pourrait être déclenchée, mais elles doivent être résolues avant que la phase des joueurs ne puisse se terminer.
+- <span class="new">Les capacités « Interruption Forcée » et « Réponse Forcée » doivent être résolues lorsque leurs conditions de déclenchement sont remplies.</span>  
+- <span class="new">Les capacités « Action Forcée » peuvent être déclenchées à tout moment où une capacité d’action non forcée pourrait l’être, mais elles doivent être résolues avant la fin de la phase du joueur.</span>  
+- <span class="new">Si une capacité forcée requiert une ou plusieurs cibles pour se résoudre et qu’il n’en existe aucune, elle ne s’initie pas.</span>  
+    - <span class="new">Les coûts qui auraient été payés pour initier cette capacité ne sont pas payés.</span>  
+- Pour chaque condition de déclenchement, les interruptions forcées sont prioritaires sur les interruptions non forcées, et les réponses forcées sont prioritaires sur les réponses non forcées.  
+- Si deux capacités forcées ou plus s’initient simultanément, le premier joueur décide de l’ordre d’initiation, quel que soit le contrôleur des cartes.  
+- Chaque capacité forcée doit se résoudre aussi complètement que possible avant que la prochaine capacité forcée déclenchée par la même condition ne puisse s’initier.  
 
-  - Si une capacité forcée nécessite une ou plusieurs cibles pour se résoudre et qu'elle n'a pas de cibles valides, elle ne s'initie pas.
-
-  - Les coûts qui auraient été payés pour initier la capacité ne sont pas payés.
-
-  - Pour toute condition de déclenchement donnée, les interruptions forcées sont prioritaires et s'initient avant les interruptions non forcées, et les réponses forcées sont prioritaires et s'initient avant les réponses non forcées.
-
-  - Si deux capacités forcées ou plus devaient s'initier au même moment, le premier joueur détermine l'ordre dans lequel les capacités s'initient, quel que soit le contrôleur des cartes portant ces capacités.
-
-  - Chaque capacité forcée doit se résoudre aussi complètement que possible avant que la capacité forcée suivante, déclenchée par le même déclencheur, ne commence à se résoudre.
-
+_Voir aussi : [[Capacite|Capacité]], [[Action|Action]], [[Cible|Cible]]_  
 
 **EN v1.7**:  
 ```

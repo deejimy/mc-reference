@@ -1,10 +1,9 @@
 # Gagner
 
 
-Si une carte gagne une caractéristique (telle qu'un trait, un mot-clé ou un texte de capacité), la carte fonctionne comme si elle possédait la caractéristique gagnée. Les caractéristiques gagnées ne sont pas considérées comme étant imprimées sur la carte.
+Si une carte gagne une caractéristique (comme un trait, un mot-clé ou un texte de capacité), la carte fonctionne comme si elle possédait la caractéristique gagnée. Les caractéristiques gagnées ne sont pas considérées comme étant imprimées sur la carte.  
 
-**Voir aussi** : Mots-clés, Imprimé, Traits
-
+_Voir aussi : [[Imprime|Imprimé]], [[MotsCles|Mots-clés]], [[Trait|Trait]] ; [[Allie|Allié]], [[Identite|Identité]], [[Mechant|Méchant]], [[Sbire|Sbire]], [[PointsDeVie|Points de Vie]]_  
 
 **EN v1.7**:  
 ```
@@ -19,13 +18,4 @@ See also: Keywords, Printed, Traits
 GAGNER (UNE CARACTERISTIQUE)
 Si une carte gagne une caractéristique (comme un trait, un mot-clé ou un texte de capacité), la carte fonctionne comme si elle possédait la caractéristique gagnée. Les caractéristiques gagnées ne sont pas considérées comme étant imprimées sur la carte.
 Voir aussi : Imprimé, Mots-clés, Trait
-```
-
-**FR v1.4**:  
-```
-GAGNER / PERDRE (UNE STATISTIQUE)
-Si une capacité de carte fait « gagner » ou « perdre » une statistique (comme +1 ATQ ou 4 points de vie), la capacité modifie la statistique du personnage tant qu’elle est active.
-• Si une telle capacité expire ou devient inactive, la statistique modifiée revient à la valeur qu’elle devrait avoir sans le modificateur.
-• Si une telle capacité fait gagner ou perdre des points de vie à un personnage, elle modifie les points de vie restants du personnage tant qu’elle est active et modifie également les points de vie maximums du personnage tant qu’elle est active.
-Voir aussi : Allié, Identité, Méchant, Sbire, Points de Vie
 ```

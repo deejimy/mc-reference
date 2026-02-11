@@ -1,17 +1,13 @@
 # Engager
 
 
-Lorsqu'un sbire entre en jeu dans la zone de jeu d'un joueur, il engage ce joueur.
-Sauf indication contraire par le sbire ou par l'effet qui a mis le sbire en jeu, le sbire engage le joueur qui est en train de résoudre la carte Rencontre actuelle.
+Après qu’un sbire est entré en jeu dans la zone de jeu d’un joueur, il engage ce joueur.
+- À moins que le contraire ne soit spécifié par le sbire ou l’effet qui met en jeu le sbire, ce dernier engage le joueur qui résout actuellement la carte Rencontre.
+- Un sbire engagé reste engagé avec le même joueur jusqu’à ce qu’il soit vaincu, retiré de la partie ou jusqu’à ce qu’une capacité de carte lui fasse engager un autre joueur.
+- Si une capacité de carte demande à un joueur d’engager un sbire, on considère que ce sbire a également engagé ce joueur.
+- Tant qu’un sbire est engagé avec un joueur, les capacités de carte qui l’obligeraient à engager de nouveau ce même joueur sont ignorées.  
 
-  - Un sbire engagé reste engagé avec le même joueur jusqu'à ce qu'il soit vaincu, retiré du jeu, ou qu'une capacité de carte l'amène à engager un autre joueur.
-
-  - Si une capacité de carte ordonne à un joueur d'engager un sbire, ce sbire est également considéré comme ayant engagé ce joueur.
-
-  - Tant qu'un sbire est engagé avec un joueur, les capacités de carte ne peuvent pas amener le sbire à engager à nouveau le même joueur (car les deux sont déjà engagés).
-
-**Voir aussi** : Capacité, Vaincre, Sbire, Joueur, Zone de jeu d'un joueur
-
+_Voir aussi : [[Capacite|Capacité]], [[Joueur|Joueur]], [[Sbire|Sbire]], [[ZoneDeJeuDUnJoueur|Zone de Jeu d’un Joueur]]_  
 
 **EN v1.7**:  
 ```

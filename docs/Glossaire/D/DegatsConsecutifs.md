@@ -1,19 +1,14 @@
 # Dégâts consécutifs
 
+Après qu'un allié a attaqué, il subit des dégâts consécutifs égaux au nombre d'icônes de dégâts consécutifs (![[icone_consecutif.jpg|15]]) sous son champ ATQ.  
+Après qu'un allié a contré, il subit des dégâts consécutifs égaux au nombre d'icônes de dégâts consécutifs (![[icone_consecutif.jpg|15]]) sous son champ CTR.  
 
-Après qu'un allié a attaqué, il subit des dégâts consécutifs égaux au nombre d'icônes de dégâts consécutifs (![[icone_consecutif.jpg|15]]) sous son champ ATK.
-Après qu'un allié a contré, il subit des dégâts consécutifs égaux au nombre d'icônes de dégâts consécutifs (![[icone_consecutif.jpg|15]]) sous son champ CTR.
+- Les dégâts consécutifs sont infligés à un allié après la résolution des capacités déclenchées par l'attaque ou le contre de l'allié.  
+- <span class="new">Si la cible du pouvoir de base d'un allié quitte le jeu avant que cet allié n'inflige des dégâts égaux à son ATQ ou ne retire de la menace égale à son CTR, l'allié ne subit pas de dégâts consécutifs (mais reste incliné).</span>  
+    - <span class="new">Cet allié n'est pas considéré comme ayant attaqué ou contré pour les besoins d'autres capacités.</span>  
+    - <span class="new">Par exemple, la capacité d'Iron Fist se lit : "Interruption : lorsque Iron Fist attaque un ennemi, retirez 1 pion mystique de lui → sonnez cet ennemi et infligez-lui 1 dégât." Si cet effet vainc l'ennemi qu'Iron Fist attaquait, l'attaque de base s'interrompt dès que la cible quitte le jeu ; Iron Fist ne subit donc pas de dégâts consécutifs.</span>  
 
-  - Les dégâts consécutifs sont infligés à un allié après la résolution des capacités déclenchées par l'attaque ou le contre de l'allié.
-
-  - Si la cible du pouvoir de base d'un allié quitte le jeu avant que cet allié n'inflige des dégâts égaux à son ATK ou ne retire de la menace égale à son CTR, l'allié ne subit pas de dégâts consécutifs (mais reste incliné).
-
-    - Cet allié n'est pas considéré comme ayant attaqué ou contré pour les besoins d'autres capacités.
-
-    - Par exemple, la capacité d'Iron Fist indique : "Interruption : quand Iron Fist attaque un ennemi, retirez 1 pion mystique de lui → sonnez cet ennemi et infligez-lui 1 dégât." Si cet effet vainc l'ennemi qu'Iron Fist attaquait, l'attaque de base avorte dès que la cible quitte le jeu, donc Iron Fist ne subit pas de dégâts consécutifs.
-
-**Voir aussi** : Allié, Attaque (Type de capacité de joueur), Puissance de base, Dégâts, Icônes, Contrer
-
+_Voir aussi : [[Allie|Allié]], [[AttaqueActivationDuJoueur|Attaque (Type de capacité de joueur)]], [[PouvoirDeBase|Pouvoir de Base]], [[Degats|Dégâts]], [[IconeDeDegatsConsecutifs|Icônes]], [[CTR|Contre]]_  
 
 **EN v1.7**:  
 ```

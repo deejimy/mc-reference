@@ -1,30 +1,23 @@
 # Elimination de Joueur
 
+Un joueur est éliminé de la partie si son identité est vaincue. Cela se produit généralement quand les points de vie restants du personnage tombent à zéro.
 
-Un joueur est éliminé de la partie si son identité est vaincue. Cela se produit généralement lorsque les points de vie restants du personnage tombent à zéro.
-Lorsqu'un joueur est éliminé, effectuez les étapes suivantes dans l'ordre :  
+Quand un joueur est éliminé, effectuez les étapes suivantes dans l’ordre :
+1. <span class="new">Si le joueur éliminé possède le jeton du premier joueur, il le passe au joueur suivant dans le sens horaire.</span>
+2. Si des sbires sont engagés avec le joueur éliminé, chacun de ces sbires engage le joueur suivant dans le sens horaire en conservant tous leurs attachements, dégâts, jetons et cartes d’état.
+3. S’il existe des cartes dans la zone de jeu du joueur éliminé dont ce joueur n’est pas le propriétaire :
+- Si la carte est un attachement avec le mot-clé « Permanent », résolvez son texte « Attacher à ». Si elle n’en a pas ou si ce texte ne possède pas de cible valide, retirez l’attachement de la partie.
+- Retirez de la partie chaque carte non-attachement qui possède le mot-clé « Permanent ».  
+- Placez chaque autre carte dans la pile de défausse de son propriétaire.
+4. Placez chaque carte appartenant au joueur éliminé dans la pile de défausse du joueur éliminé.
+5. Retirez de la partie la zone de jeu du joueur éliminé et tous les autres éléments de jeu qui s’y trouvent (main, deck, pile de défausse, cartes en jeu, compteurs de points de vie, etc.).
 
-1. Si le joueur éliminé possède le pion de premier joueur, il le passe au joueur suivant dans le sens des aiguilles d'une montre.  
+Quand un joueur est éliminé, les joueurs restants continuent à jouer la partie. On considère que les joueurs éliminés gagnent ou perdent la partie en même temps que le reste de leur groupe, en fonction du résultat de celui-ci.
+• Si tous les joueurs sont éliminés, la partie se termine et les joueurs ont perdu.
+<span class="new">• Si un joueur est éliminé au milieu de la résolution d’une capacité, résolvez la capacité en entier.</span>
+<span class="new">• Les effets qui font référence aux joueurs dans la partie ignorent les joueurs éliminés, sauf pour l’icône par joueur ().</span>
 
-2. S'il y a des sbires engagés avec le joueur éliminé, chacun de ces sbires engage le joueur suivant dans le sens des aiguilles d'une montre, en conservant ses pions, cartes attachées, cartes de boost, cartes glissées dessous et cartes d'état.  
-
-3. Pour chaque carte dans la zone de jeu du joueur éliminé qui n'appartient pas à ce joueur, faites ce qui suit :  
-
-  - S'il s'agit d'un attachement avec le mot-clé `permanent`, résolvez son texte "attachez à". S'il n'en a pas ou si ce texte n'a pas de cible valide, retirez l'attachement de la partie.
-  - Retirez de la partie chaque carte non-attachement possédant le mot-clé `permanent`.
-  - Placez chaque autre carte dans la pile de défausse de son propriétaire.
-
-4. Placez chaque carte appartenant au joueur éliminé dans sa pile de défausse.  
-
-5. Retirez de la partie la zone de jeu du joueur éliminé et tout autre élément de jeu qu'elle contient (main, deck, pile de défausse, cartes en jeu, compteur de points de vie, etc.).
-Lorsqu'un joueur est éliminé, les joueurs restants continuent la partie. Les joueurs éliminés ne participent plus mais sont considérés comme gagnants ou perdants avec le reste du groupe.  
-
-  - Si tous les joueurs sont éliminés, la partie se termine et les joueurs perdent.
-  - Si un joueur est éliminé pendant la résolution d'une capacité, terminez la résolution de l'intégralité de la capacité.
-  - Les effets qui font référence aux joueurs en jeu ignorent les joueurs éliminés, sauf pour l'icône par joueur (![[icone_joueur.jpg|15]]).
-
-**Voir aussi** : Capacité, Distribuer, Engager, Élément de jeu, Points de vie, Identité, Sbire, Icône par joueur, Joueur, Carte de joueur, Deck de joueur, Zone de jeu d'un joueur, Vaincre la partie
-
+_Voir aussi : [[Capacite|Capacité]], [[Degats|Dégâts]], [[Engager|Engager]], [[ElementDeJeu|Élément de Jeu]], [[PointsDeVie|Points de Vie]], [[Identite|Identité]], [[Sbire|Sbire]], [[PerPlayerIcon|Icône par joueur]], [[Joueur|Joueur]], [[CartesJoueur|Cartes Joueur]], [[DeckJoueur|Deck Joueur]], [[ZoneDeJeuDUnJoueur|Zone de Jeu d’un Joueur]], [[GagnerLaPartie|Gagner la Partie]]_  
 
 **EN v1.7**:  
 ```

@@ -1,10 +1,9 @@
 # Exemplaire
 
 
-Une copie d'une carte est définie par son titre. Une deuxième copie d'une carte est toute autre carte qui partage les mêmes titre et sous-titre (le cas échéant), quels que soient le type de carte, le texte, l'illustration ou toute autre caractéristique divergente entre les cartes.
+Un exemplaire d’une carte est défini par son titre. Un second exemplaire d’une carte est une autre carte qui partage le même titre et le même sous-titre (le cas échéant), quel que soit le type de cette carte, son texte, son illustration ou toute autre caractéristique qui pourrait différer entre ces cartes.  
 
-**Voir aussi** : Types de carte, Sous-titre
-
+_Voir aussi : [[TypesDeCarte|Types de carte]], [[Sous-titre|Sous-titre]]_  
 
 **EN v1.7**:  
 ```

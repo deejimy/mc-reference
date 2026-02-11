@@ -1,9 +1,9 @@
 # Esprit d'Équipe (Trait)
 
 
-Après qu'un sbire avec collaboration entre en jeu et engage un joueur, s'il y a au moins un autre sbire partageant le trait spécifié en jeu, le sbire qui vient d'entrer en jeu s'active contre le joueur avec lequel il est engagé.
+<span class="new">Après qu’un sbire possédant le trait « Esprit d’Équipe » entre en jeu et engage un joueur, si au moins un autre sbire partageant le trait spécifié est en jeu, le sbire qui vient d’entrer s’active contre le joueur auquel il est engagé.</span>
 
-**Voir aussi** : Activation, Engager, Mots-clés
+_Voir aussi : [[Activation|Activation]], [[Engager|Engager]], [[Motcle|Mots-clés]]_  
 
 
 **EN v1.7**:  
