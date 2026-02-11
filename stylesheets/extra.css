@@ -115,24 +115,6 @@
     left: -1.7em !important;
 }
 
-/* --- ICÔNES SPÉCIFIQUES --- */
-.icon-verified svg {
-    fill: #4caf50 !important;
-    color: #4caf50 !important;
-    vertical-align: middle;
-    width: 1.1em;
-    height: 1.1em;
-}
-
-.icon-warning svg {
-    fill: #ff9800 !important;
-    color: #ff9800 !important;
-    vertical-align: middle;
-    width: 1em;
-    height: 1em;
-}
-
-/* --- TWEMOJI / SYMBOLES MARVEL --- */
 .twemoji {
     fill: #ef5552 !important;
     color: #ef5552 !important;

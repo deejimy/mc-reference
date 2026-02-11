@@ -3171,7 +3171,7 @@
   <span class="md-ellipsis">
     
   
-    Et
+    "Et"
   
 
     
@@ -8622,16 +8622,22 @@
 
 
 <h1 id="deplacer">Déplacer<a class="headerlink" href="#deplacer" title="Permanent link">&para;</a></h1>
-<p>Certaines capacités permettent de "déplacer" des éléments de jeu (comme de la menace ou des dégâts).</p>
+<p>Certaines capacités permettent de "déplacer" des éléments de jeu (comme des menaces ou des dégâts).  </p>
 <ul>
-<li>
-<p>Déplacer un élément de jeu consiste à le retirer d'une carte pour le placer sur une autre.</p>
-</li>
-<li>
-<p>Si de la menace est déplacée d'une manigance à une autre, cela n'est pas considéré comme "retirer de la menace" de la première, ni comme "placer de la menace" sur la seconde pour le déclenchement d'autres capacités.</p>
-</li>
+<li>Déplacer un élément de jeu consiste à le retirer d'une carte pour le placer sur une autre.  </li>
+<li>Si un élément se déplace, il ne peut pas se déplacer vers son emplacement actuel.  </li>
+<li>Si aucun point de départ ou de destination valide n'existe pour un déplacement, ce déplacement ne peut être effectué.  </li>
+<li>Il est possible de déplacer des dégâts entre compteurs et cartes (et vice versa) :  <ul>
+<li><span class="new">Si des dégâts sont déplacés d’un compteur vers une carte, augmentez les points de vie indiqués par le compteur du montant spécifié (sans dépasser le maximum) et placez la même quantité de dégâts sur la carte.</span>  </li>
+<li><span class="new">Si des dégâts sont déplacés d’une carte vers un compteur, retirez les dégâts de la carte et réduisez le compteur de la même quantité.</span>  </li>
 </ul>
-<p><strong>Voir aussi</strong> : Dégâts, Menace</p>
+</li>
+<li><span class="new">Si des dégâts sont déplacés hors d’un personnage, ces dégâts sont considérés comme soignés pour ce personnage.</span>  </li>
+<li><span class="new">Si des dégâts sont déplacés vers un personnage, ces dégâts sont considérés comme infligés à ce personnage.</span>  </li>
+<li><span class="new">Si des menaces sont déplacées hors d’une manigance, ces menaces sont considérées comme retirées de cette manigance.</span>  </li>
+<li><span class="new">Si des menaces sont déplacées vers une manigance, ces menaces sont considérées comme placées sur cette manigance.</span>  </li>
+</ul>
+<p><em>Voir aussi : <a href="../Degats/">Dégâts</a>, <a href="../../S/SeuilDeMenace/">Menace</a></em>  </p>
 <p><strong>EN v1.7</strong>:<br />
 <div class="highlight"><pre><span></span><code>MOVE
 Some abilities allow players to move game elements, such as cards, damage, or threat.

@@ -3171,7 +3171,7 @@
   <span class="md-ellipsis">
     
   
-    Et
+    "Et"
   
 
     
@@ -8622,39 +8622,21 @@
 
 
 <h1 id="elimination-de-joueur">Elimination de Joueur<a class="headerlink" href="#elimination-de-joueur" title="Permanent link">&para;</a></h1>
-<p>Un joueur est éliminé de la partie si son identité est vaincue. Cela se produit généralement lorsque les points de vie restants du personnage tombent à zéro.
-Lorsqu'un joueur est éliminé, effectuez les étapes suivantes dans l'ordre :  </p>
-<ol>
-<li>
-<p>Si le joueur éliminé possède le pion de premier joueur, il le passe au joueur suivant dans le sens des aiguilles d'une montre.  </p>
-</li>
-<li>
-<p>S'il y a des sbires engagés avec le joueur éliminé, chacun de ces sbires engage le joueur suivant dans le sens des aiguilles d'une montre, en conservant ses pions, cartes attachées, cartes de boost, cartes glissées dessous et cartes d'état.  </p>
-</li>
-<li>
-<p>Pour chaque carte dans la zone de jeu du joueur éliminé qui n'appartient pas à ce joueur, faites ce qui suit :  </p>
-</li>
-<li>
-<p>S'il s'agit d'un attachement avec le mot-clé <code>permanent</code>, résolvez son texte "attachez à". S'il n'en a pas ou si ce texte n'a pas de cible valide, retirez l'attachement de la partie.</p>
-</li>
-<li>Retirez de la partie chaque carte non-attachement possédant le mot-clé <code>permanent</code>.</li>
-<li>
-<p>Placez chaque autre carte dans la pile de défausse de son propriétaire.</p>
-</li>
-<li>
-<p>Placez chaque carte appartenant au joueur éliminé dans sa pile de défausse.  </p>
-</li>
-<li>
-<p>Retirez de la partie la zone de jeu du joueur éliminé et tout autre élément de jeu qu'elle contient (main, deck, pile de défausse, cartes en jeu, compteur de points de vie, etc.).
-Lorsqu'un joueur est éliminé, les joueurs restants continuent la partie. Les joueurs éliminés ne participent plus mais sont considérés comme gagnants ou perdants avec le reste du groupe.  </p>
-</li>
-<li>
-<p>Si tous les joueurs sont éliminés, la partie se termine et les joueurs perdent.</p>
-</li>
-<li>Si un joueur est éliminé pendant la résolution d'une capacité, terminez la résolution de l'intégralité de la capacité.</li>
-<li>Les effets qui font référence aux joueurs en jeu ignorent les joueurs éliminés, sauf pour l'icône par joueur (<img alt="icone_joueur.jpg" src="../../../img/icone_joueur.jpg" width="15" />).</li>
-</ol>
-<p><strong>Voir aussi</strong> : Capacité, Distribuer, Engager, Élément de jeu, Points de vie, Identité, Sbire, Icône par joueur, Joueur, Carte de joueur, Deck de joueur, Zone de jeu d'un joueur, Vaincre la partie</p>
+<p>Un joueur est éliminé de la partie si son identité est vaincue. Cela se produit généralement quand les points de vie restants du personnage tombent à zéro.</p>
+<p>Quand un joueur est éliminé, effectuez les étapes suivantes dans l’ordre :
+1. <span class="new">Si le joueur éliminé possède le jeton du premier joueur, il le passe au joueur suivant dans le sens horaire.</span>
+2. Si des sbires sont engagés avec le joueur éliminé, chacun de ces sbires engage le joueur suivant dans le sens horaire en conservant tous leurs attachements, dégâts, jetons et cartes d’état.
+3. S’il existe des cartes dans la zone de jeu du joueur éliminé dont ce joueur n’est pas le propriétaire :
+- Si la carte est un attachement avec le mot-clé « Permanent », résolvez son texte « Attacher à ». Si elle n’en a pas ou si ce texte ne possède pas de cible valide, retirez l’attachement de la partie.
+- Retirez de la partie chaque carte non-attachement qui possède le mot-clé « Permanent ».<br />
+- Placez chaque autre carte dans la pile de défausse de son propriétaire.
+4. Placez chaque carte appartenant au joueur éliminé dans la pile de défausse du joueur éliminé.
+5. Retirez de la partie la zone de jeu du joueur éliminé et tous les autres éléments de jeu qui s’y trouvent (main, deck, pile de défausse, cartes en jeu, compteurs de points de vie, etc.).</p>
+<p>Quand un joueur est éliminé, les joueurs restants continuent à jouer la partie. On considère que les joueurs éliminés gagnent ou perdent la partie en même temps que le reste de leur groupe, en fonction du résultat de celui-ci.
+• Si tous les joueurs sont éliminés, la partie se termine et les joueurs ont perdu.
+<span class="new">• Si un joueur est éliminé au milieu de la résolution d’une capacité, résolvez la capacité en entier.</span>
+<span class="new">• Les effets qui font référence aux joueurs dans la partie ignorent les joueurs éliminés, sauf pour l’icône par joueur ().</span></p>
+<p><em>Voir aussi : <a href="../../C/Capacite/">Capacité</a>, <a href="../../D/Degats/">Dégâts</a>, <a href="../Engager/">Engager</a>, <a href="../ElementDeJeu/">Élément de Jeu</a>, <a href="../../P/PointsDeVie/">Points de Vie</a>, <a href="../../I/Identite/">Identité</a>, <a href="../../S/Sbire/">Sbire</a>, [[PerPlayerIcon|Icône par joueur]], <a href="../../J/Joueur/">Joueur</a>, <a href="../../C/CartesJoueur/">Cartes Joueur</a>, <a href="../../D/DeckJoueur/">Deck Joueur</a>, <a href="../../Z/ZoneDeJeuDUnJoueur/">Zone de Jeu d’un Joueur</a>, <a href="../../G/GagnerLaPartie/">Gagner la Partie</a></em>  </p>
 <p><strong>EN v1.7</strong>:<br />
 <div class="highlight"><pre><span></span><code>PLAYER ELIMINATION
 A player is eliminated from the game if their identity is defeated. This usually occurs when the character’s remaining hit points are reduced to zero.

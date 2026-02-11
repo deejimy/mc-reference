@@ -3171,7 +3171,7 @@
   <span class="md-ellipsis">
     
   
-    Et
+    "Et"
   
 
     
@@ -8622,19 +8622,11 @@
 
 
 <h1 id="effets-retardes">Effets retardés<a class="headerlink" href="#effets-retardes" title="Permanent link">&para;</a></h1>
-<p>Certaines capacités contiennent des effets retardés. De telles capacités spécifient un moment futur ou indiquent une condition future susceptible de survenir, et dictent un effet qui doit se produire à ce moment-là.</p>
-<ul>
-<li>
-<p>Les effets retardés se résolvent automatiquement et immédiatement après que le moment spécifié ou la condition future se produit ou devient vraie, et avant que les réponses à ce moment ou à cette condition ne puissent être utilisées.</p>
-<ul>
-<li>Les effets retardés ont la même priorité temporelle que les effets constants.</li>
-</ul>
-</li>
-<li>
-<p>Lorsqu'un effet retardé se résout, il n'est pas traité comme une nouvelle capacité déclenchée, même si l'effet retardé a été initialement créé par une capacité déclenchée.</p>
-</li>
-</ul>
-<p><strong>Voir aussi</strong> : Capacité</p>
+<p>Certaines capacités contiennent des effets retardés. De telles capacités stipulent un point de timing ultérieur ou une condition future qui peut survenir et indiquent un effet qui adviendra à ce moment.<br />
+- Les effets retardés se résolvent automatiquement et immédiatement après que le point de timing advient ou que la condition future est remplie et avant que les réponses à ce point ou à cette condition ne puissent être utilisées.<br />
+    - <span class="new">Les effets retardés ont la même priorité de timing que les effets constants.</span><br />
+- Quand un effet retardé se résout, il n’est pas considéré comme une nouvelle capacité déclenchée, même si l’effet retardé avait été originellement créé par une capacité déclenchée.  </p>
+<p><em>Voir aussi : <a href="../../C/Capacite/">Capacité</a>, <a href="../../C/CapaciteDeclenchee/">Capacité Déclenchée</a></em>  </p>
 <p><strong>EN v1.7</strong>:<br />
 <div class="highlight"><pre><span></span><code>DELAYED EFFECT
 Some abilities contain delayed effects. Such abilities specify a future timing point, or indicate a future condition that may arise, and dictate an effect that is to happen at that time.
