@@ -1,6 +1,14 @@
 # Deck joueur
 
+Un deck joueur contient les cartes Joueur (alliés, événements, manigances annexes de joueur, ressources, soutiens et améliorations) possédées par le joueur qui a commencé la partie avec ce deck.  
 
+- L’ordre des cartes au sein d’un deck ne peut pas être modifié, sauf si un joueur en reçoit l’instruction via une étape de jeu, une fonction du jeu ou une capacité de carte.  
+- Si le deck d’un joueur tombe à court de cartes, ce joueur mélange sa pile de défausse pour constituer un nouveau deck et se voit immédiatement attribuer une carte Rencontre face cachée depuis le dessus du deck Rencontre.  
+- Si le deck d’un joueur est vidé et reformé pendant qu’il piochait des cartes, le joueur continue de piocher des cartes jusqu’à atteindre le nombre requis.  
+- Si le deck d’un joueur est vidé et reformé pendant qu’il défaussait des cartes de son deck, aucune carte n’est défaussée du deck nouvellement formé.  
+- <span class="new">Si le deck d’un joueur est vidé et que la pile de défausse de ce joueur est vide, le deck ne peut être reconstitué tant que la pile de défausse ne contient aucune carte ; lorsque la première carte entre dans la pile de défausse, le joueur reforme son deck et se voit attribuer immédiatement une carte Rencontre face cachée.</span>  
+
+_Voir aussi : [[DeckRencontre|Deck Rencontre]], [[DefausserDefausse|Défausse]], [[Melanger|Mélanger]], [[PileDeDefausse|Pile de Défausse]], [[PiocherPiocherDesCartes|Piocher]]_  
 
 **EN v1.7**:  
 ```

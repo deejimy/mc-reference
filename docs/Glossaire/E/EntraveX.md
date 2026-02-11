@@ -3,7 +3,7 @@
 
 Quand une carte avec le mot-clé Entrave X est révélée, placez X menaces dessus. (X est la valeur indiquée à côté du mot-clé Entrave).
 
-_Voir aussi : [[EntrerEnJeu|Entrer en Jeu]], [[Motcle|Mots-clés]], [[TexteDeRappel|Texte de Rappel]], [[Reveler|Révéler]], [[Menace|Menace]]_  
+_Voir aussi : [[EntrerEnJeu|Entrer en Jeu]], [[MotsCles|Mots-clés]], [[TexteDeRappel|Texte de Rappel]], [[Reveler|Révéler]], [[Menace|Menace]]_  
 
 
 **EN v1.7**:  

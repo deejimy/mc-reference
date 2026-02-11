@@ -1,5 +1,10 @@
 # Deck
 
+Il existe quatre types de decks dans la partie : le deck Joueur, le deck Rencontre, le deck Méchant, le deck Manigance Principale. Certaines identités ou scénarios peuvent ajouter d’autres decks à la partie.  
+
+- L’ordre des cartes dans un deck ne peut pas être altéré, à moins qu’une étape contextuelle, une fonction du jeu ou une capacité de carte ne le demande à un joueur.  
+
+_Voir aussi : [[DeckRencontre|Deck Rencontre]], [[ManigancePrincipaleDeckManigancePrincipale|Manigance Principale]], [[DeckJoueur|Deck Joueur]], [[MechantDeckMechant|Deck Méchant]]_  
 
 **EN v1.7**:  
 ```

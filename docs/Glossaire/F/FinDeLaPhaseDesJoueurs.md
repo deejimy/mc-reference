@@ -8,7 +8,7 @@ Pour mettre fin à la phase des joueurs, respectez les étapes suivantes :
 4. <span class="new">Tous les effets qui durent « jusqu’à la fin de la phase [du joueur] » prennent fin.</span>  
 5. <span class="new">Résolvez tous les effets « Quand/Après la fin de la phase [du joueur] ». </span>  
 
-_Voir aussi : [[DefausserDefausse|Défausse]], [[DeckRencontre|Deck Rencontre]], [[TailleDeMain|Taille de main]], [[EffetsPersistants|Effets persistants]], [[Joueur|Joueur]], [[PhaseDuJoueur|Phase du Joueur]], [[TourDeJoueur|Tour de Joueur]]_  
+_Voir aussi : [[DefausserDefausse|Défausse]], [[DeckRencontre|Deck Rencontre]], [[TailleDeMain|Taille de main]], [[EffetsPersistants|Effets persistants]], [[Joueur|Joueur]], [[PhaseDesJoueurs|Phase du Joueur]], [[TourDeJoueur|Tour de Joueur]]_  
 
 **EN v1.7**:  
 ```

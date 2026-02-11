@@ -17,7 +17,7 @@ Quand un joueur est éliminé, les joueurs restants continuent à jouer la parti
 <span class="new">• Si un joueur est éliminé au milieu de la résolution d’une capacité, résolvez la capacité en entier.</span>
 <span class="new">• Les effets qui font référence aux joueurs dans la partie ignorent les joueurs éliminés, sauf pour l’icône par joueur ().</span>
 
-_Voir aussi : [[Capacite|Capacité]], [[Degats|Dégâts]], [[Engager|Engager]], [[ElementDeJeu|Élément de Jeu]], [[PointsDeVie|Points de Vie]], [[Identite|Identité]], [[Sbire|Sbire]], [[PerPlayerIcon|Icône par joueur]], [[Joueur|Joueur]], [[CartesJoueur|Cartes Joueur]], [[DeckJoueur|Deck Joueur]], [[ZoneDeJeuDUnJoueur|Zone de Jeu d’un Joueur]], [[GagnerLaPartie|Gagner la Partie]]_  
+_Voir aussi : [[Capacite|Capacité]], [[Degats|Dégâts]], [[Engager|Engager]], [[ElementDeJeu|Élément de Jeu]], [[PointsDeVie|Points de Vie]], [[Identite|Identité]], [[Sbire|Sbire]], [[IconeParJoueur|Icône par joueur]], [[Joueur|Joueur]], [[CartesJoueur|Cartes Joueur]], [[DeckJoueur|Deck Joueur]], [[ZoneDeJeuDUnJoueur|Zone de Jeu d’un Joueur]], [[GagnerLaPartie|Gagner la Partie]]_  
 
 **EN v1.7**:  
 ```

@@ -2,7 +2,7 @@
 
 Tant qu’un sbire ayant le mot-clé `Garde` est engagé avec un joueur, ce dernier ne peut pas utiliser des cartes qu’il contrôle pour attaquer un méchant qui ne possède pas ce mot-clé.  
 
-_Voir aussi : [[AttaqueActivationDuJoueur|Attaque (Action de joueur)]], [[Engager|Engager]], [[Mechant|Méchant]], [[MotsCles|Mots-clés]], [[Sbire|Sbire]], [[TexteDeRappel|Texte de Rappel]]_  
+_Voir aussi : [[AttaqueActivationDuJoueur|Attaque (Action de joueur)]], [[Engager|Engager]], [[MechantDeckMechant|Méchant]], [[MotsCles|Mots-clés]], [[Sbire|Sbire]], [[TexteDeRappel|Texte de Rappel]]_  
 
 **EN v1.7**:  
 ```

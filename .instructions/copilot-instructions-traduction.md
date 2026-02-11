@@ -25,7 +25,14 @@ Etapes à suivre de 1 à 11 :
 8. Remplacer les icones par l'image correspondantes (voir section Correspondance Icone) 
 9. Ajouter 2 espaces en fin de ligne pour assurer un bon rendu markdown.
 10. Vérifier les correspondances (voir chapitre) pour vérifier les traductions sur certains mots-clés. Exemple le mot `villainous`doit se traduire `vilenie`
-11. RE-Vérifier que le texte EN v1.7 a été intégralement traduit, si il manque une phrase ou une partie de phrase, recommencer à l'étape 3.
+11. Executer les contrôles de validation (voir chapitre Contrôles) pour s'assurer que la traduction est complète et conforme aux attentes. Sinon recommencer à partir de l'étape 3.
+
+
+# Contrôles ✅
+- Vérifier que le texte EN v1.7 a été intégralement traduit, si il manque une phrase ou une partie de phrase, refuser la traduction et recommencer à partir de l'étape 3.
+- Vérifier que le nombre de puces (top level et sous-puces et numérotation) dans la traduction produite correspond au nombre exact de puces dans le bloc EN v1.7.
+- S’assurer que chaque phrase du bloc EN est soit présente textuellement en FR v1.4, soit présente dans <span class="new"> (comparer phrases normalisées).
+- Rechercher et refuser les traductions préfixées par le titre MAJUSCULE.
 
 ## Correspondance Icone
 

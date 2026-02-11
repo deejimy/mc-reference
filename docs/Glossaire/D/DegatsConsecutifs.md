@@ -8,7 +8,7 @@ Après qu'un allié a contré, il subit des dégâts consécutifs égaux au nomb
     - <span class="new">Cet allié n'est pas considéré comme ayant attaqué ou contré pour les besoins d'autres capacités.</span>  
     - <span class="new">Par exemple, la capacité d'Iron Fist se lit : "Interruption : lorsque Iron Fist attaque un ennemi, retirez 1 pion mystique de lui → sonnez cet ennemi et infligez-lui 1 dégât." Si cet effet vainc l'ennemi qu'Iron Fist attaquait, l'attaque de base s'interrompt dès que la cible quitte le jeu ; Iron Fist ne subit donc pas de dégâts consécutifs.</span>  
 
-_Voir aussi : [[Allie|Allié]], [[AttaqueActivationDuJoueur|Attaque (Type de capacité de joueur)]], [[PouvoirDeBase|Pouvoir de Base]], [[Degats|Dégâts]], [[IconeDeDegatsConsecutifs|Icônes]], [[CTR|Contre]]_  
+_Voir aussi : [[Allie|Allié]], [[AttaqueActivationDuJoueur|Attaque (Type de capacité de joueur)]], [[PouvoirDeBase|Pouvoir de Base]], [[Degats|Dégâts]], [[Icone|Icônes]], [[CTR|Contre]]_  
 
 **EN v1.7**:  
 ```

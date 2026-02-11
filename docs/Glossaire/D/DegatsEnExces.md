@@ -2,7 +2,7 @@
 
 Les dégâts en excès sont la quantité de dégâts infligés à un personnage au-delà de ses points de vie restants.  
 
-_Voir aussi : [[Allie|Allié]], [[Degats|Dégâts]], [[Identite|Identité]], [[Mechant|Méchant]], [[PointsDeVie|Points de Vie]], [[PointsDeVieRestants|Points de Vie Restants]], [[Sbire|Sbire]]_  
+_Voir aussi : [[Allie|Allié]], [[Degats|Dégâts]], [[Identite|Identité]], [[MechantDeckMechant|Méchant]], [[PointsDeVie|Points de Vie]], [[PointsDeVieRestants|Points de Vie Restants]], [[Sbire|Sbire]]_  
 
 **EN v1.7**:  
 ```

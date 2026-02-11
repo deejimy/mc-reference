@@ -12,7 +12,7 @@ Un joueur peut être soit sous forme de héros, soit sous forme d’alter‑ego.
     - <span class="new">Quand une identité change pour l’une de ces formes supplémentaires, cela ne compte pas contre la limite d’un changement volontaire par tour (héros ↔ alter‑ego), mais cela est considéré comme un changement de forme pour le déclenchement des effets de carte.</span>  
 - <span class="new">Les cartes contenant le texte « [type] form only » ne peuvent être jouées ou mises en jeu que par un joueur dont l’identité est dans la forme spécifiée.</span>  
 
-_Voir aussi : [[Flip|Retourner]], [[Identite|Identité]], [[MotsCles|Mots-clés]]_  
+_Voir aussi : [[Retourner|Retourner]], [[Identite|Identité]], [[MotsCles|Mots-clés]]_  
 
 **EN v1.7**:  
 ```

@@ -2,9 +2,10 @@
 
 
 
-<span class="new">Lorsqu’il est demandé à chaque joueur de résoudre un effet, chaque joueur résout cet effet l’un après l’autre.  
-- Si l’effet ne précise pas dans quel ordre les joueurs doivent résoudre l’effet, le premier joueur décide de l’ordre.  
-- Si un joueur ne peut pas entièrement résoudre cet effet, il le résout autant que possible. Par exemple, si chaque joueur est instruit de défausser un certain nombre de cartes du deck Rencontre et que le deck s’épuise pendant qu’un joueur défausse, ce joueur cesse de défausser dès que le deck est vidé. Après que le deck est réinitialisé (et qu’un jeton d’accélération est placé à côté du deck Manigance Principale), les joueurs restants reprennent la défausse à partir de celui-ci.</span>  
+<span class="new">Lorsqu’il est demandé à chaque joueur de résoudre un effet, chaque joueur résout cet effet l’un après l’autre.</span> 
+
+  - Si l’effet ne précise pas dans quel ordre les joueurs doivent résoudre l’effet, le premier joueur décide de l’ordre.  
+  - Si un joueur ne peut pas entièrement résoudre cet effet, il le résout autant que possible. Par exemple, si chaque joueur est instruit de défausser un certain nombre de cartes du deck Rencontre et que le deck s’épuise pendant qu’un joueur défausse, ce joueur cesse de défausser dès que le deck est vidé. Après que le deck est réinitialisé (et qu’un jeton d’accélération est placé à côté du deck Manigance Principale), les joueurs restants reprennent la défausse à partir de celui-ci. 
 
 _Voir aussi : [[ChoisirElementDeJeu|Choisir (Élément de jeu)]], [[Joueur|Joueur]]_  
 

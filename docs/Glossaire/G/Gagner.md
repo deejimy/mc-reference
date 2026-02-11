@@ -3,7 +3,7 @@
 
 Si une carte gagne une caractéristique (comme un trait, un mot-clé ou un texte de capacité), la carte fonctionne comme si elle possédait la caractéristique gagnée. Les caractéristiques gagnées ne sont pas considérées comme étant imprimées sur la carte.  
 
-_Voir aussi : [[Imprime|Imprimé]], [[MotsCles|Mots-clés]], [[Trait|Trait]] ; [[Allie|Allié]], [[Identite|Identité]], [[Mechant|Méchant]], [[Sbire|Sbire]], [[PointsDeVie|Points de Vie]]_  
+_Voir aussi : [[Imprime|Imprimé]], [[MotsCles|Mots-clés]], [[Traits|Trait]] ; [[Allie|Allié]], [[Identite|Identité]], [[MechantDeckMechant|Méchant]], [[Sbire|Sbire]], [[PointsDeVie|Points de Vie]]_  
 
 **EN v1.7**:  
 ```

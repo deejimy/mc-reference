@@ -11,7 +11,7 @@ Evénement est un type de carte Joueur qui est généralement joué pour un effe
 - Si un effet modifie la quantité de dégâts infligés par un événement ou la quantité de menace qu’un événement retire, et que cet événement inflige plusieurs instances de dégâts ou retire plusieurs instances de menace, chacune de ces instances est modifiée.
     - Si un effet modifie la quantité de dégâts d’« une attaque » (plutôt que d’« un événement »), et qu’un événement initie plusieurs attaques, seule la première de ces attaques voit ses dégâts modifiés.</span>
 
-_Voir aussi : [[TypesDeCarte|Types de carte]], [[Defausse|Défausse]], [[Identite|Identité]], [[CapaciteEtiquetee|Capacité étiquetée]], [[Joueur|Joueur]], [[CarteJoueur|Carte Joueur]], [[ProprieteEtControle|Propriété et Contrôle]]_  
+_Voir aussi : [[TypesDeCarte|Types de carte]], [[DefausserDefausse|Défausse]], [[Identite|Identité]], [[CapaciteEtiquetee|Capacité étiquetée]], [[Joueur|Joueur]], [[CartesJoueur|Carte Joueur]], [[ProprieteEtControle|Propriété et Contrôle]]_  
 
 **EN v1.7**:  
 ```

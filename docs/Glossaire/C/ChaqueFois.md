@@ -1,5 +1,7 @@
 # "Chaque fois"
 
+_See: [[EffetDAlteration|Effet d’Altération]]_
+
 
 **EN v1.7**:  
 ```

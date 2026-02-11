@@ -17,7 +17,7 @@ On considère qu’une carte est soit en jeu soit hors jeu, en fonction de son �
 - Une carte quitte le jeu quand elle passe d’une zone en jeu à une zone hors jeu.
 - Si une carte est recto verso (car son texte de jeu est imprimé sur ses deux faces), la face cachée de cette carte est hors jeu.  
 
-_Voir aussi : [[Capacite|Capacité]], [[EntrerEnJeu|Entrer en Jeu]], [[QuitterLeJeu|Quitter le Jeu]], [[Jouer|Jouer]], [[MettreDeCote|Mettre de Côté]], [[PileDeVictoire|Pile de Victoire]], [[RestrictionsEtPermissionsDeJeu|Restrictions et Permissions de Jeu]]_  
+_Voir aussi : [[Capacite|Capacité]], [[EntrerEnJeu|Entrer en Jeu]], [[QuitterLeJeu|Quitter le Jeu]], [[JouerMettreEnJeu|Jouer]], [[MettreDeCoteMisDeCote|Mettre de Côté]], [[PileDeVictoire|Pile de Victoire]], [[RestrictionsEtPermissionsDeJeu|Restrictions et Permissions de Jeu]]_  
 
 **EN v1.7**:  
 ```
