@@ -1,9 +1,8 @@
 # Personnage
 
+Le terme personnage désigne les identités (héros et alter‑ego), les alliés, les méchants et les sbires.  
 
-Les identités (héros et alter-egos), alliés, méchants et sbires sont tous des personnages.
-
-**Voir aussi** : Allié, Identité, Sbire, Méchant
+_Voir aussi : [[Allie|Allié]], [[Identite|Identité]], [[MechantDeckMechant|Méchant]], [[Sbire|Sbire]]_  
 
 
 **EN v1.7**:  

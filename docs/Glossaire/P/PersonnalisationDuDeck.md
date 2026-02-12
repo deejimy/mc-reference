@@ -1,3 +1,3 @@
 # Personnalisation du deck
 
-**Voir** : Appendice I : Deck Personnalisés
+_Voir : Appendice I : Deck Personnalisés_

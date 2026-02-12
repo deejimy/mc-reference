@@ -1,8 +1,6 @@
 # Pile de défausse Joueur
 
-
-**Voir** : Pile de défausse
-
+_Voir: [[PileDeDefausse|Pile de défausse]]_
 
 **EN v1.7**:  
 ```

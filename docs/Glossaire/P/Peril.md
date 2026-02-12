@@ -1,9 +1,8 @@
 # Péril
 
+Tant qu’un joueur résout une carte dotée du mot‑clé `Péril`, il ne peut pas consulter les autres joueurs et les autres joueurs ne peuvent pas jouer de cartes ou déclencher de capacités.  
 
-Tant qu'un joueur résout une carte avec le mot-clé `péril`, ce joueur ne peut pas consulter les autres joueurs, et les autres joueurs ne peuvent pas jouer de cartes ni déclencher de capacités.
-
-**Voir aussi** : Capacité, Mots-clés, Joueur, Texte de rappel, Discussion à table, Capacité déclenchée
+_Voir aussi : [[Capacite|Capacité]], [[CapaciteDeclenchee|Capacité Déclenchée]], [[DiscussionsALaTable|Discussions à La Table]], [[MotsCles|Mots-clés]], [[Joueur|Joueur]], [[TexteDeRappel|Texte de Rappel]]_  
 
 
 **EN v1.7**:  

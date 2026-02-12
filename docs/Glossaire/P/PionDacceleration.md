@@ -1,26 +1,24 @@
 # Pion Accélération
 
+![[pion_acceleration.png]] Les pions Accélération fonctionnent comme les icônes d’Accélération, mais **ne sont pas** considérés comme des icônes d’Accélération. Ils sont placés à côté de la manigance principale pour rappeler d’ajouter X menaces supplémentaires à la manigance principale pendant l’étape un de la phase du Méchant, X étant le nombre de pions Accélération en jeu.  
 
-![[pion_acceleration.png]] Les jetons d'accélération sont fonctionnellement équivalents aux icônes d'accélération (mais ne sont pas considérés comme des icônes d'accélération). Ils sont placés à côté de la manigance principale comme rappel d'ajouter X menace supplémentaire à la manigance principale pendant l'étape un de la phase du méchant, où X est le nombre de jetons d'accélération en jeu.
-Les jetons d'accélération entrent en jeu par l'un de deux effets :
+<span class="new">Les pions Accélération entrent en jeu de deux façons :</span>  
+- Si le deck Rencontre est vidé, placez un pion Accélération sur la manigance principale.  
+- Des effets de carte peuvent demander aux joueurs d’ajouter un pion Accélération en jeu.  
 
-  - Si le deck Rencontre est vide, placez un pion d'accélération à côté de la manigance principale.
+<span class="new">Les pions Accélération placés sur des cartes autres que la manigance principale ajoutent quand même de la menace à la manigance principale pendant l’étape un de la phase du Méchant.</span>  
 
-  - Les effets de carte peuvent ordonner aux joueurs d'ajouter un pion d'accélération en jeu.
+<span class="new">Les pions Accélération placés sur la manigance principale ne peuvent pas être retirés du jeu. Contrairement aux autres pions, lorsqu’une carte Manigance Principale quitte le jeu, le pion Accélération n’est pas défaussé.</span>  
 
-    - Les jetons d'accélération placés sur des cartes autres que la manigance principale ajoutent toujours de la menace à la manigance principale pendant l'étape un de la phase du méchant.  
+- <span class="new">Les pions Accélération placés sur d’autres cartes sont retirés du jeu lorsque la carte sur laquelle ils sont placés quitte le jeu.</span>  
+- <span class="new">Les pions Accélération ne sont pas considérés comme des icônes d’Accélération, et inversement.</span>  
 
-    
-Les jetons d'accélération sur la manigance principale ne peuvent pas être retirés du jeu. Contrairement aux autres jetons, lorsqu'une carte de manigance principale quitte le jeu, le pion d'accélération n'est pas défaussé.
-
-  - Les jetons d'accélération placés sur des cartes autres que la manigance principale sont retirés du jeu lorsque la carte sur laquelle ils sont placés quitte le jeu.
-
-  - Les jetons d'accélération ne sont pas considérés comme des icônes d'accélération, et vice-versa.
+_Voir aussi : [[DeckRencontre|Deck Rencontre]], [[Index|Limitation du matériel]], [[ManigancePrincipaleDeckManigancePrincipale|Manigance Principale]], [[PhaseDuMechant|Phase du Méchant]]_  
 
 
 **EN v1.7**:  
 ```
-ACCELERATION TOKEN
+ACCELERATION TOKEN 
 Acceleration tokens are functionally equivalent to acceleration icons (but are not considered acceleration icons). They are placed next to the main scheme as a reminder to add X additional threat to the main scheme during step one of the villain phase, where X is the number of acceleration tokens in play.
 Acceleration tokens enter play through one of two effects:
 • If the encounter deck is empty, place one acceleration token next to the main scheme.

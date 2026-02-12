@@ -1,4 +1,4 @@
-# En jeu and Hors jeu
+# En jeu et Hors jeu
 
 On considère qu’une carte est soit en jeu soit hors jeu, en fonction de son état dans la partie.
 - Si une carte est en jeu, son texte est actif et peut affecter la partie.

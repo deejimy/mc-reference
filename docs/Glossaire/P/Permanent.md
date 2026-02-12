@@ -1,21 +1,18 @@
 # Permanent
 
+Une carte avec le mot‑clé Permanent ne peut pas quitter le jeu.  
+<span class="new">Une carte avec le mot‑clé Permanent ne peut être retirée du jeu, quitter le jeu, ni voir une partie de sa boîte de texte effacée, sauf par des capacités de carte du même set (set du héros, set du scénario, ou set modulaire). (Par exemple, une capacité sur une carte Héros peut faire quitter le jeu une carte Permanent appartenant au set de ce héros.)</span>  
 
-Une carte avec le mot-clé `permanent` ne peut pas être vaincue, quitter le jeu ou voir une partie de sa boîte de texte annulée, sauf par des capacités de cartes du même set (set de héros, set de scénario ou set modulaire). (Par exemple, une capacité sur une carte de héros peut faire quitter le jeu à une carte permanente appartenant au set de ce héros.)
+- <span class="new">Les cartes Permanent sont mises de côté avant l’étape 1 de la mise en place et sont mises en jeu plus tard par des capacités d’autres cartes.</span>  
+- <span class="new">Les cartes Permanent ne comptent pas dans la taille minimale ou maximale du deck d’un joueur.</span>  
+- <span class="new">Les cartes Permanent ne sont pas des cibles valides pour des effets de carte qui feraient quitter le jeu la carte permanente.</span>  
+    - <span class="new">Si une carte permanente devait être ciblée par un tel effet (par exemple « défaussez le soutien de coût le plus bas que vous contrôlez »), cet effet cible à la place la carte non‑permanente qui correspond à ses critères.</span>  
+- <span class="new">Si la carte à laquelle un attachement permanent était attaché quitte le jeu, résolvez le texte « attacher à » de cet attachement. Si cet attachement n’en possède pas ou que ce texte n’a pas de cible valide, retirez l’attachement de la partie.</span>  
 
-  - Les cartes permanentes sont mises de côté avant l'étape 1 de la mise en place et sont mises en jeu plus tard par des capacités d'autres cartes.
+- Si un joueur est éliminé de la partie, alors qu’il détient dans sa zone de jeu une carte Permanente dont il n’est pas le propriétaire, placez cette carte Permanente dans la pile de défausse de son propriétaire.  
 
-  - Les cartes permanentes ne comptent pas dans la taille minimale ou maximale du deck d'un joueur.
+_Voir aussi : [[EnJeuEtHorsJeu|En Jeu et Hors Jeu]], [[MotsCles|Mots-clés]], [[QuitterLeJeu|Quitter le Jeu]], [[ProprieteEtControle|Propriété et Contrôle]], [[TexteDeRappel|Texte de Rappel]]_  
 
-  - Les cartes permanentes ne sont pas des cibles valides pour les effets de carte qui les feraient quitter le jeu.
-
-    - Si une carte permanente devait être ciblée par un tel effet (par exemple : "défaussez le soutien au coût le plus bas que vous contrôlez"), cet effet cible à la place la carte non-permanente qui correspond aux critères.
-
-  - Si la carte à laquelle un attachement permanent était attaché quitte le jeu, résolvez le texte "attachez à" de cet attachement. S'il n'en a pas ou si ce texte n'a pas de cible valide, retirez l'attachement de la partie.
-
-  - Si un joueur est éliminé de la partie alors qu'une carte permanente (autre qu'un attachement) qu'il ne possède pas se trouve dans sa zone de jeu, retirez cette carte permanente de la partie.
-
-**Voir aussi** : En jeu et Hors-jeu, Mots-clés, Quitte le jeu, Propriété et Contrôle, Texte de rappel
 
 
 **EN v1.7**:  

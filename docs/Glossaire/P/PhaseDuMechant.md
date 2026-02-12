@@ -1,24 +1,26 @@
 # Phase du Méchant
 
+Les étapes de la phase du Méchant sont les suivantes :  
 
-Les étapes de la phase du méchant sont :
+1. Placez la quantité de menaces indiquée dans le champ d’accélération de la manigance principale sur cette manigance.  
+<span class="new">Si un ou plusieurs icônes Accélération ou pions Accélération sont actifs, placez également un nombre de menaces supplémentaires égal à la somme de ces icônes et pions.</span>  
 
-1. Placer de la menace : placez sur la manigance principale le montant indiqué par le champ d'accélération (plus icônes/pions d'accélération).
+2. Le méchant s’active une fois par joueur.  
+<span class="new">Dans l’ordre des joueurs, chaque joueur résout ce qui suit :</span>  
+- Le méchant s’active contre ce joueur.  
+- <span class="new">Chaque sbire engagé avec ce joueur s’active contre lui, dans l’ordre choisi par ce joueur.</span>  
 
-2. Activation des ennemis : dans l'ordre, pour chaque joueur :  
-    a. Le méchant s'active contre le joueur.  
-    b. Chaque sbire engagé avec lui s'active contre lui.  
+3. Attribuez une carte Rencontre à chaque joueur. Attribuez une carte supplémentaire pour chaque icône d’aléas sur une carte en jeu. Ces cartes supplémentaires sont attribuées dans l’ordre des joueurs.  
 
-3. Distribuer les cartes de rencontre : une par joueur (plus une par icône d'aléa).
+4. Les joueurs révèlent les cartes Rencontre qui leur ont été attribuées. Le premier joueur révèle chacune de ses cartes Rencontre, une à la fois, les résout en fonction du type de carte. Chaque joueur répète ce processus dans l’ordre des joueurs jusqu’à ce qu’il ne reste plus de carte Rencontre attribuée.  
 
-4. Révéler les cartes de rencontre : le premier joueur révèle les siennes une par une, puis les autres joueurs font de même dans l'ordre.
+5. Passez le pion Premier Joueur au joueur suivant dans le sens horaire.  
 
-5. Passer le pion de premier joueur au joueur suivant (sens horaire).
+<span class="new">6. Fin de la phase du Méchant et du round.  
+- Les effets qui durent « jusqu’à la fin de la phase du Méchant » ou « jusqu’à la fin du round » prennent fin.  
+- Résolvez ensuite les effets « quand/ après la fin de la phase du Méchant » ou « quand/ après la fin du round ». </span>  
 
-6. Fin de la phase du méchant et du round.
-
-
-**Voir aussi** : Icône d'accélération, Activation, Attaque (Activation d'ennemi), Distribuer, Engager, Trouver, Icône d'aléa, Dans l'ordre des joueurs, Manigance principale, Sbire, Joueur, Révéler, Manigance (Activation d'ennemi), Menace, Méchant
+_Voir aussi : [[IconeDacceleration|Icône d’Accélération]], [[Activation|Activation]], [[AttribuerAttribuerUneCarteRencontre|Attribuer]], [[IconeDaleas|Icône d’Aléas]], [[DansLordreDesJoueurs|Dans l’Ordre des Joueurs]], [[ManigancePrincipaleDeckManigancePrincipale|Manigance Principale]], [[MechantDeckMechant|Méchant]], [[Menace|Menace]], [[PremierJoueur|Premier Joueur]], [[Reveler|Révéler]], [[Sbire|Sbire]]_  
 
 
 **EN v1.7**:  

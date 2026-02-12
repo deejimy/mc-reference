@@ -201,7 +201,7 @@
 [[PiocherPiocherDesCartes|Piocher, Piocher des Cartes]] :material-alert-outline:  
 [[PionDacceleration|Pion d'Accélération]] :material-alert-outline:  
 [[PointsDeVie|Points de vie]] :material-alert-outline:  
-[[PointsDeVieMaximus|Points de vie maximums]] :material-alert-outline:  
+[[PointsDeVieMaximums|Points de vie maximums]] :material-alert-outline:  
 [[PointsDeVieInfini|Points de Vie Infini]] :material-alert-outline:  
 [[PointsDeVieRestants|Points de Vie Restants]] :material-alert-outline:  
 [[PourChaque|"Pour Chaque"]] :material-alert-outline:   :material-alert-outline:  

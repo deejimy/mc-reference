@@ -1,10 +1,8 @@
 # Pile de victoire
 
+La pile de victoire est une zone hors‑jeu partagée par tous les joueurs. Les cartes dans la pile de victoire suivent les règles habituelles des cartes hors jeu.  
 
-La pile de victoire est une zone hors-jeu partagée par tous les joueurs.
-
-**Voir aussi** : En jeu et Hors-jeu, Joueur, Victoire X
-
+_Voir aussi : [[EnJeuEtHorsJeu]], [[Joueur|Joueur]], [[VictoireX|Victoire X]]_  
 
 **EN v1.7**:  
 ```

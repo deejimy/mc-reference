@@ -1,8 +1,6 @@
 # Points de Vie Infini
 
-
-**Voir** : Points de vie
-
+_See: [[PointsDeVie|Points de Vie]]_
 
 **EN v1.7**:  
 ```

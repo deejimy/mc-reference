@@ -1,25 +1,22 @@
 # Points de vie
 
+Chaque personnage (identité, allié, sbire et méchant) possède une valeur de points de vie. Les points de vie représentent la durabilité de ce personnage.  
 
-Chaque personnage (identité, allié, sbire et méchant) possède une valeur de points de vie. Les points de vie représentent la résistance de ce personnage.
-Lorsque des dégâts sont infligés à un personnage, cela réduit les points de vie restants du personnage (la quantité de dégâts que ce personnage peut subir avant d'atteindre zéro point de vie).
+Quand des dégâts sont infligés à un personnage, ils réduisent les points de vie restants de ce personnage (la quantité de dégâts que ce personnage peut subir avant d’atteindre zéro point de vie).  
 
-  - L'expression "points de vie de départ" se réfère à la valeur de points de vie imprimée d'une identité.
+- <span class="new">L’expression « points de vie de départ » fait référence à la valeur imprimée des points de vie d’une identité.</span>  
+- Le compteur de points de vie d’une identité ou d’un méchant représente ses points de vie restants. Si une identité ou un méchant est blessé, appliquez les dégâts en réduisant le compteur de points de vie de ce personnage du montant indiqué.  
+- <span class="new">Quand une capacité indique qu’une identité ou un méchant « gagne +X points de vie », augmentez le compteur de points de vie de ce personnage de X pendant que la capacité est en vigueur ; si cet effet cesse, réduisez ensuite le compteur de X.</span>  
 
-  - Le compteur de points de vie d'une identité ou d'un méchant représente ses points de vie restants. Si une identité ou un méchant subit des dégâts, appliquez les dégâts en réduisant le compteur de points de vie de ce personnage de la quantité spécifiée.
+- Si le compteur de points de vie d’un joueur tombe à zéro, ce joueur est vaincu et éliminé de la partie.  
+- Si le compteur de points de vie d’un méchant tombe à zéro, ce stade du méchant est vaincu.  
 
-    - Si le compteur de points de vie d'un joueur est réduit à zéro, ce joueur est vaincu et éliminé de la partie.
+- Si un allié ou un sbire est blessé, indiquez les dégâts en plaçant des pions Dégât sur ce personnage. Les pions Dégât sur un allié ou un sbire diminuent les points de vie restants de ce personnage d’une valeur égale au total de pions. Un allié ou un sbire ayant zéro point de vie ou moins est vaincu et placé dans la pile de défausse appropriée.  
+- <span class="new">Si une capacité qui donne +X points de vie à un allié ou un sbire cesse d’être en vigueur et que les pions Dégât présents sont alors supérieurs ou égaux à sa valeur de points de vie, cet allié ou sbire est vaincu.</span>  
 
-    - Si le compteur de points de vie d'un méchant est réduit à zéro, ce stade du méchant est vaincu.
+Certains personnages peuvent avoir un nombre infini de points de vie. Un personnage avec un nombre infini de points de vie ne peut pas être vaincu en subissant des dégâts, car la quantité de dégâts que subit ce personnage n’amènera jamais son nombre de points de vie restants à zéro. Cependant, des dégâts peuvent tout de même être infligés à un personnage avec un nombre infini de points de vie par des attaques et des capacités de carte.  
 
-    - Lorsqu'une capacité qui dit qu'une identité ou un méchant "gagne +X points de vie" entre en vigueur, augmentez le compteur de points de vie de ce personnage de X. Si cette capacité cesse ensuite d'être en vigueur, réduisez le compteur de points de vie de ce personnage de X.
-
-  - Si un allié ou un sbire subit des dégâts, suivez les dégâts en plaçant des jetons de dégâts sur ce personnage. Les jetons de dégâts sur un allié ou un sbire réduisent les points de vie restants de ce personnage de la valeur totale des jetons. Un allié ou un sbire ayant zéro point de vie restant ou moins est vaincu et placé dans la pile de défausse appropriée.
-
-    - Si une capacité qui dit qu'un allié ou un sbire "gagne +X points de vie" cesse d'être en vigueur et amène cet allié ou sbire à avoir des dégâts sur lui égaux ou supérieurs à ses points de vie, cet allié ou sbire est vaincu.
-Certains personnages peuvent avoir un nombre infini de points de vie. Un personnage avec des points de vie infinis ne peut pas être vaincu en subissant des dégâts, car la quantité de dégâts que ce personnage subit ne fera jamais tomber ses points de vie restants à zéro. Cependant, des dégâts peuvent toujours être infligés à un personnage ayant des points de vie infinis par le biais d'attaques et de capacités de carte.
-
-**Voir aussi** : Allié, Dégâts, Vaincre, Soigner, Identité, Maximum de points de vie, Sbire, Modificateurs, Élimination d'un joueur, Points de vie restants, Dégâts subis, Méchant, Vaincre le méchant
+_Voir aussi : [[Allie|Allié]], [[Degats|Dégâts]], [[DegatsSubis|Dégâts Subis]], [[EliminationDeJoueur|Elimination de Joueur]], [[Gagner|Gagner / Perdre (une statistique)]], [[Identite|Identité]], [[MechantDeckMechant|Méchant]], [[PointsDeVieMaximums|Points de Vie Maximums]], [[PointsDeVieRestants|Points de Vie Restants]], [[Sbire|Sbire]], [[Soigner|Soigner]], [[VaincreDejouer|Vaincre / Déjouer]], [[VaincreLeMechant|Vaincre le Méchant]]_  
 
 
 **EN v1.7**:  

@@ -1,23 +1,17 @@
 # Prévenir
 
+Certaines capacités de cartes peuvent prévenir des dégâts ou des menaces.  
 
-Certaines capacités de cartes préviennent les dégâts ou la menace.
+- Quand des dégâts sont prévenus, diminuez la quantité de dégâts que la cible subit (c’est‑à‑dire la quantité de dégâts placée sur la cible).  
+    - <span class="new">Quand un effet prévient des dégâts infligés à un personnage, la quantité de dégâts que ce personnage « subit » est réduite, mais la quantité de dégâts « infligée » n’est pas réduite.</span>  
+    - <span class="new">Si un effet prévient tous les dégâts infligés à un personnage, ce personnage n’est pas considéré comme ayant subi des dégâts.</span>  
+    - <span class="new">Si tous les dégâts d’une attaque sont prévenus, le personnage attaquant est considéré comme ayant infligé des dégâts, mais il n’est pas considéré comme ayant « attaqué et blessé » le personnage attaqué.</span>  
+    - <span class="new">Si infliger des dégâts est un coût, ce coût est considéré comme payé même si une partie ou la totalité de ces dégâts est prévenue.</span>  
+    - <span class="new">Si subir des dégâts est un coût, ce coût n’est considéré comme payé que si la totalité de ces dégâts est subie. (Si une partie des dégâts est prévenue, le coût n’est pas payé.)</span>  
 
-  - Lorsque des dégâts sont prévenus, réduisez la quantité de dégâts que la cible reçoit (c'est-à-dire la quantité de jetons de dégâts placés sur elle).
+- Quand des menaces sont prévenues, diminuez la quantité de menaces assignées avant qu’elles ne soient placées sur la manigance.  
 
-    - Lorsqu'un effet prévient des dégâts infligés à un personnage, la quantité de dégâts que ce personnage "reçoit" est réduite, mais la quantité de dégâts "infligés" ne l'est pas.
-
-    - Si un effet prévient tous les dégâts infligés à un personnage, ce personnage est considéré comme n'ayant pas reçu de dégâts.
-
-    - Si tous les dégâts d'une attaque sont prévenus, le personnage attaquant est considéré comme ayant infligé des dégâts, mais n'est pas considéré comme ayant "attaqué et blessé" le personnage cible.
-
-    - Si infliger des dégâts est un coût, ce coût est considéré comme payé même si une partie ou la totalité des dégâts est prévenue.
-
-    - Si recevoir des dégâts est un coût, ce coût n'est considéré comme payé que si la totalité des dégâts a été reçue. (Si une partie des dégâts est prévenue, le coût n'est pas payé.)
-
-  - Lorsque de la menace est prévenue, réduisez la quantité de menace assignée avant qu'elle ne soit placée sur la manigance.
-
-**Voir aussi** : Capacité, Coût, Dégâts, Manigance (Type de carte), Cible, Menace
+_Voir aussi : [[Capacite|Capacité]], [[Cout|Coût]], [[Degats|Dégâts]], [[ManiganceTypeDeCarte|Manigance (Type de Carte)]], [[Cible|Cible]], [[Menace|Menace]]_  
 
 
 **EN v1.7**:  
