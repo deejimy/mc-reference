@@ -1,8 +1,6 @@
 # Non défendue
 
-
-**Voir** : Attaque (Activation d'ennemi)
-
+_Voir : [[Attaque|Attaque (Activation des Ennemis)]]_
 
 **EN v1.7**:  
 ```
