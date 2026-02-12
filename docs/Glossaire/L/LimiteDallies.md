@@ -1,8 +1,12 @@
 # Limite d'Alliés
 
+Chaque joueur a le droit de contrôler un maximum de trois alliés en jeu simultanément. On appelle cela la « limite d’alliés ».  
+Un joueur peut jouer ou mettre en jeu des alliés au‑delà de sa limite d’alliés.  
+Cependant, si un joueur contrôle un nombre d’alliés supérieur à sa limite d’alliés, il doit immédiatement choisir et défausser des cartes Allié qu’il contrôle jusqu’à atteindre la valeur de sa limite d’alliés.  
+Ceci se produit avant les capacités qui se résolvent suite à une entrée en jeu. 
 
-Chaque joueur est autorisé à contrôler un maximum de trois alliés en jeu à tout moment. C'est ce qu'on appelle la "limite d'alliés".
-Un joueur peut jouer ou mettre en jeu des alliés au-delà de sa limite d'alliés. Cependant, si un joueur contrôle un nombre d'alliés supérieur à sa limite d'alliés en jeu, il doit immédiatement choisir et défausser du jeu des cartes d'allié qu'il contrôle jusqu'à ce qu'il ait un nombre d'alliés en jeu égal à sa limite d'alliés. Cela se produit avant les capacités qui se résolvent lors de l'entrée en jeu.
+_Voir aussi : [[Allie|Allié]], [[ChoisirElementDeJeu|Choisir]], [[DefausserDefausse|Défausser]], [[EntrerEnJeu|Entrer en Jeu]]_  
+
 
 
 **EN v1.7**:  

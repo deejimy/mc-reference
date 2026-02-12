@@ -1,11 +1,13 @@
-# Lié (Titre de Carte)
+# Liée (Titre de Carte)
 
+<span class="new">Les cartes portant le mot‑clé Lié ne peuvent pas être incluses dans un deck. Elles sont mises de côté au début de la partie si un deck comprend la carte qui ramène les cartes liées en jeu (la carte est indiquée entre parenthèses après le mot‑clé).</span>  
 
-Lié est un mot-clé qui indique qu'une carte est associée à une autre carte spécifique.
+- <span class="new">Les cartes Liées ne comptent pas dans la taille minimale ou maximale du deck.</span>  
+- <span class="new">Le nombre de cartes Liées mises de côté pendant la mise en place est égal au nombre de ces cartes incluses dans le produit d’où provient la carte liée.</span>  
+    - <span class="new">Si plusieurs decks contiennent la même carte nommée sur une ou plusieurs cartes Liées, mettez de côté le nombre approprié de cartes pour chaque deck qui contient la carte nommée.</span>  
+- <span class="new">Quand un joueur prend le contrôle d’une carte portant le mot‑clé Lié, ce joueur devient le propriétaire de cette carte.</span>  
 
-  - Les cartes liées ne peuvent entrer en jeu que si la carte à laquelle elles sont liées est également en jeu ou est mise en jeu simultanément.
-
-**Voir aussi** : Mots-clés
+_Voir aussi : [[MotsCles|Mots‑clés]], [[ProprieteEtControle|Propriété et contrôle]], [[MettreDeCoteMisDeCote|Mettre de Côté, Mis de Côté]]_  
 
 
 **EN v1.7**:  

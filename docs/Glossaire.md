@@ -147,7 +147,7 @@
 [[JoueurActif|Joueur Actif]] :material-alert-outline:  
 
 ## L
-[[LieTitreDeCarte|Lié (Titre de Carte)]] :material-alert-outline:  
+[[LieTitreDeCarte|Liée (Titre de Carte)]] :material-alert-outline:  
 [[Limite|Limite]] :material-alert-outline:  
 [[LimiteDallies|Limite d'Alliés]] :material-alert-outline:  
 [[LimiteDeManiganceAnnexeDeJoueur|Limite de Manigance Annexe de Joueur]] :material-alert-outline:  

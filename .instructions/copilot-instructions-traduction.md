@@ -77,6 +77,7 @@ Pour traduire les termes et expressions spécifiques au jeu, se référer aux mo
 - attack = attaque
 - damage = dégâts
 - health = santé
+- linked = Liée
 - defend = défendre
 - steady = solide
 - stalwart = robuste

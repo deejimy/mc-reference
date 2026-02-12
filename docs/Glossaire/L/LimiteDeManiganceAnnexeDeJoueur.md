@@ -1,13 +1,13 @@
 # Limite de Manigance Annexe de Joueur
 
+<span class="new">Le nombre de manigances annexes de joueur en jeu à un moment donné est limité par la limite de manigances annexes de joueur.</span>  
 
-Le nombre de manigances annexes de joueur en jeu à tout moment est restreint par la limite de manigances annexes de joueur.
+- <span class="new">Si un ou deux joueurs ont commencé la partie, la limite est d’une manigance annexe de joueur. Si trois ou quatre joueurs ont commencé la partie, la limite est de deux.</span>  
+- <span class="new">Si le nombre de manigances annexes de joueur en jeu dépasse la limite, le premier joueur choisit et défausse des manigances annexes de joueur jusqu’à ce que le nombre en jeu soit égal à la limite.</span>  
 
-  - Si un ou deux joueurs ont commencé la partie, la limite est de une. Si trois ou quatre joueurs ont commencé la partie, la limite est de deux.
+<span class="new">Ceci se produit avant les capacités qui se résolvent suite à une entrée en jeu.</span>  
 
-  - S'il y a plus de manigances annexes de joueur en jeu que la limite, le premier joueur choisit et défausse des manigances annexes de joueur jusqu'à ne plus dépasser la limite.
-
-**Voir aussi** : Manigance annexe de joueur
+_Voir aussi : [[ManiganceAnnexeDeJoueur|Manigance annexe de joueur]]_  
 
 
 **EN v1.7**:  

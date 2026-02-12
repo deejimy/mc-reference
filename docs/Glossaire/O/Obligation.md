@@ -15,6 +15,7 @@ Si un joueur révèle une carte Obligation du deck Rencontre et que cette obliga
 - Seul le joueur avec l’obligation dans sa zone de jeu peut déclencher les capacités ou payer les coûts figurant sur cette obligation.  
 
 <span class="new">Si un joueur pioche une carte Obligation depuis son deck joueur, il place cette obligation dans sa zone de jeu.</span>  
+
 - <span class="new">Le joueur ne pioche pas de carte pour remplacer l’obligation, sauf s’il est en train de remplir sa main jusqu’à sa taille de main.</span>  
 
 _Voir aussi : [[TypesDeCarte|Types de Carte]], [[CartesRencontre|Carte Rencontre]], [[DeckRencontre|Deck Rencontre]], [[EntrerEnJeu|Entrer en Jeu]], [[FormeChangerDeForme|Forme]], [[Identite|Identité]], [[QuitterLeJeu|Quitter le Jeu]], [[Joueur|Joueur]], [[EliminationDeJoueur|Élimination de Joueur]], [[RetireDeLaPartie|Retiré de la Partie]]_  

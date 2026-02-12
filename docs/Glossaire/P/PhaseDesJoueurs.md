@@ -4,7 +4,7 @@ Lors de la phase des Joueurs, chaque joueur effectue son tour (dans l’ordre de
 
 Après que chaque joueur a effectué son tour, les joueurs défaussent des cartes ou piochent des cartes jusqu’à atteindre leur taille de main et redressent toutes les cartes qu’ils contrôlent.  
 
-<span class="new">- Les effets qui durent « jusqu’à la fin de la phase des joueurs » prennent fin après que les joueurs ont défaussé ou pioché jusqu’à leur taille de main et que toutes les cartes ont été redressées. Ensuite, résolvez les effets qui se déclenchent « quand/ après la fin de la phase des joueurs ». </span>  
+- <span class="new">Les effets qui durent « jusqu’à la fin de la phase des joueurs » prennent fin après que les joueurs ont défaussé ou pioché jusqu’à leur taille de main et que toutes les cartes ont été redressées. Ensuite, résolvez les effets qui se déclenchent « quand/ après la fin de la phase des joueurs ». </span>  
 
 _Voir aussi : [[FinDeLaPhaseDesJoueurs|Fin de la Phase des Joueurs]], [[DansLordreDesJoueurs|Dans l’Ordre des Joueurs]], [[Joueur|Joueur]], [[TourDeJoueur|Tour de Joueur]]_  
 
