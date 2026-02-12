@@ -2900,7 +2900,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../E/EnJeuAndHorsJeu/" class="md-nav__link">
+      <a href="../../E/EnJeuEtHorsJeu/" class="md-nav__link">
         
   
   
@@ -5040,7 +5040,7 @@
   <span class="md-ellipsis">
     
   
-    ModeCampagne
+    Mode Campagne
   
 
     
@@ -8622,20 +8622,24 @@
 
 
 <h1 id="manigance-principale-deck-manigance-principale">Manigance principale, deck manigance principale<a class="headerlink" href="#manigance-principale-deck-manigance-principale" title="Permanent link">&para;</a></h1>
-<p>La manigance principale est un type de carte Rencontre qui représente l'objectif du méchant. Le deck de manigance principale contient les différents stades de la manigance principale pour un scénario donné.</p>
+<p>La manigance principale est un type de carte Rencontre représentant l’objectif principal du méchant.  </p>
 <ul>
-<li>
-<p>La manigance principale est toujours en jeu.</p>
-</li>
-<li>
-<p>Si la quantité de menaces sur la manigance principale est égale ou supérieure au seuil de menace spécifié sur la carte, cette étape de la manigance est terminée.</p>
-</li>
-<li>
-<p>Si l'étape finale de la manigance principale est terminée, les joueurs perdent la partie.</p>
-</li>
+<li>Pendant la première étape de la phase du méchant, placez sur la manigance principale la quantité de menaces indiquée dans son champ d’accélération (coin inférieur droit). Cette valeur est modifiée par tous les pions et icônes d’accélération actifs.  </li>
+<li>Si la quantité de menaces sur une manigance principale est supérieure ou égale à sa valeur de menace cible, cette manigance est considérée comme déjouée et le deck Manigance Principale avance.  </li>
+<li><span class="new">Si le méchant achève le dernier stade du deck Manigance Principale, le méchant gagne la partie.</span>  </li>
+<li><span class="new">Si le deck Manigance Principale avance autrement que parce que la menace sur la carte a atteint ou dépassé sa valeur de menace cible, cette manigance n’est pas considérée comme déjouée.</span>  </li>
 </ul>
-<p><strong>Voir aussi</strong> : Types de carte, Carte de rencontre, Menace, Méchant</p>
-<p><strong>EN v1.7</strong>:<br />
+<p><span class="new">Quand le deck Manigance Principale avance, procédez ainsi :</span><br />
+1. <span class="new">Retirez le haut du deck Manigance Principale de la partie. Renvoyez tous les jetons qui étaient sur cette carte (sauf les pions Accélération) dans la réserve de jetons et défaussez chaque carte qui y était attachée.</span><br />
+2. <span class="new">Résolvez toute capacité « Une fois révélée » sur la face « A » de la nouvelle carte du haut du deck Manigance Principale.</span><br />
+3. <span class="new">Retournez la carte du haut du deck Manigance Principale sur sa face « B », placez dessus un nombre de menaces égal à sa valeur de menace de départ, puis résolvez toute capacité « Une fois révélée » présente sur cette face.</span>  </p>
+<ul>
+<li>Quand le deck Manigance Principale avance, la menace excédentaire du stade précédent n’est pas reportée sur le nouveau stade.  </li>
+<li>Quand le deck Manigance Principale avance, les pions Accélération qui étaient dessus sont reportés sur le nouveau stade.  </li>
+<li>Les cartes Manigance Principale ne peuvent pas être défaussées du jeu.  </li>
+</ul>
+<p><em>Voir aussi : <a href="../../I/IconeDacceleration/">Accélération</a>, <a href="../../C/CartesRencontre/">Carte Rencontre</a>, <a href="../../P/PionDacceleration/">Pion Accélération</a>, <a href="../../T/TypesDeCarte/">Types de Carte</a>, <a href="../../R/RetireDeLaPartie/">Retiré de la Partie</a>, <a href="../MechantDeckMechant/">Méchant</a>, <a href="../Menace/">Menace</a>, <a href="../../S/SeuilDeMenace/">Seuil de menace</a>, <a href="../../P/PhaseDuMechant/">Phase du Méchant</a></em>  </p>
+<p><strong>EN v1.7</strong>:
 <div class="highlight"><pre><span></span><code>MAIN SCHEME, MAIN SCHEME DECK
 Main scheme is an encounter card type. The main scheme represents the villain’s primary objective.
 • During step one of the villain phase, place the amount of threat indicated in the main scheme’s acceleration field (bottom-right corner) on that scheme. This value is modified by all active acceleration tokens and icons.

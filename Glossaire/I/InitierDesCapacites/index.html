@@ -2900,7 +2900,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../E/EnJeuAndHorsJeu/" class="md-nav__link">
+      <a href="../../E/EnJeuEtHorsJeu/" class="md-nav__link">
         
   
   
@@ -5040,7 +5040,7 @@
   <span class="md-ellipsis">
     
   
-    ModeCampagne
+    Mode Campagne
   
 
     
@@ -8622,27 +8622,24 @@
 
 
 <h1 id="initier-des-capacites-jouer-des-cartes">Initier des Capacités, Jouer des cartes<a class="headerlink" href="#initier-des-capacites-jouer-des-cartes" title="Permanent link">&para;</a></h1>
-<p>Lorsqu'un joueur souhaite jouer une carte ou initier une capacité déclenchée, ce joueur déclare d'abord son intention. Ensuite, le joueur vérifie les conditions suivantes dans l'ordre :</p>
-<ol>
-<li>
-<p>Vérifier les restrictions de jeu : la carte peut-elle être jouée, ou la capacité initiée, à ce moment-là ?</p>
-</li>
-<li>
-<p>Si la carte ou la capacité spécifie une ou plusieurs cibles, vérifiez qu'elle possède au moins une cible valide.</p>
-</li>
-<li>
-<p>Déterminer si la capacité peut être au moins partiellement résolue.</p>
-</li>
-<li>
-<p>Payer tous les coûts associés (y compris les coûts en ressources, l'inclinaison de cartes et les coûts décrits dans le texte).</p>
-</li>
-</ol>
-<p>Une fois ces étapes franchies, la capacité est considérée comme initiée et commence sa résolution.</p>
+<p>Quand un joueur souhaite jouer une carte ou initier une capacité déclenchée, ce joueur doit d’abord déclarer son intention.<br />
+Ensuite, il vérifie les conditions suivantes dans l’ordre :<br />
+1. Vérifier les restrictions de jeu : la carte peut‑elle être jouée ou la capacité initiée à ce moment ?<br />
+    - Si la carte ou la capacité précise une ou plusieurs cibles, vérifiez qu’il existe au moins une cible valide. Si la carte ou la capacité n’a pas au moins une cible valide, elle ne peut pas être jouée ni initiée.<br />
+2. Déterminer le coût (ou les coûts) pour jouer la carte ou initier la capacité et la capacité du joueur à les payer, en prenant en compte les modificateurs.<br />
+    - <span class="new">Si une carte a un coût en ressources exprimé par X, le joueur qui la joue choisit la valeur de X lors de cette étape.</span>  </p>
+<p>Si ces deux conditions sont remplies, accomplissez les étapes suivantes, dans l’ordre :<br />
+3. <span class="new">Si une carte est jouée, le joueur place cette carte face visible devant lui sur la table. (Cette carte n’est pas en jeu.)</span><br />
+4. Appliquez tous les modificateurs au(x) coût(s).<br />
+5. Payez le ou les coûts. Si cette étape est atteinte et que le(s) coût(s) ne peuvent pas être payés, mettez fin à ce processus sans payer aucun coût.<br />
+6. La carte commence à être jouée, ou les effets de la capacité tentent de s’initier.<br />
+7. La carte est jouée ou la capacité (si elle n’a pas été annulée à l’étape précédente) est résolue. La carte entre en jeu ou, s’il s’agit d’une carte Événement, ses effets sont résolus puis elle est placée dans la pile de défausse de son propriétaire.  </p>
 <ul>
-<li>Lorsqu'un joueur joue une carte, cette carte est considérée comme ayant été jouée dès que ses coûts sont payés.</li>
-<li>Lorsqu'un joueur utilise une capacité déclenchée, cette capacité est considérée comme ayant été utilisée dès que ses coûts sont payés.</li>
+<li>Si n’importe laquelle des étapes ci‑dessus devait remplir la condition de déclenchement d’une capacité d’interruption, cette capacité peut être initiée juste avant que cette condition ne soit remplie.  </li>
+<li>Si n’importe laquelle des étapes ci‑dessus devait remplir la condition de déclenchement d’une capacité de réponse, cette capacité peut être initiée immédiatement après que cette condition ait été remplie.  </li>
+<li>Si la capacité initiée se trouve sur une carte en jeu, la séquence ne s’interrompt pas si la carte quitte le jeu pendant la séquence, à moins que le fait que la carte quitte le jeu n’empêche un coût requis d’être payé.  </li>
 </ul>
-<p><strong>Voir aussi</strong> : Capacité, Coût, Jouer, Résolution des capacités, Cible</p>
+<p><em>Voir aussi : <a href="../../C/Capacite/">Capacité</a>, <a href="../../C/Cout/">Coût</a>, <a href="../../R/RestrictionsEtPermissionsDeJeu/">Restrictions et Permissions de Jeu</a></em>  </p>
 <p><strong>EN v1.7</strong>:<br />
 <div class="highlight"><pre><span></span><code>INITIATING ABILITIES
 When a player wishes to play a card or initiate a triggered ability, that player first declares their intent. Then, the player checks the following conditions in order:

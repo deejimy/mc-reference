@@ -2900,7 +2900,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../E/EnJeuAndHorsJeu/" class="md-nav__link">
+      <a href="../../E/EnJeuEtHorsJeu/" class="md-nav__link">
         
   
   
@@ -5030,7 +5030,7 @@
   <span class="md-ellipsis">
     
   
-    ModeCampagne
+    Mode Campagne
   
 
     
@@ -8622,16 +8622,21 @@
 
 
 <h1 id="modificateurs">Modificateurs<a class="headerlink" href="#modificateurs" title="Permanent link">&para;</a></h1>
-<p>Les modificateurs sont des capacités de carte ou des règles de jeu qui modifient les statistiques ou les capacités d'une carte.</p>
+<p><span class="new">Le jeu vérifie constamment et actualise (si nécessaire) le compte de toute quantité variable qui est modifiée.</span>  </p>
+<p>Chaque fois qu’un nouveau modificateur est appliqué ou retiré, la valeur concernée est recalculée entièrement depuis le début en prenant en compte la valeur de base non modifiée et tous les modificateurs actifs.  </p>
 <ul>
-<li>
-<p>Les modificateurs s'appliquent après avoir déterminé la valeur de base d'une statistique.</p>
-</li>
-<li>
-<p>Si plusieurs modificateurs s'appliquent, appliquez d'abord les additions et soustractions, puis les multiplications et divisions.</p>
-</li>
+<li><span class="new">L’icône « par joueur » <img alt="icone_joueur.jpg" src="../../../img/icone_joueur.jpg" width="15" /> n’est pas considérée comme un modificateur et s’applique avant que les autres modificateurs ne soient pris en compte.</span>  </li>
+<li>Le calcul d’une valeur considère tous les modificateurs comme étant appliqués simultanément. Cependant, lors du calcul, tous les modificateurs additifs ou soustractifs sont calculés avant les modificateurs multiplicatifs ou divisifs.  </li>
+<li>Si une valeur est « fixée » à un nombre spécifique, le modificateur fixé supplante tous les autres modificateurs qui ne sont pas fixés. Si plusieurs modificateurs fixant une valeur entrent en conflit, le modificateur fixé le plus récemment résolu prend la priorité.  </li>
+<li>Après que tous les modificateurs actifs ont été pris en compte, si une valeur est inférieure à zéro, elle est considérée comme étant égale à zéro : une carte ne peut pas avoir d’icônes, d’attributs, de traits, de coût ou de mots‑clé « négatifs ».  </li>
+<li>Toutes les valeurs fractionnaires sont arrondies au nombre supérieur après application de tous les modificateurs.  </li>
+<li><span class="new">Si une capacité de carte fait qu’un personnage gagne une statistique (par exemple +1 ATQ ou 4 points de vie), la capacité modifie la statistique du personnage tant qu’elle est active.</span>  <ul>
+<li><span class="new">Si une telle capacité expire ou devient inactive pour une autre raison, la statistique modifiée revient à la valeur qu’elle aurait sans ce modificateur.</span>  </li>
 </ul>
-<p><strong>Voir aussi</strong> : Valeur de base, Points de vie</p>
+</li>
+<li><span class="new">Une valeur représentée par un tiret (–) ne peut pas être modifiée.</span>  </li>
+</ul>
+<p><em>Voir aussi : <a href="../../V/ValeurDeBase/">Valeur de base</a>, <a href="../../T/TiretValeur/">Tiret (Valeur)</a>, <a href="../../I/Imprime/">Imprimé</a></em>  </p>
 <p><strong>EN v1.7</strong>:<br />
 <div class="highlight"><pre><span></span><code>MODIFIERS
 The game constantly checks and (if necessary) updates the count of any variable quantity that is being modified.
