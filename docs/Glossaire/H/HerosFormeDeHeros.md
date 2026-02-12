@@ -1,7 +1,6 @@
 # Héros, forme de héros
 
-
-**Voir** : Forme, Identité
+_Voir : [[FormeChangerDeForme|Forme]], [[Identite|Identité]]_
 
 
 **EN v1.7**:  

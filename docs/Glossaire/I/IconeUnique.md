@@ -1,28 +1,29 @@
-# Icône Unique
+# Icône Unique  
 
+Une carte avec une icône ![[icone_unique.jpg|15]] devant son titre est unique.  
 
-L'icône unique (![[icone_unique.jpg|15]]) indique une carte représentant une personne, un lieu ou un objet singulier dans l'univers Marvel.
+- Les joueurs n’ont collectivement le droit d’avoir qu’un seul exemplaire de chaque carte unique (par titre) en jeu.  
+- Un joueur ne peut inclure qu’un seul exemplaire de chaque carte unique (par titre) dans son deck. La carte Identité est incluse dans cette évaluation.  
 
-  - Deux cartes uniques sont considérées comme "identiques" si :
+Dans l’Univers Marvel, il est possible que plusieurs personnages portent un même titre (par exemple, plusieurs personnages ont porté le titre de « Captain America »). C’est pourquoi la comparaison des alter‑egos et/ou des sous‑titres entre deux cartes crée les exceptions suivantes aux règles sur les cartes uniques.  
 
-    - Elles partagent un titre, sans sous-titre ni titre d'alter-ego (ex: deux Jarnbjorn, ou l'alliée Jessica Jones et le sbire Jessica Jones).
+- Si deux identités partagent un même titre, mais que chacune possède un alter‑ego différent, ces deux cartes peuvent coexister en jeu.  
+- Si deux alliés uniques partagent le même titre, mais que chacun possède un sous‑titre différent, ces deux cartes peuvent coexister dans le deck d’un joueur et en jeu.  
+- Si un héros et un allié unique partagent le même titre, mais que l’alter‑ego et le sous‑titre sont différents, ces deux cartes peuvent coexister dans le deck d’un joueur et en jeu.  
 
-    - Le sous-titre ou titre d'alter-ego de l'une correspond au titre, sous-titre ou alter-ego de l'autre (ex: l'identité T'Challa, l'allié T'Challa et l'allié Black Panther avec le sous-titre "T'Challa").
+De plus, certains sbires uniques peuvent porter le même titre que d’autres personnages.  
 
-  - Un joueur ne peut pas inclure plusieurs cartes identiques dans son deck. L'identité compte dans cette évaluation.
+- Si un sbire unique est révélé du deck Rencontre et tente d’entrer en jeu alors qu’un autre personnage unique avec le même titre est déjà en jeu, le joueur révélant ce sbire le défausse, puis révèle une nouvelle carte du deck Rencontre.  
+- Si une capacité de carte tente de mettre en jeu un sbire unique alors qu’un autre personnage unique avec le même titre est déjà en jeu, ce sbire ne peut pas entrer en jeu et l’effet de « mise en jeu » échoue à se résoudre. Résolvez le reste de la capacité de la carte normalement.  
 
-  - Lors du choix des identités à la mise en place, les joueurs ne peuvent pas choisir des identités identiques.
+<span class="new">Lors du choix des identités lors de la mise en place, les joueurs ne peuvent pas choisir d’identités qui se correspondent.</span>  
+    - <span class="new">Les joueurs peuvent choisir un scénario même si un ou plusieurs méchants correspondent à une ou plusieurs identités choisies.</span>  
 
-    - Les joueurs peuvent choisir un scénario même si un ou plusieurs méchants sont identiques à une ou plusieurs identités choisies.
+<span class="new">Une carte non‑méchant en dehors du jeu qui correspond à une carte en jeu ne peut pas entrer en jeu.  
+    - Si c’est une carte joueur, elle ne peut pas être jouée ni mise en jeu. Tout effet tentant de le faire n’a aucun effet.</span>  
+- Si une carte Rencontre non‑méchant correspond à une carte en jeu, elle est défaussée et tout effet lié à son entrée en jeu est ignoré. Si elle était en train d’être révélée, tout effet lié à sa révélation est ignoré et le joueur qui l’a révélée reçoit une carte Rencontre face cachée.  
 
-    - Une carte non-méchant hors-jeu identique à une carte en jeu ne peut pas entrer en jeu. S'il s'agit :
-
-    - D'une carte de joueur, elle ne peut être ni jouée ni mise en jeu.
-
-  - D'une carte Rencontre non-méchant, elle est défaussée. Si elle était en train d'être révélée, ses effets sont ignorés et le joueur se voit distribuer une nouvelle carte Rencontre face cachée.
-
-**Voir aussi** : Allié, Entre en jeu, Identité, Sbire, Joueur, Sous-titre, Méchant, Appendice I : Personnalisation du deck
-
+_Voir aussi : [[Allie|Allié]], [[EntrerEnJeu|Entrer en Jeu]], [[Identite|Identité]], [[Sbire|Sbire]], [[Joueur|Joueur]], [[SousTitre|Sous-Titre]], [[MechantDeckMechant|Méchant]], [[PersonnalisationDuDeck|Appendice I : Decks Personnalisés]]_  
 
 **EN v1.7**:  
 ```

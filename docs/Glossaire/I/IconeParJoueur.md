@@ -1,11 +1,10 @@
-# Icône Par Joueur
+# Icône Par Joueur  
 
+L’icône ![[icone_joueur.jpg|15]] située après une valeur multiplie cette valeur par le nombre de joueurs qui ont commencé ce scénario.  
 
-L'icône ![[icone_joueur.jpg|15]] à côté d'une valeur multiplie cette valeur par le nombre de joueurs ayant commencé le scénario.
+- Si un joueur est éliminé, cette valeur ne change pas.  
 
-  - Si un joueur est éliminé, cette valeur ne change pas.
-
-**Voir aussi** : Icônes, Modificateurs, Élimination d'un joueur
+_Voir aussi : [[Icone|Icônes]], [[Modificateurs|Modificateurs]], [[EliminationDeJoueur|Élimination de Joueur]]_  
 
 
 **EN v1.7**:  

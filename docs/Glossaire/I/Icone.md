@@ -1,35 +1,22 @@
 # Icône
 
+Une icône est un élément de jeu qui symbolise diverses fonctions du jeu.  
 
-Les icônes sont des éléments graphiques qui représentent diverses fonctions au sein du jeu.
+- Icône Énergie (![[icone_energie.jpg|15]]) : une icône Énergie est une icône de ressource qui génère 1 ressource énergie lorsqu’elle est dépensée.  
+- Icône Mentale (![[icone_mentale.jpg|15]]) : une icône Mentale est une icône de ressource qui génère 1 ressource mentale lorsqu’elle est dépensée.  
+- Icône Physique (![[icone_physique.jpg|15]]) : une icône Physique est une icône de ressource qui génère 1 ressource physique lorsqu’elle est dépensée.  
+- Icône Libre (![[icone_libre.jpg|15]]) : une icône Libre est une icône de ressource qui peut générer une ressource énergie, mentale, physique ou libre lorsqu’elle est dépensée.  
+- Icône d’Accélération (![[icone_acceleration.jpg|15]]) : une icône d’accélération place une menace supplémentaire sur la manigance principale pendant la phase du méchant.  
+- Icône d’Amplification (![[icone_amplification.jpg|15]]) : une icône d’amplification augmente de 1 le nombre d’icônes de boost sur les cartes de boost lors des activations ennemies.  
+- Icône de Crise (![[icone_crise.jpg|15]]) : une icône de crise empêche les joueurs de retirer de la menace de la manigance principale.  
+- Icône d’Aléas (![[icone_aleas.jpg|15]]) : une icône d’aléas augmente le nombre de cartes Rencontre distribuées aux joueurs pendant la phase du méchant ; chaque icône d’aléas fait distribuer une carte supplémentaire à un joueur (pas une carte par joueur).  
+- Icône de Boost (![[icone_boost.jpg|15]]) : une icône de boost augmente l’ATQ ou la MNG de l’ennemi qui s’active lors des activations ennemies.  
+- Icône d’Étoile (![[icone_etoile.jpg|15]]) : une icône d’étoile est utilisée avec une statistique ou un champ de boost d’une carte pour indiquer qu’il existe une capacité obligatoire dans la boîte de texte correspondant à ce champ.  
+- Icône de Dégâts Consécutifs (![[icone_consecutif.jpg|15]]) : une icône de dégâts consécutifs est utilisée avec le champ ATQ ou CTR d’un allié ; après qu’un allié attaque ou contre, il subit 1 dégât consécutif par icône de dégâts consécutifs dans ce champ.  
+- <span class="new">Icône de coût (→) : une icône en forme de flèche sépare le coût d’une capacité de ses effets.</span>  
+- Icône Par Joueur (![[icone_joueur.jpg|15]]) : une icône par joueur à côté d’une valeur multiplie cette valeur par le nombre de joueurs ayant commencé le scénario.  
+- Icône Unique (![[icone_unique.jpg|15]]) : une icône unique dans le titre d’une carte indique que la carte est unique.  
 
-  - Icône Énergie (![[icone_energie.jpg|15]]) : une icône d'énergie est une icône de ressource qui génère une ressource énergie lorsqu'elle est dépensée. (**Voir** : Ressource énergie)
-
-  - Icône Mentale (![[icone_mentale.jpg|15]]) : une icône mentale est une icône de ressource qui génère une ressource mentale lorsqu'elle est dépensée. (**Voir** : Ressource mentale)
-
-  - Icône Physique (![[icone_physique.jpg|15]]) : une icône physique est une icône de ressource qui génère une ressource physique lorsqu'elle est dépensée. (**Voir** : Ressource physique)
-
-  - Icône Libre (![[icone_libre.jpg|15]]) : une icône libre est une icône de ressource qui peut générer une ressource énergie, mentale, physique ou libre lorsqu'elle est dépensée. (**Voir** : Ressource libre)
-
-  - Icône d'accélération (![[icone_acceleration.jpg|15]]) : une icône d'accélération place de la menace supplémentaire sur la manigance principale pendant la phase du méchant. (**Voir** : Icône d'accélération)
-
-  - Icône d'amplification (![[icone_amplification.jpg|15]]) : une icône d'amplification augmente de un le nombre d'icônes de boost sur les cartes de boost pendant les activations ennemies. (**Voir** : Icône d'amplification)
-
-  - Icône de crise (![[icone_crise.jpg|15]]) : une icône de crise empêche les joueurs de retirer de la menace de la manigance principale. (**Voir** : Icône de crise)
-
-  - Icône d'aléa (![[icone_aleas.jpg|15]]) : une icône d'aléa augmente le nombre de cartes de rencontre distribuées aux joueurs pendant la phase du méchant. Chaque icône d'aléa distribue à un joueur une carte supplémentaire (pas une carte par joueur). (**Voir** : Icône d'aléa)
-
-  - Icône de Boost (![[icone_boost.jpg|15]]) : une icône de boost augmente la valeur d'ATK ou de MNG de l'ennemi qui s'active pendant les activations ennemies. (**Voir** : Boost)
-
-  - Icône Étoile (![[icone_etoile.jpg|15]]) : une icône étoile est utilisée conjointement avec le champ de statistique ou de boost d'une carte pour indiquer qu'il existe une capacité obligatoire dans la boîte de texte correspondant à ce champ. (**Voir** : Icône étoile)
-
-  - Icône de dégâts consécutifs (![[icone_consecutif.jpg|15]]) : une icône de dégâts consécutifs est utilisée conjointement avec le champ ATK ou CTR d'un allié. Après qu'un allié a attaqué ou contré, il subit un dégât consécutif pour chaque icône de dégâts consécutifs dans ce champ. (**Voir** : Dégâts consécutifs)
-
-  - Flèche de coût (→) : une flèche de coût sépare le coût d'une capacité de ses effets. (**Voir** : Icône de flèche de coût)
-
-  - Icône Par Joueur (![[icone_joueur.jpg|15]]) : une icône par joueur à côté d'une valeur multiplie cette valeur par le nombre de joueurs ayant commencé le scénario. (**Voir** : Icône par joueur)
-
-  - Icône Unique (![[icone_unique.jpg|15]]) : une icône unique dans le titre d'une carte indique que la carte est unique. (**Voir** : Icône unique)
 
 
 **EN v1.7**:  

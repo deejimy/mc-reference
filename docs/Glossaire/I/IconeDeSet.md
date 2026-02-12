@@ -1,9 +1,9 @@
 # Icône de Set
 
+L’icône de set indique le produit d’origine d’une carte ; elle est située dans les informations de collection au bas de la carte.  
 
-L'icône de set indique l'origine de la carte (set de héros, scénario, etc.).
+_Voir aussi : Appendice III : Description des Cartes_  
 
-**Voir aussi** : Appendice III : Anatomie d'une carte
 
 
 **EN v1.7**:  
