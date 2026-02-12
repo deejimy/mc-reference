@@ -1,14 +1,23 @@
 # Obligation
 
+Obligation est un type de carte Rencontre qui représente les engagements ou les obstacles que les alter ego doivent respecter ou surmonter.  
 
-Obligation est un type de carte Rencontre associé à une identité spécifique.
+- <span class="new">Les capacités figurant sur les obligations qui utilisent les mots "you" ou "your" s’appliquent uniquement au joueur dont la zone de jeu contient cette obligation.</span>  
+- Chaque identité est associée à une ou plusieurs cartes Obligation.  
+Si une identité est jouée, toutes les cartes Obligation associées à cette identité sont mélangées dans le deck Rencontre lors de la mise en place.  
+- Les cartes Obligation spécifiques à l’identité font partie du set spécifique à l’identité associée.  
+- Les cartes Obligation spécifiques à l’identité peuvent seulement être utilisées avec une identité si ces cartes partagent une icône de set avec cette identité.  
 
-  - Lorsqu'une obligation est révélée, elle est donnée au joueur dont elle porte l'icône d'identité.
+Si une carte Obligation est révélée du deck Rencontre et que cette obligation demande à ce qu’elle soit donnée à un joueur spécifique (comme « Donnez cette carte au joueur de Peter Parker »), placez-la dans la zone de jeu du joueur qui contrôle l’identité associée. Ce joueur doit décider de la manière de résoudre l’obligation.  
+- <span class="new">Si une obligation ne peut pas être donnée au joueur spécifié pour quelque raison que ce soit, ignorez la capacité de la carte, retirez-la de la partie et révélez une carte Rencontre supplémentaire.</span>  
 
-  - Le joueur doit résoudre le texte de l'obligation, ce qui l'oblige souvent à choisir entre plusieurs options (comme incliner son identité ou défausser des cartes).
+Si un joueur révèle une carte Obligation du deck Rencontre et que cette obligation ne demande pas à ce qu’elle soit donnée à un joueur spécifique, le joueur place cette obligation dans sa zone de jeu. Il doit ensuite décider de la manière de résoudre cette obligation.  
+- Seul le joueur avec l’obligation dans sa zone de jeu peut déclencher les capacités ou payer les coûts figurant sur cette obligation.  
 
-**Voir aussi** : Types de carte, Carte de rencontre, Identité
+<span class="new">Si un joueur pioche une carte Obligation depuis son deck joueur, il place cette obligation dans sa zone de jeu.</span>  
+- <span class="new">Le joueur ne pioche pas de carte pour remplacer l’obligation, sauf s’il est en train de remplir sa main jusqu’à sa taille de main.</span>  
 
+_Voir aussi : [[TypesDeCarte|Types de Carte]], [[CartesRencontre|Carte Rencontre]], [[DeckRencontre|Deck Rencontre]], [[EntrerEnJeu|Entrer en Jeu]], [[FormeChangerDeForme|Forme]], [[Identite|Identité]], [[QuitterLeJeu|Quitter le Jeu]], [[Joueur|Joueur]], [[EliminationDeJoueur|Élimination de Joueur]], [[RetireDeLaPartie|Retiré de la Partie]]_  
 
 **EN v1.7**:  
 ```

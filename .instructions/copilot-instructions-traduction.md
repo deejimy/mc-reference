@@ -132,6 +132,7 @@ Pour traduire les termes et expressions spécifiques au jeu, se référer aux mo
 - consequential damage = dégâts consécutifs
 - excess damage = dégâts en excès
 - « peut » = pouvoir
+- seuil de menace = target threat
 - aspect card = carte d'affinité
 - basic card = carte basique
 - double-faced card = carte double-face

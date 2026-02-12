@@ -5,7 +5,7 @@
 - Lorsqu'une carte double-face est placée dans une zone hors-jeu autre que la pile de victoires ou la zone mise de côté, elle est retirée de la partie.  
 - Si une carte double-face possède des faces « en mode Standard seulement » et « en mode Expert seulement », elle est mise en jeu avec la face « en mode Expert seulement » face visible si les joueurs jouent en mode expert. Sinon, la carte est mise en jeu avec la face « en mode Standard seulement » face visible.</span>  
 
-_Voir aussi : [[CartesRencontre|Carte Rencontre]], [[EnJeuAndHorsJeu|En Jeu et Hors Jeu]], [[CartesJoueur|Carte Joueur]], [[VictoireX|Victoire X]], [[MechantDeckMechant|Méchant]]_  
+_Voir aussi : [[CartesRencontre|Carte Rencontre]], [[EnJeuEtHorsJeu|En Jeu et Hors Jeu]], [[CartesJoueur|Carte Joueur]], [[VictoireX|Victoire X]], [[MechantDeckMechant|Méchant]]_  
 
 **EN v1.7**:  
 ```

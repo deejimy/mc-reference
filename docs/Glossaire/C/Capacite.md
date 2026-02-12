@@ -40,7 +40,7 @@ Certaines capacités ont des *priorités de timing* par rapport à d’autres ca
 7. Capacités « **Réponse** ».  
 8. <span class="new">Dommages consécutifs.</span>  
 
-_ Voir aussi : [[Action]], [[Annuler]], [[CapaciteUneFoisRevelee|Capacité une fois révélée]], [[CapaciteUneFoisVaincuDejouee|Capacité une fois vaincu/déjouée]], [[EffetDalteration|Effets d'Alteration]], [[EffetsDeRemplacement|Effets de Remplacement]], [[EffetsRetardes|Effets Retardés]], [[EffetsPersistants|Effets Persistants]], [[EnJeuAndHorsJeu|En Jeu et Hors Jeu]], [[Ensuite]], [[Et|« Et »]], [[Forcee|Forcée]], [[InitierDesCapacites|Initier des Capacités]], [[Interruption]], [[Qualificatifs]], [[Reponse|Réponse]], [[ResolutionSimultanee|Résolution Simultanée]], [[RessourceCapacite|Ressource (Capacité)]], [[Special]], [[Cible|Cible]]_
+_ Voir aussi : [[Action]], [[Annuler]], [[CapaciteUneFoisRevelee|Capacité une fois révélée]], [[CapaciteUneFoisVaincuDejouee|Capacité une fois vaincu/déjouée]], [[EffetDalteration|Effets d'Alteration]], [[EffetsDeRemplacement|Effets de Remplacement]], [[EffetsRetardes|Effets Retardés]], [[EffetsPersistants|Effets Persistants]], [[EnJeuEtHorsJeu|En Jeu et Hors Jeu]], [[Ensuite]], [[Et|« Et »]], [[Forcee|Forcée]], [[InitierDesCapacites|Initier des Capacités]], [[Interruption]], [[Qualificatifs]], [[Reponse|Réponse]], [[ResolutionSimultanee|Résolution Simultanée]], [[RessourceCapacite|Ressource (Capacité)]], [[Special]], [[Cible|Cible]]_
 
 **EN v1.7**:  
 ```

@@ -16,9 +16,9 @@ La manigance principale est un type de carte Rencontre représentant l’objecti
 - Quand le deck Manigance Principale avance, les pions Accélération qui étaient dessus sont reportés sur le nouveau stade.  
 - Les cartes Manigance Principale ne peuvent pas être défaussées du jeu.  
 
-_Voir aussi : [[IconeDacceleration|Accélération]], [[CartesRencontre|Carte Rencontre]], [[PionDacceleration|Pion Accélération]], [[TypesDeCarte|Types de Carte]], [[RetireDeLaPartie|Retiré de la Partie]], [[MechantDeckMechant|Méchant]], [[Menace|Menace]], [[MenaceCible|Menace Cible]], [[PhaseDuMechant|Phase du Méchant]]_  
+_Voir aussi : [[IconeDacceleration|Accélération]], [[CartesRencontre|Carte Rencontre]], [[PionDacceleration|Pion Accélération]], [[TypesDeCarte|Types de Carte]], [[RetireDeLaPartie|Retiré de la Partie]], [[MechantDeckMechant|Méchant]], [[Menace|Menace]], [[SeuilDeMenace|Seuil de menace]], [[PhaseDuMechant|Phase du Méchant]]_  
 
-**EN v1.7**:  
+**EN v1.7**:
 ```
 MAIN SCHEME, MAIN SCHEME DECK
 Main scheme is an encounter card type. The main scheme represents the villain’s primary objective.

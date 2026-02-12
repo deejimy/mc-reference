@@ -9,7 +9,7 @@ Le fait de déplacer vers une pile de défausse une carte qui provient d’une z
     - <span class="new">Les réponses à la défausse d’une quelconque de ces cartes se résolvent après que toutes les défausses ont été effectuées.</span>  
 - <span class="new">Si un joueur regarde un certain nombre de cartes depuis le dessus d’un deck et en défausse une ou plusieurs, ces cartes sont considérées comme ayant été défaussées depuis le dessus de ce deck.</span>  
 
-_Voir aussi : [[CartesJoueur|Carte Joueur]], [[CartesRencontre|Carte Rencontre]], [[EnJeuAndHorsJeu|En Jeu et Hors Jeu]], [[PileDeDefausse|Pile de Défausse]], [[ProprieteEtControle|Propriété et Contrôle]], [[Melanger|Mélanger]]_  
+_Voir aussi : [[CartesJoueur|Carte Joueur]], [[CartesRencontre|Carte Rencontre]], [[EnJeuEtHorsJeu|En Jeu et Hors Jeu]], [[PileDeDefausse|Pile de Défausse]], [[ProprieteEtControle|Propriété et Contrôle]], [[Melanger|Mélanger]]_  
 
 **EN v1.7**:  
 ```

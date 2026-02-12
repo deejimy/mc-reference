@@ -32,7 +32,7 @@ Les mots-clés suivants sont utilisés dans le jeu :
 - Victoire X : Quand une carte avec Victoire X est vaincue, ajoutez‑la à la pile de victoire.  
 - Vilenie : Quand un sbire avec Vilenie s’active, donnez‑lui une carte de boost.  
 
-_Voir aussi : À distance, Coup rapide, Déferlement, En équipe, Entrave X, Garde, Incitation X, Lié, Patrouille, Perçant, Permanent, Péril, Restreint, Riposte X, Robuste, Solide, Ténacité_  
+_Voir aussi : [[ADistance|À distance]], [[CoupRapide|Coup rapide]], [[Deferlement|Déferlement]], [[EnEquipe|En équipe]], [[EntraveX|Entrave X]], [[Garde]], [[IncitationX|Incitation X]], [[LieTitreDeCarte|Lié]], [[Patrouille]], [[Percant|Perçant]], [[Permanent]], [[Peril|Péril]], [[Restreint]], [[RiposteX|Riposte X]], [[Robuste]], [[Solide]], [[Tenacite|Ténacité]]_  
 
 **EN v1.7**:  
 ```

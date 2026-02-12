@@ -5,7 +5,7 @@
 - Les cartes glissées ne sont pas en jeu et ne sont pas considérées comme « attachées » à la carte sous laquelle elles sont glissées.
 - Quand une carte quitte le jeu, chaque carte glissée sous elle est défaussée.</span>
 
-_Voir aussi : [[EnJeuAndHorsJeu|En Jeu et Hors Jeu]]_  
+_Voir aussi : [[EnJeuEtHorsJeu|En Jeu et Hors Jeu]]_  
 
 
 **EN v1.7**:  

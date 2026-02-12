@@ -9,7 +9,7 @@ La carte Identité d’un joueur est une carte double-face qui représente son h
 - Les cartes Identité ne peuvent pas être défaussées du jeu.  
 - La face visible d’une carte Identité est considérée comme étant en jeu. La face cachée d’une identité est considérée comme hors jeu.  
 
-_Voir aussi : [[FormeChangerDeForme|Forme]], [[EnJeuAndHorsJeu|En Jeu et Hors Jeu]], [[Joueur|Joueur]], [[CartesJoueur|Carte Joueur]]_  
+_Voir aussi : [[FormeChangerDeForme|Forme]], [[EnJeuEtHorsJeu|En Jeu et Hors Jeu]], [[Joueur|Joueur]], [[CartesJoueur|Carte Joueur]]_  
 
 **EN v1.7**:  
 ```

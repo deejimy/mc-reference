@@ -1,8 +1,6 @@
 # Obtient
 
-
-**Voir** : Points de vie, Modificateurs
-
+_Voir : [[PointsDeVie|Points de vie]], [[Modificateurs|Modificateurs]]_
 
 **EN v1.7**:  
 ```

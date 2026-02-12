@@ -9,7 +9,7 @@ Amélioration est un type de cartes Joueur qui représente les pouvoirs, attaque
 - À moins qu’elles ne soient attachées à un autre personnage, les cartes Amélioration sont considérées comme une extension de l’identité du joueur qui les contrôle.  
 - Les attaques, contres, défenses, capacités d’action et capacités déclenchées qui se résolvent depuis des améliorations en jeu sous le contrôle d’un joueur sont considérés comme effectués par l’identité de ce joueur.  
 
-_Voir aussi : [[AttacherCetteCarte|Attacher cette carte]], [[CartesJoueur|Carte Joueur]], [[EnJeuAndHorsJeu|En Jeu et Hors Jeu]], [[EntrerEnJeu|Entrer en Jeu]], [[Identite|Identité]], [[QuitterLeJeu|Quitter le Jeu]], [[TypesDeCarte|Types de Carte]], [[ZoneDeJeuDUnJoueur|Zone de Jeu d’un Joueur]]_  
+_Voir aussi : [[AttacherCetteCarte|Attacher cette carte]], [[CartesJoueur|Carte Joueur]], [[EnJeuEtHorsJeu|En Jeu et Hors Jeu]], [[EntrerEnJeu|Entrer en Jeu]], [[Identite|Identité]], [[QuitterLeJeu|Quitter le Jeu]], [[TypesDeCarte|Types de Carte]], [[ZoneDeJeuDUnJoueur|Zone de Jeu d’un Joueur]]_  
 
 
 

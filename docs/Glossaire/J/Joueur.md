@@ -7,7 +7,7 @@ Un joueur est une personne qui joue une partie de Marvel Champions.
 - Chaque joueur possède les cartes qui étaient contenues dans son deck au début de la partie (y compris sa carte Identité).  
 - Certaines étapes de jeu, fonctions de jeu ou capacités de carte peuvent faire référence au « premier joueur ». Le premier joueur est le joueur qui possède le pion Premier Joueur.  
 
-_Voir aussi : [[DeckJoueur|Deck Joueur]], [[DefausserDefausse|Défausse]], [[EnJeuAndHorsJeu|En Jeu et Hors Jeu]], [[Identite|Identité]], [[PileDeDefausse|Pile de Défausse]], [[PremierJoueur|Premier Joueur]], [[EliminationDeJoueur|Élimination de Joueur]], [[PhaseDesJoueurs|Phase des Joueurs]], [[TourDeJoueur|Tour de Joueur]], [[ZoneDeJeuDUnJoueur|Zone de Jeu d’un Joueur]]_  
+_Voir aussi : [[DeckJoueur|Deck Joueur]], [[DefausserDefausse|Défausse]], [[EnJeuEtHorsJeu|En Jeu et Hors Jeu]], [[Identite|Identité]], [[PileDeDefausse|Pile de Défausse]], [[PremierJoueur|Premier Joueur]], [[EliminationDeJoueur|Élimination de Joueur]], [[PhaseDesJoueurs|Phase des Joueurs]], [[TourDeJoueur|Tour de Joueur]], [[ZoneDeJeuDUnJoueur|Zone de Jeu d’un Joueur]]_  
 
 **EN v1.7**:  
 ```

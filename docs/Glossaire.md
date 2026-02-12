@@ -90,7 +90,7 @@
 [[ElementDeJeu|Elément de Jeu]] :material-alert-outline:  
 [[EliminationDeJoueur|Elimination de Joueur]] :material-alert-outline:  
 [[EnEquipe|En équipe]] :material-alert-outline:  
-[[EnJeuAndHorsJeu|En jeu and Hors jeu]] :material-alert-outline:  
+[[EnJeuEtHorsJeu|En jeu and Hors jeu]] :material-alert-outline:  
 [[Engager|Engager]] :material-alert-outline:  
 [[Ennemi|Ennemi]] :material-alert-outline:  
 [[EnsembleDeRencontre|Ensemble de Rencontre]] :material-alert-outline:  

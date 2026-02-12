@@ -10,7 +10,7 @@ Jouer une carte consiste à payer son coût puis à placer la carte dans la zone
 - Quand une carte est mise en jeu, son coût en ressources est ignoré.  
 - Sauf indication contraire de l’effet « mettre en jeu », les cartes mises en jeu doivent l’être dans une zone de jeu et dans un état conformes aux règles s’appliquant au fait de jouer cette carte.  
 
-_Voir aussi : [[EntrerEnJeu|Entrer en Jeu]], [[EnJeuAndHorsJeu|En Jeu et Hors Jeu]], [[InitierDesCapacites|Initier des Capacités]], [[QuitterLeJeu|Quitter le Jeu]], [[RestrictionsEtPermissionsDeJeu|Restrictions et Permissions de Jeu]]_  
+_Voir aussi : [[EntrerEnJeu|Entrer en Jeu]], [[EnJeuEtHorsJeu|En Jeu et Hors Jeu]], [[InitierDesCapacites|Initier des Capacités]], [[QuitterLeJeu|Quitter le Jeu]], [[RestrictionsEtPermissionsDeJeu|Restrictions et Permissions de Jeu]]_  
 
 **EN v1.7**:  
 ```
