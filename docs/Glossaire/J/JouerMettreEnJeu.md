@@ -1,21 +1,16 @@
-# Jouer, Mettre en Jeu
+# Jouer, Mettre en Jeu  
 
+Jouer une carte consiste à payer son coût puis à placer la carte dans la zone de jeu, ce qui fait entrer la carte en jeu (ou, pour une carte Événement, provoque la résolution de sa capacité avant qu’elle ne soit placée dans la pile de défausse). Les cartes sont jouées depuis la main d’un joueur.  
 
-Jouer une carte implique de payer son coût et de la placer dans la zone de jeu. Cela fait entrer la carte en jeu (ou, dans le cas d'une carte évènement, de résoudre sa capacité et de la placer dans la pile de défausse). Les cartes sont jouées depuis la main d'un joueur.
-Certaines capacités font que des cartes sont "mises en jeu". Cela permet d'ignorer le coût de la carte ainsi que toute restriction ou interdiction concernant le fait de jouer cette carte. Une carte mise en jeu entre en jeu dans la zone de jeu de son contrôleur.
+- Certaines capacités mettent des cartes en jeu sans les jouer ; cela contourne le paiement du coût de la carte ainsi que toute restriction ou interdiction liée au fait de jouer cette carte.  
+- Une carte mise en jeu entre en jeu dans la zone de jeu de son contrôleur.  
+- <span class="new">Les cartes dont le texte indique « forme [type] uniquement » ne peuvent être jouées ni mises en jeu que par un joueur dont l’identité est dans la forme spécifiée.</span>  
+- Quand une carte Événement est jouée, placez‑la sur la table, résolvez sa capacité, puis placez la carte dans la pile de défausse de son propriétaire.  
+- Une carte qui est mise en jeu n’est pas considérée comme ayant été jouée.  
+- Quand une carte est mise en jeu, son coût en ressources est ignoré.  
+- Sauf indication contraire de l’effet « mettre en jeu », les cartes mises en jeu doivent l’être dans une zone de jeu et dans un état conformes aux règles s’appliquant au fait de jouer cette carte.  
 
-  - Les cartes avec le texte "forme [type] uniquement" ne peuvent être jouées ou mises en jeu que par un joueur dont l'identité est sous la forme spécifiée.
-
-  - Lorsqu'une carte évènement est jouée, placez-la sur la table, résolvez sa capacité, puis placez la carte dans la pile de défausse de son propriétaire.
-
-  - Une carte mise en jeu n'est pas considérée comme ayant été jouée.
-
-  - Lorsqu'une carte est mise en jeu, son coût en ressources est ignoré.
-
-  - Sauf indication contraire par l'effet de mise en jeu, les cartes qui sont mises en jeu doivent l'être dans une zone de jeu ou un état correspondant aux règles de mise en jeu de la carte.
-
-**Voir aussi** : Entre en jeu, En jeu et Hors-jeu, Initier des capacités, Quitte le jeu, Restrictions et autorisations de jeu
-
+_Voir aussi : [[EntrerEnJeu|Entrer en Jeu]], [[EnJeuAndHorsJeu|En Jeu et Hors Jeu]], [[InitierDesCapacites|Initier des Capacités]], [[QuitterLeJeu|Quitter le Jeu]], [[RestrictionsEtPermissionsDeJeu|Restrictions et Permissions de Jeu]]_  
 
 **EN v1.7**:  
 ```

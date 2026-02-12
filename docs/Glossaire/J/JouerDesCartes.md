@@ -1,7 +1,7 @@
 # Jouer des cartes
 
 
-**Voir** : Initier des capacités
+_Voir : [[InitierDesCapacites|Initier des capacités]]_
 
 
 **EN v1.7**:  

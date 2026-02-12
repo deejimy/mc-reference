@@ -1,18 +1,21 @@
-# Jetons Génériques
+# Jetons Génériques  
 
+![[jeton_generique.png]] Les jetons génériques peuvent être utilisés pour suivre une large gamme d’états de la partie ou de statuts. Ils n’ont pas de règles inhérentes.  
 
-![[jeton_generique.png]] Les jetons génériques peuvent être utilisés pour suivre une variété de différents états de jeu et statuts. Ils n'ont pas de règles inhérentes. Les capacités de carte peuvent créer et définir un certain nombre de types de jetons différents, tels que des "jetons flèche" ou des "jetons toile". Si un pion est requis, un jeton générique est utilisé pour suivre sa présence dans le jeu.
+- Des capacités de cartes peuvent créer et définir différents types de jetons (par exemple « jetons Flèche » ou « jetons Toile »).  
+- <span class="new">Si un type de jeton est requis, un jeton générique sert à représenter sa présence dans la partie.</span>  
+- <span class="new">Les jetons génériques sont considérés comme des pions pour tous les usages de la partie.</span>  
+- <span class="new">Une capacité qui se réfère à un « jeton générique » peut viser n’importe quel jeton générique, quel que soit l’autre type que ce jeton peut posséder.</span>  
+- <span class="new">Quand un jeton générique est déplacé d’une carte à une autre, il perd tout type antérieur et prend le type défini par la nouvelle carte ; si la nouvelle carte ne définit pas de type, il est considéré seulement comme un « jeton générique ».</span>  
 
-  - Les jetons génériques sont considérés comme des jetons pour toutes les fins du jeu.
+_Voir aussi : Limitation du matériel (p. 4), [[UtilisationsXType|Utilisations (X "Type")]]_  
+ 
 
-  - Une capacité qui se réfère à un "jeton générique" peut se référer à n'importe quel jeton générique, quels que soient les autres types que ce pion pourrait avoir.
-
-  - Lorsqu'un jeton générique est déplacé d'une carte à une autre, il perd tout type précédent qu'il avait et gagne le type défini sur la nouvelle carte qu'il occupe. Si la nouvelle carte ne définit pas de type, il est considéré uniquement comme un "jeton générique".
 
 
 **EN v1.7**:  
 ```
-ALL-PURPOSE COUNTER
+ALL-PURPOSE COUNTER   
 All-purpose counters can be used to track a variety of different game states and statuses.
 They have no inherent rules.
 Card abilities can create and define a number of different counter types, such as "arrow counters" or "web counters."
