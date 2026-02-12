@@ -2907,7 +2907,7 @@
   <span class="md-ellipsis">
     
   
-    En jeu and Hors jeu
+    En jeu et Hors jeu
   
 
     
@@ -5776,34 +5776,6 @@
   
   
     <li class="md-nav__item">
-      <a href="../Peut/" class="md-nav__link">
-        
-  
-  
-  <span class="md-ellipsis">
-    
-  
-    Peut
-  
-
-    
-  </span>
-  
-  
-
-      </a>
-    </li>
-  
-
-              
-            
-              
-                
-  
-  
-  
-  
-    <li class="md-nav__item">
       <a href="../PhaseDesJoueurs/" class="md-nav__link">
         
   
@@ -6084,7 +6056,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../PointsDeVieMaximus/" class="md-nav__link">
+      <a href="../PointsDeVieMaximums/" class="md-nav__link">
         
   
   
@@ -8622,36 +8594,31 @@
 
 
 <h1 id="pour-chaque">"Pour Chaque"<a class="headerlink" href="#pour-chaque" title="Permanent link">&para;</a></h1>
-<p>"Pour chaque" indique qu'un effet est répété en fonction du nombre d'un élément de jeu dénombrable.</p>
+<p><span class="new">« Pour chaque » indique qu’un effet est répété en fonction du nombre d’un élément de jeu dénombrable.</span>  </p>
 <ul>
 <li>
-<p>Si un effet avec "pour chaque" nécessite une cible, cet effet s'applique à une seule cible à moins que la clause "pour chaque" n'inclue une instruction "choisissez".</p>
+<p><span class="new">Si un effet contenant « pour chaque » exige une cible, cet effet s’applique à une seule cible, sauf si la clause « pour chaque » inclut une instruction « choisissez ».</span>  </p>
 <ul>
-<li>Par exemple, un effet qui dit "Pour chaque traîtrise regardée de cette manière, retirez 1 menace d'une manigance" retire de la menace d'une seule manigance. À l'inverse, un effet qui dit "Pour chaque amélioration que vous contrôlez, choisissez un ennemi et infligez-lui 2 dégâts" vous permet de choisir un ennemi différent pour chaque amélioration que vous contrôlez.</li>
+<li><span class="new">Par exemple, un effet indiquant « Pour chaque traîtrise ainsi examinée, retirez 1 menace d’une manigance » retire la menace d’une seule manigance.</span>  </li>
+<li><span class="new">À l’inverse, un effet indiquant « Pour chaque amélioration que vous contrôlez, choisissez un ennemi et infligez‑lui 2 dégâts » vous permet de choisir un ennemi différent pour chaque amélioration que vous contrôlez.</span>  </li>
 </ul>
 </li>
 <li>
-<p>Si un effet "pour chaque" sans instruction "choisissez" inflige des dégâts ou retire de la menace, il est considéré comme une instance unique de dégâts infligés ou de menace retirée, respectivement.</p>
+<p><span class="new">Si un effet « pour chaque » sans instruction « choisissez » inflige des dégâts ou retire de la menace, il est considéré comme une seule instance de dégâts infligés ou de menace retirée, respectivement.</span>  </p>
 </li>
 <li>
-<p>Si un effet "pour chaque" comporte une instruction "choisissez", chaque répétition de ce choix est considérée comme une instance distincte de cet effet, même si la même cible est choisie plusieurs fois.</p>
+<p><span class="new">Si un effet « pour chaque » comporte une instruction « choisissez », chaque itération de ce choix est considérée comme une instance distincte de cet effet, même si la même cible est choisie plusieurs fois.</span>  </p>
 <ul>
-<li>
-<p>L'état de la partie est mis à jour après chaque instance (par exemple, si un sbire ou une manigance annexe est vaincu).</p>
-</li>
-<li>
-<p>Des réponses peuvent être déclenchées après chaque instance.</p>
-</li>
-<li>
-<p>Par exemple, si un joueur est engagé avec un sbire avec garde et utilise un effet qui dit "pour chaque ressource que vous avez dépensée de cette manière, choisissez un ennemi et infligez-lui 2 dégâts", ce joueur peut vaincre le sbire avec garde avec une instance de 2 dégâts, rendant le méchant cible valide pour les instances suivantes. Ce joueur peut déclencher une capacité de réponse comme "Après avoir infligé des dégâts à un ennemi" après chaque instance.</p>
-</li>
+<li><span class="new">L’état de jeu est mis à jour après chaque instance (par exemple, si un sbire ou une manigance annexe est vaincu).</span>  </li>
+<li><span class="new">Des réponses peuvent se déclencher après chaque instance.</span>  </li>
+<li><span class="new">Par exemple, si un joueur est engagé avec un sbire Garde et utilise un effet indiquant « pour chaque ressource dépensée ainsi, choisissez un ennemi et infligez‑lui 2 dégâts », ce joueur peut vaincre le sbire Garde avec une instance de 2 dégâts, rendant le méchant une cible valide pour les instances suivantes. Le joueur peut déclencher une capacité de réponse telle que « Après que vous avez infligé des dégâts à un ennemi » après chaque instance.</span>  </li>
 </ul>
 </li>
 <li>
-<p>Si une autre capacité modifie un effet "pour chaque", ce modificateur est appliqué à chaque instance de l'effet "pour chaque". (Par exemple, Rafale de Lames est un évènement qui possède l'effet : "Pour chaque Psi-Katana, choisissez un ennemi et infligez-lui 2 dégâts." S'il est modifié par un effet qui dit "cet évènement inflige 1 dégât supplémentaire", Rafale de Lames infligera 3 dégâts à chaque ennemi choisi.)</p>
+<p><span class="new">Si une autre capacité modifie un effet « pour chaque », ce modificateur s’applique à chaque instance de l’effet « pour chaque ». (Par exemple, "Lames en Rafales" est un évènement ayant l’effet : « Pour chaque Psi‑Katana, choisissez un ennemi et infligez‑lui 2 dégâts. » Si cet effet est modifié par une capacité indiquant « cet évènement inflige 1 dégât supplémentaire », "Lames en Rafales" inflige 3 dégâts à chaque ennemi choisi.)</span>  </p>
 </li>
 </ul>
-<p><strong>Voir aussi</strong> : Capacité, Cible</p>
+<p><em>Voir aussi : <a href="../../C/Capacite/">Capacité</a>, <a href="../../C/Cible/">Cible</a></em>  </p>
 <p><strong>EN v1.7</strong>:<br />
 <div class="highlight"><pre><span></span><code>&quot;FOR EACH&quot;
 &quot;For each&quot; indicates an effect is repeated based on the number of a countable game element.

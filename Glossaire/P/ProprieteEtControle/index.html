@@ -2907,7 +2907,7 @@
   <span class="md-ellipsis">
     
   
-    En jeu and Hors jeu
+    En jeu et Hors jeu
   
 
     
@@ -5776,34 +5776,6 @@
   
   
     <li class="md-nav__item">
-      <a href="../Peut/" class="md-nav__link">
-        
-  
-  
-  <span class="md-ellipsis">
-    
-  
-    Peut
-  
-
-    
-  </span>
-  
-  
-
-      </a>
-    </li>
-  
-
-              
-            
-              
-                
-  
-  
-  
-  
-    <li class="md-nav__item">
       <a href="../PhaseDesJoueurs/" class="md-nav__link">
         
   
@@ -6084,7 +6056,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../PointsDeVieMaximus/" class="md-nav__link">
+      <a href="../PointsDeVieMaximums/" class="md-nav__link">
         
   
   
@@ -8622,56 +8594,31 @@
 
 
 <h1 id="propriete-et-controle">Propriété et contrôle<a class="headerlink" href="#propriete-et-controle" title="Permanent link">&para;</a></h1>
-<p>Le propriétaire d'une carte est le joueur dont le deck contenait la carte au début de la mise en place. Le scénario est considéré comme le propriétaire du deck Rencontre et de chaque carte Rencontre.</p>
+<p>Le propriétaire d’une carte est le joueur dont le deck contenait la carte au début de la partie. Le scénario est considéré comme étant le propriétaire du deck Rencontre et de chaque carte Rencontre.  </p>
 <ul>
-<li>
-<p>Les cartes d'identité appartiennent et sont contrôlées par le joueur incarnant cette identité.</p>
-</li>
-<li>
-<p>Les cartes entrent en jeu sous le contrôle de leur propriétaire. Les cartes de rencontre sont considérées comme étant sous le contrôle du scénario.</p>
+<li><span class="new">Les cartes Identité sont la propriété et sont contrôlées par le joueur incarnant cette identité.</span>  </li>
+<li>Les cartes entrent en jeu sous le contrôle de leur propriétaire.  </li>
+</ul>
+<p>Les cartes Rencontre sont considérées comme étant sous le contrôle du scénario.  </p>
 <ul>
-<li>
-<p>Les améliorations attachées à une carte contrôlée par un joueur autre que le propriétaire de l'amélioration sont contrôlées par cet autre joueur.</p>
-</li>
-<li>
-<p>Lorsqu'un joueur prend le contrôle d'une carte de joueur spécifique à une campagne ou à un scénario (comme un allié, un support ou une amélioration) possédant un dos de carte de joueur, ce joueur devient le propriétaire de cette carte jusqu'à ce que la partie se termine ou qu'un autre joueur en prenne le contrôle.</p>
-</li>
+<li><span class="new">Les améliorations attachées à une carte contrôlée par un joueur autre que le propriétaire de l’amélioration sont contrôlées par ce joueur.</span>  </li>
+<li><span class="new">Quand un joueur prend le contrôle d’une carte joueur spécifique à la campagne ou spécifique au scénario (par exemple un allié, un soutien ou une amélioration) possédant le dos d’une carte joueur, ce joueur devient le propriétaire de cette carte jusqu’à la fin de la partie ou jusqu’à ce qu’un autre joueur en prenne le contrôle.</span>  </li>
 </ul>
-</li>
-<li>
-<p>Le contrôle d'une carte reste constant à moins qu'une capacité ne provoque explicitement un changement de contrôle.</p>
-</li>
-<li>
-<p>Un joueur contrôle les cartes situées dans ses propres zones hors-jeu (telles que la main, le deck et la pile de défausse).</p>
-</li>
-<li>
-<p>Si un personnage change de contrôleur alors qu'il est en jeu, il reste dans le même état (c'est-à-dire redressé ou incliné, blessé ou non, etc.) et est déplacé vers la zone de jeu de son nouveau contrôleur.</p>
-</li>
-<li>
-<p>Les améliorations présentes sur une carte qui change de contrôleur changent également de contrôleur pour le même nouveau joueur.</p>
-</li>
-<li>
-<p>Un changement de contrôle d'une carte reste en vigueur jusqu'à ce que l'un des événements suivants se produise :</p>
+<p>Le contrôle d’une carte reste constant sauf si une capacité change explicitement le contrôle de la carte.  </p>
 <ul>
-<li>
-<p>La capacité qui a changé le contrôle de cette carte cesse d'être en vigueur (par exemple, lorsqu'un attachement ou une amélioration changeant le contrôle est retiré), la carte revient alors sous le contrôle de son propriétaire.</p>
-</li>
-<li>
-<p>La carte quitte le jeu ; elle est alors placée dans la zone hors-jeu équivalente de son propriétaire (main, deck ou pile de défausse, ou retirée de la partie si ce joueur n'est plus dans la partie).</p>
-</li>
-<li>
-<p>La carte est un évènement qui a été joué ; elle est alors placée dans la pile de défausse de son propriétaire.</p>
-</li>
-<li>
-<p>La carte est défaussée de la main d'un joueur ; elle est alors placée dans la pile de défausse de son propriétaire.</p>
-</li>
+<li>Un joueur contrôle les cartes de ses zones hors jeu (comme la main, le deck et la pile de défausse).  </li>
+<li>Si un personnage change de contrôle alors qu’il est en jeu, il conserve son état (redressé ou incliné, blessé ou non, etc.) et est déplacé vers la zone de jeu de son nouveau contrôleur.  </li>
+<li>Les améliorations et attachements sur une carte qui change de contrôle changent également de contrôle au profit du nouveau contrôleur.  </li>
 </ul>
-</li>
-<li>
-<p>Si une étape de jeu ou une capacité de carte fait référence à une carte que "vous contrôlez" ou qu'un "joueur contrôle", cela ne se réfère qu'aux cartes en jeu actuellement sous le contrôle de ce joueur.</p>
-</li>
+<p><span class="new">Un changement de contrôle reste en vigueur jusqu’à ce que l’un des cas suivants se produise :</span><br />
+- <span class="new">La capacité ayant changé le contrôle cesse d’être en vigueur (par exemple, lorsqu’un attachement ou une amélioration qui change le contrôle de la carte attachée est retiré) ; la carte redevient alors sous le contrôle de son propriétaire.</span><br />
+- <span class="new">La carte quitte le jeu ; elle est placée dans la zone hors jeu équivalente de son propriétaire (main, deck, pile de défausse), ou retirée de la partie si ce joueur n’est plus en jeu.</span><br />
+- <span class="new">Si la carte est un évènement qui a été joué, elle est placée dans la pile de défausse de son propriétaire.</span><br />
+- <span class="new">Si la carte est défaussée depuis la main d’un joueur, elle est placée dans la pile de défausse de son propriétaire.</span>  </p>
+<ul>
+<li><span class="new">Si une étape de jeu ou une capacité fait référence à une carte « que vous contrôlez » ou « qu’un joueur contrôle », cette référence ne concerne que les cartes en jeu actuellement sous le contrôle de ce joueur.</span>  </li>
 </ul>
-<p><strong>Voir aussi</strong> : Classifications, Carte de rencontre, Paquet de rencontre, En jeu et Hors-jeu, Joueur, Carte de joueur, Deck de joueur, Zone de jeu d'un joueur, Zone de jeu du méchant</p>
+<p><em>Voir aussi : <a href="../../C/CartesJoueur/">Carte Joueur</a>, <a href="../../C/CartesRencontre/">Carte Rencontre</a>, <a href="../../D/DeckJoueur/">Deck Joueur</a>, <a href="../../D/DeckRencontre/">Deck Rencontre</a>, <a href="../../E/EnJeuEtHorsJeu/">En Jeu et Hors Jeu</a>, <a href="../../J/Joueur/">Joueur</a>, <a href="../../Z/ZoneDeJeuDUnJoueur/">Zone de Jeu d’un Joueur</a>, <a href="../../Z/ZoneDeJeuDuMechant/">Zone de Jeu du Méchant</a></em>  </p>
 <p><strong>EN v1.7</strong>:<br />
 <div class="highlight"><pre><span></span><code>OWNERSHIP AND CONTROL
 A card’s owner is the player whose deck contained the card at the start of setup. The scenario is considered to be the owner of the encounter deck and each encounter card.
