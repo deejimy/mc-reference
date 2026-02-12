@@ -1,18 +1,17 @@
-# Manigance (activation des ennemis)
+# Manigance (activation des ennemis)  
 
+Une manigance est un type d’activation des ennemis. S’il est demandé à un ennemi de manigancer, respectez les étapes suivantes :  
 
-Manigancer est un type d'activation d'ennemi. 
+1. Si c’est un méchant ou un sbire avec le mot‑clé Vilenie qui manigance, donnez‑lui une carte de boost face cachée prise sur le dessus du deck Rencontre. (Si un sbire sans le mot‑clé Vilenie manigance, ignorez cette étape.)  
+2. Retournez face visible chaque carte de boost de l’ennemi qui manigance, une à la fois et dans l’ordre où elles ont été distribuées, puis, pour chaque carte de boost, faites ce qui suit :  
+    - Retournez la carte de boost face visible.  
+    - Résolvez toute capacité « Boost : », indiquée par une icône d’étoile dans le champ de boost.  
+    - Augmentez de 1 la valeur de MNG de l’ennemi qui manigance pour chaque icône de boost sur la carte.  
+    - Défaussez la carte de boost.  
+    - Si l’ennemi a d’autres cartes de boost, répétez ces étapes pour la carte suivante.  
+3. Placez sur la manigance principale un nombre de menaces égal à la valeur de MNG modifiée de l’ennemi qui manigance.  
 
-Étapes :
-
-1. Si c'est un méchant ou un sbire avec vilenie, donnez-lui une carte de boost face cachée.
-
-2. Résolvez les cartes de boost (retourner, appliquer les capacités étoile, augmenter la valeur de MNG par les icônes de boost).
-
-3. Placez de la menace sur la manigance principale égale à la valeur de MNG modifiée.
-
-**Voir aussi** : Activation, Boost, Sbire, Modificateurs, Méchant, Phase du méchant, Vilenie
-
+_Voir aussi : [[Activation|Activation]], [[BoostIconeDeBoost|Boost]], [[MechantDeckMechant|Méchant]], [[PhaseDuMechant|Phase du Méchant]], [[Sbire|Sbire]], [[Vilenie|Vilenie]]_  
 
 **EN v1.7**:  
 ```

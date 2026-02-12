@@ -1,7 +1,6 @@
 # MNG
 
-
-**Voir** : Pouvoir de base, Manigance (Activation d'ennemi)
+_Voir : [[PouvoirDeBase|Pouvoir de base]], [[ManiganceActivationDesEnnemis|Manigance (Activation d'ennemi)]]_
 
 
 **EN v1.7**:  

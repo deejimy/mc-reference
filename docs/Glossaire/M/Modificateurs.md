@@ -1,14 +1,19 @@
 # Modificateurs
 
+<span class="new">Le jeu vérifie constamment et actualise (si nécessaire) le compte de toute quantité variable qui est modifiée.</span>  
 
-Les modificateurs sont des capacités de carte ou des règles de jeu qui modifient les statistiques ou les capacités d'une carte.
+Chaque fois qu’un nouveau modificateur est appliqué ou retiré, la valeur concernée est recalculée entièrement depuis le début en prenant en compte la valeur de base non modifiée et tous les modificateurs actifs.  
 
-  - Les modificateurs s'appliquent après avoir déterminé la valeur de base d'une statistique.
+- <span class="new">L’icône « par joueur » ![[icone_joueur.jpg|15]] n’est pas considérée comme un modificateur et s’applique avant que les autres modificateurs ne soient pris en compte.</span>  
+- Le calcul d’une valeur considère tous les modificateurs comme étant appliqués simultanément. Cependant, lors du calcul, tous les modificateurs additifs ou soustractifs sont calculés avant les modificateurs multiplicatifs ou divisifs.  
+- Si une valeur est « fixée » à un nombre spécifique, le modificateur fixé supplante tous les autres modificateurs qui ne sont pas fixés. Si plusieurs modificateurs fixant une valeur entrent en conflit, le modificateur fixé le plus récemment résolu prend la priorité.  
+- Après que tous les modificateurs actifs ont été pris en compte, si une valeur est inférieure à zéro, elle est considérée comme étant égale à zéro : une carte ne peut pas avoir d’icônes, d’attributs, de traits, de coût ou de mots‑clé « négatifs ».  
+- Toutes les valeurs fractionnaires sont arrondies au nombre supérieur après application de tous les modificateurs.  
+- <span class="new">Si une capacité de carte fait qu’un personnage gagne une statistique (par exemple +1 ATQ ou 4 points de vie), la capacité modifie la statistique du personnage tant qu’elle est active.</span>  
+    - <span class="new">Si une telle capacité expire ou devient inactive pour une autre raison, la statistique modifiée revient à la valeur qu’elle aurait sans ce modificateur.</span>  
+- <span class="new">Une valeur représentée par un tiret (–) ne peut pas être modifiée.</span>  
 
-  - Si plusieurs modificateurs s'appliquent, appliquez d'abord les additions et soustractions, puis les multiplications et divisions.
-
-**Voir aussi** : Valeur de base, Points de vie
-
+_Voir aussi : [[ValeurDeBase|Valeur de base]], [[TiretValeur|Tiret (Valeur)]], [[Imprime|Imprimé]]_  
 
 **EN v1.7**:  
 ```

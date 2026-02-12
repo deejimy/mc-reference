@@ -1,23 +1,17 @@
-# Manigance Annexe de Joueur
+# Manigance Annexe de Joueur  
 
+<span class="new">Manigance annexe de joueur</span> est un type de carte Joueur représentant des missions que les héros entreprennent pour faciliter la défaite du méchant. Il s’agit de l’équivalent joueur des manigances annexes trouvées dans le deck Rencontre.  
 
-Les manigances annexes de joueur sont des missions que les héros entreprennent pour faciliter la défaite du méchant. Elles sont l'équivalent, en cartes de joueur, des manigances annexes trouvées dans le deck Rencontre.
+- <span class="new">Quand une manigance annexe de joueur entre en jeu, placez‑la à côté de la manigance principale dans la zone de jeu du méchant.</span>  
+- <span class="new">Chaque manigance annexe de joueur entre en jeu avec un nombre de menaces égal à sa valeur de menace de départ.</span>  
+- <span class="new">Le nombre de manigances annexes de joueur en jeu à un instant donné est limité par la limite de manigances annexes de joueur.</span>  
+- <span class="new">Une manigance annexe de joueur reste en jeu jusqu’à ce qu’il n’y ait plus de menace dessus (ce qui la fait être déjouée et défaussée, ou, si elle possède le mot‑clé Victoire X, l’ajoute à la pile de victoire), ou jusqu’à ce qu’elle soit défaussée parce qu’il y a plus de manigances annexes de joueur en jeu que la limite.</span>  
+- <span class="new">Toute règle ou effet de carte qui se réfère à des « manigances » ou à des « manigances annexes » s’applique également aux manigances annexes de joueur.</span>  
+    - <span class="new">Les héros et alliés peuvent retirer de la menace d’une manigance annexe de joueur en effectuant un contre de base.</span>  
+    - <span class="new">Les capacités qui retirent de la menace d’« une manigance » ou d’« une manigance annexe » peuvent retirer de la menace d’une manigance annexe de joueur.</span>  
 
-  - Lorsqu'une manigance annexe de joueur entre en jeu, elle est placée à côté de la manigance principale dans la zone de jeu du méchant.
+_Voir aussi : [[CartesJoueur|Carte Joueur]], [[LimiteDeManiganceAnnexeDeJoueur|Limite de Manigance Annexe de Joueur]], [[ManiganceTypeDeCarte|Manigance (Type de Carte)]], [[ManiganceAnnexe|Manigance Annexe]], [[VictoireX|Victoire X]]_  
 
-  - Chaque manigance annexe de joueur entre en jeu avec une quantité de menaces égale à sa valeur de menace de départ.
-
-  - Le nombre de manigances annexes de joueur en jeu à tout moment est limité par la limite de manigances annexes de joueur.
-
-  - Une manigance annexe de joueur reste en jeu jusqu'à ce qu'il n'y ait plus de menace sur elle (ce qui la fait vaincre et soit défausser, soit, si elle possède le mot-clé `victoire X`, l'ajouter à la pile de victoire) ou qu'elle soit défaussée parce qu'il y en a plus en jeu que la limite autorisée.
-
-  - Toute règle ou effet de carte se référant aux "manigances" ou "manigances annexes" se réfère également aux manigances annexes de joueur.
-
-    - Les héros et les alliés peuvent retirer de la menace d'une manigance annexe de joueur en effectuant un contre de base.
-
-    - Les capacités qui retirent de la menace d'une "manigance" ou d'une "manigance annexe" peuvent retirer de la menace d'une manigance annexe de joueur.
-
-**Voir aussi** : Types de carte, Carte de joueur, Limite de manigances annexes de joueur, Manigance (Type de carte), Manigance annexe, Victoire X
 
 
 **EN v1.7**:  

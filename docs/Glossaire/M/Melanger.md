@@ -1,10 +1,11 @@
 # Mélanger
 
+Mélanger est une fonction de jeu qui permet de randomiser le contenu d’un deck.  
 
-Mélanger consiste à rendre aléatoire l'ordre des cartes d'un deck. Tout deck cherché doit être mélangé ensuite.
+- Si un joueur est instruit de mélanger un deck, ce deck doit être randomisé au point où aucun joueur de la partie ne peut connaître l’ordre des cartes à l’intérieur de ce deck.  
+- Chaque fois qu’un deck est consulté par une étape de jeu ou une capacité de carte, ce deck est mélangé après que l’étape de jeu ou la capacité de carte se soit complètement résolue.  
 
-**Voir aussi** : Paquet de rencontre, Deck de joueur, Chercher
-
+_Voir aussi : [[DeckRencontre|Deck Rencontre]], [[DeckJoueur|Deck Joueur]], [[Chercher|Chercher]]_  
 
 **EN v1.7**:  
 ```

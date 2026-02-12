@@ -1,12 +1,12 @@
-# Manigance Annexe
+# Manigance Annexe  
 
+Manigance Annexe est un type de carte Rencontre qui représente des obstacles et des diversions supplémentaires auxquels les héros sont confrontés.  
 
-Type de carte Rencontre représentant des obstacles supplémentaires.
+- Si une manigance annexe est révélée, elle entre en jeu et est placée à côté du deck Manigance Principale dans la zone de jeu du méchant.  
+- Chaque manigance annexe entre en jeu avec un nombre de menaces dessus égal à la valeur de menace de départ indiquée en bas de la carte.  
+- Une manigance annexe reste en jeu jusqu’à ce qu’il n’y ait plus de menace dessus (ce qui la déjoue et la fait défausser) ou jusqu’à ce qu’une capacité de carte la retire du jeu. (La menace peut être retirée d’une manigance annexe en utilisant le pouvoir de contrer des héros et alliés, ou via des capacités de carte.)  
 
-  - Entre en jeu avec de la menace (valeur de départ).
-
-  - Reste en jeu jusqu'à ce qu'il n'y ait plus de menace dessus.
-Voir aussi : Types de carte, Vaincre, Entre en jeu, Quitte le jeu, Menace, Contrer
+_Voir aussi : [[CartesRencontre|Carte Rencontre]], [[ContreContrer|Contre/Contrer]], [[ManigancePrincipaleDeckManigancePrincipale|Deck Manigance Principale]], [[EntrerEnJeu|Entrer en Jeu]], [[Menace|Menace]], [[TypesDeCarte|Types de Carte]], [[VaincreDejouer|Vaincre / Déjouer]], [[QuitterLeJeu|Quitter le Jeu]], [[ZoneDeJeuDuMechant|Zone de Jeu du Méchant]]_  
 
 
 **EN v1.7**:  

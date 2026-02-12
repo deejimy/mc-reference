@@ -1,10 +1,8 @@
 # Mettre de Côté, Mis de Côté
 
+Certaines étapes de jeu ou capacités de carte demandent aux joueurs de mettre de côté des cartes. Les cartes mises de côté sont hors jeu et n’interagissent pas avec la partie jusqu’à ce que des instructions du scénario ou une capacité de carte particulières ne mentionnent le contraire.
 
-Mettre de côté signifie que les cartes sont hors-jeu et n'interagissent pas avec la partie jusqu'à ce qu'elles soient appelées par un effet.
-
-**Voir aussi** : En jeu et Hors-jeu
-
+ _Voir aussi : [[Capacite|Capacité]], [[EnJeuEtHorsJeu|En Jeu et Hors Jeu]], Appendice II : Mise en Place_
 
 **EN v1.7**:  
 ```

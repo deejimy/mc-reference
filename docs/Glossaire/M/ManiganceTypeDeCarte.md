@@ -1,12 +1,11 @@
 # Manigance (type de carte)
 
 
-Le mot "manigance" désigne trois types de cartes : manigances principales, manigances annexes de joueur et manigances annexes.
+Le mot « manigance » désigne trois types de carte différents : manigances principales, manigances annexes de joueur et manigances annexes.  
 
-  - Si une capacité place ou retire de la menace d'une "manigance", le joueur choisit laquelle.
+- Si une capacité de carte place de la menace sur « une manigance » ou en retire, le joueur qui résout cette capacité choisit la manigance concernée — manigance principale, manigance annexe de joueur ou manigance annexe.  
 
-**Voir aussi** : Manigance principale, Manigance annexe de joueur, Manigance annexe
-
+_Voir aussi : [[ManigancePrincipaleDeckManigancePrincipale|Manigance Principale]], [[ManiganceAnnexeDeJoueur|Manigance Annexe de Joueur]], [[ManiganceAnnexe|Manigance Annexe]]_  
 
 **EN v1.7**:  
 ```

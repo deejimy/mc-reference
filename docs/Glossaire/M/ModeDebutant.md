@@ -1,7 +1,6 @@
 # Mode Débutant
 
-
-**Voir** : Modes de jeu
+_Voir : [[ModesDeJeu|Modes de jeu]]_
 
 
 **EN v1.7**:  

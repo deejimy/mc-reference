@@ -1,11 +1,13 @@
 # Méchant, Deck Méchant
 
+Méchant est un type de carte Rencontre qui représente l’antagoniste principal que les joueurs cherchent à vaincre lors d’un scénario.  
 
-Méchant est un type de carte Rencontre représentant l'ennemi principal. Le méchant est représenté par un deck séquentiel d'une ou plusieurs cartes. Les joueurs gagnent en réduisant les points de vie de chaque stade à zéro.
+Le méchant est représenté par un deck séquentiel d’au moins une carte. Les joueurs vainquent le méchant en réduisant à zéro les points de vie de chaque stade du deck Méchant.  
 
-  - Les cartes méchant ne peuvent pas être défaussées du jeu.
+- Les cartes Méchant en jeu ne peuvent pas être défaussées.  
 
-**Voir aussi** : Activation, Attaque (Activation d'ennemi), Manigance (Activation d'ennemi), Vaincre le méchant
+_Voir aussi : [[Activation|Activation]], [[AttaqueActivationDesEnnemis|Attaque (Activation des Ennemis)]], [[ManiganceActivationDesEnnemis|Manigance (Activation des Ennemis)]], [[VaincreLeMechant|Vaincre le Méchant]]_  
+
 
 
 **EN v1.7**:  

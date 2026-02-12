@@ -1,16 +1,22 @@
-# Manigance principale, deck manigance principale
+# Manigance principale, deck manigance principale  
 
+La manigance principale est un type de carte Rencontre représentant l’objectif principal du méchant.  
 
-La manigance principale est un type de carte Rencontre qui représente l'objectif du méchant. Le deck de manigance principale contient les différents stades de la manigance principale pour un scénario donné.
+- Pendant la première étape de la phase du méchant, placez sur la manigance principale la quantité de menaces indiquée dans son champ d’accélération (coin inférieur droit). Cette valeur est modifiée par tous les pions et icônes d’accélération actifs.  
+- Si la quantité de menaces sur une manigance principale est supérieure ou égale à sa valeur de menace cible, cette manigance est considérée comme déjouée et le deck Manigance Principale avance.  
+- <span class="new">Si le méchant achève le dernier stade du deck Manigance Principale, le méchant gagne la partie.</span>  
+- <span class="new">Si le deck Manigance Principale avance autrement que parce que la menace sur la carte a atteint ou dépassé sa valeur de menace cible, cette manigance n’est pas considérée comme déjouée.</span>  
 
-  - La manigance principale est toujours en jeu.
+<span class="new">Quand le deck Manigance Principale avance, procédez ainsi :</span>  
+1. <span class="new">Retirez le haut du deck Manigance Principale de la partie. Renvoyez tous les jetons qui étaient sur cette carte (sauf les pions Accélération) dans la réserve de jetons et défaussez chaque carte qui y était attachée.</span>  
+2. <span class="new">Résolvez toute capacité « Une fois révélée » sur la face « A » de la nouvelle carte du haut du deck Manigance Principale.</span>  
+3. <span class="new">Retournez la carte du haut du deck Manigance Principale sur sa face « B », placez dessus un nombre de menaces égal à sa valeur de menace de départ, puis résolvez toute capacité « Une fois révélée » présente sur cette face.</span>  
 
-  - Si la quantité de menaces sur la manigance principale est égale ou supérieure au seuil de menace spécifié sur la carte, cette étape de la manigance est terminée.
+- Quand le deck Manigance Principale avance, la menace excédentaire du stade précédent n’est pas reportée sur le nouveau stade.  
+- Quand le deck Manigance Principale avance, les pions Accélération qui étaient dessus sont reportés sur le nouveau stade.  
+- Les cartes Manigance Principale ne peuvent pas être défaussées du jeu.  
 
-  - Si l'étape finale de la manigance principale est terminée, les joueurs perdent la partie.
-
-**Voir aussi** : Types de carte, Carte de rencontre, Menace, Méchant
-
+_Voir aussi : [[IconeDacceleration|Accélération]], [[CartesRencontre|Carte Rencontre]], [[PionDacceleration|Pion Accélération]], [[TypesDeCarte|Types de Carte]], [[RetireDeLaPartie|Retiré de la Partie]], [[MechantDeckMechant|Méchant]], [[Menace|Menace]], [[MenaceCible|Menace Cible]], [[PhaseDuMechant|Phase du Méchant]]_  
 
 **EN v1.7**:  
 ```
