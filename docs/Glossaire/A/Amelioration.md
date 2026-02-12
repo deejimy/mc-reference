@@ -2,15 +2,13 @@
 
 Amélioration est un type de cartes Joueur qui représente les pouvoirs, attaques, équipements et autres atouts qui sont (en général) à la disposition immédiate de l’identité.  
 
-- Une amélioration est active tant qu’elle est en jeu et elle reste en jeu jusqu’à ce qu’une capacité de carte lui fasse quitter le jeu.  
+- Une amélioration est active tant qu’elle est en jeu, et elle reste en jeu jusqu’à ce qu’une capacité de carte lui fasse quitter le jeu.  
 - La plupart des cartes Amélioration entrent en jeu à côté de la carte Identité d’un joueur et modifient le héros ou l’alter ego de ce joueur (parfois les deux).  
 - Certaines améliorations entrent en jeu et « s’attachent à » une autre carte. Ces améliorations modifient la carte à laquelle elles sont attachées, pas le héros ou l’alter ego du joueur qui a joué cette amélioration.  
     - <span class="new">Un joueur contrôle toutes les améliorations attachées aux personnages qu’il contrôle, y compris les améliorations appartenant à un autre joueur.</span>  
-- À moins qu’elles ne soient attachées à un autre personnage, les cartes Amélioration sont considérées comme une extension de l’identité du joueur qui les contrôle.  
-- Les attaques, contres, défenses, capacités d’action et capacités déclenchées qui se résolvent depuis des améliorations en jeu sous le contrôle d’un joueur sont considérés comme effectués par l’identité de ce joueur.  
+- À moins qu’elles ne soient attachées à un autre personnage, les cartes Amélioration sont considérées comme une extension de l’identité du joueur qui les contrôle. Les attaques, contres, défenses, capacités d’action et capacités déclenchées qui se résolvent depuis des améliorations en jeu sous le contrôle d’un joueur sont également considérées comme effectuées par l’identité de ce joueur.  
 
-_Voir aussi : [[AttacherCetteCarte|Attacher cette carte]], [[CartesJoueur|Carte Joueur]], [[EnJeuEtHorsJeu|En Jeu et Hors Jeu]], [[EntrerEnJeu|Entrer en Jeu]], [[Identite|Identité]], [[QuitterLeJeu|Quitter le Jeu]], [[TypesDeCarte|Types de Carte]], [[ZoneDeJeuDUnJoueur|Zone de Jeu d’un Joueur]]_  
-
+_Voir aussi : [[AttacherCetteCarte|Attacher À]], [[CartesJoueur|Carte Joueur]], [[EnJeuEtHorsJeu|En Jeu et Hors Jeu]], [[EntrerEnJeu|Entrer en Jeu]], [[Identite|Identité]], [[QuitterLeJeu|Quitter le Jeu]], [[TypesDeCarte|Types de Carte]], [[ZoneDeJeuDUnJoueur|Zone de Jeu d’un Joueur]]_  
 
 
 **EN v1.7**:  

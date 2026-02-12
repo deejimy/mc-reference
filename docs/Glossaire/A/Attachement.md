@@ -2,7 +2,8 @@
 
 Attachement est un type de cartes Rencontre.  
 
-- Quand un attachement entre en jeu, il s’attache à une autre carte ou à un élément de jeu.  
+Quand un attachement entre en jeu, il s’attache à une autre carte ou à un élément de jeu.  
+
 - <span class="new">Si un attachement est attaché à un personnage, il peut modifier la valeur d’ATQ, MNG et/ou CTR de ce personnage, comme indiqué dans les champs associés de la carte attachement.</span>  
     - <span class="new">Si un attachement possède un modificateur "MNG/CTR", il modifie le MNG du personnage attaché s’il s’agit d’un méchant ou d’un sbire, et modifie le CTR du personnage attaché s’il s’agit d’un héros ou d’un allié.</span>  
     - <span class="new">Si un attachement modifie une valeur que le personnage attaché ne possède pas ou pour laquelle ce personnage a un tiret (–) comme valeur, ce modificateur est ignoré.</span>  

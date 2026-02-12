@@ -1,36 +1,34 @@
 # Dégâts
 
-![[pion_degat.png]] Les dégâts réduisent la santé d'un personnage. S'ils ne sont pas prévenus, les dégâts sont infligés à un personnage en plaçant un nombre de jetons de dégâts sur ce personnage égal à la quantité de dégâts infligés.  
+![[pion_degat.png]] Les dégâts réduisent les points de vie d’un personnage.  
 
-- Si un personnage subit une quantité de dégâts égale ou supérieure à sa santé, le personnage est vaincu.  
-- S'il est précisé qu'une capacité inflige des dégâts à un ou plusieurs personnages, ces dégâts ne peuvent pas être réduits par la valeur de DEF d'un personnage.  
-- Les dégâts infligés par une attaque sont considérés comme des "dégâts d'attaque".  
-- Les dégâts infligés par une capacité étiquetée comme une attaque sont également considérés comme des dégâts d'attaque.  
-- Les dégâts infligés par une capacité non étiquetée comme une attaque ne sont pas des dégâts d'attaque, même si l'effet a été déclenché par une attaque.  
-- Les dégâts infligés par un mot-clé (tel que `riposte`) ne sont pas des dégâts d'attaque.  
-- Tout effet de carte qui "inflige" des dégâts est considéré comme une attaque si la capacité est étiquetée comme telle.  
-- Si des dégâts sont infligés à une cible qui ne possède pas de valeur de santé (comme une manigance), ces dégâts sont ignorés.  
-- Le mot "subit" ou "subit des dégâts" se réfère au moment où des dégâts non prévenus sont placés sur un personnage.  
+Si un personnage a zéro point de vie ou moins, il est vaincu.  
 
-<span class="new">- Quand des dégâts sont infligés à un personnage, ce personnage subit ces dégâts.  
-    - Quand la quantité de dégâts qu’un effet inflige est modifiée, la quantité de dégâts subis par le personnage est modifiée de la même façon.  
-    - Quand la quantité de dégâts qu’un personnage subit est modifiée (par exemple si des dégâts sont prévenus), la quantité de dégâts infligés n’est pas modifiée.  
-    - <strong>Ordre de résolution</strong> :  
-      1. Les capacités qui se déclenchent « quand [personnage] infligerait/subirait n’importe quelle quantité de dégâts... »  
-      2. Les cartes d’état Tenace.  
-      3. Les capacités qui se déclenchent « quand [personnage] serait sur le point de subir n’importe quelle quantité de dégâts... »  
-      4. Les capacités qui se déclenchent « quand [personnage] subit n’importe quelle quantité de dégâts... »  
-      5. Le placement des dégâts sur le personnage.  
-      6. Les capacités qui se déclenchent « quand [personnage] serait vaincu... »  
-      7. Les capacités qui se déclenchent « quand [personnage] est vaincu... »  
-      8. Les capacités « Une fois vaincu ».  
-      9. La défausse d’un personnage vaincu.  
-      10. Les capacités qui se déclenchent « après que [personnage] inflige/subit n’importe quelle quantité de dégâts... » ou « après que [personnage] vainc/est vaincu... ».</span>  
+- Les dégâts sur une identité ou un méchant sont indiqués par un compteur de points de vie. Si un tel personnage subit des dégâts, réduisez la valeur de son compteur du montant des dégâts subis.  
+
+- Les dégâts sur un allié ou un sbire sont indiqués par des pions Dégât. Si un tel personnage subit des dégâts, placez le nombre de pions Dégât correspondant sur le personnage.  
+
+- <span class="new">Quand des dégâts sont infligés à un personnage, ce personnage subit ces dégâts.</span>  
+    - <span class="new">Quand la quantité de dégâts qu’un effet inflige est modifiée, la quantité de dégâts que le personnage subit est modifiée de la même manière.</span>  
+    - <span class="new">Quand la quantité de dégâts qu’un personnage subit est modifiée (par exemple par la prévention de dégâts), la quantité de dégâts infligée n’est pas modifiée.</span>  
+    - <span class="new">L’ordre de résolution des effets entourant l’inflige et la prise de dégâts est le suivant :</span>  
+
+        1. <span class="new">Capacités qui se déclenchent « quand [personnage] infligerait/ se verrait infliger n’importe quelle quantité de dégâts... »</span> 
+        2. <span class="new">Cartes d’état Tenace.</span>  
+        3. <span class="new">Capacités qui se déclenchent « quand [personnage] subirait n’importe quelle quantité de dégâts... »</span>  
+        4. <span class="new">Capacités qui se déclenchent « quand [personnage] subit n’importe quelle quantité de dégâts... »</span>  
+        5. <span class="new">Placement des pions de dégâts sur le personnage.</span>  
+        6. <span class="new">Capacités qui se déclenchent « quand [personnage] serait vaincu... »</span>  
+        7. <span class="new">Capacités qui se déclenchent « quand [personnage] est vaincu... »</span>  
+        8. <span class="new">Capacités « Une fois vaincu ».</span>  
+        9. <span class="new">Défausse du personnage vaincu.</span>  
+        10. <span class="new">Capacités qui se déclenchent « après que [personnage] inflige/ se voit infliger/ subit n’importe quelle quantité de dégâts... » ou « après que [personnage] vainc/ est vaincu... »</span>  
+
+_Voir aussi : [[DegatsIndirects|Dégâts Indirects]], [[Deplacer|Déplacer]], [[Index|Limitation du matériel]], [[Prevenir|Prévenir]], [[PointsDeVie|Points de Vie]], [[VaincreDejouer|Vaincre / Déjouer]]_  
 
 **EN v1.7**:  
 ```
 DAMAGE
-![[pion_degat.png]]
 Damage reduces a character’s hit points.
 If a character has zero or fewer remaining hit points, it is defeated.
 • Damage on an identity or villain is tracked by a hit point dial. If such a character takes damaged, reduce its dial by the amount of damage that it took.

@@ -1,7 +1,5 @@
 # "Déjà"
 
-« DEJÀ »  
-
 _Voir : [[EffetDalteration|Effet d’Altération]]_  
 
 **EN v1.7**:  

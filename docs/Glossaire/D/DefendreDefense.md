@@ -1,32 +1,36 @@
 # Défendre, Défense
 
+Quand un ennemi attaque, un joueur peut défendre contre cette attaque en utilisant des cartes qu’il contrôle.  
 
-Défendre, Défense  
+- Une attaque ennemie ne peut être défendue que par un seul joueur à la fois. Tant qu’un joueur défend, les autres joueurs ne peuvent pas défendre contre cette même attaque.  
+- Un héros peut utiliser son pouvoir de base de défense pour défendre contre une attaque ennemie. Un héros doit s’incliner pour utiliser ce pouvoir. La quantité de dégâts infligés par l’attaque est réduite par la valeur DEF du héros, et les dégâts restants sont infligés à ce héros. Tant qu’un héros défend contre une attaque, les autres personnages amis ne peuvent pas défendre contre cette attaque.  
+    - <span class="new">Quand une capacité de carte indique de « déclarer [un héros] défenseur » d’une attaque, ce héros est considéré comme effectuant une défense de base.</span>  
+- Un allié peut s’incliner pour défendre contre une attaque ennemie. Les dégâts de l’attaque sont infligés à cet allié.  
+    - <span class="new">Quand une capacité de carte indique de « déclarer [un allié] défenseur » d’une attaque, cet allié devient le défenseur de l’attaque.</span>  
 
-- Pendant une attaque ennemie, un joueur peut défendre contre cette attaque en utilisant des cartes qu’il contrôle.  
-- Un seul joueur à la fois peut défendre contre une attaque ennemie. Tant qu’un joueur défend, les autres joueurs ne peuvent pas défendre contre cette même attaque.  
-- Un héros peut utiliser son pouvoir de défense de base pour défendre contre une attaque ennemie. Un héros doit s'incliner pour utiliser ce pouvoir. La quantité de dégâts infligés par l'attaque est réduite par la valeur DEF du héros, et tout dégât restant est infligé à ce héros. Tant qu'un héros défend contre une attaque, les autres personnages amis ne peuvent pas défendre contre cette attaque.  
-    - <span class="new">Quand une capacité indique de "déclarer [un héros] comme défenseur", ce héros est considéré comme effectuant une défense de base.</span>  
-- Un allié peut s'incliner pour défendre contre une attaque ennemie. Les dégâts de l'attaque sont infligés à cet allié. Tant qu'un allié défend, les autres personnages amis ne peuvent pas défendre contre cette attaque.  
-    - <span class="new">Quand une capacité indique de "déclarer [un allié] comme défenseur", cet allié devient le défenseur de l'attaque.</span>  
-- <span class="new">Quand un joueur initie une capacité déclenchée étiquetée comme défense (par exemple "Interruption Héros (défense)") pendant une attaque ennemie, l'identité de ce joueur devient le défenseur et est considérée comme ayant défendu l'attaque si aucun défenseur n'est déjà présent.</span>  
-    - <span class="new">L'identité du joueur est considérée comme le défenseur dès que la capacité étiquetée comme défense commence à se résoudre.</span>  
-    - <span class="new">Les capacités qui se déclenchent "quand votre héros défend contre une attaque" peuvent se déclencher lors de la résolution d'une capacité étiquetée comme défense.</span>  
-    - <span class="new">Jouer une capacité étiquetée comme défense n'est pas une défense de base et n'entraîne pas la réduction des dégâts par la DEF du héros.</span>  
-    - <span class="new">Sauf indication contraire, un héros ne s'incline pas lorsqu'il utilise une capacité étiquetée comme défense.</span>  
-    - <span class="new">Le joueur défenseur peut résoudre n'importe quel nombre de capacités étiquetées comme défense pendant une attaque ennemie (tant que leurs conditions sont remplies).</span>  
-    - <span class="new">Une fois qu'un joueur a résolu une capacité étiquetée comme défense pendant une attaque, les autres joueurs ne peuvent pas en résoudre pour cette même attaque.</span>  
-    - <span class="new">Des capacités étiquetées comme défense peuvent être résolues par un joueur dont l'allié défend ; dans ce cas, l'identité de ce joueur ne devient pas le défenseur.</span>  
-    - <span class="new">Une capacité étiquetée comme défense peut être déclenchée en dehors d'une attaque si sa condition est remplie ; dans ce cas, l'identité du joueur n'est pas considérée comme ayant défendu une attaque.</span>  
-- <span class="new">Si un joueur défend une attaque ciblant un autre joueur, le joueur défenseur devient la nouvelle cible de cette attaque.</span>  
-    - <span class="new">Les références à "vous" dans des capacités se réfèrent au joueur qui était la cible de l'attaque au moment où la capacité s'est résolue (par exemple, le "vous" dans une capacité qui se déclenche "quand [ennemi] vous attaque" se réfère au joueur contre qui l'attaque a été initiée, tandis que le "vous" dans une capacité qui se déclenche "après [ennemi] vous attaque" se réfère au joueur dont le personnage a défendu).</span>  
-    - <span class="new">Les capacités constantes ou de boost qui se réfèrent à "vous" se réfèrent au joueur défenseur.</span>  
-- Si aucun personnage ne défend une attaque ennemie, l'attaque est considérée comme non défendue. De plus, si un allié défenseur est vaincu avant que les dégâts ne soient infligés (par exemple à cause d'une capacité de boost), l'attaque est considérée comme non défendue.  
-- <span class="new">Les capacités qui se déclenchent après qu'un personnage défend une attaque se résolvent une fois l'attaque terminée.</span>  
-    - <span class="new">Si un effet met fin à une attaque défendue avant sa résolution complète, l'attaque est malgré tout considérée comme ayant été défendue.</span>  
-    - <span class="new">Si une capacité se déclenche après qu'un personnage a utilisé un pouvoir de base, cette capacité se déclenche après la résolution d'une attaque dans laquelle ce personnage a effectué une défense de base.</span>  
+- <span class="new">Lorsqu’un joueur initie une capacité déclenchée étiquetée « défense » — par exemple « Interruption de Héros (défense) » — pendant une attaque ennemie, l’identité de ce joueur devient le défenseur et est considérée comme ayant défendu l’attaque si aucun défenseur n’est déjà présent.</span>  
+    - <span class="new">L’identité du joueur est considérée comme défenseur dès que la capacité étiquetée défense commence à se résoudre.</span>  
+    - <span class="new">Les capacités qui se déclenchent « quand votre héros défend contre une attaque » peuvent se déclencher lors de la résolution d’une capacité étiquetée défense.</span>  
+    - <span class="new">Jouer une capacité étiquetée défense n’est pas une défense de base et n’entraîne pas la réduction des dégâts par la valeur DEF du héros.</span>  
+    - <span class="new">Sauf indication contraire dans le texte de la capacité, un héros ne s’incline pas lorsqu’il utilise une capacité étiquetée défense.</span>  
+    - <span class="new">Le joueur défenseur peut résoudre n’importe quel nombre de capacités étiquetées défense lors d’une attaque ennemie (tant que leurs conditions de déclenchement sont remplies).</span>  
+    - <span class="new">Une fois qu’un joueur résout une capacité étiquetée défense pendant une attaque ennemie, les autres joueurs ne peuvent pas résoudre de capacités étiquetées défense pour cette même attaque.</span>  
+    - <span class="new">Les capacités étiquetées défense peuvent être jouées pendant une attaque par un joueur dont l’allié défend cette attaque ; dans ce cas, l’identité de ce joueur ne devient pas le défenseur.</span>  
+    - <span class="new">Un joueur peut déclencher une capacité étiquetée défense en dehors d’une attaque si sa condition de déclenchement est satisfaite ; lorsque cela se produit, l’identité du joueur n’est pas considérée comme ayant défendu une attaque.</span>  
 
-_Voir aussi : [[Capacite|Capacité]], [[Allie|Allié]], [[AttaqueActivationDesEnnemis|Attaque (Activation Ennemi)]], [[Degats|Dégâts]], [[Ami]], [[Identite|Identité]], [[CapaciteEtiquetee|Capacité étiquetée]], [[Joueur|Player]]_
+- Si un joueur défend contre une attaque ennemie qui cible un autre joueur (soit en défendant avec un personnage qu’il contrôle, soit en résolvant une capacité de défense), le joueur défenseur devient la nouvelle cible de cette attaque.  
+    - <span class="new">Toute capacité déclenchée qui se réfère à « vous » se réfère au joueur qui était la cible de l’attaque au moment où cette capacité s’est résolue. (Par exemple, le « vous » d’une capacité « quand [ennemi] vous attaque » se réfère au joueur contre lequel l’attaque a été initiée, tandis que le « vous » d’une capacité « après [ennemi] vous a attaqué » se réfère au joueur dont le personnage a défendu l’attaque.)</span>  
+    - <span class="new">Toute capacité constante ou capacité Boost qui se réfère à « vous » se réfère au joueur défenseur.</span>  
+
+- Si aucun personnage n’est utilisé pour défendre contre une attaque ennemie, l’attaque est considérée comme non défendue.  
+    - <span class="new">De plus, si un allié qui défend est vaincu avant que les dégâts de l’attaque ne soient infligés (par exemple à cause d’une capacité Boost), l’attaque est considérée comme non défendue.</span>  
+
+- <span class="new">Les capacités qui se déclenchent après qu’un personnage a défendu une attaque se résolvent après la fin de cette attaque.</span>  
+    - <span class="new">Si un effet fait terminer une attaque défendue avant sa résolution complète, l’attaque est tout de même considérée comme ayant été défendue.</span>  
+    - <span class="new">Si une capacité se déclenche après qu’un personnage a utilisé un pouvoir de base, cette capacité se déclenche après la résolution d’une attaque au cours de laquelle un personnage a effectué une défense de base.</span>  
+
+_Voir aussi : [[Capacite|Capacité]], [[Allie|Allié]], [[AttaqueActivationDesEnnemis|Attaque (Activation des Ennemis)]], [[Degats|Dégâts]], [[Ami|"Friendly"]], [[Identite|Identité]], [[CapaciteEtiquetee|Capacité Étiquetée]], [[Joueur|Player]]_  
+
 
 **EN v1.7**:  
 ```

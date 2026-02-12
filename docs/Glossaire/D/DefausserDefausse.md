@@ -1,12 +1,17 @@
 # Défausser
 
 Le fait de déplacer vers une pile de défausse une carte qui provient d’une zone autre qu’une pile de défausse s’appelle « défausser ».  
+
 - Si une carte Joueur est défaussée, elle est placée face visible au sommet de la pile de défausse de son propriétaire.  
+
 - Si une carte Rencontre est défaussée, elle est placée face visible au sommet de la pile de défausse du deck Rencontre.  
+
 - Si plusieurs cartes sont défaussées simultanément du jeu ou de la main d’un joueur, placez ces cartes dans la pile de défausse appropriée, dans l’ordre de votre choix.  
+
 - Si plusieurs cartes sont défaussées simultanément d’un deck, placez ces cartes dans la pile de défausse appropriée, une à la fois (sans modifier l’ordre).  
     - <span class="new">Ces défausses sont considérées comme simultanées.</span>  
     - <span class="new">Les réponses à la défausse d’une quelconque de ces cartes se résolvent après que toutes les défausses ont été effectuées.</span>  
+    
 - <span class="new">Si un joueur regarde un certain nombre de cartes depuis le dessus d’un deck et en défausse une ou plusieurs, ces cartes sont considérées comme ayant été défaussées depuis le dessus de ce deck.</span>  
 
 _Voir aussi : [[CartesJoueur|Carte Joueur]], [[CartesRencontre|Carte Rencontre]], [[EnJeuEtHorsJeu|En Jeu et Hors Jeu]], [[PileDeDefausse|Pile de Défausse]], [[ProprieteEtControle|Propriété et Contrôle]], [[Melanger|Mélanger]]_  

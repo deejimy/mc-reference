@@ -1,33 +1,30 @@
 # Cible
 
-Si une fonction de jeu ou une capacité de carte est dirigée vers un élément de jeu (telle qu’une attaque qui inflige des dégâts à un ennemi), cet élément de jeu devient la cible de la fonction ou de la capacité pour toute la durée de la résolution de cette fonction ou de cette capacité.  
+Si une fonction de jeu ou une capacité de carte est dirigée vers un élément de jeu (par exemple une attaque qui inflige des dégâts à un ennemi), cet élément de jeu devient la cible de cette fonction ou capacité pour la durée de la résolution de cette fonction ou capacité.  
 
-- Exemples de cibles incluent, mais sans s’y limiter : « le méchant », « un sbire », « un ennemi », « une manigance », « un héros », « un allié », « un personnage », « un joueur », « vous », « une carte ».  
-- Si une capacité ou une fonction de jeu exige une ou plusieurs cibles, cette capacité ou fonction ne peut être initiée que s’il existe au moins une cible valide. Par exemple, une capacité qui dit « infligez 5 dégâts à un sbire » ne peut être initiée s’il n’y a aucun sbire en jeu.  
-    - Les pouvoirs de base sont des fonctions de jeu qui exigent une cible valide.  
-    - L’expression « choisir un [élément de jeu] » indique qu’il faut sélectionner une ou plusieurs cibles pour qu’une capacité soit initiée.  
-    - Les capacités qui forcent un joueur à piocher une ou plusieurs cartes ont toujours une cible valide tant que ce joueur a au moins une carte dans son deck.  
-- Une cible est valide pour une capacité ou une fonction de jeu si au moins une partie de cette capacité peut affecter cette cible.  
-    - Parmi les effets possibles sur une cible figurent, sans s’y limiter : infliger/soigner des dégâts, ajouter/retirer de la menace, donner/enlever une carte d’état, incliner/redresser la cible, vaincre/défausser la cible.  
-    - Exception : Un personnage avec une ATQ, MNG ou CTR de 0 peut effectuer une activation ou un pouvoir de base en utilisant cette valeur contre une cible qui est autrement valide pour cette activation ou ce pouvoir. (Par exemple, un héros avec un CTR de 0 peut effectuer un contre de base contre une manigance qui a des menaces dessus.)  
-    - Le coût d'une capacité ou d'une fonction de jeu n’est pas pris en compte pour déterminer si cette capacité ou fonction peut affecter une cible.  
-    - Si une capacité ou une fonction de jeu a plusieurs effets sur sa cible, la cible est valide si au moins un de ces effets peut l’affecter.  
-    - Une cible n’est pas valide pour une capacité si cette capacité l’obligerait à effectuer une fonction de jeu qu’une autre capacité interdit à cette cible d’effectuer. Par exemple, un personnage muni d’un attachement qui dit « le personnage attaché ne peut pas être redressé » n’est pas une cible valide pour une carte qui redresse un personnage.  
-    - Les dégâts qui sont infligés mais non subis (par exemple si les dégâts sont prévenus) sont considérés comme affectant une cible.  
-    - Une cible qui « ne peut pas subir de dégâts » n’est pas une cible valide pour une capacité dont le seul effet sur cette cible est de lui infliger des dégâts.  
-    - Une cible qui ne peut pas être attaquée n’est pas une cible valide pour une capacité étiquetée attaque.  
-    - Une cible qui ne peut pas être contrée n’est pas une cible valide pour une capacité étiquetée contrer.  
-    - Un effet qui utilise « cette [cible] » se réfère à la cible d’un effet précédent et ne peut être résolu que pour une cible valide du précédent effet. Par exemple, une capacité qui dit « Infligez 5 dégâts à un ennemi. Étourdissez cet ennemi. » ne peut être utilisée que pour étourdir un ennemi qui peut recevoir (et subir) des dégâts.  
+- <span class="new">Exemples de cibles : « le méchant », « un sbire », « un ennemi », « une manigance », « un héros », « un allié », « un personnage », « un joueur », « vous », « une carte ».</span>  
+- <span class="new">Si une capacité ou une fonction de jeu exige une ou plusieurs cibles, cette capacité ou fonction de jeu ne peut être initiée que si elle dispose d’au moins une cible valide. Par exemple, une capacité qui dit « infligez 5 dégâts à un sbire » ne peut pas être initiée s’il n’existe aucun sbire en jeu.</span>  
+    - <span class="new">Les pouvoirs de base sont des fonctions de jeu qui exigent une cible valide.</span>  
+    - <span class="new">L’expression « choisissez un [élément de jeu] » indique qu’une ou plusieurs cibles doivent être sélectionnées pour que la capacité puisse être initiée.</span>  
+    - <span class="new">Les capacités qui font piocher un ou plusieurs exemplaires ont toujours une cible valide dès lors que ce joueur a au moins une carte dans son deck.</span>  
+- <span class="new">Une cible est valide pour une capacité ou une fonction de jeu si une partie quelconque de cette capacité peut affecter cette cible.</span>  
+    - <span class="new">Exemples d’effets sur une cible : infliger/soigner des dégâts, ajouter/enlever de la menace, donner/enlever une carte d’état, incliner/redresser la cible, vaincre/défausser la cible.</span>  
+    - <span class="new">Exception : un personnage ayant une valeur d’ATQ, MNG ou CTR égale à 0 peut effectuer une activation ou un pouvoir de base en utilisant cette valeur contre une cible qui serait autrement valide pour cette activation ou ce pouvoir de base. (Par exemple, un héros avec une MNG de 0 peut effectuer un contre de base contre une manigance qui a de la menace.)</span>  
+    - <span class="new">Le coût d’une capacité ou d’une fonction de jeu n’est pas pris en compte pour déterminer si cette capacité ou fonction peut affecter une cible.</span>  
+    - <span class="new">Si une capacité ou une fonction de jeu a plusieurs effets sur sa cible, la cible est valide si au moins un de ces effets peut l’affecter.</span>  
+    - <span class="new">Une cible n’est pas valide pour une capacité si cette capacité demanderait à la cible d’effectuer une fonction de jeu que d’autres capacités lui interdisent d’effectuer. Par exemple, un personnage portant un attachement qui dit « le personnage attaché ne peut pas se redresser » n’est pas une cible valide pour une carte qui redresse un personnage.</span>  
+    - <span class="new">Les dégâts infligés mais non subis (par exemple si les dégâts sont empêchés) sont considérés comme affectant une cible.</span>  
+    - <span class="new">Une cible « qui ne peut pas subir de dégâts » n’est pas une cible valide pour une capacité dont le seul effet sur cette cible est de lui infliger des dégâts.</span>  
+    - <span class="new">Une cible qui ne peut pas être attaquée n’est pas une cible valide pour une capacité étiquetée « attaque ».</span>  
+    - <span class="new">Une cible qui ne peut pas être contrée n’est pas une cible valide pour une capacité étiquetée « contrer ».</span>  
+    - <span class="new">Un effet utilisant « cette [cible] » se réfère à la cible d’un effet précédent et ne peut être résolu que pour une cible valide de l’effet précédent. Par exemple, une capacité qui dit « Infligez 5 dégâts à un ennemi. Sonnez cet ennemi. » ne peut sonner qu’un ennemi qui peut être blessé (et subir des dégâts).</span>  
+- <span class="new">Une capacité ou une fonction de jeu qui cible plusieurs éléments de jeu d’un type spécifique (par exemple « chaque ennemi ») peut être initiée tant qu’au moins un de ces éléments est une cible valide.</span>  
+    - <span class="new">Cette capacité ou fonction ne se résout pas à l’encontre des éléments qui ne sont pas des cibles valides.</span>  
+    - <span class="new">Par exemple, l’icône de crise ![[icone_crise.jpg|15]] empêche la menace d’être retirée de la manigance principale. Une capacité qui dit « retirez 1 menace de chaque manigance » peut être utilisée tant qu’il existe au moins une manigance dont la menace peut être retirée ; dans ce cas, aucune menace ne serait retirée de la manigance principale.</span>  
+- <span class="new">Une capacité qui fait référence à une cible future (par ex. « la prochaine carte que vous jouez ») ne requiert pas de cible pour être initiée.</span>  
+- <span class="new">Une capacité comportant un effet de recherche nécessite seulement une zone de jeu « recherchable » pour pouvoir être initiée.</span>  
 
-- Une capacité ou une fonction de jeu qui cible plusieurs éléments de jeu d’un type spécifique (par exemple « chaque ennemi ») peut être initiée tant qu’au moins un de ces éléments est une cible valide.  
-    - Cette capacité ou fonction de jeu ne se résout contre aucun de ces éléments de jeu qui ne sont pas des cibles valides.  
-    - Par exemple, l'icône crise (![[icone_crise.jpg|15]]) empêche la menace d'être retirée de la manigance principale. Une capacité qui dit « retirez 1 menace de chaque manigance » peut être utilisée tant qu’il existe au moins 1 manigance dont la menace peut être retirée. Dans ce cas, aucune menace ne serait retirée de la manigance principale.  
-
-- Une capacité qui se réfère à une cible future (par exemple « la prochaine carte que vous jouerez ») ne requiert pas de cible pour être initiée.  
-- Une capacité avec un effet de recherche requiert uniquement une zone de jeu consultable pour être initiée.  
-
-_Voir aussi : [[Capacite|Capacité]], [[ChoisirElementDeJeu|Choisir (Élément de jeu)]], [[Cout|Coût]], [[ElementDeJeu|Élément de jeu]], [[CapaciteEtiquetee|Capacité Étiquetée]]_
-
+_Voir aussi : [[Capacite|Capacité]], [[ChoisirElementDeJeu|Choisir (Élément de jeu)]], [[Cout|Coût]], [[ElementDeJeu|Élément de jeu]], [[CapaciteEtiquetee|Capacité Étiquetée]]_  
 
 **EN v1.7**:  
 ```
@@ -66,28 +63,13 @@ See also: Ability, Choose (Game Element), Cost, Game Element, Labeled Ability
 **FR v1.4**:  
 ```
 CIBLE
-Si une fonction de jeu ou une capacité de carte est dirigée vers un élément de jeu (telle qu’une attaque qui inflige des dégâts à un ennemi), cet élément de jeu devient la cible de la fonction ou de la capacité pour toute la durée de la résolution de cette fonction ou de cette capacité.  
-
-- <span class="new">Exemples de cibles incluent, mais sans s’y limiter : « le méchant », « un sbire », « un ennemi », « une manigance », « un héros », « un allié », « un personnage », « un joueur », « vous », « une carte ».</span>  
-- <span class="new">Si une capacité ou une fonction de jeu exige une ou plusieurs cibles, cette capacité ou fonction ne peut être initiée que s’il existe au moins une cible valide. Par exemple, une capacité qui dit « infligez 5 dégâts à un sbire » ne peut être initiée s’il n’y a aucun sbire en jeu.</span>  
-    - <span class="new">Les pouvoirs de base sont des fonctions de jeu qui exigent une cible valide.</span>  
-    - <span class="new">L’expression « choisir un [élément de jeu] » indique qu’il faut sélectionner une ou plusieurs cibles pour qu’une capacité soit initiée.</span>  
-    - <span class="new">Les capacités qui forcent un joueur à piocher une ou plusieurs cartes ont toujours une cible valide tant que ce joueur a au moins une carte dans son deck.</span>  
-- <span class="new">Une cible est valide pour une capacité ou une fonction de jeu si au moins une partie de cette capacité peut affecter cette cible.</span>  
-    - <span class="new">Parmi les effets possibles sur une cible figurent, sans s’y limiter : infliger/soigner des dégâts, ajouter/retirer de la menace, donner/enlever une carte d’état, incliner/redresser la cible, vaincre/défausser la cible.</span>  
-    - <span class="new">Exception : Un personnage avec une ATQ, MNG ou CTR de 0 peut effectuer une activation ou un pouvoir de base en utilisant cette valeur contre une cible qui est autrement valide pour cette activation ou ce pouvoir. (Par exemple, un héros avec un CTR de 0 peut effectuer un contre de base contre une manigance qui a des menaces dessus.)</span>  
-    - <span class="new">Le coût d'une capacité ou d'une fonction de jeu n’est pas pris en compte pour déterminer si cette capacité peut affecter une cible.</span>  
-    - <span class="new">Si une capacité ou une fonction de jeu a plusieurs effets sur sa cible, la cible est valide si au moins un de ces effets peut l’affecter.</span>  
-    - <span class="new">Une cible n’est pas valide pour une capacité si cette capacité l’obligerait à effectuer une fonction de jeu qu’une autre capacité interdit à cette cible d’effectuer. Par exemple, un personnage muni d’un attachement qui dit « le personnage attaché ne peut pas être redressé » n’est pas une cible valide pour une carte qui redresse un personnage.</span>  
-    - <span class="new">Les dégâts qui sont infligés mais non subis (par exemple si les dégâts sont prévenus) sont considérés comme affectant une cible.</span>  
-    - <span class="new">Une cible qui « ne peut pas subir de dégâts » n’est pas une cible valide pour une capacité dont le seul effet sur cette cible est de lui infliger des dégâts.</span>  
-    - <span class="new">Une cible qui ne peut pas être attaquée n’est pas une cible valide pour une capacité étiquetée attaque.</span>  
-    - <span class="new">Une cible qui ne peut pas être contrée n’est pas une cible valide pour une capacité étiquetée contrer.</span>  
-    - <span class="new">Un effet qui utilise « cette [cible] » se réfère à la cible d’un effet précédent et ne peut être résolu que pour une cible valide du précédent effet. Par exemple, une capacité qui dit « Infligez 5 dégâts à un ennemi. Étourdissez cet ennemi. » ne peut être utilisée que pour étourdir un ennemi qui peut recevoir (et subir) des dégâts.</span>  
-- <span class="new">Une capacité ou une fonction de jeu qui cible plusieurs éléments de jeu d’un type spécifique (par exemple « chaque ennemi ») peut être initiée tant qu’au moins un de ces éléments est une cible valide.</span>  
-    - <span class="new">Cette capacité ou fonction de jeu ne se résout contre aucun de ces éléments de jeu qui ne sont pas des cibles valides.</span>  
-    - <span class="new">Par exemple, l'icône crise () empêche la menace d'être retirée de la manigance principale.</span>  
-- <span class="new">Une capacité qui se réfère à une cible future (par exemple « la prochaine carte que vous jouerez ») ne requiert pas de cible pour être initiée.</span>  
-- <span class="new">Une capacité avec un effet de recherche requiert uniquement une zone de jeu consultable pour être initiée.</span>  
-
-_Voir aussi : [[Capacite|Capacité]], [[ChoisirElementDeJeu|Choisir (Élément de jeu)]], [[Cout|Coût]], [[ElementDeJeu|Élément de jeu]], [[CapaciteEtiquetee|Capacité Étiquetée]]_```
+Si une fonction de jeu ou une capacité de carte est dirigée
+vers un élément de jeu (telle qu’une attaque qui inflige des
+dégâts à un ennemi), cet élément de jeu devient la cible de
+la fonction ou de la capacité pour toute la durée de la résolution
+de cette fonction ou de cette capacité.
+• Le terme « choisir » indique qu’une ou plusieurs cibles
+doivent être sélectionnées pour qu’une capacité soit
+résolue.
+Voir aussi : Capacité, Choisir
+```

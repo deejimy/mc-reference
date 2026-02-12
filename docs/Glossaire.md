@@ -41,44 +41,44 @@
 [[CartesDoubleFace|Cartes Double-Face]]  
 [[CartesJoueur|Cartes joueur]]  
 [[CartesRencontre]]  
-[[CartesSpecifiquesALidentite|Cartes spécifiques à l'identité]] :material-alert-outline:  
-[[CartesSpecifiquesAUneCampagne|Cartes spécifiques à une campagne]] :material-alert-outline:  
-[[CartesSpecifiquesAuScenario|Cartes spécifiques au scénario]] :material-alert-outline:  
-[[ChaqueFois|"Chaque fois"]] :material-alert-outline:  
-[[ChaqueJoueur|Chaque Joueur]] :material-alert-outline:  
-[[Chercher|Chercher]] :material-alert-outline:  
-[[ChoisirElementDeJeu|Choisir (Élément de Jeu)]] :material-alert-outline:  
-[[ChoisirOption|Choisir (Option)]] :material-alert-outline:  
-[[Cible|Cible]] :material-alert-outline:  
-[[CibleValide|Cible Valide]] :material-alert-outline:  
-[[Classifications|Classifications]] :material-alert-outline:  
-[[Compteur|Compteur]] :material-alert-outline:  
-[[ConditionDeDeclenchement|Condition de déclenchement]] :material-alert-outline:  
-[[ContreContrer|Contre, contrer]] :material-alert-outline:  
-[[Controle|Contrôle]] :material-alert-outline:  
-[[CoupRapide|Coup rapide]] :material-alert-outline:  
-[[Cout|Coût]] :material-alert-outline:  
+[[CartesSpecifiquesALidentite|Cartes spécifiques à l'identité]]   
+[[CartesSpecifiquesAUneCampagne|Cartes spécifiques à une campagne]]   
+[[CartesSpecifiquesAuScenario|Cartes spécifiques au scénario]]   
+[[ChaqueFois|"Chaque fois"]]   
+[[ChaqueJoueur|Chaque Joueur]]   
+[[Chercher|Chercher]]   
+[[ChoisirElementDeJeu|Choisir (Élément de Jeu)]]   
+[[ChoisirOption|Choisir (Option)]]   
+[[Cible|Cible]]   
+[[CibleValide|Cible Valide]]   
+[[Classifications|Classifications]]   
+[[Compteur|Compteur]]   
+[[ConditionDeDeclenchement|Condition de déclenchement]]   
+[[ContreContrer|Contre, contrer]]   
+[[Controle|Contrôle]]   
+[[CoupRapide|Coup rapide]]   
+[[Cout|Coût]]   
 [[Ctr|CTR]]  
 
 ## D
-[[DansLordreDesJoueurs|Dans l'ordre des joueurs]] :material-alert-outline:  
-[[Deck|Deck]] :material-alert-outline:  
-[[DeckJoueur|Deck joueur]] :material-alert-outline:  
-[[DeckRencontre|Deck rencontre]] :material-alert-outline:  
-[[DeckVide|Deck vide]] :material-alert-outline:  
-[[DefausserDefausse|Défausser, défausse]] :material-alert-outline:  
-[[Def|DEF]] :material-alert-outline:  
-[[DefendreDefense|Défendre, Défense]] :material-alert-outline:  
-[[Deferlement|Déferlement]] :material-alert-outline:  
-[[Degats|Dégâts]] :material-alert-outline:  
-[[DegatsConsecutifs|Dégâts consécutifs]] :material-alert-outline:  
-[[DegatsEnExces|Dégâts en excès]] :material-alert-outline:  
-[[DegatsIndirects|Dégâts indirects]] :material-alert-outline:  
-[[DegatsSubis|Dégâts Subis]] :material-alert-outline:  
-[[Deja|"Déjà"]] :material-alert-outline:  
-[[Deplacer|Déplacer]] :material-alert-outline:  
-[[DesorienterDesoriente|Désorienter, désorienté]] :material-alert-outline:  
-[[DiscussionsALaTable|Discussions à la Table]] :material-alert-outline:  
+[[DansLordreDesJoueurs|Dans l'ordre des joueurs]]   
+[[Deck|Deck]]   
+[[DeckJoueur|Deck joueur]]   
+[[DeckRencontre|Deck rencontre]]   
+[[DeckVide|Deck vide]]   
+[[DefausserDefausse|Défausser, défausse]]   
+[[Def|DEF]]   
+[[DefendreDefense|Défendre, Défense]]   
+[[Deferlement|Déferlement]]   
+[[Degats|Dégâts]]   
+[[DegatsConsecutifs|Dégâts consécutifs]]   
+[[DegatsEnExces|Dégâts en excès]]   
+[[DegatsIndirects|Dégâts indirects]]   
+[[DegatsSubis|Dégâts Subis]]   
+[[Deja|"Déjà"]]   
+[[Deplacer|Déplacer]]   
+[[DesorienterDesoriente|Désorienter, désorienté]]   
+[[DiscussionsALaTable|Discussions à la Table]]   
 
 ## E
 [[Echanger|Echanger]] :material-alert-outline:  
