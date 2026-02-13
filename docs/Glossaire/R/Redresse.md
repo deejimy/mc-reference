@@ -1,13 +1,15 @@
 # Redressé
 
+Les cartes entrent en jeu redressées, positionnées de manière à ce que leur contrôleur puisse lire leur texte de gauche à droite.  
 
-Les cartes entrent en jeu dans un état prêt, positionnées de manière à ce que leur contrôleur puisse lire leur texte de gauche à droite.
+- Si on demande à un joueur de redresser une carte inclinée, la carte retrouve son état redressé.  
+    - <span class="new">Si un coût supplémentaire est requis pour redresser une carte, le joueur peut choisir de ne pas payer ce coût.</span>  
 
-  - Si un joueur reçoit l'instruction de redresser une carte inclinée, la carte revient à son état prêt.
+<span class="new">S’il ne paie pas ce coût, la carte ne se redresse pas.</span>  
 
-    - S'il existe un coût supplémentaire pour redresser une carte, le joueur peut choisir de ne pas le payer. S'il ne paie pas le coût, la carte ne se redresse pas.
+_Voir aussi : [[EntrerEnJeu|Entrer en jeu]], [[Incline|Incliné]]_  
 
-**Voir aussi** : Entre en jeu, Incliné
+
 
 
 **EN v1.7**:  

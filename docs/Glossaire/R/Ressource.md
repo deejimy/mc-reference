@@ -1,18 +1,14 @@
 # Ressource
 
+Les ressources sont utilisées pour payer le coût pour jouer des cartes et le coût de certaines capacités.  
 
-Les ressources sont utilisées pour payer le coût des cartes et de certaines capacités.
+- Un joueur peut générer des ressources pour payer un coût en défaussant des cartes de sa main pour générer la ou les ressources indiquées dans le coin inférieur gauche de la carte, ou en utilisant des capacités de cartes qui génèrent des ressources.  
+- Il existe quatre types de ressource dans le jeu : énergie (![[icone_energie.jpg|15]]), mentale (![[icone_mentale.jpg|15]]), physique (![[icone_physique.jpg|15]]) et libre (![[icone_libre.jpg|15]]). Une ressource libre peut être utilisée telle quelle ou en tant que ressource de n’importe quel autre type.  
+- Pour payer le coût pour jouer une carte, un nombre de ressources supérieur ou égal au coût de la carte doit être généré. Pour la plupart des cartes, n’importe quelle ressource ou n’importe quelle combinaison de ressources peuvent être utilisées pour payer ce coût.  
+- Si une capacité dispose d’un coût en ressources, un nombre de ressources supérieur ou égal à ce coût doit être généré. De nombreuses capacités nécessitent que des types de ressource spécifiques soient générés dans des quantités précisées afin de payer le coût de la capacité.  
+- Les ressources générées en excès pour n’importe quel coût sont perdues et ne peuvent pas servir à payer des coûts ultérieurs.  
 
-  - Un joueur génère des ressources en défaussant des cartes de sa main (valeur en bas à gauche) ou en utilisant des capacités de cartes.
-
-  - Il existe quatre types de ressources : énergie (![[icone_energie.jpg|15]]), mentale (![[icone_mentale.jpg|15]]), physique (![[icone_physique.jpg|15]]) et libre (![[icone_libre.jpg|15]]). La ressource libre peut être utilisée comme n'importe quel autre type.
-
-  - Pour payer le coût d'une carte, un nombre de ressources égal ou supérieur au coût doit être généré.
-
-  - Les ressources excédentaires générées pour un coût sont perdues et ne sont pas conservées pour des coûts futurs.
-
-**Voir aussi** : Coût, Ressource énergie, Icônes, Ressource mentale, Ressource physique, Ressource libre
-
+_Voir aussi : [[Cout|Coût]], [[Icone|Icône]], [[RessourceEnergie|Ressource Energie]], [[RessourceLibre|Ressource Libre]], [[RessourceMentale|Ressource Mentale]], [[RessourcePhysique|Ressource Physique]]_  
 
 **EN v1.7**:  
 ```

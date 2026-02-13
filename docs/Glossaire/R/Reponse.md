@@ -1,16 +1,18 @@
 # Réponse
 
+Une capacité de réponse est un type de capacité déclenchée signalé par l’indicatif de déclenchement en gras « Réponse ». Les capacités de réponse peuvent être exécutées après que la condition de déclenchement spécifiée s’est produite, comme décrit dans le texte de la capacité de réponse.  
 
-Une capacité de réponse est un type de capacité déclenchée, indiquée par le mot "Réponse" en gras. Elle s'exécute après la survenue d'une condition de déclenchement spécifiée.
+- <span class="new">Les joueurs ne peuvent déclencher des capacités de réponse que sur des cartes qu’ils contrôlent ou sur des cartes Rencontre.</span>  
+    - <span class="new">Les joueurs ne peuvent pas déclencher de capacités de réponse sur des Obligations situées dans la zone de jeu d’un autre joueur.</span>  
 
-  - Les joueurs ne peuvent déclencher des réponses que sur les cartes qu'ils contrôlent ou sur les cartes de rencontre.
+- Plusieurs réponses peuvent être exécutées suite à la même condition de déclenchement, <span class="new">mais chaque réponse ne peut être déclenchée qu’une seule fois par occurrence de la condition de déclenchement.</span>  
+    - <span class="new">Plusieurs exemplaires d’une carte possédant une réponse peuvent chacun être déclenchés par la même condition de déclenchement.</span>  
 
-  - Plusieurs réponses peuvent être exécutées pour un même déclencheur, mais chaque réponse ne peut être déclenchée qu'une seule fois par occurrence.
+- <span class="new">Si un seul effet provoque plusieurs conditions de déclenchement, les réponses à chacune de ces conditions peuvent être résolues dans n’importe quel ordre. (Par exemple, si une attaque déclenche à la fois des réponses « après que vous avez attaqué » et « après que vous avez vaincu », ces réponses peuvent être résolues dans n’importe quel ordre.)</span>  
 
-  - Si un seul effet provoque plusieurs conditions de déclenchement, les réponses à chacune peuvent être résolues dans n'importe quel ordre.
+- Une fois que tous les joueurs ont consécutivement passé leur opportunité de répondre à une condition de déclenchement, aucune réponse pour cette instance de condition ne peut être utilisée.  
 
-**Voir aussi** : Capacité, Capacité déclenchée, Condition de déclenchement
-
+_Voir aussi : [[Capacite|Capacité]], [[CapaciteDeclenchee|Capacité Déclenchée]], [[EtreCense|"Etre censé"]]_  
 
 **EN v1.7**:  
 ```

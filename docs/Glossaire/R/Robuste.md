@@ -1,9 +1,11 @@
 # Robuste
 
+Un personnage ayant le mot‑clé Robuste ne peut pas être sonné ou désorienté.  
 
-Un personnage avec le mot-clé `robuste` ne peut être ni sonné ni désorienté. Si un personnage devient robuste alors qu'il a ces cartes d'état, elles sont retirées.
+- Si un personnage gagne le mot‑clé Robuste alors qu’il a déjà une carte d’état Sonné ou Désorienté, chaque carte d’état Sonné ou Désorienté est retirée de ce personnage.  
 
-**Voir aussi** : Allié, Désorienté, Identité, Mots-clés, Sbire, Cartes d'état, Sonné, Méchant
+_Voir aussi : [[Allie|Allié]], [[CartesDetat|Cartes d'état]], [[DesorienterDesoriente|Désorienté]], [[MechantDeckMechant|Méchant]], [[MotsCles|Mots-clés]], [[Sbire|Sbire]], [[SonnerSonne|Sonné]], [[TexteDeRappel|Texte de Rappel]]_  
+
 
 
 **EN v1.7**:  

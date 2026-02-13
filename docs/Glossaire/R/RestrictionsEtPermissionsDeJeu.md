@@ -1,14 +1,11 @@
 # Restrictions et permissions de jeu
 
+De nombreuses cartes et capacités contiennent des instructions spécifiques déterminant quand et comment elles peuvent être utilisées ou non, ou les conditions spécifiques qui doivent être remplies afin de les utiliser.  
 
-De nombreuses cartes et capacités contiennent des instructions spécifiques indiquant quand ou comment elles peuvent ou ne peuvent pas être utilisées, ou des conditions spécifiques qui doivent être vraies pour les utiliser.
+- Pour utiliser une capacité ou jouer une carte, toutes ses restrictions doivent être respectées.  
+- Une permission est une restriction de jeu optionnelle qui permet à un joueur de jouer une carte ou d’utiliser une capacité en dehors de son timing habituel ou des spécifications décrites par les règles du jeu. Une permission peut par exemple autoriser un allié à être joué depuis la pile de défausse d’un joueur.  
 
-  - Pour utiliser une capacité ou jouer une carte, toutes ses restrictions de jeu doivent être respectées.
-
-  - Une autorisation est une restriction de jeu facultative, qui permet à un joueur de jouer une carte ou d'utiliser une capacité en dehors du timing ou des spécifications prévus par les règles du jeu. Par exemple, une autorisation pourrait permettre de jouer une carte allié depuis la pile de défausse d'un joueur.
-
-**Voir aussi** : Capacité, Jouer, Joueur
-
+_Voir aussi : [[Capacite|Capacité]], [[JouerMettreEnJeu|Jouer, Mettre en Jeu]], [[Joueur|Joueur]]_  
 
 **EN v1.7**:  
 ```

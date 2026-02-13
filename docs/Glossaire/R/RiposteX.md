@@ -1,17 +1,14 @@
 # Riposte X
 
+Après qu’un personnage doté de Riposte X a été attaqué, infligez X dégâts à l’attaquant. (X est la valeur indiquée à côté du mot‑clé Riposte.)  
 
-Après qu'un personnage avec le mot-clé `riposte X` a été attaqué, infligez X dégâts à l'attaquant.
-
-  - Le personnage avec riposte X doit être en jeu après la résolution de l'attaque pour infliger ces dégâts.
-
-  - Ordre de résolution :
-    1. Capacités "après que [personnage] a reçu des dégâts..."  
+- Le personnage doit survivre à l’attaque pour infliger ses dégâts de riposte.  
+- <span class="new">L’ordre de résolution des capacités entourant le mot‑clé Riposte est le suivant :  
+    1. Capacités qui se déclenchent « après que [personnage] a subi n’importe quelle quantité de dégâts... »  
     2. Riposte X  
-    3. Capacités "après que [personnage] a été attaqué..." ou "après avoir attaqué..."  
+    3. Capacités qui se déclenchent « après que [personnage] a été attaqué... » ou « après que [personnage] a attaqué [et infligé/et vaincu]... »</span>  
 
-**Voir aussi** : Allié, Attaque, Dégâts, Identité, Mots-clés, Sbire, Méchant
-
+_Voir aussi : [[Allie|Allié]], [[AttaqueActivationDesEnnemis|Attaque (Activation des Ennemis)]], [[AttaqueActivationDuJoueur|Attaque (Action de Joueur)]], [[Degats|Dégâts]], [[Identite|Identité]], [[MechantDeckMechant|Méchant]], [[MotsCles|Mots-clés]], [[Sbire|Sbire]], [[TexteDeRappel|Texte de Rappel]]_  
 
 **EN v1.7**:  
 ```

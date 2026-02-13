@@ -1,13 +1,11 @@
 # Ressource physique
 
+Une ressource ![[icone_physique.jpg|15]] est l'un des quatre types de ressources.  
 
-Une ressource physique (![[icone_physique.jpg|15]]) est l'un des quatre types de ressources.
+- Des ressources Physique peuvent être dépensées pour payer le coût en ressource des cartes et capacités.  
+- Certaines capacités de cartes requièrent spécifiquement que des ressources Physique soient dépensées pour que leurs effets soient résolus.  
 
-  - Les ressources physiques peuvent être dépensées pour payer le coût en ressources des cartes et des capacités.
-
-  - Certaines capacités de carte exigent spécifiquement que des ressources physiques soient dépensées pour résoudre leurs effets.
-
-**Voir aussi** : Capacité, Coût, Ressource énergie, Icônes, Ressource mentale, Ressource, Ressource libre
+_Voir aussi : [[Capacite|Capacité]], [[Cout|Coût]], [[Icone|Icônes]], [[Ressource|Ressource]], [[RessourceEnergie|Ressource Energie]], [[RessourceLibre|Ressource Libre]], [[RessourceMentale|Ressource Mentale]]_  
 
 
 **EN v1.7**:  

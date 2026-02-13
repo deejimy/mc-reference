@@ -1,17 +1,14 @@
 # Ressource Libre
 
+Une ressource libre (![[icone_libre.jpg|15]]) est un des quatre types de ressource.  
 
-Une ressource libre (![[icone_libre.jpg|15]]) est l'un des quatre types de ressources.
+- Des ressources Libre peuvent être dépensées pour payer le coût en ressource des cartes et capacités. Quand un joueur génère une ressource Libre (![[icone_libre.jpg|15]]), il spécifie à quel type de ressource elle correspond (énergie, mentale, physique ou libre).  
+    - <span class="new">Lorsqu'une carte qui génère une ressource libre voit ses ressources doublées, chacune de ses ressources libres peut être déclarée comme un type différent.</span>  
+- Certaines capacités de cartes requièrent spécifiquement que des ressources Libre soient dépensées pour que leurs effets soient résolus.  
+- En dehors du moment où elle est générée pour un coût, une ressource Libre n’a aucune caractéristique autre que « ressource libre ». Dans de tels cas, les ressources Libre ne peuvent pas être considérées comme étant l’un des autres types de ressource.  
 
-  - Les ressources libres peuvent être dépensées pour payer le coût en ressources des cartes et des capacités. Lorsqu'un joueur génère une ressource libre (![[icone_libre.jpg|15]]), il peut spécifier quel type de ressource (énergie, mentale, physique ou libre) elle remplace.
+_Voir aussi : [[Capacite|Capacité]], [[Cout|Coût]], [[RessourceEnergie|Ressource Energie]], [[Icone|Icônes]], [[RessourceMentale|Ressource Mentale]], [[RessourcePhysique|Ressource Physique]], [[Ressource|Ressource]]_  
 
-    - Lorsqu'une carte qui génère une ressource libre voit ses ressources doublées, chacune de ses ressources libres peut être déclarée comme un type différent.
-
-  - Certaines capacités de cartes exigent spécifiquement que des ressources libres soient dépensées pour résoudre leurs effets.
-
-  - Lorsque des ressources ne sont pas générées pour un coût, une ressource libre n'a aucune autre caractéristique que "ressource libre". Dans ce contexte, elle ne peut pas être interprétée comme l'un des autres types de ressources.
-
-**Voir aussi** : Capacité, Coût, Ressource énergie, Icônes, Ressource mentale, Ressource physique, Ressource
 
 
 **EN v1.7**:  

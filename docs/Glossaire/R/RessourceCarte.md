@@ -1,13 +1,13 @@
 # Ressource (carte)
 
+Une carte Ressource est un type de carte Joueur. La principale fonction d’une carte Ressource est d’être défaussée de la main d’un joueur pour générer des ressources.  
 
-Les cartes ressource sont un type de carte de joueur. Leur fonction principale est d'être défaussées pour générer des ressources.
+Ces cartes fournissent généralement plus de ressources (et plus efficacement) que les autres types de carte quand elles sont défaussées de la main d’un joueur pour générer des ressources.  
 
-  - Elles fournissent généralement plus de ressources (ou plus efficacement) que les autres types de cartes.
-  - Les cartes ressource sont considérées comme une extension de l'identité.
+- Certaines cartes Ressource ont un texte qui s’active quand la carte est utilisée pour générer des ressources.  
+- On considère que les cartes Ressource sont une extension d’une identité. Si un joueur dépense une ressource, on considère qu’elle est également dépensée par l’identité.  
 
-**Voir aussi** : Types de carte, Icônes, Identité, Carte de joueur, Ressource
-
+_Voir aussi : [[CartesJoueur|Carte Joueur]], [[EntrerEnJeu|Entrer en jeu]], [[Icone|Icône]], [[Identite|Identité]], [[Joueur|Joueur]], [[Ressource|Ressource]], [[RessourceEnergie|Ressource Energie]], [[RessourceLibre|Ressource Libre]], [[RessourceMentale|Ressource Mentale]], [[RessourcePhysique|Ressource Physique]], [[QuitterLeJeu|Quitter le Jeu]], [[TypesDeCarte|Types de carte]]_  
 
 **EN v1.7**:  
 ```

@@ -1,11 +1,10 @@
 # Renfort
 
-Après qu'une carte Rencontre avec le mot-clé `renfort` est révélée, le joueur qui résout la carte révèle une carte Rencontre supplémentaire du dessus du deck Rencontre.
+Après qu’une carte Rencontre dotée du mot‑clé Renfort a été révélée, le joueur qui résout cette carte révèle une carte Rencontre supplémentaire du dessus du deck Rencontre.  
 
-  - Terminez le processus de résolution de la carte originale, ainsi que toutes les capacités Réponse déclenchées par la révélation de cette carte, avant de révéler la carte supplémentaire.
+- Terminez le processus de résolution de la carte originale, <span class="new">ainsi que toute capacité de Réponse qui est déclenchée par la révélation de cette carte,</span> avant de révéler la carte supplémentaire.  
 
-**Voir aussi** : Carte de rencontre, Paquet de rencontre, Mots-clés, Texte de rappel, Révéler
-
+_Voir aussi : [[CartesRencontre|Carte Rencontre]], [[DeckRencontre|Deck Rencontre]], [[MotsCles|Mots-clés]], [[TexteDeRappel|Texte de Rappel]], [[Reveler|Révéler]]_  
 
 **EN v1.7**:  
 ```

@@ -1,13 +1,11 @@
 # Ressource énergie
 
+Une ressource ![[icone_energie.jpg|15]] est l'un des quatre types de ressources.  
 
-Une ressource énergie (![[icone_energie.jpg|15]]) est l'un des quatre types de ressources.
+- Des ressources Energie peuvent être dépensées pour payer le coût en ressource des cartes et capacités.  
+- Certaines capacités de cartes requièrent spécifiquement que des ressources Energie soient dépensées pour que leurs effets soient résolus.  
 
-  - Les ressources énergie peuvent être dépensées pour payer le coût en ressources des cartes et des capacités.
-
-  - Certaines capacités de carte exigent spécifiquement que des ressources énergie soient dépensées afin de résoudre leurs effets.
-
-**Voir aussi** : Capacité, Coût, Icônes, Ressource mentale, Ressource physique, Ressource, Ressource libre
+_Voir aussi : [[Capacite|Capacité]], [[Cout|Coût]], [[Icone|Icônes]], [[RessourceMentale|Ressource Mentale]], [[RessourcePhysique|Ressource Physique]], [[Ressource|Ressource]], [[RessourceLibre|Ressource Libre]]_  
 
 
 **EN v1.7**:  

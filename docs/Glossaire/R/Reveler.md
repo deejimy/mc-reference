@@ -1,26 +1,25 @@
 # Révéler
 
+Lors de la quatrième étape de la phase du Méchant, chaque joueur (dans l’ordre des joueurs) révèle et résout toutes les cartes Rencontre qui lui ont été attribuées, une carte à la fois dans l’ordre dans lequel elles ont été attribuées.  
 
-Pendant l'étape 4 de la phase du méchant, chaque joueur (dans l'ordre) révèle et résout les cartes de rencontre face cachée qui lui ont été distribuées.
-Étapes pour révéler :  
+Pour révéler une carte Rencontre, suivez les étapes suivantes :  
 
-1. Retournez la carte face visible.
+1. Retournez la carte Rencontre face visible.  
+2. Si le type de la carte Rencontre est :  
+- Attachement : il entre en jeu attaché à l’élément de jeu spécifié par son texte.  
+- Environnement : il entre en jeu à côté du méchant.  
+- Sbire : il entre en jeu dans la zone de jeu du joueur qui la révèle. Il est considéré comme engagé avec ce joueur.  
+- Obligation : <span class="new">elle entre en jeu dans la zone de jeu du joueur qui la révèle.</span>  
+    - <span class="new">Si la carte précise un joueur auquel la donner, ce joueur est considéré comme celui qui la révèle.</span>  
+- Manigance annexe : elle entre en jeu à côté de la manigance principale.  
+- Traîtrise : <span class="new">placez‑la sur la table devant le joueur qui la révèle (elle n’est pas en jeu).</span>  
+- <span class="new">Autre : placez‑la sur la table devant le joueur qui la révèle (elle n’est pas en jeu).</span>  
+3. Résolvez chaque capacité « une fois révélée » présente sur cette carte (y compris celles fournies par des mots‑clés).  
+4. Si la carte est une traîtrise, défaussez‑la.  
 
-2. Si le type est :
+_Si le texte d’une carte demande à un joueur de révéler une carte Rencontre depuis le deck Rencontre ou depuis toute autre aire de jeu, la même procédure de résolution s’applique._  
 
-  - Attachement : entre en jeu attaché à l'élément spécifié.
-  - Environnement : entre en jeu dans la zone du méchant.
-  - Sbire : entre en jeu dans la zone du joueur (l'engage).
-  - Obligation : entre en jeu dans la zone du joueur.
-  - Manigance annexe : entre en jeu dans la zone du méchant.
-  - Traîtrise : placée devant le joueur (n'est pas en jeu).
-
-3. Résolvez chaque capacité "Une fois révélée" (y compris les mots-clés).
-
-4. Si c'est une traîtrise, défaussez-la.
-
-**Voir aussi** : Attachement, Distribuer, Carte de rencontre, Entre en jeu, Environnement, Dans l'ordre des joueurs, Sbire, Obligation, Manigance annexe, Traîtrise, Phase du méchant
-
+_Voir aussi : [[Attachement|Attachement]], [[ChoisirElementDeJeu|Choisir (Élément de jeu)]], [[ChoisirOption|Choisir (Option)]], [[AttribuerAttribuerUneCarteRencontre|Attribuer]], [[CartesRencontre|Carte Rencontre]], [[EntrerEnJeu|Entrer en jeu]], [[Environnement|Environnement]], [[DansLordreDesJoueurs|Dans l’ordre des Joueurs]], [[Sbire|Sbire]], [[Obligation|Obligation]], [[Traitrise|Traîtrise]], [[PhaseDuMechant|Phase du Méchant]]_
 
 **EN v1.7**:  
 ```

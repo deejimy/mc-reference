@@ -1,8 +1,6 @@
 # REC
 
-
-**Voir** : Pouvoir de base, Récupérer
-
+_Voir : [[PouvoirDeBase|Pouvoir de Base]], [[RecuperationRecuperer|Récupération]]_  
 
 **EN v1.7**:  
 ```

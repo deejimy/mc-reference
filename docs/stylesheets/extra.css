@@ -126,3 +126,17 @@
 .new {
     color: #ef5552 !important;
 }
+
+.source {
+  background: none !important;
+  border: 1px solid #e9ecef !important;
+  box-shadow: none !important;
+}
+.source summary {
+ background: #f8f9fa !important;
+ padding-left: 10px !important;
+}
+.source summary::before {
+ display: none !important ;
+}
+

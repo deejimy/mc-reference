@@ -1,12 +1,11 @@
 # Ressource mentale
 
+Une ressource ![[icone_mentale.jpg|15]] est l'un des quatre types de ressources.  
 
-Une ressource mentale (![[icone_mentale.jpg|15]]) est l'un des quatre types de ressources.
+- Des ressources Mentale peuvent être dépensées pour payer le coût en ressource des cartes et capacités.  
+- Certaines capacités de cartes requièrent spécifiquement que des ressources Mentale soient dépensées pour que leurs effets soient résolus.  
 
-  - Les ressources mentales sont générées en défaussant des cartes avec l'icône mentale ou en utilisant des capacités de carte "Ressource".
-
-**Voir aussi** : Icônes, Ressource
-
+_Voir aussi : [[Capacite|Capacité]], [[Cout|Coût]], [[Icone|Icônes]], [[Ressource|Ressource]], [[RessourceEnergie|Ressource Energie]], [[RessourcePhysique|Ressource Physique]], [[RessourceLibre|Ressource Libre]]_  
 
 **EN v1.7**:  
 ```
