@@ -10,7 +10,7 @@ Une attaque est un type d’activation des ennemis. Lorsqu’un ennemi attaque, 
 
 Pour résoudre une attaque ennemie, respectez les étapes suivantes :  
 
-1. Si un méchant, ou un sbire ayant le mot‑clé vilenie, attaque, donnez‑lui une carte de boost face cachée prise sur le deck Rencontre. (Si un sbire sans le mot‑clé vilenie attaque, ignorez cette étape.)  
+1. Si un méchant, ou un sbire ayant le mot‑clé `vilenie`, attaque, donnez‑lui une carte de boost face cachée prise sur le deck Rencontre. (Si un sbire sans le mot‑clé `vilenie` attaque, ignorez cette étape.)  
 2. Si un joueur souhaite défendre, ce joueur incline un héros ou un allié comme défenseur. Si un joueur autre que le joueur ciblé défend, le joueur qui défend devient le nouveau joueur ciblé par cette attaque.  
 3. <span class="new">Résolvez chacune des cartes de boost de l’ennemi attaquant, une à la fois et dans l’ordre dans lequel elles ont été distribuées, en procédant de la manière suivante :</span>  
     1.  <span class="new">Retournez la carte de boost face visible.</span>  
@@ -29,7 +29,7 @@ Pour résoudre une attaque ennemie, respectez les étapes suivantes :
     - <span class="new">Le personnage ciblé est considéré comme ayant été attaqué.</span>  
 
 5. <span class="new">L’attaque termine sa résolution et les types de capacités suivants se déclenchent dans l’ordre :</span>  
-    - <span class="new">Le mot‑clé Riposte X (si le personnage attaqué est toujours en jeu).</span>  
+    - <span class="new">Le mot‑clé `Riposte X` (si le personnage attaqué est toujours en jeu).</span>  
     - <span class="new">Les capacités forcées avec les déclencheurs suivants (dans n’importe quel ordre) :</span>  
         - <span class="new">"après que [personnage] attaque [et inflige/des dégâts/vainc] [vous/un allié]..."</span>  
         - <span class="new">"après que [personnage] est attaqué..."</span>  

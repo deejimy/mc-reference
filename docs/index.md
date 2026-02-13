@@ -4,10 +4,9 @@
     Ce document est une traduction **non officielle** du livret de règles version 1.7 de Marvel Champions : Le Jeu de Cartes, édité par Fantasy Flight Games (FFG).  
 
     L'objectif de ce projet est de mettre à disposition des joueurs francophones une version actualisée aux dernières clarifications de règles publiées par l'éditeur.  
-
-    Les index du [[Glossaire|glossaire]] indiqués par l'icône :material-alert-outline: sont **en attente de vérification**.
-
     Si vous souhaitez contribuer au projet, votre aide est la bienvenue !
+
+    <span class="new">Les modifications par rapport à la version française v1.4 sont indiquées en rouge.</span>
 
 
 ## Présentation Générale

@@ -1,6 +1,6 @@
 # Ténacité  
 
-Quand un personnage doté du mot‑clé Ténacité entre en jeu, placez une carte d’état Tenace dessus.  
+Quand un personnage doté du mot‑clé `Ténacité` entre en jeu, placez une carte d’état Tenace dessus.  
 
 _Voir aussi : [[Allie|Allié]], [[CartesDetat|Cartes d'état]], [[EntrerEnJeu|Entrer en Jeu]], [[Identite|Identité]], [[MechantDeckMechant|Méchant]], [[MotsCles|Mots-clés]], [[Sbire|Sbire]], [[TexteDeRappel|Texte de Rappel]]_  
 

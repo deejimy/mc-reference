@@ -16,11 +16,11 @@ Il y a différentes façons d’attaquer :
     
 - Les attaques des héros et des alliés peuvent cibler n’importe quel ennemi, à moins qu’une capacité de carte (comme Garde) n’empêche cet ennemi d’être attaqué.  
 - <span class="new">Quand une attaque cible plusieurs ennemis, le personnage attaquant est considéré comme ayant attaqué chacun de ces ennemis.</span>  
-    - <span class="new">Chaque ennemi attaqué possédant le mot‑clé Riposte X encore en jeu après la résolution de l’attaque inflige ses dégâts de riposte au personnage attaquant.</span>  
+    - <span class="new">Chaque ennemi attaqué possédant le mot‑clé `Riposte X` encore en jeu après la résolution de l’attaque inflige ses dégâts de riposte au personnage attaquant.</span>  
 
 <span class="new">L’ordre de résolution des capacités déclenchées par la résolution d’une attaque est le suivant :</span>  
 
-1. <span class="new">Le mot‑clé Riposte X (si le personnage attaqué n’a pas été vaincu).</span>  
+1. <span class="new">Le mot‑clé `Riposte X` (si le personnage attaqué n’a pas été vaincu).</span>  
 2. <span class="new">Capacités forcées avec les déclencheurs suivants (dans n’importe quel ordre) :</span>  
     - <span class="new">"après que [personnage] attaque [et inflige/des dégâts/vainc] [un ennemi/un sbire]..."</span>  
     - <span class="new">"après que [personnage] est attaqué..."</span>  

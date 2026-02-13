@@ -2,7 +2,7 @@
 
 Une manigance est un type d’activation des ennemis. S’il est demandé à un ennemi de manigancer, respectez les étapes suivantes :  
 
-1. Si c’est un méchant ou un sbire avec le mot‑clé Vilenie qui manigance, donnez‑lui une carte de boost face cachée prise sur le dessus du deck Rencontre. (Si un sbire sans le mot‑clé Vilenie manigance, ignorez cette étape.)  
+1. Si c’est un méchant ou un sbire avec le mot‑clé `Vilenie` qui manigance, donnez‑lui une carte de boost face cachée prise sur le dessus du deck Rencontre. (Si un sbire sans le mot‑clé `Vilenie` manigance, ignorez cette étape.)  
 2. Retournez face visible chaque carte de boost de l’ennemi qui manigance, une à la fois et dans l’ordre où elles ont été distribuées, puis, pour chaque carte de boost, faites ce qui suit :  
     - Retournez la carte de boost face visible.  
     - Résolvez toute capacité « Boost : », indiquée par une icône d’étoile dans le champ de boost.  

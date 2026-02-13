@@ -1,6 +1,6 @@
 # Solide  
 
-<span class="new">Un personnage possédant le mot‑clé Solide peut avoir une carte d’état Sonné supplémentaire et une carte d’état Désorienté supplémentaire.  </span>
+<span class="new">Un personnage possédant le mot‑clé `Solide` peut avoir une carte d’état Sonné supplémentaire et une carte d’état Désorienté supplémentaire.  </span>
 
 <span class="new">Ce personnage n’est pas considéré comme sonné à moins d’avoir deux cartes d’état Sonné, et n’est pas considéré comme désorienté à moins d’avoir deux cartes d’état Désorienté.  </span>
 

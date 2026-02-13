@@ -81,212 +81,212 @@
 [[DiscussionsALaTable|Discussions à la Table]]   
 
 ## E
-[[Echanger|Echanger]] :material-alert-outline:  
-[[Effet|Effet]] :material-alert-outline:  
-[[EffetDalteration|Effet d'altération]] :material-alert-outline:  
-[[EffetsDeRemplacement|Effets de remplacement]] :material-alert-outline:  
-[[EffetsPersistants|Effets persistants]] :material-alert-outline:  
-[[EffetsRetardes|Effets retardés]] :material-alert-outline:  
-[[ElementDeJeu|Elément de Jeu]] :material-alert-outline:  
-[[EliminationDeJoueur|Elimination de Joueur]] :material-alert-outline:  
-[[EnEquipe|En équipe]] :material-alert-outline:  
-[[EnJeuEtHorsJeu|En jeu and Hors jeu]] :material-alert-outline:  
-[[Engager|Engager]] :material-alert-outline:  
-[[Ennemi|Ennemi]] :material-alert-outline:  
-[[EnsembleDeRencontre|Ensemble de Rencontre]] :material-alert-outline:  
-[[Ensuite|Ensuite]] :material-alert-outline:  
-[[EntraveX|Entrave X]] :material-alert-outline:  
-[[EntrerEnJeu|Entrer en jeu]] :material-alert-outline:  
-[[Environnement|Environnement]] :material-alert-outline:  
-[[EspritDequipeTrait|Esprit d'Équipe (Trait)]] :material-alert-outline:  
-[[Et|Et]] :material-alert-outline:  
-[[EtreCense|"Est censé"]] :material-alert-outline:  
-[[Evenement|Evénement]] :material-alert-outline:  
-[[Exemplaire|Exemplaire]] :material-alert-outline:  
-[[ExigenceRessources|Exigence (Ressources)]] :material-alert-outline:  
+[[Echanger|Echanger]]   
+[[Effet|Effet]]   
+[[EffetDalteration|Effet d'altération]]   
+[[EffetsDeRemplacement|Effets de remplacement]]   
+[[EffetsPersistants|Effets persistants]]   
+[[EffetsRetardes|Effets retardés]]   
+[[ElementDeJeu|Elément de Jeu]]   
+[[EliminationDeJoueur|Elimination de Joueur]]   
+[[EnEquipe|En équipe]]   
+[[EnJeuEtHorsJeu|En jeu and Hors jeu]]   
+[[Engager|Engager]]   
+[[Ennemi|Ennemi]]   
+[[EnsembleDeRencontre|Ensemble de Rencontre]]   
+[[Ensuite|Ensuite]]   
+[[EntraveX|Entrave X]]   
+[[EntrerEnJeu|Entrer en jeu]]   
+[[Environnement|Environnement]]   
+[[EspritDequipeTrait|Esprit d'Équipe (Trait)]]   
+[[Et|Et]]   
+[[EtreCense|"Est censé"]]   
+[[Evenement|Evénement]]   
+[[Exemplaire|Exemplaire]]   
+[[ExigenceRessources|Exigence (Ressources)]]   
 
 ## F
-[[FinDeLaPhaseDesJoueurs|Fin de la phase des joueurs]] :material-alert-outline:  
-[[Forcee|Forcée]] :material-alert-outline:  
-[[FormeChangerDeForme|Forme, changer de forme]] :material-alert-outline:  
+[[FinDeLaPhaseDesJoueurs|Fin de la phase des joueurs]]   
+[[Forcee|Forcée]]   
+[[FormeChangerDeForme|Forme, changer de forme]]   
 
 ## G
-[[Gagner|Gagner]] :material-alert-outline:  
-[[GagnerLaPartie|Gagner la Partie]] :material-alert-outline:  
-[[Garde|Garde]] :material-alert-outline:  
-[[Generer|Générer]] :material-alert-outline:  
-[[GlisserSous|Glisser Sous]] :material-alert-outline:  
+[[Gagner|Gagner]]   
+[[GagnerLaPartie|Gagner la Partie]]   
+[[Garde|Garde]]   
+[[Generer|Générer]]   
+[[GlisserSous|Glisser Sous]]   
 
 ## H
-[[HerosFormeDeHeros|Héros, forme de héros]] :material-alert-outline:  
+[[HerosFormeDeHeros|Héros, forme de héros]]   
 
 ## I
-[[Icone|Icône]] :material-alert-outline:  
-[[IconeDacceleration|Icône d'Accélération]] (![[icone_acceleration.jpg|15]]) :material-alert-outline:  
-[[IconeDaleas|Icône d'aléas]] (![[icone_aleas.jpg|15]]) :material-alert-outline:  
-[[IconeDamplification|Icône d'Amplification]] (![[icone_amplification.jpg|15]]) :material-alert-outline:  
-[[IconeDetoile|Icône d'Étoile]] (![[icone_etoile.jpg|15]]) :material-alert-outline:  
-[[IconeDeCrise|Icône de Crise]] (![[icone_crise.jpg|15]]) :material-alert-outline:  
-[[IconeDeCoutEnFormeDeFleche|Icône de coût en forme de flèche]] (→) :material-alert-outline:   
-[[IconeDeSet|Icône de Set]] :material-alert-outline:  
-[[IconeParJoueur|Icône Par Joueur]] (![[icone_joueur.jpg|15]]) :material-alert-outline:  
-[[IconeUnique|Icône Unique]] (![[icone_unique.jpg|15]]) :material-alert-outline:  
-[[Identite|Identité]] :material-alert-outline:  
-[[Ignorer|Ignorer]] :material-alert-outline:  
-[[Imprime|Imprimé]] :material-alert-outline:  
-[[IncitationX|Incitation X]] :material-alert-outline:  
-[[Incline|Incliné]] :material-alert-outline:  
-[[InitierDesCapacites|Initier des Capacités]] :material-alert-outline:  
-[[Interruption|Interruption]] :material-alert-outline:  
+[[Icone|Icône]]   
+[[IconeDacceleration|Icône d'Accélération]] (![[icone_acceleration.jpg|15]])   
+[[IconeDaleas|Icône d'aléas]] (![[icone_aleas.jpg|15]])   
+[[IconeDamplification|Icône d'Amplification]] (![[icone_amplification.jpg|15]])   
+[[IconeDetoile|Icône d'Étoile]] (![[icone_etoile.jpg|15]])   
+[[IconeDeCrise|Icône de Crise]] (![[icone_crise.jpg|15]])   
+[[IconeDeCoutEnFormeDeFleche|Icône de coût en forme de flèche]] (→)    
+[[IconeDeSet|Icône de Set]]   
+[[IconeParJoueur|Icône Par Joueur]] (![[icone_joueur.jpg|15]])   
+[[IconeUnique|Icône Unique]] (![[icone_unique.jpg|15]])   
+[[Identite|Identité]]   
+[[Ignorer|Ignorer]]   
+[[Imprime|Imprimé]]   
+[[IncitationX|Incitation X]]   
+[[Incline|Incliné]]   
+[[InitierDesCapacites|Initier des Capacités]]   
+[[Interruption|Interruption]]   
 
 ## J
-[[JetonsGeneriques|Jetons Génériques]] :material-alert-outline:  
-[[JouerMettreEnJeu|Jouer, Mettre en Jeu]] :material-alert-outline:  
-[[JouerDesCartes|Jouer des cartes]] :material-alert-outline:  
-[[Joueur|Joueur]] :material-alert-outline:  
-[[JoueurActif|Joueur Actif]] :material-alert-outline:  
+[[JetonsGeneriques|Jetons Génériques]]   
+[[JouerMettreEnJeu|Jouer, Mettre en Jeu]]   
+[[JouerDesCartes|Jouer des cartes]]   
+[[Joueur|Joueur]]   
+[[JoueurActif|Joueur Actif]]   
 
 ## L
-[[LieTitreDeCarte|Liée (Titre de Carte)]] :material-alert-outline:  
-[[Limite|Limite]] :material-alert-outline:  
-[[LimiteDallies|Limite d'Alliés]] :material-alert-outline:  
-[[LimiteDeManiganceAnnexeDeJoueur|Limite de Manigance Annexe de Joueur]] :material-alert-outline:  
+[[LieTitreDeCarte|Liée (Titre de Carte)]]   
+[[Limite|Limite]]   
+[[LimiteDallies|Limite d'Alliés]]   
+[[LimiteDeManiganceAnnexeDeJoueur|Limite de Manigance Annexe de Joueur]]   
 
 ## M
-[[ManiganceActivationDesEnnemis|Manigance (activation des ennemis)]] :material-alert-outline:  
-[[ManiganceAnnexeDeJoueur|Manigance Annexe de Joueur]] :material-alert-outline:  
-[[ManiganceAnnexe|Manigance Annexe]] :material-alert-outline:  
-[[ManigancePrincipaleDeckManigancePrincipale|Manigance principale, deck manigance principale]] :material-alert-outline:  
-[[ManiganceTypeDeCarte|Manigance (type de carte)]] :material-alert-outline:  
-[[MaxMaximum|Max, Maximum]] :material-alert-outline:  
-[[MechantDeckMechant|Méchant, Deck Méchant]] :material-alert-outline:  
-[[Melanger|Mélanger]] :material-alert-outline:  
-[[Menace|Menace]] :material-alert-outline:  
-[[MettreDeCoteMisDeCote|Mettre de Côté, Mis de Côté]] :material-alert-outline:  
-[[MiseEnPlaceCapaciteDeclenchee|Mise en Place (Capacité Déclenchée)]] :material-alert-outline:  
-[[MiseEnPlaceMotCle|Mise en Place (Mot-Clé)]] :material-alert-outline:  
-[[Mng|MNG]] :material-alert-outline:  
-[[ModeDebutant|Mode Débutant]] :material-alert-outline:  
-[[ModeEscarmouche|Mode Escarmouche]] :material-alert-outline:  
-[[ModeExpert|Mode Expert]] :material-alert-outline:  
-[[ModeHeroique|Mode Héroïque]] :material-alert-outline:  
-[[ModeStandard|Mode Standard]] :material-alert-outline:  
-[[ModesDeJeu|Modes de Jeu]] :material-alert-outline:  
-[[Modificateurs|Modificateurs]] :material-alert-outline:  
-[[MotsCles|Mots-clés]] :material-alert-outline:  
+[[ManiganceActivationDesEnnemis|Manigance (activation des ennemis)]]   
+[[ManiganceAnnexeDeJoueur|Manigance Annexe de Joueur]]   
+[[ManiganceAnnexe|Manigance Annexe]]   
+[[ManigancePrincipaleDeckManigancePrincipale|Manigance principale, deck manigance principale]]   
+[[ManiganceTypeDeCarte|Manigance (type de carte)]]   
+[[MaxMaximum|Max, Maximum]]   
+[[MechantDeckMechant|Méchant, Deck Méchant]]   
+[[Melanger|Mélanger]]   
+[[Menace|Menace]]   
+[[MettreDeCoteMisDeCote|Mettre de Côté, Mis de Côté]]   
+[[MiseEnPlaceCapaciteDeclenchee|Mise en Place (Capacité Déclenchée)]]   
+[[MiseEnPlaceMotCle|Mise en Place (Mot-Clé)]]   
+[[Mng|MNG]]   
+[[ModeDebutant|Mode Débutant]]   
+[[ModeEscarmouche|Mode Escarmouche]]   
+[[ModeExpert|Mode Expert]]   
+[[ModeHeroique|Mode Héroïque]]   
+[[ModeStandard|Mode Standard]]   
+[[ModesDeJeu|Modes de Jeu]]   
+[[Modificateurs|Modificateurs]]   
+[[MotsCles|Mots-clés]]   
 
 ## N
-[[NePeutPas|Ne peut pas]] :material-alert-outline:  
-[[NonDefendue|Non défendue]] :material-alert-outline:  
+[[NePeutPas|Ne peut pas]]   
+[[NonDefendue|Non défendue]]   
 
 ## O
-[[Obligation|Obligation]] :material-alert-outline:  
-[[Obtient|Obtient]] :material-alert-outline:  
+[[Obligation|Obligation]]   
+[[Obtient|Obtient]]   
 
 ## P
-[[Patrouille|Patrouille]] :material-alert-outline:  
-[[Payer|Payer]] :material-alert-outline:  
-[[Percant|Perçant]] :material-alert-outline:  
-[[Perdre|Perdre]] :material-alert-outline:  
-[[Peril|Péril]] :material-alert-outline:  
-[[Permanent|Permanent]] :material-alert-outline:  
-[[Personnage|Personnage]] :material-alert-outline:  
-[[PersonnalisationDuDeck|Personnalisation du deck]] :material-alert-outline:  
-[[PhaseDesJoueurs|Phase des joueurs]] :material-alert-outline:  
-[[PhaseDuMechant|Phase du Méchant]] :material-alert-outline:  
-[[PileDeDefausse|Pile de défausse]] :material-alert-outline:  
-[[PileDeDefausseJoueur|Pile de défausse Joueur]] :material-alert-outline:  
-[[PileDeDefausseRencontre|Pile de Défausse Rencontre]] :material-alert-outline:  
-[[PileDeVictoire|Pile de victoire]] :material-alert-outline:  
-[[PiocherPiocherDesCartes|Piocher, Piocher des Cartes]] :material-alert-outline:  
-[[PionDacceleration|Pion d'Accélération]] :material-alert-outline:  
-[[PointsDeVie|Points de vie]] :material-alert-outline:  
-[[PointsDeVieMaximums|Points de vie maximums]] :material-alert-outline:  
-[[PointsDeVieInfini|Points de Vie Infini]] :material-alert-outline:  
-[[PointsDeVieRestants|Points de Vie Restants]] :material-alert-outline:  
-[[PourChaque|"Pour Chaque"]] :material-alert-outline:   :material-alert-outline:  
-[[Pouvoir|"Pouvoir"]] :material-alert-outline:  
-[[PouvoirDeBase|Pouvoir de Base]] :material-alert-outline:  
-[[PremierJoueur|Premier joueur]] :material-alert-outline:  
-[[Prevenir|Prévenir]] :material-alert-outline:  
-[[ProprieteEtControle|Propriété et contrôle]] :material-alert-outline:  
+[[Patrouille|Patrouille]]   
+[[Payer|Payer]]   
+[[Percant|Perçant]]   
+[[Perdre|Perdre]]   
+[[Peril|Péril]]   
+[[Permanent|Permanent]]   
+[[Personnage|Personnage]]   
+[[PersonnalisationDuDeck|Personnalisation du deck]]   
+[[PhaseDesJoueurs|Phase des joueurs]]   
+[[PhaseDuMechant|Phase du Méchant]]   
+[[PileDeDefausse|Pile de défausse]]   
+[[PileDeDefausseJoueur|Pile de défausse Joueur]]   
+[[PileDeDefausseRencontre|Pile de Défausse Rencontre]]   
+[[PileDeVictoire|Pile de victoire]]   
+[[PiocherPiocherDesCartes|Piocher, Piocher des Cartes]]   
+[[PionDacceleration|Pion d'Accélération]]   
+[[PointsDeVie|Points de vie]]   
+[[PointsDeVieMaximums|Points de vie maximums]]   
+[[PointsDeVieInfini|Points de Vie Infini]]   
+[[PointsDeVieRestants|Points de Vie Restants]]   
+[[PourChaque|"Pour Chaque"]]      
+[[Pouvoir|"Pouvoir"]]   
+[[PouvoirDeBase|Pouvoir de Base]]   
+[[PremierJoueur|Premier joueur]]   
+[[Prevenir|Prévenir]]   
+[[ProprieteEtControle|Propriété et contrôle]]   
 
 ## Q
-[[Qualificatifs|Qualificatifs]] :material-alert-outline:  
-[[QuitterLeJeu|Quitter le jeu]] :material-alert-outline:  
+[[Qualificatifs|Qualificatifs]]   
+[[QuitterLeJeu|Quitter le jeu]]   
 
 ## R
-[[Rec|REC]] :material-alert-outline:  
-[[RecuperationRecuperer|Récupération, récupérer]] :material-alert-outline:  
-[[Redresse|Redressé]] :material-alert-outline:  
-[[Regarder|Regarder, regardée]] :material-alert-outline:  
-[[Renfort|Renfort]] :material-alert-outline:  
-[[Reponse|Réponse]] :material-alert-outline:  
-[[ResolutionSimultanee|Résolution simultanée]] :material-alert-outline:  
-[[Ressource|Ressource]] :material-alert-outline:  
-[[RessourceCarte|Ressource (carte)]] :material-alert-outline:  
-[[RessourceCapacite|Ressource (capacité)]] :material-alert-outline:  
-[[RessourceEnergie|Ressource énergie]] :material-alert-outline:  
-[[RessourceLibre|Ressource Libre]] :material-alert-outline:  
-[[RessourceMentale|Ressource mentale]] :material-alert-outline:  
-[[RessourcePhysique|Ressource physique]] :material-alert-outline:  
-[[Restreint|Restreint]] :material-alert-outline:  
-[[RestrictionsEtPermissionsDeJeu|Restrictions et permissions de jeu]] :material-alert-outline:  
-[[RetireDeLaPartie|Retiré de la Partie]] :material-alert-outline:  
-[[Retourner|Retourner]] :material-alert-outline:  
-[[Reveler|Révéler]] :material-alert-outline:  
-[[RiposteX|Riposte X]] :material-alert-outline:  
-[[Robuste|Robuste]] :material-alert-outline:  
+[[Rec|REC]]   
+[[RecuperationRecuperer|Récupération, récupérer]]   
+[[Redresse|Redressé]]   
+[[Regarder|Regarder, regardée]]   
+[[Renfort|Renfort]]   
+[[Reponse|Réponse]]   
+[[ResolutionSimultanee|Résolution simultanée]]   
+[[Ressource|Ressource]]   
+[[RessourceCarte|Ressource (carte)]]   
+[[RessourceCapacite|Ressource (capacité)]]   
+[[RessourceEnergie|Ressource énergie]]   
+[[RessourceLibre|Ressource Libre]]   
+[[RessourceMentale|Ressource mentale]]   
+[[RessourcePhysique|Ressource physique]]   
+[[Restreint|Restreint]]   
+[[RestrictionsEtPermissionsDeJeu|Restrictions et permissions de jeu]]   
+[[RetireDeLaPartie|Retiré de la Partie]]   
+[[Retourner|Retourner]]   
+[[Reveler|Révéler]]   
+[[RiposteX|Riposte X]]   
+[[Robuste|Robuste]]   
 
 ## S
-[[Sbire|Sbire]] :material-alert-outline:  
-[[SetDeRencontreModulaire|Set de Rencontre Modulaire]] :material-alert-outline:  
-[[SetDeRencontreNemesis|Set de Rencontre némésis]] :material-alert-outline:  
-[[SetExpert|Set Expert]] :material-alert-outline:  
-[[SetStandard|Set standard]] :material-alert-outline:  
-[[SeuilDeMenace|Seuil de Menace]] :material-alert-outline:  
-[[Sinon]] :material-alert-outline:   
-[[Soigner|Soigner]] :material-alert-outline:  
-[[Solide|Solide]] :material-alert-outline:  
-[[SonnerSonne|Sonner, sonné]] :material-alert-outline:  
-[[SousTitre|Sous-Titre]] :material-alert-outline:  
-[[Soutien|Soutien]] :material-alert-outline:  
-[[Special|Spécial]] :material-alert-outline:  
-[[Supplementaire|"Supplémentaire"]] :material-alert-outline:  
-[[Surpayer]] :material-alert-outline:  
+[[Sbire|Sbire]]   
+[[SetDeRencontreModulaire|Set de Rencontre Modulaire]]   
+[[SetDeRencontreNemesis|Set de Rencontre némésis]]   
+[[SetExpert|Set Expert]]   
+[[SetStandard|Set standard]]   
+[[SeuilDeMenace|Seuil de Menace]]   
+[[Sinon]]    
+[[Soigner|Soigner]]   
+[[Solide|Solide]]   
+[[SonnerSonne|Sonner, sonné]]   
+[[SousTitre|Sous-Titre]]   
+[[Soutien|Soutien]]   
+[[Special|Spécial]]   
+[[Supplementaire|"Supplémentaire"]]   
+[[Surpayer]]   
 
 ## T
-[[TailleDeMain|Taille de main]] :material-alert-outline:  
-[[Temporaire|Temporaire]] :material-alert-outline:  
-[[Tenace|Tenace]] :material-alert-outline:  
-[[Tenacite|Ténacité]] :material-alert-outline:  
-[[TexteDeRappel|Texte de Rappel]] :material-alert-outline:  
-[[TiretValeur|Tiret (Valeur)]] :material-alert-outline:  
-[[TomberACourtDeCartes|Tomber à Court de Cartes]] :material-alert-outline:  
-[[TourDeJoueur|Tour de joueur]] :material-alert-outline:  
-[[Traitrise|Traîtrise]] :material-alert-outline:  
-[[Traits|Traits]] :material-alert-outline:  
-[[Trouver|Trouver]] :material-alert-outline:  
-[[TypesDeCarte|Types de carte]] :material-alert-outline:  
+[[TailleDeMain|Taille de main]]   
+[[Temporaire|Temporaire]]   
+[[Tenace|Tenace]]   
+[[Tenacite|Ténacité]]   
+[[TexteDeRappel|Texte de Rappel]]   
+[[TiretValeur|Tiret (Valeur)]]   
+[[TomberACourtDeCartes|Tomber à Court de Cartes]]   
+[[TourDeJoueur|Tour de joueur]]   
+[[Traitrise|Traîtrise]]   
+[[Traits|Traits]]   
+[[Trouver|Trouver]]   
+[[TypesDeCarte|Types de carte]]   
 
 ## U
 [[IconeUnique|Unique]]
-[[UtilisationsXType|Utilisations ("X" Type)]] :material-alert-outline:  
+[[UtilisationsXType|Utilisations ("X" Type)]]   
 
 ## V
-[[VaincreDejouer|Vaincre, déjouer]] :material-alert-outline:  
-[[VaincreLeMechant|Vaincre le Méchant]] :material-alert-outline:  
-[[ValeurDeBase|Valeur de Base]] :material-alert-outline:  
-[[VariableNonNumerique|Variable Non-Numérique]] :material-alert-outline:  
-[[VictoireX|Victoire "X"]] :material-alert-outline:  
-[[Vilenie|Vilenie]] :material-alert-outline:  
-[[VousVotre|Vous, votre]] :material-alert-outline:  
-[[Vulnerable|Vulnérable]] :material-alert-outline:  
+[[VaincreDejouer|Vaincre, déjouer]]   
+[[VaincreLeMechant|Vaincre le Méchant]]   
+[[ValeurDeBase|Valeur de Base]]   
+[[VariableNonNumerique|Variable Non-Numérique]]   
+[[VictoireX|Victoire "X"]]   
+[[Vilenie|Vilenie]]   
+[[VousVotre|Vous, votre]]   
+[[Vulnerable|Vulnérable]]   
 
 # X
 [[XValeur|"X" (valeur)]]
 
 ## Z
-[[ZoneDeJeu|Zone de jeu]] :material-alert-outline:  
-[[ZoneDeJeuDuMechant|Zone de Jeu du Méchant]] :material-alert-outline:  
-[[ZoneDeJeuDunJoueur|Zone de jeu d'un joueur]] :material-alert-outline:  
+[[ZoneDeJeu|Zone de jeu]]   
+[[ZoneDeJeuDuMechant|Zone de Jeu du Méchant]]   
+[[ZoneDeJeuDunJoueur|Zone de jeu d'un joueur]]   

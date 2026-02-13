@@ -1,6 +1,6 @@
 # Incitation X  
 
-Quand une carte ayant le mot‑clé `Incitation X` est révélée, placez X menaces sur la manigance principale. (X étant la valeur à côté du mot‑clé Incitation.)  
+Quand une carte ayant le mot‑clé `Incitation X` est révélée, placez X menaces sur la manigance principale. (X étant la valeur à côté du mot‑clé `Incitation`.)  
 
 _Voir aussi : [[MotsCles|Mots-clés]], [[ManigancePrincipaleDeckManigancePrincipale|Manigance Principale]], [[Menace|Menace]], [[Reveler|Révéler]], [[TexteDeRappel|Texte de Rappel]]_  
 
