@@ -1,12 +1,11 @@
 # Vilenie
 
+Quand un sbire avec le mot-clé Vilenie s’active, donnez-lui une carte de boost face cachée du dessus du deck Rencontre.  
+Quand vous résolvez l’activation de ce sbire, retournez la carte de boost face visible, résolvez ses éventuelles capacités de boost présentes et appliquez les icônes de boost aux valeurs de ce sbire pour cette activation.  
+Défaussez la carte de boost après cette activation.  
+- <span class="new">Si une capacité de boost sur une carte de boost donnée à un sbire fait référence à « le méchant », cette capacité s’applique toujours au méchant (même si c’est un sbire qui la résout).</span>  
 
-Lorsqu'un sbire avec le mot-clé `vilenie` s'active, donnez-lui une carte de boost face cachée. Résolvez-la (icônes et capacité étoile) pour cette activation, puis défaussez-la.
-
-  - Si une capacité de boost réfère au "méchant", elle s'applique au méchant (même si c'est le sbire qui s'active).
-
-**Voir aussi** : Activation, Attaque (Activation d'ennemi), Boost, Défausse, Mots-clés, Sbire, Texte de rappel, Manigance (Activation d'ennemi)
-
+_Voir aussi : [[Activation|Activation]], [[AttaqueActivationDesEnnemis|Attaque (Activation des Ennemis)]], [[BoostIconeDeBoost|Boost]], [[DefausserDefausse|Défausse]], [[MotsCles|Mots-clés]], [[Sbire|Sbire]], [[TexteDeRappel|Texte de Rappel]], [[ManiganceActivationDesEnnemis|Manigance (Activation des Ennemis)]]_  
 
 **EN v1.7**:  
 ```

@@ -1,17 +1,11 @@
 # Zone de jeu
 
+La zone de jeu contient deux types : la zone de jeu d’un joueur et la zone de jeu du méchant.  
+- La zone de jeu d’un joueur contient l’identité de ce joueur, son deck, sa main, sa pile de défausse, toutes les cartes en jeu qu’il contrôle, et toutes les cartes Rencontre face visible ou face cachée dans sa zone de jeu (telles que les sbires engagés ou les cartes Rencontre qui lui ont été attribuées).  
+- La zone de jeu du méchant contient le deck Méchant, le deck Manigance Principale, le deck Rencontre, la pile de défausse Rencontre, et toutes les cartes Rencontre en jeu qui ne sont pas entrées dans la zone de jeu d’un joueur (telles que les manigances annexes ou les environnements).  
+- Une carte ne peut pas être dans plus d’une zone de jeu à la fois.  
 
-Il existe deux types de zones de jeu : la zone de jeu d'un joueur et la zone de jeu du méchant.
-
-  - La zone de jeu d'un joueur contient l'identité de ce joueur, son deck, sa main, sa pile de défausse, toutes les cartes en jeu sous son contrôle et toutes les cartes de rencontre face visible ou face cachée dans sa zone de jeu (comme les sbires engagés ou les cartes de rencontre qui lui ont été distribuées).
-
-  - La zone de jeu du méchant contient le deck du méchant, le deck de manigance principale, le deck Rencontre, la pile de défausse Rencontre et toutes les cartes de rencontre en jeu qui ne sont pas entrées dans la zone de jeu d'un joueur (comme les manigances annexes ou les environnements).
-
-  - Une carte ne peut pas se trouver dans plus d'une zone de jeu à la fois.
-
-
-**Voir aussi** : En jeu et Hors-jeu, Zone de jeu d'un joueur, Zone de jeu du méchant
-
+_Voir aussi : [[EnJeuEtHorsJeu|En Jeu et Hors Jeu]], [[ZoneDeJeuDUnJoueur|Zone de Jeu d’un Joueur]], [[ZoneDeJeuDuMechant|Zone de Jeu du Méchant]]_  
 
 **EN v1.7**:  
 ```

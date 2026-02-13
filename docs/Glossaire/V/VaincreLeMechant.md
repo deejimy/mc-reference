@@ -1,20 +1,21 @@
 # Vaincre le Méchant
 
+Si les points de vie du compteur du méchant sont réduits à zéro, les joueurs ont vaincu ce stade du méchant.  
+Retirez de la partie le stade actuel du deck Méchant.  
+Le stade suivant du deck Méchant dans l’ordre séquentiel est révélé. Réglez le compteur de points de vie du méchant comme indiqué sur ce stade.  
+Si le dernier stade du deck Méchant est vaincu, les joueurs gagnent la partie.  
+- <span class="new">La révélation d’un méchant ne peut pas être annulée.</span>  
+- Les dégâts en excès qui vainquent le stade d’un méchant ne sont pas reportés sur le nouveau stade.  
+- <span class="new">Si le nouveau stade du méchant a le même titre que le stade précédent :</span>  
+    - <span class="new">Le nouveau stade du méchant est considéré comme le même personnage que le stade vaincu pour les capacités de carte (par exemple le mot‑clé riposte X).</span>  
+    - Les attachements, améliorations, cartes d’état, jetons et pions autres que les pions Dégât sont reportés sur le nouveau stade.  
+    - <span class="new">Si le méchant a été vaincu pendant son activation, il reprend cette activation en utilisant le nouveau stade du méchant.</span>  
+- <span class="new">Si le nouveau stade du méchant a un titre différent du stade précédent :</span>  
+    - <span class="new">Le nouveau stade du méchant n’est pas considéré comme le même personnage que le stade vaincu pour les capacités de carte.</span>  
+    - <span class="new">Les attachements, améliorations, cartes d’état, jetons et pions autres que les pions Dégât ne sont pas reportés sur le nouveau stade.</span>  
+    - <span class="new">Si le méchant a été vaincu pendant son activation, l’activation se termine sans se résoudre.</span>    
 
-Si le compteur de points de vie du méchant tombe à zéro, ce stade est vaincu.
-Retirez le stade actuel du jeu et révélez le suivant. Réglez les points de vie comme indiqué.
-Si le dernier stade est vaincu, les joueurs gagnent.
-
-  - La révélation d'un méchant ne peut pas être annulée.
-
-  - Les dégâts excédentaires ne sont pas reportés au stade suivant.
-
-  - Si le nouveau stade a le même titre : il est considéré comme le même personnage (conserve les attachements, cartes d'état, pions, riposte, etc.). S'il était en train de s'activer, il termine son activation.
-
-  - Si le titre est différent : il n'est pas considéré comme le même personnage (ne conserve rien). L'activation en cours s'arrête sans se résoudre.
-
-**Voir aussi** : jeton polyvalent, Attachement, Dégâts, Vaincre, Dégâts excédentaires, Points de vie, Cartes d'état, Méchant
-
+_Voir aussi : [[Attachement|Attachement]], [[CartesDetat|Cartes d’Etat]], [[Degats|Dégâts]], [[DegatsEnExces|Dégâts en Excès]], [[JetonsGeneriques|Jetons Génériques]], [[MechantDeckMechant|Méchant]], [[PointsDeVie|Points de Vie]], [[VaincreDejouer|Vaincre / Déjouer]]_  
 
 **EN v1.7**:  
 ```

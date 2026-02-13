@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Glossaire/T/TypesDeCarte.md",
+                "file": "Glossaire/V/ValeurDeBase.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TypesDeCarte"
+              "title": "ValeurDeBase"
             }
           }
         ]
@@ -182,8 +182,8 @@
   },
   "active": "4d842d87c59928a2",
   "lastOpenFiles": [
-    "Glossaire/T/Trouver.md",
     "Glossaire/T/TypesDeCarte.md",
+    "Glossaire/T/Trouver.md",
     "Glossaire/T/Traits.md",
     "Glossaire/T/Traitrise.md",
     "Glossaire/T/TourDeJoueur.md",

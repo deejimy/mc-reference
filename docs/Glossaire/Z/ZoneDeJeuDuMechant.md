@@ -1,18 +1,12 @@
 # Zone de Jeu du Méchant
 
+La zone de jeu du méchant contient le deck Méchant, le deck Manigance Principale, le deck Rencontre, la pile de défausse Rencontre et le compteur de points de vie du méchant.  
+- Les cartes Environnement et Manigance Annexe sont placées dans la zone de jeu du méchant lorsqu’elles entrent en jeu.  
+- Les cartes Attachement attachées aux cartes dans la zone de jeu du méchant sont dans la zone de jeu du méchant. Les cartes Attachement attachées à des cartes dans la zone de jeu d’un joueur ne sont pas dans la zone de jeu du méchant.  
+- Les cartes Sbire engagées avec un joueur sont dans la zone de jeu de ce joueur, et pas dans la zone de jeu du méchant.  
+- Les cartes Obligation données à un joueur sont dans la zone de jeu de ce joueur et pas dans la zone de jeu du méchant.  
 
-La zone de jeu du méchant est l'endroit où se trouvent le deck du méchant, la manigance principale, le deck Rencontre, la pile de défausse Rencontre et le compteur de points de vie du méchant.
-
-  - Les cartes environnement et manigance annexe y sont placées.
-
-  - Les attachements sur des cartes de cette zone y restent.
-
-  - Les sbires engagés avec un joueur sont dans la zone du joueur, pas celle du méchant.
-
-  - Les obligations sont dans la zone du joueur concerné.
-
-**Voir aussi** : Attachement, Pile de défausse, Paquet de rencontre, Environnement, En jeu et Hors-jeu, Manigance principale, Sbire, Obligation, Méchant
-
+_Voir aussi : [[Attachement|Attachement]], [[ManigancePrincipaleDeckManigancePrincipale|Deck Manigance Principale]], [[MechantDeckMechant|Deck Méchant]], [[DeckRencontre|Deck Rencontre]], [[EnJeuEtHorsJeu|En Jeu et Hors Jeu]], [[Environnement|Environnement]], [[Obligation|Obligation]], [[PileDeDefausse|Pile de défausse]], [[Sbire|Sbire]]_  
 
 **EN v1.7**:  
 ```

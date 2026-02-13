@@ -1,14 +1,10 @@
 # Vaincre, déjouer
 
+Si un personnage tombe à zéro point de vie ou moins, il est vaincu. Si une manigance annexe n’a plus de menaces sur elle, elle est déjouée.  
+- Si un allié, un sbire ou une manigance annexe est vaincu/déjoué, la carte est défaussée.  
+- Si une identité ou un stade du méchant est vaincu, la carte est retirée de la partie.  
 
-Si un personnage a zéro point de vie restant ou moins, ou si une manigance annexe n'a plus de menace sur elle, elle est vaincue (ou déjouée).
-
-  - Si un allié, un sbire ou une manigance annexe est vaincu, il est défaussé.
-
-  - Si une identité ou un stade du méchant est vaincu, il est retiré de la partie.
-
-**Voir aussi** : Allié, Points de vie, Sbire, Joueur, Élimination d'un joueur, Retiré de la partie, Manigance annexe, Méchant, Vaincre le méchant
-
+_Voir aussi : [[Allie|Allié]], [[PointsDeVie|Points de Vie]], [[EliminationDeJoueur|Elimination de Joueur]], [[Joueur|Joueur]], [[ManiganceAnnexe|Manigance Annexe]], [[MechantDeckMechant|Méchant]], [[RetireDeLaPartie|Retiré de la Partie]], [[Sbire|Sbire]], [[VaincreLeMechant|Vaincre le Méchant]]_  
 
 **EN v1.7**:  
 ```

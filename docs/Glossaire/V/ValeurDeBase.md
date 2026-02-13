@@ -1,8 +1,9 @@
 # Valeur de Base
 
+C’est une valeur définie avant l’application des modificateurs.
+Dans la plupart des cas, il s’agit de la valeur imprimée.
 
-Une valeur définie avant que les modificateurs ne soient appliqués. Dans la plupart des cas, il s'agit également de la valeur imprimée.
-
+_Voir aussi : [[Modificateurs]], [[Imprime|Imprimé]]
 
 **EN v1.7**:  
 ```

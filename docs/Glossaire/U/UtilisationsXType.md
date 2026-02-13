@@ -1,14 +1,13 @@
 # Utilisations (X "Type")
 
 
-Lorsqu'une carte avec ce mot-clé entre en jeu, placez X pions polyvalents dessus. Le mot suivant la valeur identifie le type d'utilisations.
+Quand une carte ayant ce mot-clé entre en jeu, placez X jetons génériques (pris dans la réserve de pions) sur cette carte.  
+Le mot suivant la valeur établit et identifie le type d’utilisations de la carte.  
+Chaque carte ayant ce mot-clé possède également une capacité dont le coût fait référence au type d’utilisations établi par le mot-clé.  
+Quand cette capacité vous demande de dépenser une utilisation, un jeton de ce type doit être retiré de la carte.  
+Après qu’une carte avec des utilisations a dépensé sa dernière utilisation (et que l’effet a été résolu), défaussez la carte.  
 
-Chaque carte avec ce mot-clé possède une capacité qui utilise ces pions comme coût.
-
-Quand le dernier pion est retiré, défaussez la carte.
-
-**Voir aussi** : jeton polyvalent, Défausse, Entre en jeu, Mots-clés, Quitte le jeu, Texte de rappel
-
+_Voir aussi : [[DefausserDefausse|Défausse]], [[EntrerEnJeu|Entrer en Jeu]], [[JetonsGeneriques|Jeton Générique]], [[MotsCles|Mots-clés]], [[QuitterLeJeu|Quitter le Jeu]], [[TexteDeRappel|Texte de Rappel]]_  
 
 **EN v1.7**:  
 ```

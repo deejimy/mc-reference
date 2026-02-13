@@ -1,49 +1,32 @@
 # Vous, votre
 
+Lorsque vous résolvez des capacités de carte, si le mot « vous » peut être résolu comme faisant référence à l’identité du joueur, il doit être résolu de cette façon. Cela inclut (sans être exhaustif) les situations suivantes :  
+- <span class="new">Si une phrase utilise « vous » et/ou « votre » plusieurs fois, toutes les occurrences dans cette phrase font référence à la même identité ou au même joueur.</span>  
+- Si une capacité de carte « vous » inflige des dégâts ou si « vous » subissez des dégâts, le joueur qui résout ces dégâts les applique au compteur de point de vie de son identité.  
+- Si une capacité de carte « vous » inflige des dégâts indirects ou si « vous » subissez des dégâts indirects, le joueur qui résout ces dégâts les assigne aux personnages en jeu sous son contrôle.  
+- Si une capacité de carte « vous » incline, le joueur qui résout cette capacité incline son identité.  
+- Si une capacité de carte place une carte d’état sur « vous » (par exemple « vous êtes sonné »), le joueur qui résout cette capacité place la carte d’état sur son identité.  
+- Si une capacité de carte se déclenche suite à une fonction de jeu que « vous » avez effectuée (telle que « après que vous avez attaqué et vaincu un ennemi »), le joueur qui résout cette capacité doit la résoudre comme si l’identité qu’il contrôle avait effectué cette fonction de jeu, si possible. (Par exemple, si une capacité se déclenche « après que vous avez attaqué et vaincu un sbire », elle se déclenche après que l’identité contrôlée par le joueur a attaqué et vaincu un sbire, mais pas après qu’un allié sous le contrôle de ce joueur a attaqué et vaincu un sbire.)  
+- <span class="new">Exception : Pour les capacités qui se déclenchent « après qu’un [ennemi] vous attaque », « vous » fait référence au joueur attaqué, même si ce joueur a défendu avec un allié.</span>  
 
-Lors de la résolution des capacités de cartes, si le mot "vous" peut être résolu comme se référant à l'identité du joueur, il doit être résolu ainsi. Cela inclut, sans s'y limiter, les cas suivants :
+Lorsque vous résolvez des capacités de carte, si le mot « vous » ne peut pas être résolu comme faisant référence à l’identité du joueur, il doit être résolu comme se référant au joueur. Cela inclut (notamment) les situations suivantes :  
+- Si une étape de jeu ou une capacité de carte défausse des cartes de « votre » main, le joueur qui résout cette étape de jeu ou cette capacité défausse les cartes de sa main.  
+- Si une capacité de carte cherche dans « votre » deck, le joueur qui résout cette capacité cherche les cartes concernées dans son deck.  
+- Si une étape de jeu ou une capacité effectue une fonction de jeu sur une carte non-identité que « vous » contrôlez (telle que l’incliner, la défausser, la mettre de côté, etc.), le joueur qui résout l’étape de jeu ou la capacité effectue la fonction de jeu sur une carte dans sa zone de jeu.  
+- Si une capacité de carte se déclenche suite à une fonction de jeu que « vous » effectuez, sans qu’on puisse l’interpréter de telle façon qu’elle ferait référence à l’identité du joueur qui la résout (telle que « après que vous avez défaussé des cartes de votre main »), le joueur qui résout cette capacité de carte doit personnellement résoudre et effectuer la ou les fonction(s) de jeu de cette capacité.  
 
-  - Si une phrase utilise "vous" et/ou "votre" plusieurs fois, toutes les occurrences dans cette phrase se réfèrent à la même identité ou au même joueur.
+Certaines cartes Joueur sont considérées comme une extension de l’identité du joueur. Quand une action et/ou une capacité est résolue par un type de carte qui est une extension d’une identité, considérez que cette action et/ou cette capacité est effectuée par cette identité.  
+Les cartes considérées comme une extension de l’identité d’un joueur sont :  
+- Evénements — Considérez que les attaques, contres, défenses, capacités d’action et capacités déclenchées qui se résolvent lorsqu’un joueur joue un événement sont effectués par l’identité de ce joueur.  
+- Ressources — Si un joueur dépense une ressource, considérez également que cette ressource est dépensée par l’identité de ce joueur.  
+- Améliorations — À moins qu’elles ne soient attachées à un personnage différent, considérez que les cartes Amélioration contrôlées par un joueur sont une extension de son identité. Considérez également que les attaques, contres, défenses, capacités d’action et capacités déclenchées qui se résolvent depuis des améliorations en jeu contrôlées par un joueur sont résolues par son identité.  
+Les cartes qui ne sont pas considérées comme une extension de l’identité d’un joueur sont :  
+- Alliés — Considérez que les attaques, contres, défenses, capacités d’action et capacités déclenchées qui se résolvent via des alliés en jeu contrôlés par un joueur ne sont pas effectués par l’identité de ce joueur.  
+- <span class="new">Cartes de rencontre — Les capacités déclenchées qui se résolvent depuis des cartes de rencontre ne sont pas considérées comme effectuées par l’identité du joueur, qu’elles soient optionnelles ou forcées.</span>  
+- <span class="new">Manigances côté joueur — Les capacités déclenchées provenant de manigances côté joueur en jeu sous le contrôle d’un joueur ne sont pas considérées comme effectuées par l’identité de ce joueur.</span>  
+- Soutiens — Considérez que les attaques, contres, défenses, capacités d’action et capacités déclenchées qui se résolvent via des soutiens en jeu contrôlés par un joueur ne sont pas effectués par l’identité de ce joueur.  
 
-  - Si une carte inflige des dégâts à "vous", ou si "vous" subissez des dégâts, le joueur qui résout ces dégâts les applique au compteur de points de vie de son identité.
-
-  - Si une capacité inflige des dégâts indirects à "vous", le joueur peut répartir ces dégâts sur les personnages en jeu sous son contrôle.
-
-  - Si une capacité "vous" incline, le joueur incline son identité.
-
-  - Si une capacité place une carte d'état sur "vous" (ex: "vous êtes sonné"), le joueur place cette carte d'état sur son identité.
-
-  - Si une capacité se déclenche à partir d'une fonction de jeu que "vous" effectuez (ex: "après que vous avez attaqué et vaincu un ennemi"), le joueur doit résoudre cette capacité comme si l'identité qu'il contrôle avait effectué cette fonction, si possible. (Par exemple, si une capacité se déclenche "après que vous avez attaqué et vaincu un sbire", elle se déclenche si l'identité du joueur attaque et vainc un sbire, mais pas si c'est un allié sous son contrôle qui le fait).
-
-  - Exception : Pour les capacités qui se déclenchent "après que [ennemi] vous a attaqué", "vous" se réfère au joueur attaqué, même si ce joueur a défendu avec un allié.
-
-Si le mot "vous" ne peut pas être résolu comme se référant à l'identité, il doit être résolu comme se référant au joueur. Cela inclut :
-
-  - Si une étape ou capacité défausse des cartes de "votre" main, le joueur défausse les cartes de sa main.
-
-  - Si une capacité cherche dans "votre" deck, le joueur cherche dans son deck.
-
-  - Si une capacité effectue une fonction contre une carte non-identité que "vous" contrôlez (incliner, défausser, mettre de côté, etc.), le joueur effectue cette fonction contre la carte dans sa zone de jeu.
-
-Certaines cartes de joueur sont considérées comme une extension de l'identité du joueur. Lorsqu'une action ou capacité est résolue sur ces types de cartes, elle est considérée comme effectuée par cette identité :
-
-  - Évènements — Les attaques, contres, défenses, capacités d'action et déclenchées issues d'un évènement joué par un joueur sont considérés comme effectués par son identité.
-
-  - Ressources — Les attaques, contres, défenses et capacités déclenchées issues d'une carte ressource dépensée sont considérés comme effectués par l'identité.
-
-  - Améliorations — Sauf si attachées à un autre personnage ami, les améliorations sont une extension de l'identité.
-
-Les cartes suivantes ne sont PAS considérées comme une extension de l'identité :
-
-  - Alliés — Leurs attaques, contres, défenses et capacités ne sont pas considérés comme effectués par l'identité du joueur.
-
-  - Cartes de rencontre — Leurs capacités déclenchées ne sont pas considérées comme effectuées par l'identité du joueur, qu'elles soient optionnelles ou forcées.
-
-  - Manigances secondaires de joueur — Leurs capacités déclenchées ne sont pas considérées comme effectuées par l'identité du joueur.
-
-  - Supports — Leurs capacités et actions ne sont pas considérées comme effectuées par l'identité du joueur.
-
-**Voir aussi** : Capacité, Allié, Évènement, Identité, Joueur, Carte de joueur, Deck de joueur, Zone de jeu d'un joueur, Ressource, Soutien, Amélioration
+_Voir aussi : [[Allie|Allié]], [[Amelioration|Amélioration]], [[Capacite|Capacité]], [[CarteJoueur|Carte Joueur]], [[DeckJoueur|Deck Joueur]], [[Evenement|Evénement]], [[Identite|Identité]], [[Joueur|Joueur]], [[Ressource|Ressource]], [[Soutien|Soutien]], [[ZoneDeJeuDUnJoueur|Zone de Jeu d’un Joueur]]_  
 
 
 **EN v1.7**:  
