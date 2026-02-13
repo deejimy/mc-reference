@@ -8539,21 +8539,28 @@
 
 <h1 id="initier-des-capacites-jouer-des-cartes">Initier des Capacités, Jouer des cartes<a class="headerlink" href="#initier-des-capacites-jouer-des-cartes" title="Permanent link">&para;</a></h1>
 <p>Quand un joueur souhaite jouer une carte ou initier une capacité déclenchée, ce joueur doit d’abord déclarer son intention.<br />
-Ensuite, il vérifie les conditions suivantes dans l’ordre :<br />
-1. Vérifier les restrictions de jeu : la carte peut‑elle être jouée ou la capacité initiée à ce moment ?<br />
-    - Si la carte ou la capacité précise une ou plusieurs cibles, vérifiez qu’il existe au moins une cible valide. Si la carte ou la capacité n’a pas au moins une cible valide, elle ne peut pas être jouée ni initiée.<br />
-2. Déterminer le coût (ou les coûts) pour jouer la carte ou initier la capacité et la capacité du joueur à les payer, en prenant en compte les modificateurs.<br />
-    - <span class="new">Si une carte a un coût en ressources exprimé par X, le joueur qui la joue choisit la valeur de X lors de cette étape.</span>  </p>
-<p>Si ces deux conditions sont remplies, accomplissez les étapes suivantes, dans l’ordre :<br />
-3. <span class="new">Si une carte est jouée, le joueur place cette carte face visible devant lui sur la table. (Cette carte n’est pas en jeu.)</span><br />
-4. Appliquez tous les modificateurs au(x) coût(s).<br />
-5. Payez le ou les coûts. Si cette étape est atteinte et que le(s) coût(s) ne peuvent pas être payés, mettez fin à ce processus sans payer aucun coût.<br />
-6. La carte commence à être jouée, ou les effets de la capacité tentent de s’initier.<br />
-7. La carte est jouée ou la capacité (si elle n’a pas été annulée à l’étape précédente) est résolue. La carte entre en jeu ou, s’il s’agit d’une carte Événement, ses effets sont résolus puis elle est placée dans la pile de défausse de son propriétaire.  </p>
+Ensuite, il vérifie les conditions suivantes dans l’ordre :  </p>
+<ol>
+<li>Vérifier les restrictions de jeu : la carte peut‑elle être jouée ou la capacité initiée à ce moment ?  <ul>
+<li>Si la carte ou la capacité précise une ou plusieurs cibles, vérifiez qu’il existe au moins une cible valide. Si la carte ou la capacité n’a pas au moins une cible valide, elle ne peut pas être jouée ni initiée.  </li>
+</ul>
+</li>
+<li>Déterminer le coût (ou les coûts) pour jouer la carte ou initier la capacité et la capacité du joueur à les payer, en prenant en compte les modificateurs.  <ul>
+<li><span class="new">Si une carte a un coût en ressources exprimé par X, le joueur qui la joue choisit la valeur de X lors de cette étape.</span><br />
+Si ces deux conditions sont remplies, accomplissez les étapes suivantes, dans l’ordre :  </li>
+</ul>
+</li>
+<li><span class="new">Si une carte est jouée, le joueur place cette carte face visible devant lui sur la table. (Cette carte n’est pas en jeu.)</span>  </li>
+<li>Appliquez tous les modificateurs au(x) coût(s).  </li>
+<li>Payez le ou les coûts. Si cette étape est atteinte et que le(s) coût(s) ne peuvent pas être payés, mettez fin à ce processus sans payer aucun coût.  </li>
+<li>La carte commence à être jouée, ou les effets de la capacité tentent de s’initier.  </li>
+<li>La carte est jouée ou la capacité (si elle n’a pas été annulée à l’étape précédente) est résolue. La carte entre en jeu ou, s’il s’agit d’une carte Événement, ses effets sont résolus puis elle est placée dans la pile de défausse de son propriétaire.</li>
+</ol>
+<p>Si :  </p>
 <ul>
-<li>Si n’importe laquelle des étapes ci‑dessus devait remplir la condition de déclenchement d’une capacité d’interruption, cette capacité peut être initiée juste avant que cette condition ne soit remplie.  </li>
-<li>Si n’importe laquelle des étapes ci‑dessus devait remplir la condition de déclenchement d’une capacité de réponse, cette capacité peut être initiée immédiatement après que cette condition ait été remplie.  </li>
-<li>Si la capacité initiée se trouve sur une carte en jeu, la séquence ne s’interrompt pas si la carte quitte le jeu pendant la séquence, à moins que le fait que la carte quitte le jeu n’empêche un coût requis d’être payé.  </li>
+<li>n’importe laquelle des étapes ci‑dessus devait remplir la condition de déclenchement d’une capacité d’interruption, cette capacité peut être initiée juste avant que cette condition ne soit remplie.  </li>
+<li>n’importe laquelle des étapes ci‑dessus devait remplir la condition de déclenchement d’une capacité de réponse, cette capacité peut être initiée immédiatement après que cette condition ait été remplie.  </li>
+<li>la capacité initiée se trouve sur une carte en jeu, la séquence ne s’interrompt pas si la carte quitte le jeu pendant la séquence, à moins que le fait que la carte quitte le jeu n’empêche un coût requis d’être payé.  </li>
 </ul>
 <p><em>Voir aussi : <a href="../../C/Capacite/">Capacité</a>, <a href="../../C/Cible/">Cible</a>, <a href="../../C/Cout/">Coût</a>, <a href="../../R/RestrictionsEtPermissionsDeJeu/">Restrictions et Permissions de Jeu</a></em>  </p>
 <details class="source">
