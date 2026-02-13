@@ -13,8 +13,7 @@ Si le joueur trouve une carte qui satisfait les critères de la recherche, ce jo
 _Voir aussi : [[DeckRencontre|Deck Rencontre]], [[CartesJoueur|Deck Joueur]], [[Melanger|Mélanger]], [[Trouver]]_  
 
 <details class="source">
-<summary>EN v1.7</summary>
-SEARCH
+<summary>EN v1.7</summary>SEARCH
 When a player is instructed to search for a card, the player is permitted to look at each of the cards in the searched area.
 If the player finds a card that satisfies the criteria of the search, the player adds that card to the game area indicated by the instructions on the search effect.
 • If a player finds multiple cards that satisfy the criteria of a search, the player chooses among those options.
@@ -27,8 +26,7 @@ See also: Encounter Deck, Find, Player Deck, Shuffle
 
 
 <details class="source">
-<summary>FR v1.4</summary>
-CHERCHER
+<summary>FR v1.4</summary>CHERCHER
 Quand il est demandé à un joueur de chercher une carte, ce joueur a le droit de regarder toutes les cartes de la zone consultée.
 Si le joueur trouve une carte qui satisfait les critères de la recherche, ce joueur ajoute cette carte à l’aire de jeu indiqué par les instructions de l’effet de recherche.
 • Si un joueur trouve plusieurs cartes qui satisfont les critères de la recherche, ce joueur choisit parmi ces options.

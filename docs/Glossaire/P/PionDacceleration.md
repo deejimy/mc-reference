@@ -3,10 +3,11 @@
 ![[pion_acceleration.png]] Les pions Accélération fonctionnent comme les icônes d’Accélération, mais **ne sont pas** considérés comme des icônes d’Accélération. Ils sont placés à côté de la manigance principale pour rappeler d’ajouter X menaces supplémentaires à la manigance principale pendant l’étape un de la phase du Méchant, X étant le nombre de pions Accélération en jeu.  
 
 <span class="new">Les pions Accélération entrent en jeu de deux façons :</span>  
-- Si le deck Rencontre est vidé, placez un pion Accélération sur la manigance principale.  
-- Des effets de carte peuvent demander aux joueurs d’ajouter un pion Accélération en jeu.  
 
-<span class="new">Les pions Accélération placés sur des cartes autres que la manigance principale ajoutent quand même de la menace à la manigance principale pendant l’étape un de la phase du Méchant.</span>  
+- Si le deck Rencontre est vidé, placez un pion Accélération sur la manigance principale.  
+
+- Des effets de carte peuvent demander aux joueurs d’ajouter un pion Accélération en jeu.  
+    - <span class="new">Les pions Accélération placés sur des cartes autres que la manigance principale ajoutent quand même de la menace à la manigance principale pendant l’étape un de la phase du Méchant.</span>  
 
 <span class="new">Les pions Accélération placés sur la manigance principale ne peuvent pas être retirés du jeu. Contrairement aux autres pions, lorsqu’une carte Manigance Principale quitte le jeu, le pion Accélération n’est pas défaussé.</span>  
 
@@ -17,8 +18,7 @@ _Voir aussi : [[DeckRencontre|Deck Rencontre]], [[Index|Limitation du matériel]
 
 
 <details class="source">
-<summary>EN v1.7</summary>
-ACCELERATION TOKEN 
+<summary>EN v1.7</summary>ACCELERATION TOKEN 
 Acceleration tokens are functionally equivalent to acceleration icons (but are not considered acceleration icons). They are placed next to the main scheme as a reminder to add X additional threat to the main scheme during step one of the villain phase, where X is the number of acceleration tokens in play.
 Acceleration tokens enter play through one of two effects:
 • If the encounter deck is empty, place one acceleration token next to the main scheme.
@@ -34,8 +34,7 @@ See also: Component Limitations, Encounter Deck, Main Scheme, Villain
 
 
 <details class="source">
-<summary>FR v1.4</summary>
-PION ACCELERATION
+<summary>FR v1.4</summary>PION ACCELERATION
 Les pions Accélération fonctionnent comme les icônes d’Accélération. Ils sont placés à côté de la manigance principale pour rappeler aux joueurs d’ajouter X menaces supplémentaires à la manigance principale pendant la première étape de la phase du Méchant, X étant le nombre de pions Accélération en jeu.
 Les pions Accélération peuvent entrer en jeu de deux manières différentes :
 • Si le deck Rencontre tombe à court de cartes, placez un pion Accélération sur la manigance principale.

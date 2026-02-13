@@ -7,10 +7,8 @@ Une capacité est un texte de jeu sur une carte qui indique spécifiquement ce q
 - Les capacités de carte sur les cartes Héros, Alter‑ego, Allié, Amélioration et Soutien ne peuvent être utilisées que si la carte sur laquelle est inscrite la capacité est en jeu, sauf si la capacité indique spécifiquement une utilisation possible depuis un état hors jeu. Les cartes Événement interagissent implicitement avec la partie depuis une zone hors jeu, comme l’indiquent les règles propres au type de carte Événement.  
 
 - <span class="new">Si une capacité précise une ou plusieurs cibles, cette capacité ne peut être initiée que si elle dispose d’au moins une cible valide.</span>  
-
-<span class="new">Par exemple : une capacité qui dit « infligez 5 dégâts à un sbire » ne peut pas être initiée s’il n’existe aucun sbire en jeu.</span>  
-    - <span class="new">Exemples de cibles (liste non exhaustive) : « le méchant », « un sbire », « un ennemi », « une manigance »,</span>  
-    - <span class="new">« un héros », « un allié », « un personnage », « un joueur », « vous », « une carte ».</span>  
+- <span class="new">Par exemple : une capacité qui dit « infligez 5 dégâts à un sbire » ne peut pas être initiée s’il n’existe aucun sbire en jeu.</span>  
+    - <span class="new">Exemples de cibles (liste non exhaustive) : « le méchant », « un sbire », « un ennemi », « une manigance », « un héros », « un allié », « un personnage », « un joueur », « vous », « une carte ».</span>  
 
 - Quand une capacité possède plusieurs phrases de texte, lisez l’intégralité de la capacité pour repérer d’éventuels effets d’altération qui pourraient changer la manière dont la capacité se résout. Ensuite, résolvez la capacité une phrase à la fois.  
 
@@ -51,12 +49,11 @@ Une capacité est un texte de jeu sur une carte qui indique spécifiquement ce q
 8. <span class="new">Dégâts consécutifs.</span>  
 
 
-_ Voir aussi : [[Action]], [[Annuler]], [[CapaciteUneFoisRevelee|Capacité une fois révélée]], [[CapaciteUneFoisVaincuDejouee|Capacité une fois vaincu/déjouée]], [[EffetDalteration|Effets d'Alteration]], [[EffetsDeRemplacement|Effets de Remplacement]], [[EffetsRetardes|Effets Retardés]], [[EffetsPersistants|Effets Persistants]], [[EnJeuEtHorsJeu|En Jeu et Hors Jeu]], [[Ensuite]], [[Et|« Et »]], [[Forcee|Forcée]], [[InitierDesCapacites|Initier des Capacités]], [[Interruption]], [[Qualificatifs]], [[Reponse|Réponse]], [[ResolutionSimultanee|Résolution Simultanée]], [[RessourceCapacite|Ressource (Capacité)]], [[Special]], [[Cible|Cible]], [[CapaciteEtiquetee|Capacité étiquetée]], [[EtreCense|"Est censé"]]_
+_Voir aussi : [[Action]], [[Annuler]], [[CapaciteUneFoisRevelee|Capacité une fois révélée]], [[CapaciteUneFoisVaincuDejouee|Capacité une fois vaincu/déjouée]], [[EffetDalteration|Effets d'Alteration]], [[EffetsDeRemplacement|Effets de Remplacement]], [[EffetsRetardes|Effets Retardés]], [[EffetsPersistants|Effets Persistants]], [[EnJeuEtHorsJeu|En Jeu et Hors Jeu]], [[Ensuite]], [[Et|« Et »]], [[Forcee|Forcée]], [[InitierDesCapacites|Initier des Capacités]], [[Interruption]], [[Qualificatifs]], [[Reponse|Réponse]], [[ResolutionSimultanee|Résolution Simultanée]], [[RessourceCapacite|Ressource (Capacité)]], [[Special]], [[Cible|Cible]], [[CapaciteEtiquetee|Capacité étiquetée]], [[EtreCense|"Est censé"]]_
 
 
 <details class="source">
-<summary>EN v1.7</summary>
-ABILITY
+<summary>EN v1.7</summary>ABILITY
 An ability is game text on a card that explains what the card does (or can do). Several examples can be seen in Appendix III of this .
 • Card abilities only interact with cards that are in play, unless the ability specifically refers to an out-of-play area or element.
 • Card abilities on hero, alter-ego, ally, upgrade, and support cards may only be used if the card is in play, unless the ability specifically refers to being used from an out-of-play state. Event cards implicitly interact with the game from an out-of-play area, as per the rules of the event card type.
@@ -99,8 +96,7 @@ See also: Action, Alteration Effect, "And", Cancel, Delayed Effect, Forced, In P
 
 
 <details class="source">
-<summary>FR v1.4</summary>
-CAPACITE, CAPACITE DE CARTE
+<summary>FR v1.4</summary>CAPACITE, CAPACITE DE CARTE
 Une capacité est un texte de jeu sur une carte qui indique spécifiquement ce que fait une carte (ou ce qu’elle peut faire). Plusieurs exemples sont en appendice III de ce Guide de Référence.
 • Les capacités de carte ne peuvent interagir qu’avec les cartes qui sont en jeu, sauf si la capacité se réfère spécifiquement à une zone ou un élément hors jeu.
 • Les capacités de carte sur les cartes Héros, Alter ego, Allié, Amélioration et Soutien ne peuvent être utilisées que si la carte sur laquelle est inscrite la capacité est en jeu, sauf si la capacité indique spécifiquement une utilisation possible depuis un état hors jeu. Les cartes Evénement interagissent implicitement avec la partie depuis une zone hors jeu comme l’indiquent les règles spécifiques aux cartes Evénement.
@@ -127,5 +123,5 @@ Certaines capacités ont des priorités de timing par rapport à d’autres capa
 3. Capacités « Interruption »
 4. Capacités « Réponses forcée »
 5. Capacités « Réponse »
-Voir aussi : Action, Annuler, Capacités une Fois Révélée, Capacités une Fois Vaincu / Déjouée, Effets d’Alteration, Effets de Remplacement, Effets Retardés, Effets Persistants, En Jeu et Hors Jeu, Ensuite, « Et », Forcée, Initier des Capacités, Interruption, Qualificatifs, Réponse, Résolution Simultanée, Ressource (Capacité), Spécial Guide de Référence 7
+Voir aussi : Action, Annuler, Capacités une Fois Révélée, Capacités une Fois Vaincu / Déjouée, Effets d’Alteration, Effets de Remplacement, Effets Retardés, Effets Persistants, En Jeu et Hors Jeu, Ensuite, « Et », Forcée, Initier des Capacités, Interruption, Qualificatifs, Réponse, Résolution Simultanée, Ressource (Capacité), Spécial
 </details>

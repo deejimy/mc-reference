@@ -13,8 +13,7 @@ _Voir aussi : [[Allie|Allié]], [[AttaqueActivationDesEnnemis|Attaque (Activatio
 
 
 <details class="source">
-<summary>EN v1.7</summary>
-BASIC POWER
+<summary>EN v1.7</summary>BASIC POWER
 A basic power is a statistic that allows a character to perform a certain game function.
 • There are five different basic powers:
 » » Attack power (ATK) can be used by a character to perform a basic attack and deal damage to another character. Generally, heroes, allies, villains, and minions have attack power.
@@ -27,8 +26,7 @@ See also: Ally, Attack (Enemy Activation), Attack (Player Ability Type), Defend,
 
 
 <details class="source">
-<summary>FR v1.4</summary>
-POUVOIR DE BASE
+<summary>FR v1.4</summary>POUVOIR DE BASE
 Un pouvoir de base est une statistique qui permet à un personnage d’exécuter une fonction de jeu particulière. Il existe cinq pouvoirs de base différents :
 • Le pouvoir d’attaque (ATQ) peut être utilisé par un personnage pour effectuer une attaque de base et infliger des dégâts à un autre personnage. En général, les héros, les alliés, les méchants et les sbires ont un pouvoir d’attaque.
 • Le pouvoir de contre (CTR) peut être utilisé par un personnage pour effectuer un contre de base et retirer de la menace d’une manigance. En général, les héros et les alliés ont un pouvoir de contre.

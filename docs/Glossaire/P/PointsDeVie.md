@@ -1,18 +1,17 @@
 # Points de vie
 
 Chaque personnage (identité, allié, sbire et méchant) possède une valeur de points de vie. Les points de vie représentent la durabilité de ce personnage.  
-
 Quand des dégâts sont infligés à un personnage, ils réduisent les points de vie restants de ce personnage (la quantité de dégâts que ce personnage peut subir avant d’atteindre zéro point de vie).  
 
 - <span class="new">L’expression « points de vie de départ » fait référence à la valeur imprimée des points de vie d’une identité.</span>  
-- Le compteur de points de vie d’une identité ou d’un méchant représente ses points de vie restants. Si une identité ou un méchant est blessé, appliquez les dégâts en réduisant le compteur de points de vie de ce personnage du montant indiqué.  
-- <span class="new">Quand une capacité indique qu’une identité ou un méchant « gagne +X points de vie », augmentez le compteur de points de vie de ce personnage de X pendant que la capacité est en vigueur ; si cet effet cesse, réduisez ensuite le compteur de X.</span>  
 
-- Si le compteur de points de vie d’un joueur tombe à zéro, ce joueur est vaincu et éliminé de la partie.  
-- Si le compteur de points de vie d’un méchant tombe à zéro, ce stade du méchant est vaincu.  
+- Le compteur de points de vie d’une identité ou d’un méchant représente ses points de vie restants. Si une identité ou un méchant est blessé, appliquez les dégâts en réduisant le compteur de points de vie de ce personnage du montant indiqué.  
+    - Si le compteur de points de vie d’un joueur tombe à zéro, ce joueur est vaincu et éliminé de la partie.  
+    - Si le compteur de points de vie d’un méchant tombe à zéro, ce stade du méchant est vaincu.  
+    - <span class="new">Quand une capacité indique qu’une identité ou un méchant « gagne +X points de vie », augmentez le compteur de points de vie de ce personnage de X pendant que la capacité est en vigueur ; si cet effet cesse, réduisez ensuite le compteur de X.</span>  
 
 - Si un allié ou un sbire est blessé, indiquez les dégâts en plaçant des pions Dégât sur ce personnage. Les pions Dégât sur un allié ou un sbire diminuent les points de vie restants de ce personnage d’une valeur égale au total de pions. Un allié ou un sbire ayant zéro point de vie ou moins est vaincu et placé dans la pile de défausse appropriée.  
-- <span class="new">Si une capacité qui donne +X points de vie à un allié ou un sbire cesse d’être en vigueur et que les pions Dégât présents sont alors supérieurs ou égaux à sa valeur de points de vie, cet allié ou sbire est vaincu.</span>  
+    - <span class="new">Si une capacité qui donne +X points de vie à un allié ou un sbire cesse d’être en vigueur et que les pions Dégât présents sont alors supérieurs ou égaux à sa valeur de points de vie, cet allié ou sbire est vaincu.</span>  
 
 Certains personnages peuvent avoir un nombre infini de points de vie. Un personnage avec un nombre infini de points de vie ne peut pas être vaincu en subissant des dégâts, car la quantité de dégâts que subit ce personnage n’amènera jamais son nombre de points de vie restants à zéro. Cependant, des dégâts peuvent tout de même être infligés à un personnage avec un nombre infini de points de vie par des attaques et des capacités de carte.  
 
@@ -20,8 +19,7 @@ _Voir aussi : [[Allie|Allié]], [[Degats|Dégâts]], [[DegatsSubis|Dégâts Subi
 
 
 <details class="source">
-<summary>EN v1.7</summary>
-HIT POINTS
+<summary>EN v1.7</summary>HIT POINTS
 Each character (identity, ally, minion, and villain) has a hit point value. Hit points represent the durability of that character.
 When damage is dealt to a character, it reduces the character’s remaining hit points (the amount of damage that character can take before reaching zero hit points).
 • The phrase "starting hit points" refers to an identity’s printed hit point value.
@@ -40,8 +38,7 @@ See also: Ally, Damage, Defeat, Heal, Identity, Maximum Hit Points, Minion, Modi
 
 
 <details class="source">
-<summary>FR v1.4</summary>
-POINTS DE VIE
+<summary>FR v1.4</summary>POINTS DE VIE
 Chaque personnage (identité, allié, sbire et méchant) possède une valeur de points de vie. Les points de vie représentent la durabilité de ce personnage.
 Quand des dégâts sont infligés à un personnage, ils réduisent les points de vie restants de ce personnage (la quantité de dégâts que ce personnage peut subir avant d’atteindre zéro point de vie).
 • Le compteur de points de vie de l’identité ou du méchant représente leurs points de vie restants. Si une identité ou un méchant est blessé, appliquez les dégâts en réduisant le compteur de points de vie de ce personnage de la quantité indiquée.

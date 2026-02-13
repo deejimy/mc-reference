@@ -10,8 +10,7 @@ Ces cartes fournissent généralement plus de ressources (et plus efficacement) 
 _Voir aussi : [[CartesJoueur|Carte Joueur]], [[EntrerEnJeu|Entrer en jeu]], [[Icone|Icône]], [[Identite|Identité]], [[Joueur|Joueur]], [[Ressource|Ressource]], [[RessourceEnergie|Ressource Energie]], [[RessourceLibre|Ressource Libre]], [[RessourceMentale|Ressource Mentale]], [[RessourcePhysique|Ressource Physique]], [[QuitterLeJeu|Quitter le Jeu]], [[TypesDeCarte|Types de carte]]_  
 
 <details class="source">
-<summary>EN v1.7</summary>
-RESOURCE CARD
+<summary>EN v1.7</summary>RESOURCE CARD
 Resource cards are a player card type. Their primary function is to be discarded from a player’s hand to generate resources.
 These cards generally provide more (or more efficient) resources than other card types when they are discarded from a player’s hand to generate resources.
 • Some resource cards have card text that is active while using the card to generate resources.
@@ -21,8 +20,7 @@ See also: Card Types, Energy Resource, Enters Play, Icons, Identity, Leaves Play
 
 
 <details class="source">
-<summary>FR v1.4</summary>
-RESSOURCE (CARTE)
+<summary>FR v1.4</summary>RESSOURCE (CARTE)
 Une carte Ressource est un type de carte Joueur. La principale fonction d’une carte Ressource est d’être défaussée de la main d’un joueur pour générer des ressources.
 Ces cartes fournissent généralement plus de ressources (et plus efficacement) que les autres types de carte quand elles sont défaussées de la main d’un joueur pour générer des ressources.
 • Certaines cartes Ressource ont un texte qui s’active quand la carte est utilisée pour générer des ressources.

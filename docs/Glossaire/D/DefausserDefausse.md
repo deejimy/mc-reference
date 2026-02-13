@@ -17,8 +17,7 @@ Le fait de déplacer vers une pile de défausse une carte qui provient d’une z
 _Voir aussi : [[CartesJoueur|Carte Joueur]], [[CartesRencontre|Carte Rencontre]], [[EnJeuEtHorsJeu|En Jeu et Hors Jeu]], [[PileDeDefausse|Pile de Défausse]], [[ProprieteEtControle|Propriété et Contrôle]], [[Melanger|Mélanger]]_  
 
 <details class="source">
-<summary>EN v1.7</summary>
-DISCARD
+<summary>EN v1.7</summary>DISCARD
 Discarding is the act of attempting to move a card from a non-discard-pile play area to a discard pile.
 • If a player card is discarded, it is placed faceup on top of the owning player’s discard pile.
 • If an encounter card is discarded, it is placed faceup on top of the encounter discard pile.
@@ -34,8 +33,7 @@ See also: Discard Pile, Encounter Card, In Play and Out of Play, Ownership and C
 
 
 <details class="source">
-<summary>FR v1.4</summary>
-DEFAUSSER
+<summary>FR v1.4</summary>DEFAUSSER
 Le fait de déplacer vers une pile de défausse une carte qui provient d’une zone autre qu’une pile de défausse s’appelle « défausser ».
 • Si une carte Joueur est défaussée, elle est placée face visible au sommet de la pile de défausse de son propriétaire.
 • Si une carte Rencontre est défaussée, elle est placée face visible au sommet de la pile de défausse du deck Rencontre.

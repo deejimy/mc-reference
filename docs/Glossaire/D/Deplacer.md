@@ -16,8 +16,7 @@ Certaines capacités permettent de "déplacer" des éléments de jeu (comme des 
 _Voir aussi : [[Degats|Dégâts]], [[SeuilDeMenace|Menace]], [[ElementDeJeu|Elément de Jeu]]_  
 
 <details class="source">
-<summary>EN v1.7</summary>
-MOVE
+<summary>EN v1.7</summary>MOVE
 Some abilities allow players to move game elements, such as cards, damage, or threat.
 • When an element moves, it cannot move to its same (current) placement.
 • If there is no valid source or destination for a move, the move cannot be made.
@@ -33,8 +32,7 @@ See also: Game Element
 
 
 <details class="source">
-<summary>FR v1.4</summary>
-DEPLACER
+<summary>FR v1.4</summary>DEPLACER
 Certaines capacités permettent aux joueurs de déplacer des éléments de jeu comme des cartes, des dégâts ou des menaces.
 • Quand un élément se déplace, il ne peut pas se déplacer vers l’emplacement où il se trouve déjà (son emplacement actuel).
 • S’il n’y a pas de point de départ ou de destination valide pour un déplacement, ce déplacement ne peut être effectué.

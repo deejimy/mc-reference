@@ -45,8 +45,7 @@ Pour résoudre une attaque ennemie, respectez les étapes suivantes :
 _Voir aussi : [[Activation|Activation]], [[Allie|Allié]], [[AttaquesContreLesAllies|Attaques contre les Alliés]], [[BoostIconeDeBoost|Boost]], [[Degats|Dégâts]], [[DefendreDefense|Défendre]], [[Ennemi|Ennemi]], [[Identite|Identité]], [[Modificateurs|Modificateurs]], [[RiposteX|Riposte X]], [[Cible|Cible]], [[MechantDeckMechant|Méchant]], [[Sbire|Sbire]], [[Vilenie|Vilenie]]_  
 
 <details class="source">
-<summary>EN v1.7</summary>
-ATTACK (ENEMY ACTIVATION)
+<summary>EN v1.7</summary>ATTACK (ENEMY ACTIVATION)
 An attack is a type of enemy activation. When an enemy initiates an attack, it targets a specific player, then resolves that attack against that player.
 • Enemy attacks are always initiated against both a player and a character.
 » » Normally the attacked character is the player’s hero, but abilities can instead cause an enemy to attack a player’s alter-ego or an ally that player controls. In all of these cases, the player is still considered attacked.
@@ -83,8 +82,7 @@ See also: Activation, Ally, Attacks Against Allies, Boost, Damage, Defend, Enemy
 
 
 <details class="source">
-<summary>FR v1.4</summary>
-ATTAQUE (ACTIVATION DES ENNEMIS)
+<summary>FR v1.4</summary>ATTAQUE (ACTIVATION DES ENNEMIS)
 Une attaque est un type d’activation des ennemis. Lorsqu’un ennemi attaque, il cible un joueur spécifique. Ensuite, il résout cette attaque contre ce joueur. Pour résoudre une attaque ennemie, respectez les étapes suivantes :
 1. Si un méchant ou un sbire ayant le mot clé Vilenie attaque, donnez-lui une carte de boost face cachée prise sur le deck Rencontre. (Si un sbire sans le mot clé Vilenie attaque, ignorez cette étape.)
 2. Si un joueur souhaite défendre, il incline un héros ou un allié en tant que défenseur. Si un joueur autre que le joueur ciblé défend, le joueur qui défend devient le nouveau joueur ciblé par cette attaque.

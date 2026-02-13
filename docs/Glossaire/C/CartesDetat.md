@@ -23,8 +23,7 @@ _Voir aussi : [[Allie|Allié]], [[AttaqueActivationDesEnnemis|Attaque (Activatio
 
 
 <details class="source">
-<summary>EN v1.7</summary>
-STATUS CARDS
+<summary>EN v1.7</summary>STATUS CARDS
 Status card represent different states a character may find themselves in during the game.
 The following status cards are used in the game. When a character is given a status card, take a status card of the specified type from the pool and place it on that character.
 • A character cannot have more than one status card of each type at a time.
@@ -42,8 +41,7 @@ Replacement Effect, Triggered Ability, Villain
 
 
 <details class="source">
-<summary>FR v1.4</summary>
-CARTES D’ETAT
+<summary>FR v1.4</summary>CARTES D’ETAT
 Les cartes d’état représentent les différents états dans lesquels un personnage peut se retrouver au cours d’une partie.
 Les cartes d’état suivantes sont utilisées dans le jeu. Quand un personnage reçoit une carte d’état, prenez une carte d’état du type indiqué dans la réserve et placez-la sur ce personnage.
 • Un personnage ne peut pas avoir plus d’une carte d’état de chaque type à la fois.

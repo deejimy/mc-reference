@@ -1,19 +1,21 @@
 # Echanger
 
-<span class="new">Une instruction visant à « échanger » deux composants signifie intervertir l’emplacement de ces deux composants.
-- Un échange ne peut être effectué que s’il y a un composant dans chacun des deux emplacements.
-    - Par exemple, vous ne pouvez pas « échanger une carte de votre main avec la carte du dessus de votre deck » si vous n’avez pas de cartes en main.
-- Échanger une carte de la main avec la carte du dessus d’un deck n’est pas considéré comme piocher cette carte.
-- Quand vous échangez une carte dans une zone de jeu avec une carte dans une zone hors-jeu, si ces deux cartes :
-    - Partagent un titre, aucune des cartes n’est considérée comme entrant ou quittant le jeu. Les jetons, les cartes attachées, les cartes glissées et les cartes d’état sur la carte précédemment en jeu sont transférés à l’autre carte et l’autre carte conserve l’état (prêt ou épuisé) de la carte précédemment en jeu. Si la carte échangée a un cadran de points de vie associé, ce cadran reste à la même valeur.
-    - Ne partagent pas de titre, la carte en jeu est considérée comme quittant le jeu et la carte hors-jeu est considérée comme entrant en jeu. Les jetons, les cartes attachées, les cartes glissées et les cartes d’état sur la carte précédemment en jeu ne sont pas transférés à l’autre carte et l’autre carte entre en jeu prête. Si la carte échangée a un cadran de points de vie associé, ce cadran est réinitialisé à la valeur imprimée des points de vie de la nouvelle carte.</span>
+Une instruction visant à « échanger » deux composants signifie intervertir l’emplacement de ces deux composants.  
+
+- Un échange ne peut être effectué que s’il y a un composant dans chacun des deux emplacements.  
+    - Par exemple, vous ne pouvez pas « échanger une carte de votre main avec la carte du dessus de votre deck » si vous n’avez pas de cartes en main.  
+
+- Échanger une carte de la main avec la carte du dessus d’un deck n’est pas considéré comme piocher cette carte.  
+
+- Quand vous échangez une carte dans une zone de jeu avec une carte dans une zone hors-jeu, si ces deux cartes :  
+    - Partagent un titre, aucune des cartes n’est considérée comme entrant ou quittant le jeu. Les jetons, les cartes attachées, les cartes glissées et les cartes d’état sur la carte précédemment en jeu sont transférés à l’autre carte et l’autre carte conserve l’état (prêt ou épuisé) de la carte précédemment en jeu. Si la carte échangée a un cadran de points de vie associé, ce cadran reste à la même valeur.  
+    - Ne partagent pas de titre, la carte en jeu est considérée comme quittant le jeu et la carte hors-jeu est considérée comme entrant en jeu. Les jetons, les cartes attachées, les cartes glissées et les cartes d’état sur la carte précédemment en jeu ne sont pas transférés à l’autre carte et l’autre carte entre en jeu prête. Si la carte échangée a un cadran de points de vie associé, ce cadran est réinitialisé à la valeur imprimée des points de vie de la nouvelle carte.
 
 _Voir aussi : [[Capacite|Capacité]], [[Cible|Cible]]_  
 
 
 <details class="source">
-<summary>EN v1.7</summary>
-"SWAP"
+<summary>EN v1.7</summary>"SWAP"
 An instruction to "swap" two components means to exchange the location of those two components.
 • A swap cannot be completed if there is not a component in both locations.
 » » For example, you cannot "swap a card in your hand with the top card of your deck" if you have no cards in hand.

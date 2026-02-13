@@ -24,8 +24,7 @@ Les icônes de boost sont situées dans le coin inférieur droit de la carte.
 _Voir aussi : [[AttaqueActivationDesEnnemis|Attaque (Activation des Ennemis)]], [[ManiganceActivationDesEnnemis|Manigance (Activation des Ennemis)]], [[IconeDetoile|Icône d’Étoile]]_  
 
 <details class="source">
-<summary>EN v1.7</summary>
-BOOST, BOOST ICON
+<summary>EN v1.7</summary>BOOST, BOOST ICON
 Each time the villain attacks or schemes, the villain is given one facedown card from the encounter deck, as a boost card. Minions with the villainous keyword are also given a boost card when they activate.
 During the activation (and after any defenders are declared if the villain is attacking), each boost card on the enemy is turned face up one at a time. Add the number of boost icons on each card to the enemy’s ATK value (if it is attacking) or SCH value (if it is scheming) for that activation.
 Boost icons are located at the bottom-right of the card.
@@ -45,8 +44,7 @@ See also: Attack (Enemy Activation), Scheme (Enemy Activation), Star Icon, Villa
 
 
 <details class="source">
-<summary>FR v1.4</summary>
-BOOST, ICÔNE DE BOOST ()
+<summary>FR v1.4</summary>BOOST, ICÔNE DE BOOST ()
 Chaque fois que le méchant attaque ou manigance, donnez-lui une carte du deck Rencontre, face cachée, en tant que carte de boost.
 Lors de l’activation (et après qu’un éventuel défenseur a été déclaré en cas d’attaque du méchant), toutes les cartes de boost du méchant sont retournées face visible, une à la fois.
 Ajoutez le nombre d’icônes de boost sur la carte à la valeur d’ATQ du méchant (en cas d’attaque) ou à sa valeur de MNG (en cas de manigance) pour cette activation. Les icônes de boost sont situées dans le coin inférieur droit de la carte.

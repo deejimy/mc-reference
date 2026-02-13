@@ -1,7 +1,5 @@
 # Forme, changer de forme
 
-
-
 Un joueur peut être soit sous forme de héros, soit sous forme d’alter‑ego. Cela est indiqué par la carte Identité du joueur.  
 
 - Une fois par round, lors de son tour, chaque joueur peut changer de forme en retournant sa carte Identité.  
@@ -17,8 +15,7 @@ Un joueur peut être soit sous forme de héros, soit sous forme d’alter‑ego.
 _Voir aussi : [[Retourner|Retourner]], [[Identite|Identité]], [[MotsCles|Mots-clés]]_  
 
 <details class="source">
-<summary>EN v1.7</summary>
-FORM, CHANGE FORM
+<summary>EN v1.7</summary>FORM, CHANGE FORM
 A player can be in either hero or alter-ego form at a given time. This is indicated by the player’s identity card.
 • Once each round, during their turn, each player is permitted to change form by flipping their identity card.
 • When a player changes form, only the form changes.
@@ -35,8 +32,7 @@ See also: Flip, Identity, Keywords
 
 
 <details class="source">
-<summary>FR v1.4</summary>
-FORME, CHANGER DE FORME
+<summary>FR v1.4</summary>FORME, CHANGER DE FORME
 Un joueur peut être soit sous forme de héros, soit sous forme d’alter ego. Il ne peut pas être les deux à la fois. Cet état est indiqué par la carte Identité du joueur.
 • Une fois par round, lors de son tour, chaque joueur a le droit de changer de forme en retournant sa carte Identité.
 • Quand un joueur change de forme, seule sa forme change. Le personnage conserve les dégâts qu’il a subis, ses cartes d’état, ses effets persistants, ses attachements, ses pions et son état actuel (redressé ou incliné).

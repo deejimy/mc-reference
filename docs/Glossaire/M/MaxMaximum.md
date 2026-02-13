@@ -17,8 +17,7 @@
 _Voir aussi : [[Annuler|Annuler]], [[Limite|Limite]], [[PersonnalisationDuDeck|Appendice I : Decks Personnalisés]]_  
 
 <details class="source">
-<summary>EN v1.7</summary>
-MAX, MAXIMUM
+<summary>EN v1.7</summary>MAX, MAXIMUM
 The words "max" and "maximum" impose a maximum across all copies of a card (by title) for all players.
 • "Max X per [period]" imposes a maximum number of times that copies of that card can be played during the designated time period.
 » » If a card with a maximum is canceled, the card is still counted toward the maximum.
@@ -36,8 +35,7 @@ The words "max" and "maximum" impose a maximum across all copies of a card (by t
 
 
 <details class="source">
-<summary>FR v1.4</summary>
-MAX
+<summary>FR v1.4</summary>MAX
 « X max par [période] » impose un maximum pour tous les exemplaires d’une carte (par titre) pour tous les joueurs. En général, cette locution impose un nombre maximum de fois où un exemplaire de cette carte peut être joué dans une période de temps donnée.
 Si un maximum apparaît au sein d’une capacité, il impose un nombre maximum de fois où cette capacité peut être initiée à partir de tous les exemplaires (par titre) des cartes détenant cette capacité (y compris elle-même) dans une période de temps donnée.
 • Si un effet avec un maximum est annulé, la carte compte tout de même dans le maximum.

@@ -13,8 +13,7 @@ Si un sbire entre en jeu, il engage le joueur qui a révélé la carte du deck R
 _Voir aussi : [[TypesDeCarte|Types de carte]], [[CartesRencontre|Carte Rencontre]], [[Engager|Engager]], [[EntrerEnJeu|Entrer en jeu]], [[FormeChangerDeForme|Forme]], [[PointsDeVie|Points de Vie]], [[Identite|Identité]], [[QuitterLeJeu|Quitter le Jeu]], [[Joueur|Joueur]], [[ZoneDeJeuDUnJoueur|Zone de jeu d'un joueur]], [[MechantDeckMechant|Méchant]], [[PhaseDuMechant|Phase du Méchant]]_  
 
 <details class="source">
-<summary>EN v1.7</summary>
-MINION
+<summary>EN v1.7</summary>MINION
 Minion is an encounter card type. Minions represent supporters of the villain and/or enemies of the heroes.
 If a minion enters play, it engages the player who is revealing the card from the encounter deck or resolving the ability that put the minion into play, unless an ability specifies otherwise.
 • If a minion enters play, it remains in play until a card ability or game effect causes it to leave play.
@@ -26,8 +25,7 @@ See also: Card Types, Encounter Card, Engage, Enters Play, Form, Hit Points, Ide
 
 
 <details class="source">
-<summary>FR v1.4</summary>
-SBIRE
+<summary>FR v1.4</summary>SBIRE
 Sbire est un type de carte Rencontre. Les sbires représentent les soutiens du méchant et/ou les ennemis des héros.
 Si un sbire entre en jeu, il engage le joueur qui a révélé la carte du deck Rencontre ou résolu la capacité qui a mis ce sbire en jeu, à moins qu’une capacité ne spécifie le contraire.
 • Si un sbire entre en jeu, il reste en jeu jusqu’à ce qu’une capacité de carte ou un effet de jeu ne lui fasse quitter le jeu.

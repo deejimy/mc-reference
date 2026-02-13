@@ -11,8 +11,7 @@
 _Voir aussi : [[Allie|Allié]], [[AttaqueActivationDesEnnemis|Attaque (Activation des Ennemis)]], [[DefendreDefense|Défendre]], [[Cible|Cible]]_  
 
 <details class="source">
-<summary>EN v1.7</summary>
-ATTACKS AGAINST ALLIES
+<summary>EN v1.7</summary>ATTACKS AGAINST ALLIES
 Some effects cause a villain or minion to attack an ally directly. When this occurs, any undefended damage from that attack is placed on the ally that was attacked.
 • The player who controls the ally is considered the attacked player.
 » » Abilities that resolve while/when/after the attacking enemy "attacks you" resolve against the attacked player.

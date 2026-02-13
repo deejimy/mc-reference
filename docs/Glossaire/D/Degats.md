@@ -27,8 +27,7 @@ Si un personnage a zéro point de vie ou moins, il est vaincu.
 _Voir aussi : [[DegatsIndirects|Dégâts Indirects]], [[Deplacer|Déplacer]], [[Index|Limitation du matériel]], [[Prevenir|Prévenir]], [[PointsDeVie|Points de Vie]], [[VaincreDejouer|Vaincre / Déjouer]]_  
 
 <details class="source">
-<summary>EN v1.7</summary>
-DAMAGE
+<summary>EN v1.7</summary>DAMAGE
 Damage reduces a character’s hit points.
 If a character has zero or fewer remaining hit points, it is defeated.
 • Damage on an identity or villain is tracked by a hit point dial. If such a character takes damaged, reduce its dial by the amount of damage that it took.
@@ -52,8 +51,7 @@ See also: Component Limitations, Defeat, Hit Points, Indirect Damage, Move, Prev
 
 
 <details class="source">
-<summary>FR v1.4</summary>
-DEGÂTS
+<summary>FR v1.4</summary>DEGÂTS
 Les dégâts réduisent les points de vie d’un personnage. Si un personnage tombe à zéro point de vie ou moins, il est vaincu.
 • Les dégâts sur les héros/alter ego et le méchant sont indiqués via un compteur de points de vie. Si un tel personnage est blessé, diminuez la valeur de son compteur du montant de dégâts subis.
 • Les dégâts sur les alliés et les sbires sont indiqués via des pions Dégât. Si un tel personnage est blessé, placez un nombre de pions Dégât correspondants sur ce personnage.

@@ -13,8 +13,7 @@ Certaines capacités font référence au nom de cartes spécifiques. Ce sont des
 _Voir aussi : [[Capacite|Capacité]], [[CartesSpecifiquesALidentite|Carte Spécifique à l’Identité]], [[Classifications|Classifications]], [[Identite|Identité]], [[Personnage|Personnage]]_  
 
 <details class="source">
-<summary>EN v1.7</summary>
-REFERENTIAL ABILITY
+<summary>EN v1.7</summary>REFERENTIAL ABILITY
 Some abilities refer to specific cards by name. These are called referential abilities. If an ability refers to a title shared by multiple cards in the game, that ability refers only to the card(s) that match the criteria highest in this list:
 1. The card on which the referential ability is printed.
 » » Such an ability is a self-referential ability.
@@ -26,8 +25,7 @@ See also: Ability, Character, Classifications, Identity, Identity-Specific Card
 
 
 <details class="source">
-<summary>FR v1.4</summary>
-CAPACITE REFERENTIELLE
+<summary>FR v1.4</summary>CAPACITE REFERENTIELLE
 Certaines capacités font référence au nom de cartes spécifiques.
 Ce sont des capacités référentielles.
 • Si une capacité fait référence au nom de la carte sur laquelle elle est imprimée, cette capacité est autoréférentielle.

@@ -11,8 +11,7 @@
 _Voir aussi : [[Capacite|Capacité]], [[TourDeJoueur|Tour de Joueur]], [[CapaciteDeclenchee|Capacité déclenchée]]_  
 
 <details class="source">
-<summary>EN v1.7</summary>
-ACTION
+<summary>EN v1.7</summary>ACTION
 "Action" is a type of triggered ability. Players are permitted to trigger action abilities during their turn, or by request during other players’ turns.
 • Players can only trigger action abilities on cards they control or on encounter cards.
 » » Players cannot trigger action abilities on obligations in other players’ play areas.
@@ -24,8 +23,7 @@ See also: Ability, Player Turn, Triggered Ability
 
 
 <details class="source">
-<summary>FR v1.4</summary>
-ACTION
+<summary>FR v1.4</summary>ACTION
 « Action » est un type de capacité déclenchée. Les joueurs sont autorisés à déclencher des capacités d’action lors de leur tour ou par une requête lors des tours des autres joueurs.
 Voir aussi : Capacité, Capacité Déclenchée, Tour de Joueur
 </details>

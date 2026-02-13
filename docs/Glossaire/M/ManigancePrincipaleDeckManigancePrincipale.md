@@ -20,8 +20,7 @@ La manigance principale est un type de carte Rencontre représentant l’objecti
 _Voir aussi : [[IconeDacceleration|Accélération]], [[CartesRencontre|Carte Rencontre]], [[PionDacceleration|Pion Accélération]], [[TypesDeCarte|Types de Carte]], [[RetireDeLaPartie|Retiré de la Partie]], [[MechantDeckMechant|Méchant]], [[Menace|Menace]], [[SeuilDeMenace|Seuil de menace]], [[PhaseDuMechant|Phase du Méchant]]_  
 
 <details class="source">
-<summary>EN v1.7</summary>
-MAIN SCHEME, MAIN SCHEME DECK
+<summary>EN v1.7</summary>MAIN SCHEME, MAIN SCHEME DECK
 Main scheme is an encounter card type. The main scheme represents the villain’s primary objective.
 • During step one of the villain phase, place the amount of threat indicated in the main scheme’s acceleration field (bottom-right corner) on that scheme. This value is modified by all active acceleration tokens and icons.
 • If the amount of threat on a main scheme is equal to or greater than its target threat value, that main scheme is completed and the main scheme deck advances.
@@ -40,8 +39,7 @@ See also: Acceleration Icon, Acceleration Token, Card Types, Encounter Card, Rem
 
 
 <details class="source">
-<summary>FR v1.4</summary>
-DECK MANIGANCE PRINCIPALE
+<summary>FR v1.4</summary>DECK MANIGANCE PRINCIPALE
 Manigance principale est un type de carte Rencontre. La manigance principale représente l’objectif principal du méchant.
 Si la quantité de menaces sur la manigance principale est supérieure ou égale à son seuil de menace, le deck Manigance Principale avance. Retirez la manigance de la partie et passez au stade suivant du deck Manigance Principale.
 Si le méchant achève le dernier stade du deck Manigance Principale, le méchant gagne la partie.

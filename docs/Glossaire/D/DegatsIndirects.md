@@ -16,8 +16,7 @@ Certaines capacités de carte peuvent infliger des « dégâts indirects ».
 _Voir aussi : [[Allie|Allié]], [[AttaqueActivationDesEnnemis|Attaque (Activation des Ennemis)]], [[Degats|Dégâts]], [[VaincreDejouer|Vaincre/Déjouer]], [[Joueur|Joueur]]_  
 
 <details class="source">
-<summary>EN v1.7</summary>
-INDIRECT DAMAGE
+<summary>EN v1.7</summary>INDIRECT DAMAGE
 Some card abilities may deal "indirect damage."
 • Indirect damage dealt to a player can be divided as that player chooses among characters under their control.
 • Indirect damage dealt to a group of players (or among players) can be divided as the group chooses among friendly characters in play.
@@ -34,8 +33,7 @@ See also: Ally, Attack (Enemy Activation), Damage, Defeat, Player
 
 
 <details class="source">
-<summary>FR v1.4</summary>
-DEGÂTS INDIRECTS
+<summary>FR v1.4</summary>DEGÂTS INDIRECTS
 Certaines capacités de carte peuvent infliger des « dégâts indirects ».
 • Les dégâts indirects infligés à un joueur doivent être répartis comme il le souhaite parmi les personnages qu’il contrôle.
 • Les dégâts indirects infligés à un groupe de joueurs doivent être répartis comme ils le souhaitent parmi tous les personnages amis en jeu.

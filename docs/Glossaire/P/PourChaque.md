@@ -19,8 +19,7 @@ _Voir aussi : [[Capacite|Capacité]], [[Cible|Cible]]_
 
 
 <details class="source">
-<summary>EN v1.7</summary>
-"FOR EACH"
+<summary>EN v1.7</summary>"FOR EACH"
 "For each" indicates an effect is repeated based on the number of a countable game element.
 • If an effect with "for each" requires a target, that effect applies to a single target unless the "for each" clause includes a "choose" instruction.
 » » For example, an effect that reads "For each treachery looked at this way, remove 1 threat from a scheme" removes threat from a single scheme.

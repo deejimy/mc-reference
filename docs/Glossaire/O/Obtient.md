@@ -3,7 +3,6 @@
 _Voir : [[PointsDeVie|Points de vie]], [[Modificateurs|Modificateurs]]_
 
 <details class="source">
-<summary>EN v1.7</summary>
-"GETS"
+<summary>EN v1.7</summary>"GETS"
 See: Hit Points, Modifiers
 </details>

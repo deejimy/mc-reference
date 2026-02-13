@@ -12,8 +12,7 @@ Si le deck d’un joueur tombe à court de cartes, ce joueur mélange sa pile de
 _Voir aussi : [[DefausserDefausse|Défausse]], [[PileDeDefausse|Pile de Défausse]], [[PiocherPiocherDesCartes|Piocher]], [[DeckRencontre|Deck Rencontre]], [[Melanger|Mélanger]]_  
 
 <details class="source">
-<summary>EN v1.7</summary>
-PLAYER DECK
+<summary>EN v1.7</summary>PLAYER DECK
 A player’s deck contains the player cards (allies, events,
 player side schemes, resources, supports, and upgrades)
 owned by the player who started the game with that deck.
@@ -41,8 +40,7 @@ Shuffle
 
 
 <details class="source">
-<summary>FR v1.4</summary>
-DECK JOUEUR
+<summary>FR v1.4</summary>DECK JOUEUR
 Un deck Joueur contient les cartes Joueur (alliés, événements, ressources, soutiens et améliorations) possédées par le joueur qui commence la partie avec ce deck.
 • L’ordre des cartes à l’intérieur d’un deck Joueur ne peut pas être changé à moins qu’une étape de jeu, une fonction de jeu ou une capacité de carte n’autorise à le faire.
 Si le deck d’un joueur tombe à court de cartes, ce joueur mélange sa pile de défausse pour constituer un nouveau deck. Ce joueur se voit immédiatement attribuer une carte Rencontre face cachée depuis le dessus du deck Rencontre.

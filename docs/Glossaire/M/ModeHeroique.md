@@ -3,7 +3,6 @@
 _Voir : [[ModesDeJeu|Modes de jeu]]_
 
 <details class="source">
-<summary>EN v1.7</summary>
-HEROIC MODE
+<summary>EN v1.7</summary>HEROIC MODE
 See: Modes of Play
 </details>

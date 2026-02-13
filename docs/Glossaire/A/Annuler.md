@@ -14,8 +14,7 @@ Certaines capacités de carte peuvent annuler des effets de carte ou de jeu.
 _Voir aussi : [[Capacite|Capacité]], [[EffetsDeRemplacement|Effets de remplacement]]_  
 
 <details class="source">
-<summary>EN v1.7</summary>
-CANCEL
+<summary>EN v1.7</summary>CANCEL
 Some card abilities can cancel card or game effects.
 • Cancel abilities interrupt the initiation of effects and prevent them from resolving.
 • Anytime the effects of an ability are canceled, the ability (apart from its effects) is still regarded as initiated, and any costs are still paid. Only the effects are prevented from initiating, and do not resolve.
@@ -28,8 +27,7 @@ See also: Ability, Replacement Effect
 
 
 <details class="source">
-<summary>FR v1.4</summary>
-ANNULER
+<summary>FR v1.4</summary>ANNULER
 Certaines capacités de carte peuvent annuler des effets de carte ou de jeu.
 • Les capacités d’annulation interrompent l’initiation des effets et les empêchent d’être initiés.
 • Chaque fois que les effets d’une capacité sont annulés, la capacité (mais non ses effets) est toujours considérée comme ayant été initiée et tous ses coûts restent payés. L’annulation empêche seulement les effets d’être initiés, et donc résolus.

@@ -10,8 +10,7 @@ Si une carte utilise la phrase « attachez cette carte », alors la carte doit �
 _Voir aussi : [[Attachement|Attachement]], [[ElementDeJeu|Elément de Jeu]], [[Amelioration|Amélioration]]_  
 
 <details class="source">
-<summary>EN v1.7</summary>
-ATTACH TO
+<summary>EN v1.7</summary>ATTACH TO
 If a card uses the phrase "attach to", it must be attached to (placed beneath and slightly overlapped by) the specified game element as it enters play.
 • Once a card is attached, it remains in play until either the element it is attached to leaves play, in which case the attached card is discarded, or an ability or game effect causes the attached card to leave play.
 • An attached card exhausts and readies independently of the game element it is attached to.
@@ -22,8 +21,7 @@ See also: Attachment, Game Element, Upgrade
 
 
 <details class="source">
-<summary>FR v1.4</summary>
-ATTACHEZ CETTE CARTE
+<summary>FR v1.4</summary>ATTACHEZ CETTE CARTE
 Si une carte utilise la phrase « attachez cette carte », alors la carte doit être attachée (c’est à dire placée en dessous de manière à dépasser légèrement) à l’élément de jeu indiqué dès qu’elle entre en jeu.
 • Une fois qu’une carte est attachée, elle reste en jeu jusqu’à ce que l’élément auquel elle est attaché quitte le jeu (auquel cas, la carte attachée est défaussée) ou qu’une capacité/un effet de jeu ne fasse quitter le jeu à la carte attachée.
 • Une carte attachée s’incline et se redresse indépendamment de l’élément de jeu auquel elle est attachée.

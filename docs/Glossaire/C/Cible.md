@@ -27,8 +27,7 @@ Si une fonction de jeu ou une capacité de carte est dirigée vers un élément 
 _Voir aussi : [[Capacite|Capacité]], [[ChoisirElementDeJeu|Choisir (Élément de jeu)]], [[Cout|Coût]], [[ElementDeJeu|Élément de jeu]], [[CapaciteEtiquetee|Capacité Étiquetée]]_  
 
 <details class="source">
-<summary>EN v1.7</summary>
-TARGET
+<summary>EN v1.7</summary>TARGET
 If a game function or card ability is directed toward a game element (such as an attack that deals damage to an enemy), that game element becomes the target of that function or ability for the duration of that function’s or ability’s resolution.
 • Examples of targets include but are not limited to:
 "the villain," "a minion," "an enemy," "a scheme,"
@@ -61,8 +60,7 @@ See also: Ability, Choose (Game Element), Cost, Game Element, Labeled Ability
 
 
 <details class="source">
-<summary>FR v1.4</summary>
-CIBLE
+<summary>FR v1.4</summary>CIBLE
 Si une fonction de jeu ou une capacité de carte est dirigée
 vers un élément de jeu (telle qu’une attaque qui inflige des
 dégâts à un ennemi), cet élément de jeu devient la cible de

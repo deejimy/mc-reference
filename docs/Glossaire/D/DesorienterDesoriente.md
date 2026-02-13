@@ -14,8 +14,7 @@ Désorienté est un statut qui annule la prochaine manigance ou le prochain cont
 _Voir aussi : [[Allie|Allié]], [[Annuler|Annuler]], [[Identite|Identité]], [[Sbire|Sbire]], [[CartesDetat|Cartes d'état]], [[Cible|Cible]], [[MechantDeckMechant|Méchant]]_  
 
 <details class="source">
-<summary>EN v1.7</summary>
-CONFUSE, CONFUSED
+<summary>EN v1.7</summary>CONFUSE, CONFUSED
 Confuse is a status that cancels a character’s next scheme or thwart.
 • If an ability "confuses" a character, give that character a confused status card.
 • A character is confused if it has a confused status card.
@@ -31,10 +30,9 @@ See also: Ally, Cancel, Identity, Minion, Status Cards, Target, Villain
 
 
 <details class="source">
-<summary>FR v1.4</summary>
-DESORIENTER, DESORIENTE
+<summary>FR v1.4</summary>DESORIENTER, DESORIENTE
 Désorienté est un statut qui empêche un personnage d’ajouter ou de retirer de la menace la prochaine fois qu’il manigance ou qu’il contre.
 • Si une capacité « désoriente » un personnage, donnez à ce personnage une carte d’état Désorienté.
 • Si un personnage a une capacité précisant « ne peut pas être désorienté », aucune carte d’état Désorienté ne peut être placée sur ce personnage.
-Voir aussi : Allié, Cartes d’Etat, Identité, Méchant, Sbire Guide de Référence 13
+Voir aussi : Allié, Cartes d’Etat, Identité, Méchant, Sbire
 </details>

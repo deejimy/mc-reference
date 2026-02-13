@@ -11,8 +11,7 @@ _Voir aussi : [[MotsCles|Mots‑clés]], [[ProprieteEtControle|Propriété et co
 
 
 <details class="source">
-<summary>EN v1.7</summary>
-LINKED (CARD TITLE)
+<summary>EN v1.7</summary>LINKED (CARD TITLE)
 Cards with the linked keyword cannot be included in any deck. Instead, they are set aside at the start of the game if any deck includes the card that brings the linked cards into play (indicated in the parentheses following the keyword).
 • Linked cards do not count toward the minimum or maximum deck size.
 • The number of linked cards set aside during setup is equal to the number of those cards included in the product from which the linked card came.

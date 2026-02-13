@@ -12,8 +12,7 @@ La carte Identité d’un joueur est une carte double-face qui représente son h
 _Voir aussi : [[FormeChangerDeForme|Forme]], [[EnJeuEtHorsJeu|En Jeu et Hors Jeu]], [[Joueur|Joueur]], [[CartesJoueur|Carte Joueur]]_  
 
 <details class="source">
-<summary>EN v1.7</summary>
-IDENTITY
+<summary>EN v1.7</summary>IDENTITY
 Identity is a player card type that represents which character a player is playing in the game.
 A player’s identity card is a double-sided card that represents their hero on one side and their alter-ego on the other. The side that is face up indicates the form (hero or alter-ego) that player is currently in.
 • Each player begins the game in alter-ego form.
@@ -25,8 +24,7 @@ See also: Form, In Play and Out of Play, Player, Player Card
 
 
 <details class="source">
-<summary>FR v1.4</summary>
-IDENTITE
+<summary>FR v1.4</summary>IDENTITE
 Identité est un type de carte Joueur qui détermine quel personnage chaque joueur incarne dans la partie.
 La carte Identité d’un joueur est une carte double-face qui représente son héros sur une face et son alter ego sur l’autre. La face qui est révélée indique la forme (héros ou alter ego) dans laquelle est actuellement ce joueur.
 • Chaque joueur commence la partie sous forme d’alter ego.

@@ -13,8 +13,7 @@ _Voir aussi : [[Degats|Dégâts]], [[Deferlement|Déferlement]], [[CartesDetat|C
 
 
 <details class="source">
-<summary>EN v1.7</summary>
-TOUGH
+<summary>EN v1.7</summary>TOUGH
 Tough is a status that prevents a character from taking damage.
 • If a character with a tough status card would take any amount of damage, prevent all of that damage and discard a tough status card from that character instead.
 » » A character with multiple tough status cards discards only one tough status card each time it would take damage.
@@ -26,8 +25,7 @@ See also: Damage, Overkill, Status Cards, Toughness
 
 
 <details class="source">
-<summary>FR v1.4</summary>
-TENACE
+<summary>FR v1.4</summary>TENACE
 Tenace est un statut qui empêche un personnage de subir des dégâts.
 Voir : Cartes Statut, Ténacité
 </details>

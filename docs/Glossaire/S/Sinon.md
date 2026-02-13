@@ -11,8 +11,7 @@
 _Voir aussi : [[EffetsDeRemplacement|Effets de remplacement]], [[Cible|Cible]]_  
 
 <details class="source">
-<summary>EN v1.7</summary>
-"OTHERWISE"
+<summary>EN v1.7</summary>"OTHERWISE"
 Effects beginning with "otherwise" resolve only if the preceding effect was not resolved.
 • An "otherwise" effect will resolve if one or more of the following are true of the preceding effect:
 » » It has a condition that is not true. (For example, an ability reads: "If you are in hero form, take 2 damage. Otherwise, place 2 threat on the main scheme." The "otherwise" portion resolves if the player is not in hero form.)

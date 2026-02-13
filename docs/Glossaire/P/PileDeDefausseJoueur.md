@@ -3,7 +3,6 @@
 _Voir: [[PileDeDefausse|Pile de défausse]]_
 
 <details class="source">
-<summary>EN v1.7</summary>
-PLAYER DISCARD PILE
+<summary>EN v1.7</summary>PLAYER DISCARD PILE
 See: Discard Pile
 </details>

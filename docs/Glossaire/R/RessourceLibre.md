@@ -12,8 +12,7 @@ _Voir aussi : [[Capacite|Capacité]], [[Cout|Coût]], [[RessourceEnergie|Ressour
 
 
 <details class="source">
-<summary>EN v1.7</summary>
-WILD RESOURCE
+<summary>EN v1.7</summary>WILD RESOURCE
 A wild resource () is one of the four types of resources.
 • Wild resources can be spent to pay the resource cost of cards and abilities. When a player generates a wild resource (), they may specify which resource type (energy, mental, physical, or wild) it is being used as.
 » » When a card that generates a wild resource has its resources doubled, each of its wild resources can be declared a different type.
@@ -26,8 +25,7 @@ See also: Ability, Cost, Energy Resource, Icons, Mental Resource, Physical Resou
 
 
 <details class="source">
-<summary>FR v1.4</summary>
-RESSOURCE LIBRE ()
+<summary>FR v1.4</summary>RESSOURCE LIBRE ()
 Une ressource Libre () est un des quatre types de ressource.
 • Des ressources Libre peuvent être dépensées pour payer le coût en ressource des cartes et capacités. Quand un joueur génère une ressource Libre (), il spécifie à quel type de ressource elle correspond (énergie, mentale, physique ou libre).
 • Certaines capacités de cartes requièrent spécifiquement que des ressources Libre soient dépensées pour que leurs effets soient résolus.

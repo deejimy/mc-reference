@@ -2,8 +2,7 @@
 
 Le deck Rencontre contient les cartes Rencontre (attachements, environnements, manigances annexes, sbires et traîtrises) auxquelles les joueurs pourront faire face lors d’un scénario.  
 
-- L’ordre des cartes à l’intérieur du deck Rencontre ne peut pas être modifié à moins qu’une étape contextuelle, une fonction de jeu ou une capacité de carte ne lui demande.
-Guide de Référence 11 Si le deck Rencontre tombe à court de cartes, le pile de défausse Rencontre est immédiatement mélangée pour créer un nouveau deck Rencontre. Placez alors un pion Accélération à côté du deck Manigance Principale.  
+- L’ordre des cartes à l’intérieur du deck Rencontre ne peut pas être modifié à moins qu’une étape contextuelle, une fonction de jeu ou une capacité de carte ne lui demande. Si le deck Rencontre tombe à court de cartes, le pile de défausse Rencontre est immédiatement mélangée pour créer un nouveau deck Rencontre. Placez alors un pion Accélération à côté du deck Manigance Principale.  
 
 - Si une capacité de carte défausse un nombre spécifique de cartes du deck Rencontre ou jusqu’à ce qu’une carte ayant un critère spécifique soit défaussée, défaussez des cartes du deck Rencontre jusqu’à ce que la condition de la défausse soit satisfaite ou que le deck Rencontre soit vide. Si le deck Rencontre est vidé de cette façon, on considère que la capacité de carte est résolue. Ne continuez pas de défausser des cartes du deck Rencontre nouvellement reconstitué.  
 
@@ -12,8 +11,7 @@ Guide de Référence 11 Si le deck Rencontre tombe à court de cartes, le pile d
 _Voir aussi : [[PionDacceleration|Pion Accélération]], [[Attachement|Attachement]], [[ChoisirElementDeJeu|Choisir (Élément de jeu)]], [[DefausserDefausse|Défausse]], [[PileDeDefausse|Pile de Défausse]], [[Environnement|Environnement]], [[ManiganceAnnexe|Manigance Annexe]], [[Sbire|Sbire]], [[Traitrise|Traîtrise]]_  
 
 <details class="source">
-<summary>EN v1.7</summary>
-ENCOUNTER DECK
+<summary>EN v1.7</summary>ENCOUNTER DECK
 The encounter deck contains the encounter cards (attachments, environments, minions, side schemes, and treacheries) that players can face during a scenario.
 • The order of cards within the encounter deck cannot be changed unless a player is instructed to do so by a game step, game function, or card ability.
 If the encounter deck is empty, the encounter discard pile is immediately shuffled to create a new encounter deck. When this occurs, place an acceleration token next to the main scheme deck.
@@ -24,11 +22,9 @@ See also: Acceleration Token, Attachment, Choose (Game Element), Discard, Discar
 
 
 <details class="source">
-<summary>FR v1.4</summary>
-DECK RENCONTRE
+<summary>FR v1.4</summary>DECK RENCONTRE
 Le deck Rencontre contient les cartes Rencontre (attachements, environnements, manigances annexes, sbires et traîtrises) auxquelles les joueurs pourront faire face lors d’un scénario.
-• L’ordre des cartes à l’intérieur du deck Rencontre ne peut pas être modifié à moins qu’une étape contextuelle, une fonction de jeu ou une capacité de carte ne lui demande.
-Guide de Référence 11 Si le deck Rencontre tombe à court de cartes, le pile de défausse Rencontre est immédiatement mélangée pour créer un nouveau deck Rencontre. Placez alors un pion Accélération à côté du deck Manigance Principale.
+• L’ordre des cartes à l’intérieur du deck Rencontre ne peut pas être modifié à moins qu’une étape contextuelle, une fonction de jeu ou une capacité de carte ne lui demande. Si le deck Rencontre tombe à court de cartes, le pile de défausse Rencontre est immédiatement mélangée pour créer un nouveau deck Rencontre. Placez alors un pion Accélération à côté du deck Manigance Principale.
 • Si une capacité de carte défausse un nombre spécifique de cartes du deck Rencontre ou jusqu’à ce qu’une carte ayant un critère spécifique soit défaussée, défaussez des cartes du deck Rencontre jusqu’à ce que la condition de la défausse soit satisfaite ou que le deck Rencontre soit vide. Si le deck Rencontre est vidé de cette façon, on considère que la capacité de carte est résolue. Ne continuez pas de défausser des cartes du deck Rencontre nouvellement reconstitué.
 • S’il n’y a pas de carte ni dans le deck Rencontre ni dans la pile de défausse Rencontre, simultanément, (lorsque toutes les cartes du deck Rencontre sont en jeu, par exemple), une boucle infinie apparaît et place un nombre infini de pions Accélération à côté du deck Manigance Principale, ce qui provoque la fin de la partie avec une défaite des joueurs.
 Voir aussi : Attachement, Défausser, Environnement, Manigance Annexe, Pion Accélération, Pile de Défausse, Sbire, Traîtrise

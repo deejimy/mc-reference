@@ -9,8 +9,7 @@ Traîtrise est un type de cartes Rencontre qui représente les tactiques, ruses,
 _Voir aussi : [[TypesDeCarte|Types de Carte]], [[DefausserDefausse|Défausse]], [[CartesRencontre|Carte Rencontre]], [[DeckRencontre|Deck Rencontre]], [[Reveler|Révéler]], [[MechantDeckMechant|Méchant]]_  
 
 <details class="source">
-<summary>EN v1.7</summary>
-TREACHERY
+<summary>EN v1.7</summary>TREACHERY
 Treachery is an encounter card type that represent tactics, tricks, disasters, and other immediate occurrences that confront players during a scenario.
 • If a treachery card is revealed from the encounter deck, the player revealing the card must resolve its effects.
 • After resolving the effects of a treachery card (or the effects are canceled), place the card in the encounter discard pile.
@@ -20,8 +19,7 @@ See also: Card Types, Discard, Encounter Card, Encounter Deck, Reveal, Villain
 
 
 <details class="source">
-<summary>FR v1.4</summary>
-TRAÎTRISE
+<summary>FR v1.4</summary>TRAÎTRISE
 Traîtrise est un type de cartes Rencontre qui représente les tactiques, ruses, désastres et autres obstacles auxquels les joueurs sont confrontés lors d’un scénario.
 • Si une carte Traîtrise est révélée du deck Rencontre, le joueur qui a révélé la carte doit résoudre ses effets.
 • Après avoir résolu les effets d’une carte Traîtrise (ou les avoir annulés), placez la carte dans la pile de défausse Rencontre.

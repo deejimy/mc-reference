@@ -12,8 +12,7 @@ Le type d’une carte indique les diverses règles et fonctions de jeu qui lui s
 _Voir aussi : [[Allie|Allié]], [[Attachement|Attachement]], [[CartesRencontre|Carte Rencontre]], [[Environnement|Environnement]], [[Evenement|Événement]], [[Identite|Identité]], [[ManigancePrincipaleDeckManigancePrincipale|Manigance principale]], [[Sbire|Sbire]], [[Obligation|Obligation]], [[CartesJoueur|Carte Joueur]], [[ManiganceAnnexeDeJoueur|Manigance annexe de joueur]], [[RessourceCarte|Carte Ressource]], [[ManiganceAnnexe|Manigance annexe]], [[Soutien|Soutien]], [[Traitrise|Traîtrise]], [[Amelioration|Amélioration]], [[MechantDeckMechant|Méchant]], Appendice III : Description des Cartes_  
 
 <details class="source">
-<summary>EN v1.7</summary>
-CARD TYPES
+<summary>EN v1.7</summary>CARD TYPES
 A card’s card type denotes various rules and game functions associated with that card.
 • Ally, event, identity, player side scheme, resource, support, and upgrade cards are types of player cards.
 • Attachment, environment, main scheme, minion, obligation, side scheme, treachery, and villain cards are types of encounter cards.
@@ -27,8 +26,7 @@ Card Anatomy
 
 
 <details class="source">
-<summary>FR v1.4</summary>
-TYPES DE CARTE
+<summary>FR v1.4</summary>TYPES DE CARTE
 Un type de carte définit les diverses règles et fonctions de jeu associées à cette carte.
 • Allié, Amélioration, Evénement, Identité, Ressource et Soutien sont des types de cartes Joueur.
 • Attachement, Environnement, Manigance principale, Manigance annexe, Obligation, Sbire, Traîtrise et Méchant sont des types de cartes Rencontre.

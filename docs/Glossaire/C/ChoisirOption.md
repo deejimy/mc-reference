@@ -10,8 +10,7 @@ Certaines capacités demandent à un joueur de choisir entre plusieurs options. 
 _Voir aussi : [[Capacite|Capacité]], [[Joueur|Joueur]], [[Cible|Cible]]_  
 
 <details class="source">
-<summary>EN v1.7</summary>
-CHOOSE (OPTION)
+<summary>EN v1.7</summary>CHOOSE (OPTION)
 Some abilities instruct a player to choose between multiple options. For example, "Choose to either take 1 damage or discard 1 card from your hand."
 • When an encounter card requires a player to choose an option, they cannot choose an option that requires one or more targets if there are no valid targets for that option.
 • When a player card requires a player to choose an option, they cannot choose an option that cannot be at least partially resolved. This includes options that:

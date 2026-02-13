@@ -10,8 +10,7 @@ _Voir aussi : [[CartesRencontre|Carte Rencontre]], [[ContreContrer|Contre/Contre
 
 
 <details class="source">
-<summary>EN v1.7</summary>
-SIDE SCHEME
+<summary>EN v1.7</summary>SIDE SCHEME
 Side scheme is an encounter card type that represents additional obstacles and distractions the heroes are confronted with.
 If a side scheme is revealed, it enters play and is placed next to the main scheme deck in the villain’s play area.
 • Each side scheme enters play with an amount of threat on it equal to the card’s starting threat value (indicated at the bottom of the card).
@@ -20,8 +19,7 @@ If a side scheme is revealed, it enters play and is placed next to the main sche
 
 
 <details class="source">
-<summary>FR v1.4</summary>
-MANIGANCE ANNEXE
+<summary>FR v1.4</summary>MANIGANCE ANNEXE
 Manigance Annexe est un type de carte Rencontre qui représente des obstacles et des diversions supplémentaires auxquels les héros sont confrontés.
 Si une manigance annexe est révélée, elle entre en jeu et est placée à côté du deck Manigance Principale, dans la zone de jeu du méchant.
 • Chaque manigance annexe entre en jeu avec une quantité de menaces sur elle égale à la valeur de menace de départ de cette carte (indiquée en bas de la carte).

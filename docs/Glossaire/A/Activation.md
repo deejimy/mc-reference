@@ -20,8 +20,7 @@ Si l’identité du joueur engagé est sous sa forme de héros, le sbire initie 
 _Voir aussi : [[BoostIconeDeBoost|Boost]], [[AttaqueActivationDesEnnemis|Attaque (Activation des Ennemis)]], [[ManiganceActivationDesEnnemis|Manigance (Activation des Ennemis)]], [[Sbire|Sbire]], [[PhaseDuMechant|Phase de Méchant]]_  
 
 <details class="source">
-<summary>EN v1.7</summary>
-ACTIVATION
+<summary>EN v1.7</summary>ACTIVATION
 There are two types of enemy activations: an attack activation and a scheme activation. Whenever an enemy attacks or schemes, it is considered to have activated.
 • During step two of the villain phase, the villain activates once per player, in player order. If the identity of the player resolving the activation is in hero form, the villain initiates an attack against that player’s identity. If the identity of the player resolving the activation is in alter-ego form, the villain initiates a scheme.
 • During step two of the villain phase, each minion engaged with a player activates against that player.
@@ -39,8 +38,7 @@ See also: Boost, Attack (Enemy Activation), Scheme (Enemy Activation), Minion, V
 
 
 <details class="source">
-<summary>FR v1.4</summary>
-ACTIVATION
+<summary>FR v1.4</summary>ACTIVATION
 Il existe deux types d’activation des ennemis : une activation d’attaque et une activation de manigance. Chaque fois qu’un ennemi attaque ou manigance, il est considéré comme ayant été activé.
 • Lors de la deuxième étape de la phase du Méchant, le méchant s’active une fois par joueur, dans l’ordre des joueurs. Si l’identité du joueur qui résout l’activation est sous sa forme de héros, le méchant initie une attaque contre l’identité de ce joueur. Si l’identité du joueur qui résout l’activation est sous forme d’alter ego, le méchant initie une manigance.
 • Lors de la deuxième étape de la phase du Méchant, chaque sbire engagé avec un joueur s’active contre ce joueur. Si l’identité du joueur engagé est sous sa forme de héros, le sbire initie une attaque contre l’identité de ce joueur. Si l’identité du joueur engagé est sous forme d’alter ego, le sbire initie une manigance.

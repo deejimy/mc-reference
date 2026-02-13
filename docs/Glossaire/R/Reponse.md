@@ -15,8 +15,7 @@ Une capacité de réponse est un type de capacité déclenchée signalé par l�
 _Voir aussi : [[Capacite|Capacité]], [[CapaciteDeclenchee|Capacité Déclenchée]], [[EtreCense|"Etre censé"]]_  
 
 <details class="source">
-<summary>EN v1.7</summary>
-RESPONSE
+<summary>EN v1.7</summary>RESPONSE
 A response ability is a type of triggered ability, indicated by the bold "Response" timing trigger. Response abilities may be executed after the specified triggering condition occurs, as described in the response’s ability text.
 • Players can only trigger response abilities on cards they control or on encounter cards.
 » » Players cannot trigger response abilities on obligations in other players’ play areas.
@@ -29,8 +28,7 @@ See also: Ability, Triggered Ability, Triggering Condition
 
 
 <details class="source">
-<summary>FR v1.4</summary>
-REPONSE
+<summary>FR v1.4</summary>REPONSE
 Une capacité de réponse est un type de capacité déclenchée signalé par l’indicatif de déclenchement « Réponse » en gras. Les capacités de réponse peuvent être exécutées après que la condition de déclenchement spécifiée s’est produite, comme décrit dans le texte de la capacité de réponse.
 • Plusieurs réponses peuvent être exécutées suite à la même condition de déclenchement.
 • Une opportunité de réponse survient immédiatement après que la condition de déclenchement a été résolue. Les opportunités de répondre se font dans l’ordre des joueurs jusqu’à ce que tous les joueurs aient consécutivement passé.

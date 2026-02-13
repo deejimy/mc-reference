@@ -15,8 +15,7 @@ _Voir aussi : [[Capacite|Capacité]], [[Cout|Coût]], [[Degats|Dégâts]], [[Man
 
 
 <details class="source">
-<summary>EN v1.7</summary>
-PREVENT
+<summary>EN v1.7</summary>PREVENT
 Some card abilities prevent damage or threat.
 • When damage is prevented, reduce the amount of damage the target takes (i.e. the amount of damage that is placed on the target).
 » » When an effect prevents damage dealt to a character, the amount of damage that character "takes" is reduced, but the amount of damage "dealt" is not reduced.
@@ -30,8 +29,7 @@ See also: Ability, Cost, Damage, Scheme (Card Type), Target, Threat
 
 
 <details class="source">
-<summary>FR v1.4</summary>
-PREVENIR
+<summary>FR v1.4</summary>PREVENIR
 Certaines capacités de cartes peuvent prévenir des dégâts ou des menaces.
 • Quand des dégâts sont prévenus, diminuez la quantité de dégâts infligés avant qu’ils ne soient appliqués à la cible.
 • Quand des menaces sont prévenues, diminuez la quantité de menaces assignées avant qu’elles ne soient placées sur la manigance.

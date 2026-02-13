@@ -16,8 +16,7 @@ Chaque fois qu’un nouveau modificateur est appliqué ou retiré, la valeur con
 _Voir aussi : [[ValeurDeBase|Valeur de base]], [[TiretValeur|Tiret (Valeur)]], [[Imprime|Imprimé]]_  
 
 <details class="source">
-<summary>EN v1.7</summary>
-MODIFIERS
+<summary>EN v1.7</summary>MODIFIERS
 The game constantly checks and (if necessary) updates the count of any variable quantity that is being modified.
 Any time a new modifier is applied or removed, the entire quantity is recalculated from the start, considering the unmodified base value and all active modifiers.
 • The "per player" icon () is not considered a modifier and is applied before any modifiers are applied.
@@ -33,8 +32,7 @@ See also: Base Value, Dash (Value), Printed
 
 
 <details class="source">
-<summary>FR v1.4</summary>
-MODIFICATEURS
+<summary>FR v1.4</summary>MODIFICATEURS
 Le jeu vérifie constamment et actualise (si nécessaire) le compte de toutes les variables qui sont modifiées.
 Chaque fois qu’un nouveau modificateur est appliqué ou retiré, la valeur concernée est recalculée entièrement depuis le début en prenant en compte la valeur de base non modifiée et tous les modificateurs actifs.
 • Le calcul d’une valeur considère tous les modificateurs comme étant appliqués simultanément. Cependant, lors du calcul, tous les modificateurs additifs ou soustractifs sont calculés avant les modificateurs multiplicatifs ou divisifs.

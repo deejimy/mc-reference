@@ -11,8 +11,7 @@ Les ressources sont utilisées pour payer le coût pour jouer des cartes et le c
 _Voir aussi : [[Cout|Coût]], [[Icone|Icône]], [[RessourceEnergie|Ressource Energie]], [[RessourceLibre|Ressource Libre]], [[RessourceMentale|Ressource Mentale]], [[RessourcePhysique|Ressource Physique]]_  
 
 <details class="source">
-<summary>EN v1.7</summary>
-RESOURCE
+<summary>EN v1.7</summary>RESOURCE
 Resources are used to pay the cost to play cards and to pay certain ability costs.
 • A player can generate resources to pay a cost by discarding cards from their hand to generate the resource or resources indicated at the bottom-left corner of the card, or by using card abilities that generate resources.
 • There are four types of resources in the game: energy (), mental (), and physical (), and wild ().
@@ -25,8 +24,7 @@ See also: Cost, Energy Resource, Icons, Mental Resource, Physical Resource, Wild
 
 
 <details class="source">
-<summary>FR v1.4</summary>
-RESSOURCE
+<summary>FR v1.4</summary>RESSOURCE
 Les ressources sont utilisées pour payer le coût pour jouer des cartes et le coût de certaines capacités.
 • Un joueur peut générer des ressources pour payer un coût en défaussant des cartes de sa main pour générer la ou les ressources indiquées dans le coin inférieur gauche de la carte ou en utilisant des capacités de cartes qui génèrent des ressources.
 • Il existe quatre types de ressource : énergie, mentale, physique, libre. Une ressource libre peut être utilisée telle quelle ou en tant que ressource de n’importe quel autre type.
@@ -34,5 +32,5 @@ Les ressources sont utilisées pour payer le coût pour jouer des cartes et le c
 • Si une capacité dispose d’un coût en ressources, un nombre de ressources supérieur ou égal à ce coût doit être généré.
 De nombreuses capacités nécessitent que des types de ressource spécifiques soient générés dans des quantités précisées afin de payer le coût de la capacité.
 • Les ressources générées en excès pour n’importe quel coût sont perdues et ne peuvent pas servir à payer des coûts ultérieurs.
-Voir aussi : Coût, Icône, Ressource Energie, Ressource Libre, Ressource Mentale, Ressource Physique Guide de Référence 27
+Voir aussi : Coût, Icône, Ressource Energie, Ressource Libre, Ressource Mentale, Ressource Physique
 </details>

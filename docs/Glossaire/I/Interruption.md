@@ -14,8 +14,7 @@ Une capacité d’interruption est un type de capacité déclenchée signalé pa
 _Voir aussi : [[Annuler|Annuler]], [[EffetsDeRemplacement|Effets de Remplacement]], [[CapaciteDeclenchee|Capacité Déclenchée]], [[EtreCense|"Est censé"]]_  
 
 <details class="source">
-<summary>EN v1.7</summary>
-INTERRUPT
+<summary>EN v1.7</summary>INTERRUPT
 An interrupt ability is a type of triggered ability, indicated by the bold "Interrupt" timing trigger. Interrupt abilities may be executed anytime the specified triggering condition occurs, as described in the interrupt’s ability text. The interrupt ability interrupts the resolution of the specified triggering condition, and resolves immediately before that triggering condition resolves.
 • Players can only trigger interrupt abilities on cards they control or on encounter cards.
 » » Players cannot trigger interrupt abilities on obligations in other players’ play areas.
@@ -30,8 +29,7 @@ See also: Cancel, Replacement Effect, Triggered Ability, "Would"
 
 
 <details class="source">
-<summary>FR v1.4</summary>
-INTERRUPTION
+<summary>FR v1.4</summary>INTERRUPTION
 Une capacité d’interruption est un type de capacité déclenchée signalé par l’indicatif de déclenchement « Interruption
 » en gras. Les capacités d’interruption peuvent être exécutées chaque fois que les conditions de déclenchement spécifiées se produisent telles que décrites dans le texte de la capacité d’interruption. La capacité d’interruption interrompt la condition de déclenchement spécifiée et se résout immédiatement avant que cette condition de déclenchement ne se résolve.
 • Plusieurs interruptions peuvent être déclenchées par la même condition de déclenchement.

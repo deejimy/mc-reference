@@ -1,9 +1,8 @@
 # Surpayer
 
-_Voir : [[Cout|Coût]]
+_Voir : [[Cout|Coût]]_
 
 <details class="source">
-<summary>EN v1.7</summary>
-"OVERPAY"
+<summary>EN v1.7</summary>"OVERPAY"
 See: Cost
 </details>

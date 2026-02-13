@@ -12,8 +12,7 @@ _Voir aussi : [[DefausserDefausse|Défausser]], [[EnJeuEtHorsJeu]], [[Joueur|Jou
 
 
 <details class="source">
-<summary>EN v1.7</summary>
-DISCARD PILE
+<summary>EN v1.7</summary>DISCARD PILE
 A discard pile is an out-of-play area that contains cards that have been discarded throughout the game.
 • Each player has their own discard pile, and the encounter deck has its own discard pile.
 • Each discard pile is open information, and may be looked at by any player at any time.
@@ -24,8 +23,7 @@ See also: Discard, In Play and Out of Play, Ownership and Control, Player, Shuff
 
 
 <details class="source">
-<summary>FR v1.4</summary>
-PILE DE DEFAUSSE
+<summary>FR v1.4</summary>PILE DE DEFAUSSE
 Une pile de défausse est une zone hors-jeu qui contient des cartes qui ont été défaussées pendant la partie.
 • Chaque joueur a sa propre pile de défausse, et le deck Rencontre a sa propre pile de défausse.
 • Chaque pile de défausse est consultable par tous les joueurs à n’importe quel moment.

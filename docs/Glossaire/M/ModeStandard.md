@@ -3,7 +3,6 @@
 _Voir : [[ModesDeJeu|Modes de jeu]]_
 
 <details class="source">
-<summary>EN v1.7</summary>
-STANDARD MODE
+<summary>EN v1.7</summary>STANDARD MODE
 See: Modes of Play
 </details>

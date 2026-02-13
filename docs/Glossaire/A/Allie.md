@@ -12,8 +12,7 @@ _Voir aussi : [[LimiteDallies|Limite d'Alliés]], [[DegatsConsecutifs|Dégâts c
 
 
 <details class="source">
-<summary>EN v1.7</summary>
-ALLY
+<summary>EN v1.7</summary>ALLY
 Ally is a player card type that represents an identity’s friends, supporters, or companions.
 • If an ally enters play, it remains in play until a card ability or game effect causes it to leave play. If an ally’s remaining hit points are reduced to zero, it is defeated and discarded from play.
 • During a player’s turn, they may use any number of allies they control to attack or thwart. An ally must exhaust to attack or thwart.
@@ -25,10 +24,8 @@ See also: Ally Limit, Consequential Damage, Hit Points
 
 
 <details class="source">
-<summary>FR v1.4</summary>
-ALLIE
+<summary>FR v1.4</summary>ALLIE
 Allié est un type de carte Joueur qui représente les amis, partisans ou compagnons d’une identité.
-4 Guide de Référence
 • Si un allié entre en jeu, il reste en jeu jusqu’à ce qu’une capacité de carte ou un effet de jeu ne lui fasse quitter le jeu. Si les points de vie restants d’un allié sont réduits à zéro, il est vaincu et défaussé du jeu.
 • Lors de son tour, un joueur peut utiliser n’importe quel nombre d’alliés qu’il contrôle pour attaquer ou pour contrer. Un allié doit s’incliner pour attaquer ou contrer.
 • Après qu’un allié est utilisé pour attaquer ou contrer, infligez-lui un nombre de dégâts consécutifs égal au nombre d’icônes () de dégâts consécutifs indiquées sous ses valeurs d’ATQ ou de CTR. (Si un allié essaye d’attaquer ou de contrer alors qu’il est respectivement sonné ou désorienté, cet allié ne subira pas de dégât consécutif.)

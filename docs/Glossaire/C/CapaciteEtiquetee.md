@@ -16,8 +16,7 @@ _Voir aussi : [[AttaqueActivationDuJoueur|Attaque (Action de Joueur)]], [[Defend
 
 
 <details class="source">
-<summary>EN v1.7</summary>
-LABELED ABILITY
+<summary>EN v1.7</summary>LABELED ABILITY
 A labeled ability is a triggered ability with a parenthetical following its bold trigger text that designates that ability as an attack, defense, and/or thwart.
 • When a player resolves an ability labeled "(attack)," that ability is considered to be an attack made by that player’s identity.
 • When a player resolves an ability labeled "(defense)," that ability is considered to be a defense made by that player’s identity.

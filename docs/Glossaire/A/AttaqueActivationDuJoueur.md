@@ -30,8 +30,7 @@ Il y a différentes façons d’attaquer :
 _Voir aussi : [[Allie|Allié]], [[PouvoirDeBase|Pouvoir de base]], [[Degats|Dégâts]], [[DefendreDefense|Défendre]], [[Ennemi|Ennemi]], [[Identite|Identité]], [[CapaciteEtiquetee|Capacité étiquetée]], [[Sbire|Sbire]], [[Modificateurs|Modificateurs]], [[RiposteX|Riposte X]], [[Cible|Cible]], [[MechantDeckMechant|Méchant]]_  
 
 <details class="source">
-<summary>EN v1.7</summary>
-ATTACK (PLAYER ABILITY TYPE)
+<summary>EN v1.7</summary>ATTACK (PLAYER ABILITY TYPE)
 Some game effects and card abilities reference an attack.
 There are a few different ways an attack can occur:
 • A hero or ally can use their basic attack power to attack an enemy. A character must exhaust to use this power. This deals damage equal to the character’s ATK value to the enemy.
@@ -58,8 +57,7 @@ See also: Ally, Basic Power, Damage, Defend, Enemy, Identity, Labeled Ability, M
 
 
 <details class="source">
-<summary>FR v1.4</summary>
-ATTAQUE, ATTAQUER
+<summary>FR v1.4</summary>ATTAQUE, ATTAQUER
 Certains effets de jeu et capacités de cartes parlent d’attaque.
 Il y a différentes façons d’attaquer :
 • Un héros peut utiliser son pouvoir de base d’attaque pour attaquer un ennemi. Un héros doit s’incliner pour utiliser ce pouvoir. Cela inflige à l’ennemi des dégâts égaux à la valeur d’ATQ du héros.

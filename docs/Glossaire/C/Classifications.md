@@ -14,8 +14,7 @@ La classification d’une carte est le groupe à laquelle elle appartient en fon
 _Voir aussi : [[CartesSpecifiquesALidentite|Cartes Spécifiques à l’Identité]], [[CartesDaffinite|Cartes d’affinité]], [[CartesBasiques|Cartes Basiques]], [[CartesSpecifiquesAuScenario|Cartes Spécifiques au Scénario]], [[ManiganceTypeDeCarte|Set Rencontre Modulaire]], [[CartesSpecifiquesAUneCampagne|Cartes Spécifiques à une Campagne]], [[ModesDeJeu|Modes de Jeu]], [[SetStandard|Set Standard]], [[SetExpert|Set Expert]]_  
 
 <details class="source">
-<summary>EN v1.7</summary>
-CLASSIFICATIONS
+<summary>EN v1.7</summary>CLASSIFICATIONS
 A card’s classification is the group that a card belongs to as determined by its specific attributes.
 • Cards in the "identity-specific" classification are cards that belong to an identity’s set of accompanying cards. (See: Identity-Specific Card)
 • Cards in the "aspect" classification are cards that belong to the Aggression, Justice, Leadership, Protection, and/or ‘Pool aspects. (See: Aspect Card)
@@ -30,8 +29,7 @@ Expert Set, Modes of Play)
 
 
 <details class="source">
-<summary>FR v1.4</summary>
-CLASSIFICATIONS
+<summary>FR v1.4</summary>CLASSIFICATIONS
 La classification d’une carte est le groupe à laquelle elle appartient en fonction des attributs qui lui sont propres.
 • Les cartes de classification « spécifique à l’identité » sont les cartes qui appartiennent au set de cartes qui accompagne cette identité. (Voir : Cartes Spécifiques à l’Identité)
 • Les cartes de classification « Affinité » sont les cartes qui appartiennent aux affinités Agressivité, Justice, Commandement et Protection. (Voir : Cartes d’Affinité)

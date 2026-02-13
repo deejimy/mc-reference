@@ -11,8 +11,7 @@ Après qu'un allié a contré, il subit des dégâts consécutifs égaux au nomb
 _Voir aussi : [[Allie|Allié]], [[AttaqueActivationDuJoueur|Attaque (Type de capacité de joueur)]], [[PouvoirDeBase|Pouvoir de Base]], [[Degats|Dégâts]], [[Icone|Icônes]], [[CTR|Contre]]_  
 
 <details class="source">
-<summary>EN v1.7</summary>
-CONSEQUENTIAL DAMAGE
+<summary>EN v1.7</summary>CONSEQUENTIAL DAMAGE
 After an ally attacks, it takes consequential damage equal to the number of consequential damage icons () beneath its ATK field.
 After an ally thwarts, it takes consequential damage equal to the number of consequential damage icons () beneath its THW field.
 • Consequential damage is dealt to an ally after resolving abilities that are triggered by the ally attacking or thwarting.
@@ -27,8 +26,7 @@ See also: Ally, Attack (Player Ability Type), Basic Power, Damage, Icons, Thwart
 
 
 <details class="source">
-<summary>FR v1.4</summary>
-DEGÂTS CONSECUTIFS
+<summary>FR v1.4</summary>DEGÂTS CONSECUTIFS
 Après qu’un allié a attaqué, il subit des dégâts consécutifs égaux au nombre d’icônes de dégâts consécutifs () en dessous de son champ d’ATQ.
 Après qu’un allié a contré, il subit des dégâts consécutifs égaux au nombre d’icônes de dégâts consécutifs () en dessous de son champ de CTR.
 • Les dégâts consécutifs sont infligés après avoir résolu les capacités déclenchées par l’allié qui attaque ou qui contre.

@@ -2,7 +2,7 @@
 
 
 
-Forcée est un indicatif de déclenchement en gras. Si le mot « Forcée » précède une capacité déclenchée, l’initiation de cette capacité est obligatoire.  
+Forcée est un indicatif de déclenchement en gras. Si le mot « Forcée » précède une capacité déclenchée, l’initiation de cette capacité est obligatoire.   
 
 - <span class="new">Les capacités « Interruption Forcée » et « Réponse Forcée » doivent être résolues lorsque leurs conditions de déclenchement sont remplies.</span>  
 - <span class="new">Les capacités « Action Forcée » peuvent être déclenchées à tout moment où une capacité d’action non forcée pourrait l’être, mais elles doivent être résolues avant la fin de la phase du joueur.</span>  
@@ -15,8 +15,7 @@ Forcée est un indicatif de déclenchement en gras. Si le mot « Forcée » pré
 _Voir aussi : [[Capacite|Capacité]], [[Action|Action]], [[Cible|Cible]]_  
 
 <details class="source">
-<summary>EN v1.7</summary>
-FORCED
+<summary>EN v1.7</summary>FORCED
 Forced is a bold trigger word. If the word "Forced" precedes a triggered ability, the ability’s initiation is mandatory.
 • "Forced Interrupt" and "Forced Response" abilities must be resolved when their triggering conditions are met.
 • "Forced Action" abilities can be triggered at any time during the player phase when a non-forced action ability could be triggered, but must be resolved before the player phase can end.
@@ -30,8 +29,7 @@ See also: Ability, Action, Target
 
 
 <details class="source">
-<summary>FR v1.4</summary>
-FORCEE
+<summary>FR v1.4</summary>FORCEE
 Forcée est un déclencheur en gras. Si le mot « forcée » suit une capacité déclenchée, l’initiation de cette capacité est obligatoire.
 • Pour chaque condition de déclenchement, les interruptions forcées sont prioritaires sur les interruptions non forcées et s’initient avant. Les réponses forcées sont prioritaires sur les réponses non forcées et s’initient avant.
 • Si au moins deux capacités forcées sont censées s’initier au même moment, le premier joueur détermine l’ordre dans lequel les capacités sont initiées, sans tenir compte de qui contrôle les cartes comportant ces capacités.

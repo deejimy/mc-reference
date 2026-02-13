@@ -15,8 +15,7 @@
 _Voir aussi : [[Chercher|Chercher]], [[RetireDeLaPartie|Retiré de la Partie]], [[PileDeVictoire|Pile de victoire]]_  
 
 <details class="source">
-<summary>EN v1.7</summary>
-FIND
+<summary>EN v1.7</summary>FIND
 When instructed to find a card, a player searches each game area where that card could be found (play area, set-aside area, player deck, discard pile, encounter deck, etc.).
 • Players should not unnecessarily search game areas if they know where the card they are looking for can be found.
 • All game areas are subject to search when resolving a "find" instruction, with the following exceptions:

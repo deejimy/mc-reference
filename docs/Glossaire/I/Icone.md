@@ -20,8 +20,7 @@ Une icône est un élément de jeu qui symbolise diverses fonctions du jeu.
 
 
 <details class="source">
-<summary>EN v1.7</summary>
-ICONS
+<summary>EN v1.7</summary>ICONS
 Icons are graphical elements that represent various functions within the game.
 • Energy Icon (): An energy icon is a resource icon that generates one energy resource when spent.
 (See: Energy Resource)
@@ -46,8 +45,7 @@ Consequential Damage)
 
 
 <details class="source">
-<summary>FR v1.4</summary>
-ICÔNE
+<summary>FR v1.4</summary>ICÔNE
 Une icône est un élément de jeu qui symbolise diverses fonctions du jeu.
 • Icône Energie () : une icône Energie est une icône de ressource qui génère 1 ressource Energie lorsqu’elle est dépensée. (Voir : Ressource Energie)
 • Icône Mentale () : une icône Mentale est une icône de ressource qui génère 1 ressource Mentale lorsqu’elle est dépensée. (Voir : Ressource Mentale)
@@ -57,7 +55,7 @@ Une icône est un élément de jeu qui symbolise diverses fonctions du jeu.
 • Icône d’Amplification () : Une icône d’amplification augmente de 1 le nombre d’icônes de boost sur les cartes de boost lors de l’activation des ennemis. (Voir :
 Icône d’Amplification)
 • Icône de Crise () : Une icône de crise empêche les joueurs de retirer de la menace de la manigance principale.
-(Voir : Icône de Crise) Guide de Référence 17
+(Voir : Icône de Crise)
 • Icône d’Aléas () : Une icône d’Aléas augmente le nombre de cartes Rencontre qui sont attribuées aux joueurs pendant la phase du Méchant. (Voir : Icône d’Aléas)
 • Icône de Boost () : Une icône de boost augmente l’ATQ ou la MNG de l’ennemi actif lors des activations des ennemis. (Voir : Boost)
 • Icône d’Etoile () : Une icône d’étoile est utilisée conjointement à la statistique d’une carte ou à son champ de boost pour indiquer qu’il existe une capacité obligatoire dans la boîte de texte qui correspond à ce champ. (Voir : icône d’Etoile)

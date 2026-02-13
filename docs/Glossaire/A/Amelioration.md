@@ -12,8 +12,7 @@ _Voir aussi : [[AttacherCetteCarte|Attacher À]], [[CartesJoueur|Carte Joueur]],
 
 
 <details class="source">
-<summary>EN v1.7</summary>
-UPGRADE
+<summary>EN v1.7</summary>UPGRADE
 Upgrade is a player card type that represents powers, attacks, equipment, and other assets that are (in most cases) at an identity’s immediate disposal.
 • An upgrade is active so long as it is in play, and it remains in play until a card ability causes it to leave play.
 • Most upgrade cards enter play near a player’s identity card, and modify the player’s hero or alter-ego (or both).
@@ -25,8 +24,7 @@ See also: Attach To, Card Types, Enters Play, Identity, In Play and Out of Play,
 
 
 <details class="source">
-<summary>FR v1.4</summary>
-AMELIORATION
+<summary>FR v1.4</summary>AMELIORATION
 Amélioration est un type de cartes Joueur qui représente les pouvoirs, attaques, équipements et autres atouts qui sont (en général) à la disposition immédiate de l’identité.
 • Une amélioration est active tant qu’elle est en jeu et elle reste en jeu jusqu’à ce qu’une capacité de carte lui fasse quitter le jeu.
 • La plupart des cartes Amélioration entrent en jeu à côté de la carte Identité d’un joueur et modifient le héros ou l’alter ego de ce joueur (parfois les deux).

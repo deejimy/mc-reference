@@ -14,8 +14,7 @@ Le verbe « choisir » indique qu’un joueur doit sélectionner un élément de
 _Voir aussi : [[Capacite|Capacité]], [[Cible|Cible]], [[ElementDeJeu|Elément de jeu]] [[Joueur|Joueur]]_  
 
 <details class="source">
-<summary>EN v1.7</summary>
-CHOOSE (GAME ELEMENT)
+<summary>EN v1.7</summary>CHOOSE (GAME ELEMENT)
 The phrase "choose a [game element]" (such as an ally, a minion, or a scheme) indicates that a player must select a game element that meets the specific requirements of an ability.
 • The player resolving the ability that uses the word "choose" is the player who makes the choice specified by the card.
 • If a player card ability requires the choosing of one or more targets, and there are no valid targets for any part of the ability, the ability cannot be initiated.
@@ -27,8 +26,7 @@ See also: Ability, Game Element, Player, Target
 
 
 <details class="source">
-<summary>FR v1.4</summary>
-CHOISIR
+<summary>FR v1.4</summary>CHOISIR
 Le verbe « choisir » indique qu’un joueur doit sélectionner un élément de jeu qui correspond à un prérequis précisé par la capacité qui est en train d’être résolue.
 • Le choix spécifié sur la carte doit être fait par le joueur qui résout la capacité.
 • Si une capacité de carte Joueur requiert de choisir une cible et qu’il n’existe pas de cible valide, la capacité ne peut pas être initiée.
