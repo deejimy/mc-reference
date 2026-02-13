@@ -13,7 +13,7 @@ Certaines capacités permettent de "déplacer" des éléments de jeu (comme des 
 - <span class="new">Si des menaces sont déplacées hors d’une manigance, ces menaces sont considérées comme retirées de cette manigance.</span>  
 - <span class="new">Si des menaces sont déplacées vers une manigance, ces menaces sont considérées comme placées sur cette manigance.</span>  
 
-_Voir aussi : [[Degats|Dégâts]], [[SeuilDeMenace|Menace]]_  
+_Voir aussi : [[Degats|Dégâts]], [[SeuilDeMenace|Menace]], [[ElementDeJeu|Elément de Jeu]]_  
 
 <details class="source">
 <summary>EN v1.7</summary>

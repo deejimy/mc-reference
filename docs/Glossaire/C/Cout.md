@@ -23,7 +23,7 @@ Le coût en ressource d’une carte est la valeur numérique qui doit être pay�
 - <span class="new">Si infliger des dégâts est un coût, ce coût est considéré comme payé même si une partie ou la totalité de ces dégâts est prévenue.</span>  
 - <span class="new">Si subir des dégâts est un coût, ce coût n'est pas considéré comme payé à moins que la totalité de ces dégâts n'ait été subie. (Si une partie de ces dégâts est prévenue, le coût n'est pas payé.)</span>  
 
-_Voir aussi : [[Capacite|Capacité]], [[IconeDeCoutEnFormeDeFleche|Icône de Coût en Forme de Flèche]], [[InitierDesCapacites|Initier des Capacités]], [[MotsCles|Mots-clés]]_  
+_Voir aussi : [[Capacite|Capacité]], [[IconeDeCoutEnFormeDeFleche|Icône de Coût en Forme de Flèche]], [[ElementDeJeu|Elément de Jeu]], [[InitierDesCapacites|Initier des Capacités]], [[MotsCles|Mots-clés]]_  
 
 <details class="source">
 <summary>EN v1.7</summary>

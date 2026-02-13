@@ -9,6 +9,8 @@ Une capacité est un texte de jeu sur une carte qui indique spécifiquement ce q
 - <span class="new">Si une capacité précise une ou plusieurs cibles, cette capacité ne peut être initiée que si elle dispose d’au moins une cible valide.</span>  
 
 <span class="new">Par exemple : une capacité qui dit « infligez 5 dégâts à un sbire » ne peut pas être initiée s’il n’existe aucun sbire en jeu.</span>  
+    - <span class="new">Exemples de cibles (liste non exhaustive) : « le méchant », « un sbire », « un ennemi », « une manigance »,</span>  
+    - <span class="new">« un héros », « un allié », « un personnage », « un joueur », « vous », « une carte ».</span>  
 
 - Quand une capacité possède plusieurs phrases de texte, lisez l’intégralité de la capacité pour repérer d’éventuels effets d’altération qui pourraient changer la manière dont la capacité se résout. Ensuite, résolvez la capacité une phrase à la fois.  
 
@@ -20,8 +22,9 @@ Une capacité est un texte de jeu sur une carte qui indique spécifiquement ce q
     - Si l’un de ces types de capacités utilise le verbe « pouvoir », la partie de la capacité qui suit le verbe « pouvoir » est optionnelle.  
 
 - La résolution des types de capacités suivants est optionnelle : « Action », « Interruption », « Réponse », « Ressource ». Le joueur qui contrôle la carte qui possède la capacité optionnelle choisit ou non d’utiliser cette capacité au moment approprié.  
-    - <span class="new">Seul le joueur qui contrôle une carte Joueur possédant un attachement contenant le terme « vous » ou « votre » peut déclencher des capacités ou payer les coûts sur cet attachement.</span>  
-    - <span class="new">Seul le joueur qui possède une Obligation dans sa zone de jeu peut déclencher des capacités ou payer les coûts liés à cette Obligation.</span>  
+    - <span class="new">Tout joueur peut utiliser une telle capacité sur une carte Rencontre, avec les exceptions suivantes :</span>  
+        - <span class="new">Seul le joueur qui contrôle une carte Joueur possédant un attachement contenant le terme « vous » ou « votre » peut déclencher des capacités ou payer les coûts sur cet attachement.</span>  
+        - <span class="new">Seul le joueur qui possède une Obligation dans sa zone de jeu peut déclencher des capacités ou payer les coûts liés à cette Obligation.</span>  
 
 **Capacité constante** — Une capacité constante désigne toute capacité (hors mots‑clés) dont le texte ne contient pas d’indicatif de déclenchement en gras. Une capacité constante devient active dès que la carte entre en jeu et reste active tant que la carte est en jeu.  
 
@@ -48,7 +51,7 @@ Une capacité est un texte de jeu sur une carte qui indique spécifiquement ce q
 8. <span class="new">Dégâts consécutifs.</span>  
 
 
-_ Voir aussi : [[Action]], [[Annuler]], [[CapaciteUneFoisRevelee|Capacité une fois révélée]], [[CapaciteUneFoisVaincuDejouee|Capacité une fois vaincu/déjouée]], [[EffetDalteration|Effets d'Alteration]], [[EffetsDeRemplacement|Effets de Remplacement]], [[EffetsRetardes|Effets Retardés]], [[EffetsPersistants|Effets Persistants]], [[EnJeuEtHorsJeu|En Jeu et Hors Jeu]], [[Ensuite]], [[Et|« Et »]], [[Forcee|Forcée]], [[InitierDesCapacites|Initier des Capacités]], [[Interruption]], [[Qualificatifs]], [[Reponse|Réponse]], [[ResolutionSimultanee|Résolution Simultanée]], [[RessourceCapacite|Ressource (Capacité)]], [[Special]], [[Cible|Cible]]_
+_ Voir aussi : [[Action]], [[Annuler]], [[CapaciteUneFoisRevelee|Capacité une fois révélée]], [[CapaciteUneFoisVaincuDejouee|Capacité une fois vaincu/déjouée]], [[EffetDalteration|Effets d'Alteration]], [[EffetsDeRemplacement|Effets de Remplacement]], [[EffetsRetardes|Effets Retardés]], [[EffetsPersistants|Effets Persistants]], [[EnJeuEtHorsJeu|En Jeu et Hors Jeu]], [[Ensuite]], [[Et|« Et »]], [[Forcee|Forcée]], [[InitierDesCapacites|Initier des Capacités]], [[Interruption]], [[Qualificatifs]], [[Reponse|Réponse]], [[ResolutionSimultanee|Résolution Simultanée]], [[RessourceCapacite|Ressource (Capacité)]], [[Special]], [[Cible|Cible]], [[CapaciteEtiquetee|Capacité étiquetée]], [[EtreCense|"Est censé"]]_
 
 
 <details class="source">

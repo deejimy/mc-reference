@@ -6,7 +6,7 @@ S’il est demandé aux joueurs d’effectuer une séquence « dans l’ordre de
 
 - La locution « joueur suivant » se réfère toujours au prochain joueur (dans le sens horaire) dans l’ordre des joueurs.  
 
-_Voir aussi : [[PremierJoueur|Premier Joueur]]_  
+_Voir aussi : [[PremierJoueur|Premier Joueur]], [[Trouver|Trouver]], [[Joueur|Joueur]], [[PhaseDesJoueurs|Phase des Joueurs]], [[TourDeJoueur|Tour de Joueur]]_  
 
 <details class="source">
 <summary>EN v1.7</summary>

@@ -5,7 +5,7 @@ Si le texte d’effet d’une capacité inclut le mot « ensuite », le texte pr
 - Si le texte de la partie pré-« ensuite » a été totalement résolu, alors le texte de la partie post-« ensuite » de l’effet doit également tenter de se résoudre.
 - Si le texte de la partie pré-« ensuite » n’a pas été totalement résolu, alors le texte de la partie post-« ensuite » de l’effet ne tente pas de se résoudre.  
 
-_Voir aussi : [[Capacite|Capacité]]_  
+
 
 <details class="source">
 <summary>EN v1.7</summary>

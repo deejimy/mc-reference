@@ -9,7 +9,7 @@ Guide de Référence 11 Si le deck Rencontre tombe à court de cartes, le pile d
 
 - S’il n’y a pas de carte ni dans le deck Rencontre ni dans la pile de défausse Rencontre, simultanément, (lorsque toutes les cartes du deck Rencontre sont en jeu, par exemple), une boucle infinie apparaît et place un nombre infini de pions Accélération à côté du deck Manigance Principale, ce qui provoque la fin de la partie avec une défaite des joueurs.  
 
-_Voir aussi : [[PionDacceleration|Pion Accélération]], [[Attachement|Attachement]], [[ChoisirElementDeJeu|Choisir (Élément de jeu)]], [[DefausserDefausse|Défausse]], [[PileDeDefausse|Pile de Défausse]], [[Environnement|Environnement]], [[Sbire|Sbire]], [[Traitrise|Traîtrise]]_  
+_Voir aussi : [[PionDacceleration|Pion Accélération]], [[Attachement|Attachement]], [[ChoisirElementDeJeu|Choisir (Élément de jeu)]], [[DefausserDefausse|Défausse]], [[PileDeDefausse|Pile de Défausse]], [[Environnement|Environnement]], [[ManiganceAnnexe|Manigance Annexe]], [[Sbire|Sbire]], [[Traitrise|Traîtrise]]_  
 
 <details class="source">
 <summary>EN v1.7</summary>

@@ -1,17 +1,16 @@
 # Attachement
 
 Attachement est un type de cartes Rencontre.  
-
 Quand un attachement entre en jeu, il s’attache à une autre carte ou à un élément de jeu.  
 
-- <span class="new">Si un attachement est attaché à un personnage, il peut modifier la valeur d’ATQ, MNG et/ou CTR de ce personnage, comme indiqué dans les champs associés de la carte attachement.</span>  
-    - <span class="new">Si un attachement possède un modificateur "MNG/CTR", il modifie le MNG du personnage attaché s’il s’agit d’un méchant ou d’un sbire, et modifie le CTR du personnage attaché s’il s’agit d’un héros ou d’un allié.</span>  
-    - <span class="new">Si un attachement modifie une valeur que le personnage attaché ne possède pas ou pour laquelle ce personnage a un tiret (–) comme valeur, ce modificateur est ignoré.</span>  
-- <span class="new">Lorsqu’un attachement attaché à une carte joueur utilise les mots « vous » ou « votre », cela se réfère au contrôleur de la carte joueur à laquelle il est attaché.</span>  
-    - <span class="new">Seul le joueur qui contrôle la carte à laquelle cet attachement est attaché peut déclencher des capacités ou payer des coûts sur cet attachement.</span>  
+- <span class="new">Si un attachement est attaché à un personnage, il peut modifier les valeurs d’ATQ, de SCH et/ou de THW de ce personnage, comme indiqué par les valeurs dans les champs associés sur la carte d’attachement.</span>  
+    - <span class="new">Si un attachement possède un modificateur "SCH/THW", il modifie la SCH du personnage attaché si ce personnage est un méchant ou un sbire, et il modifie la THW du personnage attaché si ce personnage est un héros ou un allié.</span>  
+    - <span class="new">Si un attachement modifie une valeur que le personnage attaché n’a pas ou pour laquelle ce personnage a un tiret (–) comme valeur, ce modificateur est ignoré.</span>  
+    - <span class="new">(Par exemple, si un attachement donne à un alter‑ego "+1 ATK", cet alter‑ego ne reçoit pas 1 ATK.)</span>  
+- <span class="new">Quand un attachement attaché à une carte joueur utilise les mots "you" ou "your", cela fait référence au contrôleur de la carte joueur à laquelle il est attaché.</span>  
+    - <span class="new">Seul le joueur qui contrôle la carte à laquelle cet attachement est attaché peut déclencher les capacités ou payer les coûts de cet attachement.</span>  
 
-_Voir aussi : [[AttacherCetteCarte|Attachez cette carte]]_  
-
+_ Voir aussi : [[AttacherCetteCarte|Attacher cette carte]], [[TiretValeur|Tiret (Valeur)]], [[CartesRencontre|Carte Rencontre]], [[EntrerEnJeu|Entrer en jeu]], [[ElementDeJeu|Elément de Jeu]], [[Permanent|Permanent]]_  
 
 <details class="source">
 <summary>EN v1.7</summary>

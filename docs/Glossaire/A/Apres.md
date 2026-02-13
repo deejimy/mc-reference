@@ -2,7 +2,7 @@
 
 Le mot « après » se réfère à une situation de jeu qui vient juste de se conclure. Beaucoup de capacités Réponse utilisent le terme « après » pour indiquer à quel moment elles peuvent être utilisées.  
 
-_Voir aussi : [[Reponse|Réponse]]_  
+_Voir aussi : [[Capacite|Capacité]], [[Reponse|Réponse]]_  
 
 <details class="source">
 <summary>EN v1.7</summary>

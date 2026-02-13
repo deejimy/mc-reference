@@ -11,7 +11,7 @@ La classification d’une carte est le groupe à laquelle elle appartient en fon
 - Les cartes de classification « standard » sont celles qui sont ajoutées à la plupart des scénarios.  
 - Les cartes de classification « Expert » sont celles qui sont ajoutées aux scénarios lorsque vous jouez en mode expert.  
 
-_Voir aussi : [[CartesSpecifiquesALidentite|Cartes Spécifiques à l’Identité]], [[CartesDaffinite|Cartes d’affinité]], [[CartesBasiques|Cartes Basiques]], [[CartesSpecifiquesAuScenario|Cartes Spécifiques au Scénario]], [[ManiganceTypeDeCarte|Set Rencontre Modulaire]], [[CartesSpecifiquesAUneCampagne|Cartes Spécifiques à une Campagne]], [[ModesDeJeu|Modes de Jeu]], [[SetStandard|Set Standard]]_  
+_Voir aussi : [[CartesSpecifiquesALidentite|Cartes Spécifiques à l’Identité]], [[CartesDaffinite|Cartes d’affinité]], [[CartesBasiques|Cartes Basiques]], [[CartesSpecifiquesAuScenario|Cartes Spécifiques au Scénario]], [[ManiganceTypeDeCarte|Set Rencontre Modulaire]], [[CartesSpecifiquesAUneCampagne|Cartes Spécifiques à une Campagne]], [[ModesDeJeu|Modes de Jeu]], [[SetStandard|Set Standard]], [[SetExpert|Set Expert]]_  
 
 <details class="source">
 <summary>EN v1.7</summary>

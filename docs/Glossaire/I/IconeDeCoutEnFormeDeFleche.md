@@ -4,7 +4,7 @@ Une icône de coût en forme de flèche (→) dans le texte d’une capacité pe
 
 - <span class="new">Les réponses au texte précédant l'icône de coût se résolvent avant que le texte suivant l'icône ne soit résolu.</span>  
 
-_Voir aussi : [[Cout|Coût]]_  
+_Voir aussi : [[Cout|Coût]], [[Icone|Icône]]_  
 
 <details class="source">
 <summary>EN v1.7</summary>

@@ -8,16 +8,14 @@ Créer un référentiel du jeu Marvel Champions LCG, avec des définitions et de
 Projet MkDocs utilisant le thème Material for MkDocs. Le contenu est écrit en Markdown avec une structure de dossiers organisée pour les différentes sections du guide de référence. Le fichier mkdocs.yml configure le site, y compris le nom, l'URL, le thème, les extensions Markdown et les plugins utilisés.
 Hébergé sur GitHub Pages pour un accès facile et une distribution publique.
 
-
-
 ## Instructions de traduction
 Le but est de traduire le bloc `EN v1.7` en n'oubliant aucune phrase.
 
 Etapes à suivre de 1 à 11 :
 
-1. Ne pas toucher aux blocs `**EN v1.7**` et `**FR v1.4**`.
-2. Si la traduction existe dans le bloc `**FR v1.4**`, il faut la réutiliser pour être fidèle à la version précédente.
-3. Traduire intégralement le bloc EN v1.7 en français entre le titre (#TITLE) et le bloc EN v1.7 La traduction doit être complète et fidèle au texte original, en respectant les termes spécifiques du jeu et en utilisant un langage clair et précis.
+1. Ne pas toucher aux blocs <details> `EN v1.7**` et `FR v1.4`.
+2. Si la traduction existe dans le bloc `FR v1.4`, il faut la réutiliser pour être fidèle à la version précédente. Mais ne pas ajouter les phrases héritées de FR v1.4 qui ne figurent pas dans l'EN v1.7. 
+3. Traduire intégralement le bloc EN v1.7 en français entre le titre (#TITLE) et le bloc EN v1.7 La traduction doit être complète et fidèle au texte original, en respectant les termes spécifiques du jeu et en utilisant un langage clair et précis. Réduire le texte FR pour qu'il reflète strictement le contenu EN v1.7.
 4.  Ne pas préfixer la traduction par le titre en majuscule (éviter DUPLICATION).
 5. A partir de la traduction produite: remplacer les listes à puces `•` par un retour de ligne + tiret `\n-` et les chevrons `» »` par un tiret précédé d'un retour de ligne + 4 espaces `\n    -`. Respecter l'indentation des sub-bullets
 6. Pour tout texte non présent dans le bloc FR v1.4, l'englober par `<span class="new">...</span>` pour indiquer que ce texte a été ajouté dans la nouvelle version.
@@ -31,7 +29,7 @@ Etapes à suivre de 1 à 11 :
 # Contrôles ✅
 1. Vérifier que le texte EN v1.7 a été intégralement traduit, si il manque une phrase ou une partie de phrase, refuser la traduction et recommencer à partir de l'étape 3.
 2. Vérifier que le nombre de puces (top level et sous-puces et numérotation) dans la traduction produite correspond au nombre exact de puces dans le bloc EN v1.7.
-3. S’assurer que chaque phrase du bloc EN est soit présente textuellement en FR v1.4, soit présente dans <span class="new"> ( une phrase présente dans EN v1.7 mais absente de FR v1.4 doit avoir la class "new"). 
+3. S’assurer que chaque phrase du bloc EN v1.7 est soit présente textuellement en FR v1.4, soit présente dans <span class="new"> ( une phrase présente dans EN v1.7 mais absente de FR v1.4 doit avoir la class "new").
 4. Rechercher et refuser les traductions préfixées par le titre MAJUSCULE.
 
 ## Correspondance Icone

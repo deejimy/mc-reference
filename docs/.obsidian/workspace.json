@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Glossaire/V/ValeurDeBase.md",
+                "file": "Glossaire/V/VousVotre.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ValeurDeBase"
+              "title": "VousVotre"
             }
           }
         ]
@@ -182,6 +182,7 @@
   },
   "active": "4d842d87c59928a2",
   "lastOpenFiles": [
+    "Glossaire/V/ValeurDeBase.md",
     "Glossaire/T/TypesDeCarte.md",
     "Glossaire/T/Trouver.md",
     "Glossaire/T/Traits.md",
@@ -207,7 +208,6 @@
     "Glossaire/R/Robuste.md",
     "Glossaire/R/RiposteX.md",
     "Glossaire/R/Reveler.md",
-    "Glossaire/R/Retourner.md",
     "Untitled.base",
     "Untitled 1.base",
     "Glossaire/E/EntrerEnJeu",

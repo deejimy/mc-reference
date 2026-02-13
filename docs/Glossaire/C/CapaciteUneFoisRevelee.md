@@ -8,7 +8,7 @@ Quand un joueur révèle une carte du deck Rencontre, un nouveau stade de maniga
 - Si une carte Rencontre avec une capacité « **Une fois révélée** » est mise en jeu sans être révélée, la capacité « **Une fois révélée** » ne se déclenche pas.  
 - <span class="new">Les capacités « **Une fois révélée** » sur les cartes méchant et manigance principale ne peuvent pas être annulées.</span>  
 
-_Voir aussi : [[CapaciteDeclenchee|Capacité Déclenchée]], [[CartesRencontre|Carte Rencontre]], [[ManigancePrincipaleDeckManigancePrincipale|Manigance Principale]], [[MechantDeckMechant|Méchant]], Appendice II : Mise en Place_  
+_Voir aussi : [[ChoisirElementDeJeu|Choisir (Élément de Jeu)]], [[CapaciteDeclenchee|Capacité Déclenchée]], [[CartesRencontre|Carte Rencontre]], [[ManigancePrincipaleDeckManigancePrincipale|Manigance Principale]], [[MechantDeckMechant|Méchant]], Appendice II : Mise en Place_  
 
 <details class="source">
 <summary>EN v1.7</summary>

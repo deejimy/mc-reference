@@ -26,7 +26,7 @@ Les cartes qui ne sont pas considérées comme une extension de l’identité d�
 - <span class="new">Manigances côté joueur — Les capacités déclenchées provenant de manigances côté joueur en jeu sous le contrôle d’un joueur ne sont pas considérées comme effectuées par l’identité de ce joueur.</span>  
 - Soutiens — Considérez que les attaques, contres, défenses, capacités d’action et capacités déclenchées qui se résolvent via des soutiens en jeu contrôlés par un joueur ne sont pas effectués par l’identité de ce joueur.  
 
-_Voir aussi : [[Allie|Allié]], [[Amelioration|Amélioration]], [[Capacite|Capacité]], [[CarteJoueur|Carte Joueur]], [[DeckJoueur|Deck Joueur]], [[Evenement|Evénement]], [[Identite|Identité]], [[Joueur|Joueur]], [[Ressource|Ressource]], [[Soutien|Soutien]], [[ZoneDeJeuDUnJoueur|Zone de Jeu d’un Joueur]]_  
+_Voir aussi : [[Allie|Allié]], [[Amelioration|Amélioration]], [[Capacite|Capacité]], [[CartesJoueur|Carte Joueur]], [[DeckJoueur|Deck Joueur]], [[Evenement|Evénement]], [[Identite|Identité]], [[Joueur|Joueur]], [[Ressource|Ressource]], [[Soutien|Soutien]], [[ZoneDeJeuDUnJoueur|Zone de Jeu d’un Joueur]]_  
 
 
 <details class="source">

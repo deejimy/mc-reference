@@ -8,7 +8,7 @@ Si des dégâts en excès sont infligés à un sbire lors d’une attaque portan
 - <span class="new">Si une capacité de carte comptabilise les dégâts infligés en excès, cette capacité comptabilise la même valeur de dégâts en excès que celle calculée lors de la résolution du mot‑clé Déferlement.</span>  
 - <span class="new">Si un allié ou un sbire porteur d’une carte d’état Tenace subit des dégâts en excès lors d’une attaque avec le mot‑clé Déferlement, les dégâts de Déferlement ne sont pas infligés à l’identité du contrôleur de cet allié ni au méchant, respectivement.</span>  
 
-_Voir aussi : [[Allie|Allié]], [[AttaqueActivationDesEnnemis|Attaque (Activation des Ennemis)]], [[AttaqueActivationDuJoueur|Attaque (Action de Joueur)]], [[Degats|Dégâts]], [[Identite|Identité]], [[MotsCles|Mots‑clés]], [[PointsDeVie|Points de Vie]], [[Sbire|Sbire]], [[TexteDeRappel|Texte de Rappel]]_  
+_Voir aussi : [[Allie|Allié]], [[AttaqueActivationDesEnnemis|Attaque (Activation des Ennemis)]], [[AttaqueActivationDuJoueur|Attaque (Action de Joueur)]], [[Degats|Dégâts]], [[Identite|Identité]], [[MotsCles|Mots‑clés]], [[PointsDeVie|Points de Vie]], [[Sbire|Sbire]], [[MechantDeckMechant|Méchant]], [[TexteDeRappel|Texte de Rappel]]_  
 
 <details class="source">
 <summary>EN v1.7</summary>

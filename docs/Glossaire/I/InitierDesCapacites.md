@@ -18,7 +18,7 @@ Si ces deux conditions sont remplies, accomplissez les étapes suivantes, dans l
 - Si n’importe laquelle des étapes ci‑dessus devait remplir la condition de déclenchement d’une capacité de réponse, cette capacité peut être initiée immédiatement après que cette condition ait été remplie.  
 - Si la capacité initiée se trouve sur une carte en jeu, la séquence ne s’interrompt pas si la carte quitte le jeu pendant la séquence, à moins que le fait que la carte quitte le jeu n’empêche un coût requis d’être payé.  
 
-_Voir aussi : [[Capacite|Capacité]], [[Cout|Coût]], [[RestrictionsEtPermissionsDeJeu|Restrictions et Permissions de Jeu]]_  
+_Voir aussi : [[Capacite|Capacité]], [[Cible]], [[Cout|Coût]], [[RestrictionsEtPermissionsDeJeu|Restrictions et Permissions de Jeu]]_  
 
 <details class="source">
 <summary>EN v1.7</summary>

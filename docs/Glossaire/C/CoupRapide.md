@@ -2,7 +2,7 @@
 
 Après qu’un sbire doté du mot-clé `Coup Rapide` a engagé un joueur dont l’identité est sous forme de héros, ce sbire attaque ce joueur.  
 
-_Voir aussi : [[AttaqueActivationDesEnnemis|Attaque (Activation des Ennemis)]], [[Engager|Engager]], [[FormeChangerDeForme|Forme]], [[MotsCles|Mots-clés]], [[Sbire|Sbire]]_  
+_Voir aussi : [[AttaqueActivationDesEnnemis|Attaque (Activation des Ennemis)]], [[Engager|Engager]], [[FormeChangerDeForme|Forme]], [[MotsCles|Mots-clés]], [[Sbire|Sbire]], [[Joueur|Joueur]], [[TexteDeRappel|Texte de Rappel]]_  
 
 
 <details class="source">
