@@ -1,9 +1,8 @@
 # Seuil de Menace
 
+Le seuil de menace est la quantité de menaces requise par le deck Manigance Principale pour avancer. Il est situé sur le coin supérieur gauche de la carte, devant son titre.
 
-La menace cible est la quantité de menace requise pour que le deck de manigance principale avance. Elle est située dans le coin supérieur gauche de la carte, avant le titre.
-
-**Voir aussi** : Manigance principale, Menace
+_Voir aussi : [[ManigancePrincipaleDeckManigancePrincipale|Manigance principale]], [[Menace]]_
 
 
 **EN v1.7**:  

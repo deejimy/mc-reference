@@ -11,7 +11,7 @@ Une capacité d’interruption est un type de capacité déclenchée signalé pa
 - Si une interruption modifie (via un effet de remplacement) ou annule une condition de déclenchement imminente, d’autres interruptions à la condition de déclenchement originelle ne peuvent pas être déclenchées.  
 - Une fois que tous les joueurs ont consécutivement passé et décident de ne pas résoudre d’autres interruptions pour une condition de déclenchement, aucune autre interruption pour cette instance de la condition ne peut être utilisée.  
 
-_Voir aussi : [[Annuler|Annuler]], [[EffetsDeRemplacement|Effets de Remplacement]], [[CapaciteDeclenchee|Capacité Déclenchée]], [[Serait|Serait]]_  
+_Voir aussi : [[Annuler|Annuler]], [[EffetsDeRemplacement|Effets de Remplacement]], [[CapaciteDeclenchee|Capacité Déclenchée]], [[EtreCense|"Est censé"]]_  
 
 **EN v1.7**:  
 ```

@@ -1,7 +1,7 @@
 # "Supplémentaire"
 
 
-**Voir** : Effet d'altération.
+_Voir : [[EffetDalteration|Effet d'altération]]_
 
 
 **EN v1.7**:  

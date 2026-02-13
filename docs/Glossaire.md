@@ -100,7 +100,7 @@
 [[Environnement|Environnement]] :material-alert-outline:  
 [[EspritDequipeTrait|Esprit d'Équipe (Trait)]] :material-alert-outline:  
 [[Et|Et]] :material-alert-outline:  
-[[EtreCense|"Etre censé"]] :material-alert-outline:  
+[[EtreCense|"Est censé"]] :material-alert-outline:  
 [[Evenement|Evénement]] :material-alert-outline:  
 [[Exemplaire|Exemplaire]] :material-alert-outline:  
 [[ExigenceRessources|Exigence (Ressources)]] :material-alert-outline:  
@@ -240,7 +240,6 @@
 
 ## S
 [[Sbire|Sbire]] :material-alert-outline:  
-[[Serait|Serait]] :material-alert-outline:  
 [[SetDeRencontreModulaire|Set de Rencontre Modulaire]] :material-alert-outline:  
 [[SetDeRencontreNemesis|Set de Rencontre némésis]] :material-alert-outline:  
 [[SetExpert|Set Expert]] :material-alert-outline:  

@@ -5,7 +5,7 @@ Un effet de remplacement est un effet qui remplace le déroulement d’une réso
 - Après que toutes les réponses à la condition de déclenchement originelle ont été résolues et qu’il est temps de résoudre la condition de déclenchement elle-même, résolvez l’effet de remplacement à la place.
 - Si plusieurs effets de remplacement sont initiés sur la même condition de déclenchement, l’effet de remplacement le plus récent est celui qui est utilisé lors de la résolution de la condition de déclenchement.
 
-_Voir aussi : [[Capacite|Capacité]], [[EffetDalteration|Effet d’Altération]], [[Annuler|Annuler]], [[Interruption|Interruption]], [[Sinon|Sinon]], [[Serait|Serait]], [[CapaciteDeclenchee|Capacité Déclenchée]]_  
+_Voir aussi : [[Capacite|Capacité]], [[EffetDalteration|Effet d’Altération]], [[Annuler|Annuler]], [[Interruption|Interruption]], [[Sinon|Sinon]], [[EtreCense|"Est censé"]], [[CapaciteDeclenchee|Capacité Déclenchée]]_  
 
 
 

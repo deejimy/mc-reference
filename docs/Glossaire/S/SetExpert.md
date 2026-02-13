@@ -1,14 +1,11 @@
-# Set Expert
+# Set Expert  
 
+Le set Expert est un set de rencontre ajouté aux scénarios lorsque vous jouez en mode expert.  
 
-Le set Expert est un set de rencontre qui est ajouté aux scénarios pendant le mode expert.
+- Le set expert n’est pas un set de rencontre modulaire et ne peut pas être sélectionné (par les joueurs ou aléatoirement) lorsqu’un scénario demande aux joueurs de choisir un set de rencontre modulaire à inclure au scénario.  
+- Les cartes de la classification « Expert » sont toutes les cartes qui ont le mot « Expert » imprimé, en bas, dans le champ Information du set de rencontre.  
 
-  - Le set Expert n'est pas un set de rencontre modulaire et ne peut pas être sélectionné (par les joueurs ou aléatoirement) lorsqu'un scénario exige que les joueurs choisissent un set de rencontre modulaire à inclure dans ce scénario.
-
-  - Les cartes de la classification "Expert" sont toutes les cartes qui portent le mot "Expert" imprimé au bas de la carte dans sa zone de nom de set de rencontre.
-
-**Voir aussi** : Classifications, Modes de jeu, Set de rencontre modulaire, Appendice I : Personnalisation du deck
-
+_Voir aussi : [[Classifications|Classifications]], [[ModesDeJeu|Modes de Jeu]], [[SetDeRencontreModulaire|Set de Rencontre Modulaire]], [[PersonnalisationDuDeck|Appendice I : Decks Personnalisés]]_  
 
 **EN v1.7**:  
 ```

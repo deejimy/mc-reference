@@ -1,14 +1,16 @@
 # Sbire
 
+Sbire est un type de carte Rencontre. Les sbires représentent les soutiens du méchant et/ou les ennemis des héros.  
 
-Sbire est un type de carte Rencontre qui représente les sous-fifres du méchant.
+Si un sbire entre en jeu, il engage le joueur qui a révélé la carte du deck Rencontre ou qui a résolu la capacité ayant mis ce sbire en jeu, sauf si une capacité précise le contraire.  
 
-  - Lorsqu'un sbire est révélé, il entre en jeu engagé avec le joueur qui l'a révélé.
+- Si un sbire entre en jeu, il reste en jeu jusqu’à ce qu’une capacité de carte ou un effet de jeu le fasse quitter le jeu.  
+- Si un sbire a zéro point de vie restant ou moins, il est vaincu et défaussé.  
+- Les sbires engagés avec un joueur s’activent (un à la fois et dans l’ordre choisi par le joueur engagé) lors de la deuxième étape de la phase du Méchant, après l’activation du méchant.  
+- Si le joueur engagé est sous sa forme de héros, le sbire attaque. Si le joueur engagé est sous sa forme d’alter‑ego, le sbire manigance.  
+- Si un sbire engage un joueur lors d’une activation ennemie qui demande à tous les sbires engagés avec ce joueur de s’activer (par exemple à cause d’une capacité de boost lors de l’étape deux de la phase du Méchant), le sbire nouvellement engagé s’activera lui aussi.  
 
-  - Tant qu'un sbire est engagé avec un joueur, il s'active (attaque ou manigance) pendant la phase du méchant.
-
-**Voir aussi** : Types de carte, Carte de rencontre, Engager, Activation
-
+_Voir aussi : [[TypesDeCarte|Types de carte]], [[CartesRencontre|Carte Rencontre]], [[Engager|Engager]], [[EntrerEnJeu|Entrer en jeu]], [[FormeChangerDeForme|Forme]], [[PointsDeVie|Points de Vie]], [[Identite|Identité]], [[QuitterLeJeu|Quitter le Jeu]], [[Joueur|Joueur]], [[ZoneDeJeuDUnJoueur|Zone de jeu d'un joueur]], [[MechantDeckMechant|Méchant]], [[PhaseDuMechant|Phase du Méchant]]_  
 
 **EN v1.7**:  
 ```

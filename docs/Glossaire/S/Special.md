@@ -1,9 +1,8 @@
 # Spécial
 
+Une capacité spéciale est un type de capacité déclenchée signalé par l’indicatif de déclenchement « Spécial » en gras. Les capacités spéciales ne peuvent être exécutées que via l’instruction explicite d’une autre capacité de carte.
 
-Une capacité spéciale est une capacité déclenchée (mot "Spécial" en gras) qui ne s'exécute que sur instruction explicite d'une autre carte.
-
-**Voir aussi** : Capacité déclenchée
+_Voir aussi : [[CapaciteDeclenchee|Capacité déclenchée]]_
 
 
 **EN v1.7**:  
