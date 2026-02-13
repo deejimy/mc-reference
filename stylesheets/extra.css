@@ -131,6 +131,7 @@
   background: none !important;
   border: 1px solid #e9ecef !important;
   box-shadow: none !important;
+  white-space: pre-wrap;
 }
 .source summary {
  background: #f8f9fa !important;
@@ -138,5 +139,9 @@
 }
 .source summary::before {
  display: none !important ;
+}
+.source > *:not(summary) {
+    white-space: pre-wrap;
+    display: block;
 }
 
