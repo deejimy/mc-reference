@@ -8601,19 +8601,20 @@
 <li><span class="new">Si une attaque ennemie se termine avant que les dégâts ne soient infligés, les capacités qui se déclenchent après qu’un personnage a défendu une attaque se résolvent, mais les capacités qui se déclenchent après qu’un ennemi attaque ne se résolvent pas.</span>  </li>
 </ul>
 <p><em>Voir aussi : <a href="../Activation/">Activation</a>, <a href="../Allie/">Allié</a>, <a href="../AttaquesContreLesAllies/">Attaques contre les Alliés</a>, <a href="../../B/BoostIconeDeBoost/">Boost</a>, <a href="../../D/Degats/">Dégâts</a>, <a href="../../D/DefendreDefense/">Défendre</a>, <a href="../../E/Ennemi/">Ennemi</a>, <a href="../../I/Identite/">Identité</a>, <a href="../../M/Modificateurs/">Modificateurs</a>, <a href="../../R/RiposteX/">Riposte X</a>, <a href="../../C/Cible/">Cible</a>, <a href="../../M/MechantDeckMechant/">Méchant</a>, <a href="../../S/Sbire/">Sbire</a>, <a href="../../V/Vilenie/">Vilenie</a></em>  </p>
-<p><strong>EN v1.7</strong>:<br />
-<div class="highlight"><pre><span></span><code>ATTACK (ENEMY ACTIVATION)
+<details class="source">
+<summary>EN v1.7</summary>
+ATTACK (ENEMY ACTIVATION)
 An attack is a type of enemy activation. When an enemy initiates an attack, it targets a specific player, then resolves that attack against that player.
 • Enemy attacks are always initiated against both a player and a character.
 » » Normally the attacked character is the player’s hero, but abilities can instead cause an enemy to attack a player’s alter-ego or an ally that player controls. In all of these cases, the player is still considered attacked.
 » » If a character other than the attacked character defends the attack, that character becomes the new target of that attack.
 » » If a player other than the attacked player defends the attack with a character they control, that player becomes the new target of that attack.
-» » Abilities that trigger &quot;When/After [enemy] attacks you&quot; are resolved when/after a player is attacked, regardless of which character they control was attacked. (For example, Ultron I reads: &quot;Forced Response: After Ultron attacks you, choose to either place 1 threat on the main scheme or put the top card of your deck into play facedown, engaged with you as a drone minion.&quot; This effect resolves against the attacked player regardless of if that player used an ally to defend the attack.) To resolve an enemy attack, follow these steps:
+» » Abilities that trigger "When/After [enemy] attacks you" are resolved when/after a player is attacked, regardless of which character they control was attacked. (For example, Ultron I reads: "Forced Response: After Ultron attacks you, choose to either place 1 threat on the main scheme or put the top card of your deck into play facedown, engaged with you as a drone minion." This effect resolves against the attacked player regardless of if that player used an ally to defend the attack.) To resolve an enemy attack, follow these steps:
 1. If a villain, or a minion with the villainous keyword, is attacking, give it one facedown boost card from the encounter deck. (If a minion without the villainous keyword is attacking, skip this step.)
 2. If a player wishes to defend, that player exhausts a hero or ally as the defender. If a player other than the target player defends, the defending player becomes the target player for this attack.
 3. Resolve each of the attacking enemy’s boost cards, one at a time and in the order in which they were dealt, by doing the following: 
   a. Flip the boost card faceup. 
-  b. Resolve any &quot;Boost&quot; abilities, indicated by the star icon in the boost area. (All other abilities on the boost card are ignored.) 
+  b. Resolve any "Boost" abilities, indicated by the star icon in the boost area. (All other abilities on the boost card are ignored.) 
   c. Increase the attacking enemy’s ATK value by one for each boost icon on the card. 
   d. Discard the boost card. 
   e. If the enemy has any boost cards remaining, repeat these steps with the next boost card.
@@ -8627,17 +8628,19 @@ An attack is a type of enemy activation. When an enemy initiates an attack, it t
 • If no character defends against the attack, the attack is considered undefended. All damage from the attack is dealt to the character targeted by the attack.
 » » The targeted character is considered to have been attacked.
 5. The attack finishes resolving and the following types of abilities trigger in order: a. The retaliate X keyword (if the attacked character is still in play). b. Forced abilities with the following triggers (in any order):
-» » &quot;after [character] attacks [and damages/defeats] [you/an ally]...&quot;
-» » &quot;after [character] is attacked...&quot;
-» » &quot;after [character] defends [and takes no damage]...&quot;
-» » &quot;after [character] [takes/deals] damage...&quot; c. Non-forced abilities with the triggers listed above.
+» » "after [character] attacks [and damages/defeats] [you/an ally]..."
+» » "after [character] is attacked..."
+» » "after [character] defends [and takes no damage]..."
+» » "after [character] [takes/deals] damage..." c. Non-forced abilities with the triggers listed above.
 These rules also apply to enemy attacks:
-• Interrupts that trigger &quot;when [enemy name] attacks&quot; have the same timing as interrupts that trigger &quot;when [the villain/an enemy] initiates an attack.&quot;
+• Interrupts that trigger "when [enemy name] attacks" have the same timing as interrupts that trigger "when [the villain/an enemy] initiates an attack."
 • If an enemy attack ends before damage is dealt, abilities that trigger after a character defends an attack resolve, but abilities that trigger after an enemy attacks do not.
 See also: Activation, Ally, Attacks Against Allies, Boost, Damage, Defend, Enemy, Identity, Minion, Modifiers, Retaliate X, Target, Villain, Villainous
-</code></pre></div></p>
-<p><strong>FR v1.4</strong>:<br />
-<div class="highlight"><pre><span></span><code>ATTAQUE (ACTIVATION DES ENNEMIS)
+</details>
+
+<details class="source">
+<summary>FR v1.4</summary>
+ATTAQUE (ACTIVATION DES ENNEMIS)
 Une attaque est un type d’activation des ennemis. Lorsqu’un ennemi attaque, il cible un joueur spécifique. Ensuite, il résout cette attaque contre ce joueur. Pour résoudre une attaque ennemie, respectez les étapes suivantes :
 1. Si un méchant ou un sbire ayant le mot clé Vilenie attaque, donnez-lui une carte de boost face cachée prise sur le deck Rencontre. (Si un sbire sans le mot clé Vilenie attaque, ignorez cette étape.)
 2. Si un joueur souhaite défendre, il incline un héros ou un allié en tant que défenseur. Si un joueur autre que le joueur ciblé défend, le joueur qui défend devient le nouveau joueur ciblé par cette attaque.
@@ -8650,7 +8653,7 @@ Une attaque est un type d’activation des ennemis. Lorsqu’un ennemi attaque, 
 • Si un allié défend contre l’attaque, tous les dégâts de l’attaque sont infligés à cet allié. (Si l’allié est vaincu par l’attaque, les dégâts en excès ne sont pas infligés à l’identité.)
 • Si aucun personnage ne défend contre l’attaque, l’attaque est considérée comme non défendue. Tous les dégâts de cette attaque sont infligés à l’identité du joueur ciblé (même si cette identité est sous sa forme d’alter ego).
 Voir aussi : Activation, Allié, Boost, Cible, Défendre, Dégâts, Ennemi, Identité, Méchant, Sbire, Vilenie
-</code></pre></div></p>
+</details>
 
 
 

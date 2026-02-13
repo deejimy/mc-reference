@@ -8553,22 +8553,25 @@
 <li><span class="new">Une valeur représentée par un tiret (–) ne peut pas être modifiée.</span>  </li>
 </ul>
 <p><em>Voir aussi : <a href="../../V/ValeurDeBase/">Valeur de base</a>, <a href="../../T/TiretValeur/">Tiret (Valeur)</a>, <a href="../../I/Imprime/">Imprimé</a></em>  </p>
-<p><strong>EN v1.7</strong>:<br />
-<div class="highlight"><pre><span></span><code>MODIFIERS
+<details class="source">
+<summary>EN v1.7</summary>
+MODIFIERS
 The game constantly checks and (if necessary) updates the count of any variable quantity that is being modified.
 Any time a new modifier is applied or removed, the entire quantity is recalculated from the start, considering the unmodified base value and all active modifiers.
-• The &quot;per player&quot; icon () is not considered a modifier and is applied before any modifiers are applied.
+• The "per player" icon () is not considered a modifier and is applied before any modifiers are applied.
 • The calculation of a value treats all modifiers as being applied simultaneously. However, while performing the calculation, all additive and subtractive modifiers are calculated before doubling and/or halving modifiers are calculated.
-• If a value is &quot;set&quot; to a specific number, the set modifier overrides all non-set modifiers. If multiple set modifiers are in conflict, the most recently resolved set modifier takes precedence.
-• After all active modifiers have been taken into account, if a value is below zero, it is treated as zero: a card cannot have &quot;negative&quot; icons, attributes, traits, cost, or keywords.
+• If a value is "set" to a specific number, the set modifier overrides all non-set modifiers. If multiple set modifiers are in conflict, the most recently resolved set modifier takes precedence.
+• After all active modifiers have been taken into account, if a value is below zero, it is treated as zero: a card cannot have "negative" icons, attributes, traits, cost, or keywords.
 • Fractional values are rounded up after all modifiers have been applied.
-• If a card ability causes a character to &quot;get&quot; a statistic (such as +1 ATK or 4 hit points), the ability modifies the character’s statistic while it is active.
+• If a card ability causes a character to "get" a statistic (such as +1 ATK or 4 hit points), the ability modifies the character’s statistic while it is active.
 » » If such an ability expires or otherwise becomes inactive, the modified statistic reverts to the value it would have without the modifier.
 • A value of a dash (–) cannot be modified.
 See also: Base Value, Dash (Value), Printed
-</code></pre></div></p>
-<p><strong>FR v1.4</strong>:<br />
-<div class="highlight"><pre><span></span><code>MODIFICATEURS
+</details>
+
+<details class="source">
+<summary>FR v1.4</summary>
+MODIFICATEURS
 Le jeu vérifie constamment et actualise (si nécessaire) le compte de toutes les variables qui sont modifiées.
 Chaque fois qu’un nouveau modificateur est appliqué ou retiré, la valeur concernée est recalculée entièrement depuis le début en prenant en compte la valeur de base non modifiée et tous les modificateurs actifs.
 • Le calcul d’une valeur considère tous les modificateurs comme étant appliqués simultanément. Cependant, lors du calcul, tous les modificateurs additifs ou soustractifs sont calculés avant les modificateurs multiplicatifs ou divisifs.
@@ -8576,7 +8579,7 @@ Chaque fois qu’un nouveau modificateur est appliqué ou retiré, la valeur con
 • Après que tous les modificateurs actifs ont été pris en compte, si une valeur est inférieure à zéro, elle est considérée comme étant égale à zéro. Une carte ne peut pas avoir de valeur « négative » d’icônes, d’attributs, de traits, de coût ou de mot-clé.
 • Toutes les fractions sont arrondies au nombre supérieur après application de tous les modificateurs.
 Voir aussi : Valeur de base, Imprimé
-</code></pre></div></p>
+</details>
 
 
 
