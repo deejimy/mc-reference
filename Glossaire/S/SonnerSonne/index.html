@@ -3187,7 +3187,7 @@
   <span class="md-ellipsis">
     
   
-    "Etre censé"
+    "Est censé"
   
 
     
@@ -6556,34 +6556,6 @@
   
   
     <li class="md-nav__item">
-      <a href="../../R/RegarderRegardee/" class="md-nav__link">
-        
-  
-  
-  <span class="md-ellipsis">
-    
-  
-    RegarderRegardee
-  
-
-    
-  </span>
-  
-  
-
-      </a>
-    </li>
-  
-
-              
-            
-              
-                
-  
-  
-  
-  
-    <li class="md-nav__item">
       <a href="../../R/Renfort/" class="md-nav__link">
         
   
@@ -7145,34 +7117,6 @@
   
   
     <li class="md-nav__item">
-      <a href="../Serait/" class="md-nav__link">
-        
-  
-  
-  <span class="md-ellipsis">
-    
-  
-    Serait
-  
-
-    
-  </span>
-  
-  
-
-      </a>
-    </li>
-  
-
-              
-            
-              
-                
-  
-  
-  
-  
-    <li class="md-nav__item">
       <a href="../SetDeRencontreModulaire/" class="md-nav__link">
         
   
@@ -7320,7 +7264,7 @@
   <span class="md-ellipsis">
     
   
-    Sinon
+    "Sinon"
   
 
     
@@ -8594,16 +8538,23 @@
 
 
 <h1 id="sonner-sonne">Sonner, sonné<a class="headerlink" href="#sonner-sonne" title="Permanent link">&para;</a></h1>
-<p>Sonné est un état qui annule la prochaine attaque d'un personnage.</p>
+<p>Sonné est un état qui empêche un personnage d’infliger des dégâts avec sa prochaine attaque.  </p>
 <ul>
-<li>
-<p>Si une identité ou un allié sonné tente d'attaquer, défaussez la carte sonné à la place (les coûts comme l'inclinaison sont payés).</p>
-</li>
-<li>
-<p>Si un méchant ou un sbire sonné devait attaquer, défaussez la carte sonné à la place. L'attaque n'est pas considérée comme ayant eu lieu.</p>
-</li>
+<li>Si une capacité « sonne » un personnage, donnez‑lui une carte d’état Sonné.  </li>
+<li><span class="new">Un personnage est sonné s’il possède une carte d’état Sonné.  </span><ul>
+<li><span class="new">Un personnage avec le mot‑clé Solide n’est sonné que s’il possède deux cartes d’état Sonné.  </span></li>
 </ul>
-<p><strong>Voir aussi</strong> : Allié, Annuler, Identité, Sbire, Cartes d'état, Cible, Méchant</p>
+</li>
+<li>Si un personnage a une capacité spécifiant qu’il « ne peut pas être sonné », aucune carte d’état Sonné ne peut être placée sur ce personnage.  </li>
+<li><span class="new">Si une identité ou un allié sonné tente d’attaquer ou d’utiliser une capacité d’attaque, défaussez la carte Sonné à la place.  </span>
+  <span class="new">Les coûts associés à la tentative d’attaque, y compris l’inclinaison du personnage, doivent tout de même être payés.  </span><ul>
+<li><span class="new">Un personnage sonné peut tenter d’attaquer ou d’utiliser une capacité d’attaque même s’il n’a pas de cible valide pour une attaque.  </span></li>
+</ul>
+</li>
+<li><span class="new">Si un méchant ou un sbire sonné devait attaquer, défaussez la carte d’état Sonné à la place.  </span></li>
+<li><span class="new">Comme l’action d’attaque ou l’activation d’attaque a été remplacée par le retrait de la carte d’état Sonné, ce personnage n’est pas considéré comme ayant attaqué.  </span></li>
+</ul>
+<p><em>Voir aussi : <a href="../../A/Allie/">Allié</a>, <a href="../../A/Annuler/">Annuler</a>, <a href="../../I/Identite/">Identité</a>, <a href="../Sbire/">Sbire</a>, <a href="../../C/CartesDetat/">Cartes d'état</a>, <a href="../../C/Cible/">Cible</a>, <a href="../../M/MechantDeckMechant/">Méchant</a></em>  </p>
 <p><strong>EN v1.7</strong>:<br />
 <div class="highlight"><pre><span></span><code>STUN, STUNNED
 Stun is a status that cancels a character’s next attack.
