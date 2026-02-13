@@ -1,9 +1,8 @@
 # Temporaire
 
-
 Une carte avec le mot-clé `temporaire` doit être défaussée du jeu à la fin du round.
 
-**Voir aussi** : Mots-clés
+_Voir aussi : [[MotsCles|Mots-clés]]
 
 
 **EN v1.7**:  

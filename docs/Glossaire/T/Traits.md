@@ -1,14 +1,11 @@
-# Traits
+# Traits  
 
+De nombreuses cartes possèdent un ou plusieurs traits indiqués au sommet de leur boîte de texte et imprimés en gras et en italique.  
 
-De nombreuses cartes possèdent un ou plusieurs traits listés en haut de la boîte de texte et imprimés en gras et italique.
+- Les traits n’ont aucun effet direct sur le jeu. En revanche, certaines capacités de carte se réfèrent à des cartes qui possèdent (ou non) un trait spécifique.  
+- Les traits ne sont pas considérés comme faisant partie de la boîte de texte imprimée pour ce qui concerne les capacités de carte.  
 
-  - Les traits n'ont aucun effet inhérent sur le jeu. Cependant, certaines capacités font référence aux cartes possédant ou non certains traits.
-
-  - Les traits ne sont pas considérés comme faisant partie de la boîte de texte imprimée pour les effets des capacités.
-
-**Voir aussi** : Imprimé, Appendice III : Anatomie d'une carte
-
+_Voir aussi : [[Imprime|Imprimé]], Appendice III : Description des Cartes_  
 
 **EN v1.7**:  
 ```

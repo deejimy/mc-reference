@@ -1,19 +1,15 @@
-# Tenace
+# Tenace  
 
+Tenace est un statut qui empêche un personnage de subir des dégâts.  
 
-Tenace est un état qui empêche un personnage de subir des dégâts.
+- <span class="new">Si un personnage possédant une carte d’état Tenace devait subir n’importe quelle quantité de dégâts, prévenez tous ces dégâts et défaussez à la place une carte d’état Tenace de ce personnage.  </span>
+    - <span class="new">Un personnage possédant plusieurs cartes d’état Tenace ne défausse qu’une seule carte d’état Tenace chaque fois qu’il devrait subir des dégâts.  </span>
+    - <span class="new">Lorsqu’un héros possédant une carte d’état Tenace défend une attaque, il réduit d’abord les dégâts de l’attaque de sa valeur DEF. Si les dégâts sont réduits à 0, le héros ne perd pas sa carte d’état Tenace.  </span>
+- <span class="new">Si un allié ou un sbire possédant une carte d’état Tenace subit des dégâts en excès à cause d’une attaque portant le mot‑clé Déferlement, ces dégâts en excès ne sont pas infligés respectivement à l’identité du contrôleur de cet allié ou au méchant.  </span>
+- <span class="new">Comme une carte d’état Tenace prévient intégralement les dégâts, le personnage qui possédait la carte d’état Tenace n’est pas considéré comme ayant subi des dégâts.  </span>
 
-  - Si un personnage avec une carte d'état tenace devait subir n'importe quelle quantité de dégâts, prévenez tous ces dégâts et défaussez une carte tenace à la place.
+_Voir aussi : [[Degats|Dégâts]], [[Deferlement|Déferlement]], [[CartesDetat|Cartes d'état]], [[Tenacite|Ténacité]]_  
 
-    - Un personnage avec plusieurs cartes tenaces n'en défausse qu'une seule à chaque fois qu'il devrait subir des dégâts.
-
-    - Lorsqu'un héros avec une carte tenace défend une attaque, il réduit d'abord les dégâts de l'attaque par sa DEF. Si les dégâts tombent à 0, le héros ne perd pas sa carte tenace.
-
-  - Lorsqu'un allié ou un sbire avec une carte tenace reçoit des dégâts excédentaires d'une attaque avec le mot-clé `déferlement`, les dégâts de déferlement ne sont pas infligés à l'identité du contrôleur de cet allié ou au méchant, respectivement.
-
-  - Comme la carte tenace prévient entièrement les dégâts, le personnage n'est pas considéré comme ayant subi des dégâts.
-
-**Voir aussi** : Dégâts, Déferlement, Cartes d'état, Ténacité
 
 
 **EN v1.7**:  

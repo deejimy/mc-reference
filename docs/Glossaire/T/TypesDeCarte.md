@@ -1,22 +1,15 @@
-# Types de carte
+# Types de carte  
 
+Le type d’une carte indique les diverses règles et fonctions de jeu qui lui sont associées.  
 
-Le type de carte d'une carte désigne diverses règles et fonctions de jeu associées à cette carte.
+- Les cartes Allié, Événement, Identité, Manigance annexe de joueur, Ressource, Soutien et Amélioration sont des types de cartes Joueur.  
+- Les cartes Attachement, Environnement, Manigance principale, Sbire, Obligation, Manigance annexe, Traîtrise et Méchant sont des types de cartes Rencontre.  
+- Si une capacité modifie le type d’une carte, elle perd tous ses autres types de carte et fonctionne comme n’importe quelle carte de son nouveau type.  
+    - <span class="new">Toutes les cartes attachées à une carte qui change de type restent attachées, mais seules les capacités qui se réfèrent au nouveau type de carte restent actives. (Par exemple, si le type d’un allié est changé en sbire, une amélioration attachée qui dit « l’allié attaché gagne +1 ATK » ne fournirait plus ce bonus à l’allié devenu sbire, mais un attachement qui dit « le personnage attaché ne peut pas attaquer » s’appliquerait toujours car les sbires sont aussi des personnages.)  </span>
+    - <span class="new">Un allié qui a été changé en sbire engage son contrôleur et ne subit pas de dégâts consécutifs après avoir attaqué ou manigancé.  </span>
+    - <span class="new">Lorsqu’un joueur transforme un sbire en allié, ce joueur prend le contrôle de cet allié.  </span>
 
-  - Les cartes allié, évènement, identité, manigance annexe de joueur, ressource, soutien et amélioration sont des types de cartes de joueur.
-
-  - Les cartes attachement, environnement, manigance principale, sbire, obligation, manigance annexe, traîtrise et méchant sont des types de cartes de rencontre.
-
-  - Si une capacité amène une carte à changer de type de carte, elle perd tous les autres types de cartes qu'elle pouvait posséder et fonctionne comme n'importe quelle carte du nouveau type de carte.
-
-    - Toutes les cartes attachées à une carte qui change de type restent attachées, mais seules les capacités qui se réfèrent au nouveau type de carte restent actives. (Par exemple, si le type de carte d'un allié est changé en sbire, une amélioration attachée qui dit "l'allié attaché gagne +1 ATK" ne fournirait plus ce bonus d'ATK à l'allié devenu sbire, mais un attachement qui dit "le personnage attaché ne peut pas attaquer" s'appliquerait toujours car les sbires sont aussi des personnages.)
-
-    - Un allié qui a été changé en sbire engage son contrôleur et ne subit pas de dégâts consécutifs après avoir attaqué ou manigancé.
-
-    - Lorsqu'un joueur change un sbire en allié, ce joueur prend le contrôle de cet allié.
-
-**Voir aussi** : Allié, Attachement, Carte de rencontre, Environnement, Évènement, Identité, Manigance principale, Sbire, Obligation, Carte de joueur, Manigance annexe de joueur, Carte ressource, Manigance annexe, Soutien, Traîtrise, Amélioration, Méchant, Appendice III : Anatomie d'une carte
-
+_Voir aussi : [[Allie|Allié]], [[Attachement|Attachement]], [[CartesRencontre|Carte Rencontre]], [[Environnement|Environnement]], [[Evenement|Événement]], [[Identite|Identité]], [[ManigancePrincipaleDeckManigancePrincipale|Manigance principale]], [[Sbire|Sbire]], [[Obligation|Obligation]], [[CartesJoueur|Carte Joueur]], [[ManiganceAnnexeDeJoueur|Manigance annexe de joueur]], [[RessourceCarte|Carte Ressource]], [[ManiganceAnnexe|Manigance annexe]], [[Soutien|Soutien]], [[Traitrise|Traîtrise]], [[Amelioration|Amélioration]], [[MechantDeckMechant|Méchant]], Appendice III : Description des Cartes_  
 
 **EN v1.7**:  
 ```
