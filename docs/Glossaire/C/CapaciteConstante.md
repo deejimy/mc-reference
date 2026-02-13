@@ -3,8 +3,8 @@
 _Voir : [[Capacite|Capacité]]_
 
 
-**EN v1.7**:  
-```
+<details class="source">
+<summary>EN v1.7</summary>
 CONSTANT ABILITY
 See: Ability
-```
+</details>

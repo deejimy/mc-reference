@@ -19,8 +19,8 @@ Une icône est un élément de jeu qui symbolise diverses fonctions du jeu.
 
 
 
-**EN v1.7**:  
-```
+<details class="source">
+<summary>EN v1.7</summary>
 ICONS
 Icons are graphical elements that represent various functions within the game.
 • Energy Icon (): An energy icon is a resource icon that generates one energy resource when spent.
@@ -42,11 +42,11 @@ Consequential Damage)
 • Cost Arrow (→): A cost arrow separates an ability’s cost from its effects. (See: Cost Arrow Icon)
 • Per Player Icon (): A per player icon next to a value multiplies that value by the number of players who started the scenario. (See: Per Player Icon)
 • Unique Icon (): A unique icon in a card’s title indicates the card is unique. (See: Unique Icon)
-```
+</details>
 
 
-**FR v1.4**:  
-```
+<details class="source">
+<summary>FR v1.4</summary>
 ICÔNE
 Une icône est un élément de jeu qui symbolise diverses fonctions du jeu.
 • Icône Energie () : une icône Energie est une icône de ressource qui génère 1 ressource Energie lorsqu’elle est dépensée. (Voir : Ressource Energie)
@@ -64,4 +64,4 @@ Icône d’Amplification)
 • Icône de Dégâts Consécutifs () : Une icône de dégâts consécutifs est utilisée conjointement aux champs ATQ ou CTR d’un allié. Après qu’un allié a attaqué ou contré, il subit 1 dégât consécutif pour chaque icône de dégât consécutif dans ce champ. (Voir : Dégâts Consécutifs)
 • Icône Par Joueur () : Une icône Par Joueur à côté d’une valeur multiplie cette valeur par le nombre de joueurs qui ont commencé le scénario. (Voir : icône Par Joueur)
 • Icône Unique () : Une icône Unique dans le titre d’une carte indique que cette carte est unique. (Voir : Icône Unique)
-```
+</details>

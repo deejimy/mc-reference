@@ -15,8 +15,8 @@ Certaines capacités permettent de "déplacer" des éléments de jeu (comme des 
 
 _Voir aussi : [[Degats|Dégâts]], [[SeuilDeMenace|Menace]]_  
 
-**EN v1.7**:  
-```
+<details class="source">
+<summary>EN v1.7</summary>
 MOVE
 Some abilities allow players to move game elements, such as cards, damage, or threat.
 • When an element moves, it cannot move to its same (current) placement.
@@ -29,11 +29,11 @@ Some abilities allow players to move game elements, such as cards, damage, or th
 • If threat is moved off a scheme, the moved threat is considered to be removed from that scheme.
 • If threat is moved to a scheme, the moved threat is considered to be placed on that scheme.
 See also: Game Element
-```
+</details>
 
 
-**FR v1.4**:  
-```
+<details class="source">
+<summary>FR v1.4</summary>
 DEPLACER
 Certaines capacités permettent aux joueurs de déplacer des éléments de jeu comme des cartes, des dégâts ou des menaces.
 • Quand un élément se déplace, il ne peut pas se déplacer vers l’emplacement où il se trouve déjà (son emplacement actuel).
@@ -43,4 +43,4 @@ Certaines capacités permettent aux joueurs de déplacer des éléments de jeu c
 • Si des dégâts sont déplacés d’une carte vers un compteur, retirez les dégâts de la carte et diminuez le nombre de points de vie sur le compteur d’un montant équivalent.
 • Si des dégâts sont déplacés vers un personnage, on considère que les dégâts déplacés sont infligés à ce personnage.
 • Si des menaces sont déplacées vers une manigance, on considère que les menaces déplacées sont placées sur cette manigance.
-```
+</details>

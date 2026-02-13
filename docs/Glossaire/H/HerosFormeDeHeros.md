@@ -3,15 +3,15 @@
 _Voir : [[FormeChangerDeForme|Forme]], [[Identite|Identité]]_
 
 
-**EN v1.7**:  
-```
+<details class="source">
+<summary>EN v1.7</summary>
 HERO, HERO FORM
 See: Form, Identity
-```
+</details>
 
 
-**FR v1.4**:  
-```
+<details class="source">
+<summary>FR v1.4</summary>
 HEROS, FORME DE HEROS
 Voir : Identité, Forme
-```
+</details>

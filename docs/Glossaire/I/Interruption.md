@@ -13,8 +13,8 @@ Une capacité d’interruption est un type de capacité déclenchée signalé pa
 
 _Voir aussi : [[Annuler|Annuler]], [[EffetsDeRemplacement|Effets de Remplacement]], [[CapaciteDeclenchee|Capacité Déclenchée]], [[EtreCense|"Est censé"]]_  
 
-**EN v1.7**:  
-```
+<details class="source">
+<summary>EN v1.7</summary>
 INTERRUPT
 An interrupt ability is a type of triggered ability, indicated by the bold "Interrupt" timing trigger. Interrupt abilities may be executed anytime the specified triggering condition occurs, as described in the interrupt’s ability text. The interrupt ability interrupts the resolution of the specified triggering condition, and resolves immediately before that triggering condition resolves.
 • Players can only trigger interrupt abilities on cards they control or on encounter cards.
@@ -26,11 +26,11 @@ An interrupt ability is a type of triggered ability, indicated by the bold "Inte
 • If an interrupt changes (via a replacement effect) or cancels an imminent triggering condition, further interrupts to the original triggering condition cannot be triggered.
 • Once all players decide they do not wish to resolve any (further) interrupts to a triggering condition, (further) interrupts to that instance of that triggering condition cannot be used.
 See also: Cancel, Replacement Effect, Triggered Ability, "Would"
-```
+</details>
 
 
-**FR v1.4**:  
-```
+<details class="source">
+<summary>FR v1.4</summary>
 INTERRUPTION
 Une capacité d’interruption est un type de capacité déclenchée signalé par l’indicatif de déclenchement « Interruption
 » en gras. Les capacités d’interruption peuvent être exécutées chaque fois que les conditions de déclenchement spécifiées se produisent telles que décrites dans le texte de la capacité d’interruption. La capacité d’interruption interrompt la condition de déclenchement spécifiée et se résout immédiatement avant que cette condition de déclenchement ne se résolve.
@@ -39,4 +39,4 @@ Une capacité d’interruption est un type de capacité déclenchée signalé pa
 • Une fois que tous les joueurs ont consécutivement passé leur opportunité d’interrompre une condition de déclenchement imminente, aucune autre interruption pour cette condition de déclenchement spécifique ne peut être utilisée.
 • Si une interruption change (via un effet de remplacement) ou annule une condition de déclenchement imminente, d’autres interruptions à la condition de déclenchement originelle ne peuvent pas être déclenchées.
 Voir aussi : Annuler, Capacité Déclenchée, Effets de Remplacement
-```
+</details>

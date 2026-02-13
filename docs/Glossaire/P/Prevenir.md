@@ -14,8 +14,8 @@ Certaines capacités de cartes peuvent prévenir des dégâts ou des menaces.
 _Voir aussi : [[Capacite|Capacité]], [[Cout|Coût]], [[Degats|Dégâts]], [[ManiganceTypeDeCarte|Manigance (Type de Carte)]], [[Cible|Cible]], [[Menace|Menace]]_  
 
 
-**EN v1.7**:  
-```
+<details class="source">
+<summary>EN v1.7</summary>
 PREVENT
 Some card abilities prevent damage or threat.
 • When damage is prevented, reduce the amount of damage the target takes (i.e. the amount of damage that is placed on the target).
@@ -26,14 +26,14 @@ Some card abilities prevent damage or threat.
 » » If taking damage is a cost, that cost is not considered paid unless all of that damage was taken. (If any of the damage is prevented, then the cost has not been paid.)
 • When threat is prevented, reduce the amount of threat being assigned before it is placed on the scheme.
 See also: Ability, Cost, Damage, Scheme (Card Type), Target, Threat
-```
+</details>
 
 
-**FR v1.4**:  
-```
+<details class="source">
+<summary>FR v1.4</summary>
 PREVENIR
 Certaines capacités de cartes peuvent prévenir des dégâts ou des menaces.
 • Quand des dégâts sont prévenus, diminuez la quantité de dégâts infligés avant qu’ils ne soient appliqués à la cible.
 • Quand des menaces sont prévenues, diminuez la quantité de menaces assignées avant qu’elles ne soient placées sur la manigance.
 Voir aussi : Capacité, Cible, Dégâts, Manigance (Type de Carte), Menace
-```
+</details>

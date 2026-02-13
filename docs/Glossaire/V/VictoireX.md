@@ -9,8 +9,8 @@ Tant qu’elle est dans la pile de victoire, X indique le nombre de points de vi
 
 _Voir aussi : [[MotsCles|Mots-clés]], [[PileDeDefausse|Pile de défausse]], [[PileDeVictoire|Pile de victoire]], [[TexteDeRappel|Texte de Rappel]], [[VaincreDejouer|Vaincre / Déjouer]]_  
 
-**EN v1.7**:  
-```
+<details class="source">
+<summary>EN v1.7</summary>
 VICTORY X
 When a card with the victory X keyword leaves play under the following conditions, place it in the victory display instead of its owner’s discard pile:
 • A character or side scheme with the victory X keyword is placed in the victory display when it is defeated.
@@ -19,14 +19,14 @@ When a card with the victory X keyword leaves play under the following condition
 While in the victory display, X indicates how many victory points that card is worth. (X is the value next to the victory keyword.)
 • Some scenarios or campaigns may count the number of victory points in the victory display.
 See also: Defeat, Discard Pile, Keywords, Reminder Text, Uses (X "Type"), Victory Display
-```
+</details>
 
 
-**FR v1.4**:  
-```
+<details class="source">
+<summary>FR v1.4</summary>
 VICTOIRE X
 Quand une carte ayant le mot-clé victoire X est déjouée ou vaincue, placez-la dans la pile de victoire au lieu de la pile de défausse de son propriétaire. Tant qu’elle est dans la pile de victoire, X indique le nombre de points de victoire que rapporte cette carte.
 (X est la valeur indiquée à côté du mot-clé Victoire.)
 • Certains scénarios et certaines campagnes peuvent comptabiliser le nombre de points de victoire dans la pile de victoire.
 Voir aussi : Mots-clés, Pile de Défausse, Pile de Victoire, Texte de Rappel, Vaincre / Déjouer
-```
+</details>

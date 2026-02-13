@@ -19,8 +19,8 @@ Certains personnages peuvent avoir un nombre infini de points de vie. Un personn
 _Voir aussi : [[Allie|Allié]], [[Degats|Dégâts]], [[DegatsSubis|Dégâts Subis]], [[EliminationDeJoueur|Elimination de Joueur]], [[Gagner|Gagner / Perdre (une statistique)]], [[Identite|Identité]], [[MechantDeckMechant|Méchant]], [[PointsDeVieMaximums|Points de Vie Maximums]], [[PointsDeVieRestants|Points de Vie Restants]], [[Sbire|Sbire]], [[Soigner|Soigner]], [[VaincreDejouer|Vaincre / Déjouer]], [[VaincreLeMechant|Vaincre le Méchant]]_  
 
 
-**EN v1.7**:  
-```
+<details class="source">
+<summary>EN v1.7</summary>
 HIT POINTS
 Each character (identity, ally, minion, and villain) has a hit point value. Hit points represent the durability of that character.
 When damage is dealt to a character, it reduces the character’s remaining hit points (the amount of damage that character can take before reaching zero hit points).
@@ -36,11 +36,11 @@ Some characters may have an infinite number of hit points.
 A character with infinite hit points cannot be defeated by taking damage, as the amount of damage that character takes will never cause its remaining hit points to reach zero.
 However, damage may still be dealt to a character with infinite hit points through attacks and card abilities.
 See also: Ally, Damage, Defeat, Heal, Identity, Maximum Hit Points, Minion, Modifiers, Player Elimination, Remaining Hit Points, Sustained Damage, Villain, Villain Defeat
-```
+</details>
 
 
-**FR v1.4**:  
-```
+<details class="source">
+<summary>FR v1.4</summary>
 POINTS DE VIE
 Chaque personnage (identité, allié, sbire et méchant) possède une valeur de points de vie. Les points de vie représentent la durabilité de ce personnage.
 Quand des dégâts sont infligés à un personnage, ils réduisent les points de vie restants de ce personnage (la quantité de dégâts que ce personnage peut subir avant d’atteindre zéro point de vie).
@@ -50,4 +50,4 @@ Quand des dégâts sont infligés à un personnage, ils réduisent les points de
 • Si un sbire ou un allié est blessé, indiquez les dégâts en plaçant des pions Dégât sur ce personnage. Les pions Dégât sur un allié ou un sbire diminuent les points de vie restants de ce personnage d’une valeur égale au total de pions. Un allié ou un sbire ayant zéro point de vie ou moins est vaincu et placé dans la pile de défausse appropriée.
 Certains personnages peuvent avoir un nombre infini de points de vie. Un personnage avec un nombre infini de points de vie ne peut pas être vaincu en subissant des dégâts, car la quantité de dégâts que subit ce personnage n’amènera jamais son nombre de points de vie restants à zéro. Cependant, des dégâts peuvent tout de même être infligés à un personnage avec un nombre infini de points de vie par des attaques et des capacités de carte.
 Voir aussi : Allié, Dégâts, Dégâts Subis, Elimination de Joueur, Gagner / Perdre (une statistique), Identité, Méchant, Points de Vie Maximums, Points de Vie Restants, Sbire, Soigner, Vaincre / Déjouer, Vaincre le Méchant
-```
+</details>

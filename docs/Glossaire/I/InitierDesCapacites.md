@@ -20,8 +20,8 @@ Si ces deux conditions sont remplies, accomplissez les étapes suivantes, dans l
 
 _Voir aussi : [[Capacite|Capacité]], [[Cout|Coût]], [[RestrictionsEtPermissionsDeJeu|Restrictions et Permissions de Jeu]]_  
 
-**EN v1.7**:  
-```
+<details class="source">
+<summary>EN v1.7</summary>
 INITIATING ABILITIES
 When a player wishes to play a card or initiate a triggered ability, that player first declares their intent. Then, the player checks the following conditions in order:
 1. Check play restrictions: can the card be played, or the ability initiated, at this time?
@@ -38,11 +38,11 @@ If both conditions are met, follow these steps in order:
 • If any of the above steps would make the triggering condition of a response ability true, that ability may be initiated immediately after that triggering condition becomes true.
 • If the ability being initiated is on a card that is in play, the sequence does not stop from completing if that card leaves play during this sequence unless the card leaving play prevents a required cost from being paid.
 See also: Ability, Cost, Play Restrictions and Permissions, Target
-```
+</details>
 
 
-**FR v1.4**:  
-```
+<details class="source">
+<summary>FR v1.4</summary>
 INITIER DES CAPACITES, JOUER DES CARTES
 Quand un joueur souhaite jouer une carte ou initier une capacité déclenchée, ce joueur doit d’abord déclarer son intention.
 Ensuite, il vérifie les conditions suivantes dans l’ordre :
@@ -58,4 +58,4 @@ Si ces deux conditions sont remplies, accomplissez les étapes suivantes, dans l
 • Si n’importe laquelle des étapes ci-dessus est censée remplir la condition de déclenchement d’une capacité de réponse, cette capacité peut être initiée immédiatement après que la condition de déclenchement a été remplie.
 • Si la capacité initiée se trouve sur une carte en jeu, la séquence ne s’interrompt pas si la carte quitte le jeu pendant la séquence, à moins que le fait que la carte quitte le jeu n’empêche un coût requis d’être payé.
 Voir aussi : Capacité, Coût, Restrictions et Permissions de Jeu
-```
+</details>

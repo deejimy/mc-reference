@@ -13,8 +13,8 @@ _Voir aussi : [[Activation|Activation]], [[Allie|Allié]], [[Attachement|Attache
 
 
 
-**EN v1.7**:  
-```
+<details class="source">
+<summary>EN v1.7</summary>
 STAR ICON
 A star icon is used in conjunction with a card’s stat or boost field to indicate that there is a mandatory ability in the text box that corresponds to that field. In and of itself, the star icon has no effect; it is merely a reminder to check the card’s text box whenever that field is used.
 • If a star icon is located next to an enemy’s ATK or SCH value, the icon serves as a reminder to check that enemy’s text box whenever that enemy uses that value to attack or scheme.
@@ -24,13 +24,13 @@ A star icon is used in conjunction with a card’s stat or boost field to indica
 • If a game step or ability references a power with the value of star (), that value is treated as 0.
 • If a star icon is located in an encounter card’s boost field, the icon serves as a reminder to check that card’s text box whenever that card is turned face up as a boost card during the villain’s activation.
 See also: Activation, Ally, Attachment, Basic Power, Boost, Identity, Minion, Non-Numerical Variable, Villain
-```
+</details>
 
 
 
 
-**FR v1.4**:  
-```
+<details class="source">
+<summary>FR v1.4</summary>
 ICÔNE D’ETOILE
 Une icône d’étoile est utilisée en association avec une statistique ou le champ de boost d’une carte pour indiquer qu’il existe une capacité obligatoire décrite dans la boîte de texte. En elle-même, l’icône d’étoile n’a pas d’effet : elle vous indique juste qu’il faut vérifier la boîte de texte de cette carte à chaque fois que cette statistique ou champ de boost est utilisé.
 • Si une icône d’étoile est située à côté de la valeur d’ATQ ou de MNG d’un ennemi, souvenez-vous de vérifier la boîte de texte de cet ennemi chaque fois qu’il utilise cette valeur pour attaquer ou manigancer.
@@ -41,4 +41,4 @@ Une icône d’étoile est utilisée en association avec une statistique ou le c
 • Si une icône d’étoile est située dans le champ de boost d’une carte Rencontre, souvenez-vous de vérifier la boîte de texte de cette carte chaque fois qu’elle est retournée face visible en tant que carte de boost lors de l’activation du méchant.
 Tant qu’il y a au moins une icône de crise en jeu, la menace ne peut être retirée de la manigance principale par aucun joueur.
 Voir aussi : Manigance Principale, Menace
-```
+</details>

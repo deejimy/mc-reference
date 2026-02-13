@@ -8,8 +8,8 @@
 
 _Voir aussi : [[Allie|Allié]], [[DegatsConsecutifs|Dégâts Consécutifs]], [[Incline|Incliné]], [[ManiganceAnnexe|Manigance Annexe]], [[ManigancePrincipaleDeckManigancePrincipale|Manigance Principale]], [[Menace|Menace]], [[PouvoirDeBase|Pouvoir de Base]]_  
 
-**EN v1.7**:  
-```
+<details class="source">
+<summary>EN v1.7</summary>
 THWART
 Some game effects and card abilities reference a thwart attempt. There are a few different ways this can occur:
 • A hero or ally can use their basic thwart power to thwart a scheme. A character must exhaust to use this power. This removes threat equal to the character’s THW value from the scheme.
@@ -18,11 +18,11 @@ Some game effects and card abilities reference a thwart attempt. There are a few
 » » An ability labeled as a thwart is considered a single thwart, even if that thwart removes multiple instances of threat.
 » » If an ability increases the amount of threat an ability labeled as a thwart removes and that ability removes multiple instances of threat, each of those instances that does not use the word "additional" is increased by the specified amount.
 See also: Ally, Basic Power, Consequential Damage, Exhausted, Labeled Ability, Main Scheme, Modifiers, Side Scheme, Threat
-```
+</details>
 
 
-**FR v1.4**:  
-```
+<details class="source">
+<summary>FR v1.4</summary>
 CONTRE, CONTRER
 Certains effets de jeu et capacités de carte font référence à
 des tentatives de contre. Il y a différentes façons de contrer :
@@ -42,4 +42,4 @@ indiqué, un héros ne s’incline pas lorsqu’il
 utilise une telle capacité.
 Voir aussi : Allié, Dégâts Consécutifs, Incliné, Manigance
 Annexe, Manigance Principale, Menace, Pouvoir de Base
-```
+</details>

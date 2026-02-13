@@ -15,8 +15,8 @@ Certaines capacités de carte peuvent infliger des « dégâts indirects ».
 
 _Voir aussi : [[Allie|Allié]], [[AttaqueActivationDesEnnemis|Attaque (Activation des Ennemis)]], [[Degats|Dégâts]], [[VaincreDejouer|Vaincre/Déjouer]], [[Joueur|Joueur]]_  
 
-**EN v1.7**:  
-```
+<details class="source">
+<summary>EN v1.7</summary>
 INDIRECT DAMAGE
 Some card abilities may deal "indirect damage."
 • Indirect damage dealt to a player can be divided as that player chooses among characters under their control.
@@ -30,11 +30,11 @@ Some card abilities may deal "indirect damage."
 » » Only the defending character, or the attacked player’s identity if the attack was undefended, is considered to have been attacked, even if other characters were assigned some or all of the indirect damage.
 • For example, if you take 5 indirect damage, but you control an ally with 4 hit points remaining, you may assign 4 of that indirect damage to the ally, then assign the remaining 1 indirect damage to your identity.
 See also: Ally, Attack (Enemy Activation), Damage, Defeat, Player
-```
+</details>
 
 
-**FR v1.4**:  
-```
+<details class="source">
+<summary>FR v1.4</summary>
 DEGÂTS INDIRECTS
 Certaines capacités de carte peuvent infliger des « dégâts indirects ».
 • Les dégâts indirects infligés à un joueur doivent être répartis comme il le souhaite parmi les personnages qu’il contrôle.
@@ -43,4 +43,4 @@ Certaines capacités de carte peuvent infliger des « dégâts indirects ».
 • Si l’attaque d’un ennemi inflige des dégâts indirects, ces dégâts sont infligés pendant l’étape 4 de l’activation de l’ennemi (après que les joueurs ont eu l’opportunité de défendre contre cette attaque).
 Par exemple, si vous subissez 5 dégâts indirects, mais que vous contrôlez un allié à qui il reste 4 points de vie, vous pouvez assigner 4 de ces dégâts indirects à votre allié et assigner le dégât restant à votre identité.
 Voir aussi : Allié, Attaque (Activation des Ennemis), Dégâts, Joueur, Vaincre / Déjouer
-```
+</details>

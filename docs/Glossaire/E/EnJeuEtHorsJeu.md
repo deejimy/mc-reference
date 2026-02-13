@@ -19,8 +19,8 @@ On considère qu’une carte est soit en jeu soit hors jeu, en fonction de son �
 
 _Voir aussi : [[Capacite|Capacité]], [[EntrerEnJeu|Entrer en Jeu]], [[QuitterLeJeu|Quitter le Jeu]], [[JouerMettreEnJeu|Jouer]], [[MettreDeCoteMisDeCote|Mettre de Côté]], [[PileDeVictoire|Pile de Victoire]], [[RestrictionsEtPermissionsDeJeu|Restrictions et Permissions de Jeu]]_  
 
-**EN v1.7**:  
-```
+<details class="source">
+<summary>EN v1.7</summary>
 IN PLAY AND OUT OF PLAY
 A card is considered to either be in play or out of play depending on its state within the game.
 If a card is in play, its text is active and it can affect the game.
@@ -39,13 +39,13 @@ If a card is out of play, its text is inactive and cannot affect the game.
 • A card leaves play when it moves from a play area to an out-of-play area.
 • If a card is double-sided (having game text on each side of the card), the facedown side is out of play.
 See also: Ability, Enters Play, Leaves Play, Play, Play Restrictions and Permissions, Set Aside, Target, Victory Display
-```
+</details>
 
 
 
 
-**FR v1.4**:  
-```
+<details class="source">
+<summary>FR v1.4</summary>
 EN JEU ET HORS JEU
 On considère qu’une carte est soit en jeu soit hors jeu, en fonction de son état dans la partie.
 Si une carte est en jeu, son texte est actif et peut affecter la partie.
@@ -63,4 +63,4 @@ Si une carte est hors jeu, son texte est inactif et ne peut pas affecter la part
 • Une carte quitte le jeu quand elle passe d’une zone en jeu à une zone hors jeu.
 • Si une carte est recto verso (car son texte de jeu est imprimé sur ses deux faces), la face cachée de cette carte est hors jeu.
 Voir aussi : Capacité, Cible, Entrer en Jeu, Jouer, Mettre de Côté, Mettre en Jeu, Pile de Victoire, Quitter le Jeu, Restrictions et Permissions de Jeu
-```
+</details>

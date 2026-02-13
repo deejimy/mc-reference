@@ -3,15 +3,15 @@
 
 _Voir : [[Capacite|Capacité]], [[Cout|Coût]]_  
 
-**EN v1.7**:  
-```
+<details class="source">
+<summary>EN v1.7</summary>
 EFFECT
 See: Ability, Cost
-```
+</details>
 
 
-**FR v1.4**:  
-```
+<details class="source">
+<summary>FR v1.4</summary>
 EFFET
 Voir : Capacité, Coût
-```
+</details>

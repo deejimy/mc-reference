@@ -13,8 +13,8 @@ Evénement est un type de carte Joueur qui est généralement joué pour un effe
 
 _Voir aussi : [[TypesDeCarte|Types de carte]], [[DefausserDefausse|Défausse]], [[Identite|Identité]], [[CapaciteEtiquetee|Capacité étiquetée]], [[Joueur|Joueur]], [[CartesJoueur|Carte Joueur]], [[ProprieteEtControle|Propriété et Contrôle]]_  
 
-**EN v1.7**:  
-```
+<details class="source">
+<summary>EN v1.7</summary>
 EVENT
 Event is a player card type that is generally played for an instantaneous effect.
 Each time a player plays an event card, that player places it faceup on the table in front of them (the event is not in play), pays its costs, resolves its effects (unless those effects are canceled), and then places the card in its owner’s discard pile after those effects resolve (or are canceled).
@@ -25,11 +25,11 @@ Each time a player plays an event card, that player places it faceup on the tabl
 • If an effect modifies the amount of damage an event deals or the amount of threat an event removes, and that event deals multiple instances of damage or removes multiple instances of threat, each of those instances is modified.
 » » If an effect modifies the amount of damage "an attack" deals (rather than "an event"), and an event initiates multiple attacks, only the first of those attacks has its damage modified.
 See also: Card Types, Discard, Identity, Labeled Ability, Player, Player Card, Ownership and Control
-```
+</details>
 
 
-**FR v1.4**:  
-```
+<details class="source">
+<summary>FR v1.4</summary>
 EVENEMENT
 Evénement est un type de carte Joueur qui est généralement joué pour un effet instantané.
 Chaque fois qu’un joueur joue une carte Evénement, il paye son coût, résout ses effets (sauf s’ils sont annulés) et la carte est placée dans la pile de défausse de son propriétaire après la résolution (ou l’annulation) de ses effets.
@@ -38,4 +38,4 @@ Chaque fois qu’un joueur joue une carte Evénement, il paye son coût, résout
 • Une carte Evénement ne peut pas être jouée si la résolution de ses effets (pas de ses coûts) n’est pas en mesure de modifier l’état de la partie.
 • On considère que les cartes Evénement sont une extension d’une identité. Les Attaques, Contres, Défenses, capacités d’action et capacités déclenchées qui se résolvent grâce à un événement jouée par un joueur sont également considérés comme étant effectués par l’identité de ce joueur.
 Voir aussi : Carte Joueur, Défausse, Identité, Joueur, Propriété et Contrôle, Types de Carte
-```
+</details>

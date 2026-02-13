@@ -23,8 +23,8 @@ Les icônes de boost sont situées dans le coin inférieur droit de la carte.
 
 _Voir aussi : [[AttaqueActivationDesEnnemis|Attaque (Activation des Ennemis)]], [[ManiganceActivationDesEnnemis|Manigance (Activation des Ennemis)]], [[IconeDetoile|Icône d’Étoile]]_  
 
-**EN v1.7**:  
-```
+<details class="source">
+<summary>EN v1.7</summary>
 BOOST, BOOST ICON
 Each time the villain attacks or schemes, the villain is given one facedown card from the encounter deck, as a boost card. Minions with the villainous keyword are also given a boost card when they activate.
 During the activation (and after any defenders are declared if the villain is attacking), each boost card on the enemy is turned face up one at a time. Add the number of boost icons on each card to the enemy’s ATK value (if it is attacking) or SCH value (if it is scheming) for that activation.
@@ -39,13 +39,13 @@ The "Boost" ability is located beneath the divider line in the text box.
 • If an enemy is dealt a boost card outside of its own activation, that boost card remains facedown on that enemy until that enemy activates.
 » » If that enemy is a villain or a minion with the villainous keyword, it still gets dealt another boost card at the start of its activation as normal.
 See also: Attack (Enemy Activation), Scheme (Enemy Activation), Star Icon, Villainous
-```
+</details>
 
 
 
 
-**FR v1.4**:  
-```
+<details class="source">
+<summary>FR v1.4</summary>
 BOOST, ICÔNE DE BOOST ()
 Chaque fois que le méchant attaque ou manigance, donnez-lui une carte du deck Rencontre, face cachée, en tant que carte de boost.
 Lors de l’activation (et après qu’un éventuel défenseur a été déclaré en cas d’attaque du méchant), toutes les cartes de boost du méchant sont retournées face visible, une à la fois.
@@ -55,4 +55,4 @@ Ajoutez le nombre d’icônes de boost sur la carte à la valeur d’ATQ du méc
 • Si des cartes de boost supplémentaires sont résolues pendant une activation, les icônes de boost se cumulent et toutes les capacités de boost de ces cartes sont résolues.
 • Après avoir appliqué une carte de boost à une activation, défaussez-la.
 Voir aussi : Attaque (Activation des Ennemis), Manigance (Activation des Ennemis), Icône d’Etoile
-```
+</details>

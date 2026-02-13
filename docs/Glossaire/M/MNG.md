@@ -3,15 +3,15 @@
 _Voir : [[PouvoirDeBase|Pouvoir de base]], [[ManiganceActivationDesEnnemis|Manigance (Activation d'ennemi)]]_
 
 
-**EN v1.7**:  
-```
+<details class="source">
+<summary>EN v1.7</summary>
 SCH
 See: Basic Power, Scheme (Enemy Activation)
-```
+</details>
 
 
-**FR v1.4**:  
-```
+<details class="source">
+<summary>FR v1.4</summary>
 MNG
 Voir : Manigance (Activation des Ennemis), Pouvoir de Base
-```
+</details>

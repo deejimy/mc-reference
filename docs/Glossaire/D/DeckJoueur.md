@@ -11,8 +11,8 @@ Si le deck d’un joueur tombe à court de cartes, ce joueur mélange sa pile de
 
 _Voir aussi : [[DefausserDefausse|Défausse]], [[PileDeDefausse|Pile de Défausse]], [[PiocherPiocherDesCartes|Piocher]], [[DeckRencontre|Deck Rencontre]], [[Melanger|Mélanger]]_  
 
-**EN v1.7**:  
-```
+<details class="source">
+<summary>EN v1.7</summary>
 PLAYER DECK
 A player’s deck contains the player cards (allies, events,
 player side schemes, resources, supports, and upgrades)
@@ -37,11 +37,11 @@ pile, then the player deals themself one facedown
 encounter card.
 See also: Discard, Discard Pile, Draw, Encounter Deck,
 Shuffle
-```
+</details>
 
 
-**FR v1.4**:  
-```
+<details class="source">
+<summary>FR v1.4</summary>
 DECK JOUEUR
 Un deck Joueur contient les cartes Joueur (alliés, événements, ressources, soutiens et améliorations) possédées par le joueur qui commence la partie avec ce deck.
 • L’ordre des cartes à l’intérieur d’un deck Joueur ne peut pas être changé à moins qu’une étape de jeu, une fonction de jeu ou une capacité de carte n’autorise à le faire.
@@ -49,4 +49,4 @@ Si le deck d’un joueur tombe à court de cartes, ce joueur mélange sa pile de
 • Si le deck d’un joueur est vidé et reformé pendant qu’il piochait des cartes, le joueur continue de piocher des cartes jusqu’à atteindre le nombre requis.
 • Si le deck d’un joueur est vidé et reformé pendant que le joueur défaussait des cartes de son deck, aucune carte n’est défaussée du deck nouvellement formé.
 Voir aussi : Deck Rencontre, Défausse, Mélanger, Pile de Défausse, Piocher
-```
+</details>

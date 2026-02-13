@@ -25,8 +25,8 @@ Le coût en ressource d’une carte est la valeur numérique qui doit être pay�
 
 _Voir aussi : [[Capacite|Capacité]], [[IconeDeCoutEnFormeDeFleche|Icône de Coût en Forme de Flèche]], [[InitierDesCapacites|Initier des Capacités]], [[MotsCles|Mots-clés]]_  
 
-**EN v1.7**:  
-```
+<details class="source">
+<summary>EN v1.7</summary>
 COST
 A card’s resource cost is the numerical value that must be paid to play the card. Some abilities have a cost described in the ability text that must be paid to use the ability.
 • A cost arrow icon (→) in ability text distinguishes a cost from an effect, in a "pay cost → resolve effect" format.
@@ -49,11 +49,11 @@ A card’s resource cost is the numerical value that must be paid to play the ca
 • Some card abilities may reference an "additional cost." A player must pay all additional costs simultaneously with the cost that is being added to, even if multiple cards or abilities are adding separate additional costs. A player cannot pay the original cost or any of the additional costs individually; if they cannot pay for all of the costs at once, then they do not pay any of the costs and the effect associated with the costs does not occur.
 • If dealing damage is a cost, that cost is considered paid even if some or all of that damage is prevented.
 • If taking damage is a cost, that cost is not considered paid unless all of that damage was taken. (If any of the damage is prevented, then the cost has not been paid.) See also: Ability, Cost Arrow Icon, Game Element, Initiating Abilities, Keywords
-```
+</details>
 
 
-**FR v1.4**:  
-```
+<details class="source">
+<summary>FR v1.4</summary>
 COÛT
 Le coût en ressource d’une carte est la valeur numérique qui doit être payée pour jouer la carte. Certaines capacités ont un coût décrit dans le texte de la capacité qui doit être payé pour utiliser la capacité.
 • Une icône de coût en forme de flèche (→) dans le texte d’une capacité sert à distinguer le coût de l’effet en suivant le format suivant : « coût à payer → effet à résoudre ».
@@ -65,4 +65,4 @@ Le coût en ressource d’une carte est la valeur numérique qui doit être pay�
 • Si un coût nécessite un élément de jeu qui n’est pas en jeu, le joueur qui paye le coût ne peut utiliser que des éléments de jeu qui se trouvent dans ses propres zones hors jeu.
 • Certaines capacités de cartes peuvent faire référence à un « coût supplémentaire ». Un joueur doit payer tous les coûts supplémentaires en même temps que le coût d’origine, même si plusieurs cartes ou capacités ajoutent des coûts supplémentaires séparés. Un joueur ne peut pas payer individuellement le coût d’origine ou les coûts supplémentaires : s’il ne peut pas payer pour tous ces coûts en une seule fois, alors il n’en paye aucun et les effets associés à ces coûts ne se produisent pas.
 Voir aussi : Capacité, Icône de Coût en Forme de Flèche, Initier des Capacités, Mots-clés
-```
+</details>

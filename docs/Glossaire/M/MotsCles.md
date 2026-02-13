@@ -60,8 +60,8 @@ Les mots-clés suivants sont utilisés dans le jeu :
 
 _Voir aussi : [[ADistance|À distance]], [[CoupRapide|Coup rapide]], [[Deferlement|Déferlement]], [[EnEquipe|En équipe]], [[EntraveX|Entrave X]], [[Garde]], [[IncitationX|Incitation X]], [[LieTitreDeCarte|Lié]], [[Patrouille]], [[Percant|Perçant]], [[Permanent]], [[Peril|Péril]], [[Restreint]], [[RiposteX|Riposte X]], [[Robuste]], [[Solide]], [[Tenacite|Ténacité]]_  
 
-**EN v1.7**:  
-```
+<details class="source">
+<summary>EN v1.7</summary>
 KEYWORDS
 A keyword is an attribute that conveys specific rules to its card.
 • If a card gains multiple instances of a keyword, any additional instances have no effect unless that keyword is followed by a number (e.g. Hinder X, Retaliate X), in which case the numbers for each instance are added together.
@@ -103,11 +103,11 @@ Surge)
 • Uses (X "type"): When a card with uses enters play, place X all-purpose counters from the token pool on that card. After the last all-purpose counter is removed from a card with uses (and the effect resolves), discard that card. (See: Uses (X "type"))
 • Victory X: When a card with victory X is defeated, add it to the victory display. (See: Victory X)
 • Villainous: When a minion with villainous activates, give it a boost card. (See: Villainous)
-```
+</details>
 
 
-**FR v1.4**:  
-```
+<details class="source">
+<summary>FR v1.4</summary>
 MOTS-CLES
 Un mot-clé est un attribut qui confère des règles spécifiques à la carte qui le porte. Les mots-clés suivants sont utilisés dans le jeu :
 • À Distance : Les attaques ayant À Distance ignorent le mot-clé Riposte. (Voir : À Distance)
@@ -136,4 +136,4 @@ Garde)
 • Utilisations (X « types ») : Quand une carte ayant le mot clé Utilisations entre en jeu, placez X jetons génériques (pris dans la réserve de pions) dessus. Après que le dernier jeton générique a été retiré d’une carte avec Utilisations (et que l’effet a été résolu), défaussez cette carte. (Voir : Utilisations (X « types »)) Guide de Référence 23
 • Victoire X : Quand une carte ayant Victoire X est vaincue ou déjouée, ajoutez-la à la pile de victoire. (Voir : Victoire X)
 • Vilenie : Quand un sbire ayant Vilenie s’active, donnez-lui une carte de boost. (Voir : Vilenie)
-```
+</details>

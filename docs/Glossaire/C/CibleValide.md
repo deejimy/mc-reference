@@ -2,8 +2,8 @@
 
 _Voir : [[Cible|Cible]]_  
 
-**EN v1.7**:  
-```
+<details class="source">
+<summary>EN v1.7</summary>
 VALID TARGET
 See: Target
-```
+</details>

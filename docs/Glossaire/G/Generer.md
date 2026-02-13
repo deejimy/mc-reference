@@ -2,15 +2,15 @@
 
 _Voir : [[Ressource|Ressource]]_  
 
-**EN v1.7**:  
-```
+<details class="source">
+<summary>EN v1.7</summary>
 GENERATE
 See: Resource
-```
+</details>
 
 
-**FR v1.4**:  
-```
+<details class="source">
+<summary>FR v1.4</summary>
 GENERER
 Voir : Ressource
-```
+</details>

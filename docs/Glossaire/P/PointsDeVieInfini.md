@@ -2,8 +2,8 @@
 
 _See: [[PointsDeVie|Points de Vie]]_
 
-**EN v1.7**:  
-```
+<details class="source">
+<summary>EN v1.7</summary>
 INFINITE HIT POINTS
 See: Hit Points
-```
+</details>

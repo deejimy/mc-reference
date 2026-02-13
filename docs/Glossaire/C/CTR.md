@@ -4,15 +4,15 @@ CTR
 
 _Voir : [[ContreContrer|Contre / Contrer]], [[PouvoirDeBase|Pouvoir de Base]]_  
 
-**EN v1.7**:  
-```
+<details class="source">
+<summary>EN v1.7</summary>
 THW
 See: Basic Power, Thwart
-```
+</details>
 
 
-**FR v1.4**:  
-```
+<details class="source">
+<summary>FR v1.4</summary>
 CTR
 Voir : Contre / Contrer, Pouvoir de Base
-```
+</details>

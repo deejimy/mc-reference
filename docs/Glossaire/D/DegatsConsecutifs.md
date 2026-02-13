@@ -10,8 +10,8 @@ Après qu'un allié a contré, il subit des dégâts consécutifs égaux au nomb
 
 _Voir aussi : [[Allie|Allié]], [[AttaqueActivationDuJoueur|Attaque (Type de capacité de joueur)]], [[PouvoirDeBase|Pouvoir de Base]], [[Degats|Dégâts]], [[Icone|Icônes]], [[CTR|Contre]]_  
 
-**EN v1.7**:  
-```
+<details class="source">
+<summary>EN v1.7</summary>
 CONSEQUENTIAL DAMAGE
 After an ally attacks, it takes consequential damage equal to the number of consequential damage icons () beneath its ATK field.
 After an ally thwarts, it takes consequential damage equal to the number of consequential damage icons () beneath its THW field.
@@ -21,16 +21,16 @@ After an ally thwarts, it takes consequential damage equal to the number of cons
 » » For example, Iron Fist’s ability reads: "Interrupt:
 When Iron Fist attacks an enemy, remove 1 mystic counter from him → stun that enemy and deal 1 damage to it." If this effect defeats the enemy Iron Fist was attacking, the basic attack aborts as soon as the target leaves play, so Iron Fist does not take consequential damage from it.
 See also: Ally, Attack (Player Ability Type), Basic Power, Damage, Icons, Thwart
-```
+</details>
 
 
 
 
-**FR v1.4**:  
-```
+<details class="source">
+<summary>FR v1.4</summary>
 DEGÂTS CONSECUTIFS
 Après qu’un allié a attaqué, il subit des dégâts consécutifs égaux au nombre d’icônes de dégâts consécutifs () en dessous de son champ d’ATQ.
 Après qu’un allié a contré, il subit des dégâts consécutifs égaux au nombre d’icônes de dégâts consécutifs () en dessous de son champ de CTR.
 • Les dégâts consécutifs sont infligés après avoir résolu les capacités déclenchées par l’allié qui attaque ou qui contre.
 Voir aussi : Allié, Attaque, Contre, Dégâts, Icônes, Pouvoir de Base
-```
+</details>

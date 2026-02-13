@@ -16,8 +16,8 @@
 _Voir aussi : [[DeckRencontre|Deck Rencontre]], [[Index|Limitation du matériel]], [[ManigancePrincipaleDeckManigancePrincipale|Manigance Principale]], [[PhaseDuMechant|Phase du Méchant]]_  
 
 
-**EN v1.7**:  
-```
+<details class="source">
+<summary>EN v1.7</summary>
 ACCELERATION TOKEN 
 Acceleration tokens are functionally equivalent to acceleration icons (but are not considered acceleration icons). They are placed next to the main scheme as a reminder to add X additional threat to the main scheme during step one of the villain phase, where X is the number of acceleration tokens in play.
 Acceleration tokens enter play through one of two effects:
@@ -28,13 +28,13 @@ Acceleration tokens on the main scheme cannot be removed from play. Unlike other
 • Acceleration tokens placed on cards other than the main scheme are removed from play when the card they are placed on leaves play.
 • Accleration tokens are not considered acceleration icons, and vice versa.
 See also: Component Limitations, Encounter Deck, Main Scheme, Villain
-```
+</details>
 
 
 
 
-**FR v1.4**:  
-```
+<details class="source">
+<summary>FR v1.4</summary>
 PION ACCELERATION
 Les pions Accélération fonctionnent comme les icônes d’Accélération. Ils sont placés à côté de la manigance principale pour rappeler aux joueurs d’ajouter X menaces supplémentaires à la manigance principale pendant la première étape de la phase du Méchant, X étant le nombre de pions Accélération en jeu.
 Les pions Accélération peuvent entrer en jeu de deux manières différentes :
@@ -43,4 +43,4 @@ Les pions Accélération peuvent entrer en jeu de deux manières différentes :
 Les pions Accélération ne peuvent pas être retirés de la partie.
 Contrairement aux autres pions, lorsqu’une manigance principale quitte la partie, le pion Accélération n’est pas défaussé.
 Voir aussi : Deck Rencontre, Limitation du matériel (p. 4), Manigance Principale, Phase du Méchant
-```
+</details>

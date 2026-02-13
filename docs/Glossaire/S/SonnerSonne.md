@@ -14,8 +14,8 @@ Sonné est un état qui empêche un personnage d’infliger des dégâts avec sa
 
 _Voir aussi : [[Allie|Allié]], [[Annuler|Annuler]], [[Identite|Identité]], [[Sbire|Sbire]], [[CartesDetat|Cartes d'état]], [[Cible|Cible]], [[MechantDeckMechant|Méchant]]_  
 
-**EN v1.7**:  
-```
+<details class="source">
+<summary>EN v1.7</summary>
 STUN, STUNNED
 Stun is a status that cancels a character’s next attack.
 • If an ability "stuns" a character, give that character a stunned status card.
@@ -28,14 +28,14 @@ Costs associated with the attack attempt, including exhausting the character, mu
 • If a stunned villain or minion would attack, discard the stunned status card instead.
 • As the attack action or attack activation was replaced by the removal of the stunned status card, that character is not considered to have attacked.
 See also: Ally, Cancel, Identity, Minion, Status Cards, Target, Villain
-```
+</details>
 
 
-**FR v1.4**:  
-```
+<details class="source">
+<summary>FR v1.4</summary>
 SONNER, SONNE
 Sonné est un état qui empêche un personnage d’infliger des dégâts avec sa prochaine attaque.
 • Si une capacité « sonne » un personnage, donnez-lui une carte d’état Sonné.
 • Si un personnage a une capacité spécifiant qu’il « ne peut pas être sonné », aucune carte d’état Sonné ne peut être placée sur ce personnage.
 Voir aussi : Allié, Cartes d’Etat, Identité, Méchant, Sbire
-```
+</details>

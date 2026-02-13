@@ -2,14 +2,14 @@
 
 _Voir aussi : [[FormeChangerDeForme|Forme]], [[Identite|Identité]]_  
 
-**EN v1.7**:  
-```
+<details class="source">
+<summary>EN v1.7</summary>
 ALTER-EGO, ALTER-EGO FORM
 See: Form, Identity
-```
+</details>
 
-**FR v1.4**:  
-```
+<details class="source">
+<summary>FR v1.4</summary>
 ALTER EGO, FORME D’ALTER EGO
 Voir : Forme, Identité
-```
+</details>

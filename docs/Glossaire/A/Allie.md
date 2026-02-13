@@ -11,8 +11,8 @@ Allié est un type de carte Joueur qui représente les amis, partisans ou compag
 _Voir aussi : [[LimiteDallies|Limite d'Alliés]], [[DegatsConsecutifs|Dégâts consécutifs]], [[PointsDeVie|Points de Vie]]_  
 
 
-**EN v1.7**:  
-```
+<details class="source">
+<summary>EN v1.7</summary>
 ALLY
 Ally is a player card type that represents an identity’s friends, supporters, or companions.
 • If an ally enters play, it remains in play until a card ability or game effect causes it to leave play. If an ally’s remaining hit points are reduced to zero, it is defeated and discarded from play.
@@ -21,11 +21,11 @@ Ally is a player card type that represents an identity’s friends, supporters, 
 • If a player is attacked, any player may exhaust an ally they control to defend against the attack. If an ally defends against an attack, all damage from the attack is dealt to the ally.
 • Attacks, thwarts, defenses, action abilities, and triggered abilities that resolve from allies in play under a player’s control are not considered to be performed by that player’s identity.
 See also: Ally Limit, Consequential Damage, Hit Points
-```
+</details>
 
 
-**FR v1.4**:  
-```
+<details class="source">
+<summary>FR v1.4</summary>
 ALLIE
 Allié est un type de carte Joueur qui représente les amis, partisans ou compagnons d’une identité.
 4 Guide de Référence
@@ -35,4 +35,4 @@ Allié est un type de carte Joueur qui représente les amis, partisans ou compag
 • Si un joueur est attaqué, n’importe quel joueur peut incliner un allié qu’il contrôle pour défendre contre cette attaque. Si un allié défend contre une attaque, tous les dégâts de cette attaque sont infligés à cet allié.
 • Les attaques, contres, défenses, capacité d’action, et capacités déclenchées qui sont résolues par des alliés en jeu sous le contrôle d’un joueur ne sont pas considérés comme effectués par l’identité de ce joueur.
 Voir aussi : Limite d’Alliés, Dégâts Consécutifs, Points de Vie
-```
+</details>

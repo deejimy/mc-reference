@@ -17,8 +17,8 @@ Le premier joueur a une priorité temporelle dans les situations suivantes :
 
 _Voir aussi : [[DansLordreDesJoueurs|Dans l’Ordre des Joueurs]], [[Joueur|Joueur]], [[EliminationDeJoueur|Élimination de Joueur]], [[PhaseDesJoueurs|Phase des Joueurs]]_  
 
-**EN v1.7**:  
-```
+<details class="source">
+<summary>EN v1.7</summary>
 FIRST PLAYER
 A first player is determined by the players at the beginning of the game.
 The first player token is used to indicate which player is the first player. At the end of the round (during step five of the villain phase) the first player token passes to the next clockwise player, who becomes first player for the next round.
@@ -33,11 +33,11 @@ Interrupt opportunities then proceed among the remaining players in player order
 • The first player has the first opportunity to use a response at each appropriate game moment.
 Response opportunities then proceed among the remaining players in player order.
 See also: In Player Order, Player, Player Elimination, Player Phase
-```
+</details>
 
 
-**FR v1.4**:  
-```
+<details class="source">
+<summary>FR v1.4</summary>
 PREMIER JOUEUR
 Un premier joueur est désigné par les joueurs au début de la partie.
 Le pion Premier Joueur est utilisé pour indiquer quel joueur est le premier joueur. À la fin du round (pendant la cinquième étape de la phase du Méchant) le premier joueur passe le pion au joueur suivant dans le sens horaire qui devient le premier joueur pour le round suivant.
@@ -50,4 +50,4 @@ Le premier joueur a une priorité de timing dans les situations suivantes :
 • Le premier joueur a la première opportunité d’utiliser une interruption à chaque moment approprié. L’opportunité d’interruption passe ensuite aux autres joueurs, dans l’ordre des joueurs.
 • Le premier joueur a la première opportunité d’utiliser une réponse à chaque moment approprié. L’opportunité de réponse passe ensuite aux autres joueurs, dans l’ordre des joueurs.
 Voir aussi : Dans l’Ordre des Joueurs, Joueur, Elimination de Joueur, Phase Des Joueurs
-```
+</details>

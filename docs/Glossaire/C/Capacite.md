@@ -51,8 +51,8 @@ Une capacité est un texte de jeu sur une carte qui indique spécifiquement ce q
 _ Voir aussi : [[Action]], [[Annuler]], [[CapaciteUneFoisRevelee|Capacité une fois révélée]], [[CapaciteUneFoisVaincuDejouee|Capacité une fois vaincu/déjouée]], [[EffetDalteration|Effets d'Alteration]], [[EffetsDeRemplacement|Effets de Remplacement]], [[EffetsRetardes|Effets Retardés]], [[EffetsPersistants|Effets Persistants]], [[EnJeuEtHorsJeu|En Jeu et Hors Jeu]], [[Ensuite]], [[Et|« Et »]], [[Forcee|Forcée]], [[InitierDesCapacites|Initier des Capacités]], [[Interruption]], [[Qualificatifs]], [[Reponse|Réponse]], [[ResolutionSimultanee|Résolution Simultanée]], [[RessourceCapacite|Ressource (Capacité)]], [[Special]], [[Cible|Cible]]_
 
 
-**EN v1.7**:  
-```
+<details class="source">
+<summary>EN v1.7</summary>
 ABILITY
 An ability is game text on a card that explains what the card does (or can do). Several examples can be seen in Appendix III of this .
 • Card abilities only interact with cards that are in play, unless the ability specifically refers to an out-of-play area or element.
@@ -89,14 +89,14 @@ Simultaneous Timing Priority — Some abilities have timing priority over other 
 7. "Response" abilities.
 8. Consequential damage.
 See also: Action, Alteration Effect, "And", Cancel, Delayed Effect, Forced, In Play and Out of Play, Initiating Abilities, Interrupt, Labeled Ability, Lasting Effects, Qualifiers, Replacement Effect, Resource Ability, Response, Simultaneous Resolution, Special, Target, "Then", When Defeated Abilities, When Revealed Abilities, "Would"
-```
+</details>
 
 
 
 
 
-**FR v1.4**:  
-```
+<details class="source">
+<summary>FR v1.4</summary>
 CAPACITE, CAPACITE DE CARTE
 Une capacité est un texte de jeu sur une carte qui indique spécifiquement ce que fait une carte (ou ce qu’elle peut faire). Plusieurs exemples sont en appendice III de ce Guide de Référence.
 • Les capacités de carte ne peuvent interagir qu’avec les cartes qui sont en jeu, sauf si la capacité se réfère spécifiquement à une zone ou un élément hors jeu.
@@ -125,4 +125,4 @@ Certaines capacités ont des priorités de timing par rapport à d’autres capa
 4. Capacités « Réponses forcée »
 5. Capacités « Réponse »
 Voir aussi : Action, Annuler, Capacités une Fois Révélée, Capacités une Fois Vaincu / Déjouée, Effets d’Alteration, Effets de Remplacement, Effets Retardés, Effets Persistants, En Jeu et Hors Jeu, Ensuite, « Et », Forcée, Initier des Capacités, Interruption, Qualificatifs, Réponse, Résolution Simultanée, Ressource (Capacité), Spécial Guide de Référence 7
-```
+</details>

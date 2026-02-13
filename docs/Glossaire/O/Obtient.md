@@ -2,8 +2,8 @@
 
 _Voir : [[PointsDeVie|Points de vie]], [[Modificateurs|Modificateurs]]_
 
-**EN v1.7**:  
-```
+<details class="source">
+<summary>EN v1.7</summary>
 "GETS"
 See: Hit Points, Modifiers
-```
+</details>

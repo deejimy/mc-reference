@@ -29,8 +29,8 @@ Il y a différentes façons d’attaquer :
 
 _Voir aussi : [[Allie|Allié]], [[PouvoirDeBase|Pouvoir de base]], [[Degats|Dégâts]], [[DefendreDefense|Défendre]], [[Ennemi|Ennemi]], [[Identite|Identité]], [[CapaciteEtiquetee|Capacité étiquetée]], [[Sbire|Sbire]], [[Modificateurs|Modificateurs]], [[RiposteX|Riposte X]], [[Cible|Cible]], [[MechantDeckMechant|Méchant]]_  
 
-**EN v1.7**:  
-```
+<details class="source">
+<summary>EN v1.7</summary>
 ATTACK (PLAYER ABILITY TYPE)
 Some game effects and card abilities reference an attack.
 There are a few different ways an attack can occur:
@@ -52,13 +52,13 @@ There are a few different ways an attack can occur:
 3. Non-forced abilities with the triggers listed above.
 4. Consequential damage (for allies).
 See also: Ally, Basic Power, Damage, Defend, Enemy, Identity, Labeled Ability, Minion, Modifiers, Retaliate X, Target, Villain
-```
+</details>
 
 
 
 
-**FR v1.4**:  
-```
+<details class="source">
+<summary>FR v1.4</summary>
 ATTAQUE, ATTAQUER
 Certains effets de jeu et capacités de cartes parlent d’attaque.
 Il y a différentes façons d’attaquer :
@@ -69,4 +69,4 @@ Il y a différentes façons d’attaquer :
 • Les ennemis peuvent attaquer lors de la deuxième étape de la phase du Méchant.
 • Des capacités de cartes peuvent faire attaquer le méchant et/ou les sbires à d’autres moments si la capacité en question demande explicitement au méchant ou au sbire « d’attaquer ».
 Voir aussi : Allié, Attaques des Ennemis, Cible, Défendre, Dégâts, Ennemi, Identité, Méchant, Pouvoir de Base, Sbire
-```
+</details>

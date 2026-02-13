@@ -32,8 +32,8 @@ Quand un ennemi attaque, un joueur peut défendre contre cette attaque en utilis
 _Voir aussi : [[Capacite|Capacité]], [[Allie|Allié]], [[AttaqueActivationDesEnnemis|Attaque (Activation des Ennemis)]], [[Degats|Dégâts]], [[Ami|"Friendly"]], [[Identite|Identité]], [[CapaciteEtiquetee|Capacité Étiquetée]], [[Joueur|Player]]_  
 
 
-**EN v1.7**:  
-```
+<details class="source">
+<summary>EN v1.7</summary>
 DEFEND, DEFENSE
 During an enemy attack, a player may defend against that attack using cards they control.
 • Only one player at a time can defend against an enemy attack. While a player is defending, other players cannot defend against that same attack.
@@ -60,12 +60,12 @@ Additionally, if a defending ally is defeated before damage from the attack is d
 » » If an effect causes a defended attack to end before fully resolving, the attack is still considered to have been defended.
 » » If an ability triggers after a character uses a basic power, that ability triggers after an attack in which a character made a basic defense resolves.
 See also: Ability, Ally, Attack (Enemy Activation), Damage, "Friendly", Identity, Labeled Ability, Player
-```
+</details>
 
 
 
-**FR v1.4**:  
-```
+<details class="source">
+<summary>FR v1.4</summary>
 DEFENSE, DEFENDRE
 Quand un ennemi attaque, un joueur a la possibilité de défendre contre cette attaque en utilisant des cartes qu’il contrôle.
 • Une attaque ennemie ne peut être défendue que par un seul joueur. Une fois qu’un joueur défend, aucun autre joueur ne peut défendre contre cette même attaque.
@@ -76,4 +76,4 @@ Le joueur défenseur peut résoudre n’importe quel nombre de capacités de dé
 • Si un joueur défend contre une attaque ennemie qui cible un autre joueur (soit en défendant avec un personnage qu’il contrôle, soit en résolvant une capacité de défense), le joueur défenseur devient la nouvelle cible de cette attaque.
 • Si aucun personnage n’est utilisé pour défendre contre une attaque ennemie, l’attaque est considérée comme non défendue. De plus, si un allié qui défend est vaincu avant que les dégâts de cette attaque ne soient infligés (à cause d’une capacité de boost, par exemple), cette attaque est considérée comme non défendue.
 Voir aussi : Allié, Ami, Attaque (Activation des Ennemis), Capacité, Dégâts, Identité, Joueur
-```
+</details>

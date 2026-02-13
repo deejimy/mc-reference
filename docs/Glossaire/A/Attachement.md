@@ -13,8 +13,8 @@ Quand un attachement entre en jeu, il s’attache à une autre carte ou à un é
 _Voir aussi : [[AttacherCetteCarte|Attachez cette carte]]_  
 
 
-**EN v1.7**:  
-```
+<details class="source">
+<summary>EN v1.7</summary>
 ATTACHMENT
 Attachment is an encounter card type.
 When an attachment enters play, it attaches to another card or game element.
@@ -25,14 +25,14 @@ When an attachment enters play, it attaches to another card or game element.
 • When an attachment attached to a player card uses the word "you" or "your," it refers to the attached player card’s controller.
 » » Only the player who controls the card to which that attachment is attached can trigger abilities or pay costs on that attachment.
 See also: Attach To, Dash (Value), Encounter Card, Enters Play, Game Element, Permanent
-```
+</details>
 
 
-**FR v1.4**:  
-```
+<details class="source">
+<summary>FR v1.4</summary>
 ATTACHEMENT
 Attachement est un type de cartes Rencontre.
 Quand un attachement entre en jeu, il s’attache à une autre carte ou à un élément de jeu.
 • Si un attachement est attaché au méchant, il peut modifier ses valeurs d’ATQ ou de MNG comme indiqué par les valeurs dans les champs associés sur la carte Attachement.
 Voir aussi : Attachez cette carte
-```
+</details>

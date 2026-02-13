@@ -3,15 +3,15 @@
 _See: [[EffetDAlteration|Effet d’Altération]]_
 
 
-**EN v1.7**:  
-```
+<details class="source">
+<summary>EN v1.7</summary>
 "EACH TIME"
 See: Alteration Effect
-```
+</details>
 
 
-**FR v1.4**:  
-```
+<details class="source">
+<summary>FR v1.4</summary>
 « CHAQUE FOIS »
 Voir : Effet d’Altération
-```
+</details>

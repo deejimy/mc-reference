@@ -2,15 +2,15 @@
 
 _Voir : [[EffetDalteration|Effet d’Altération]]_  
 
-**EN v1.7**:  
-```
+<details class="source">
+<summary>EN v1.7</summary>
 "ALREADY"
 See: Alteration Effect
-```
+</details>
 
 
-**FR v1.4**:  
-```
+<details class="source">
+<summary>FR v1.4</summary>
 « DEJÀ »
 Voir : Effet d’Altération
-```
+</details>

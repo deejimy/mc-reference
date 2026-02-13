@@ -19,8 +19,8 @@ Quand un joueur est éliminé, les joueurs restants continuent à jouer la parti
 
 _Voir aussi : [[Capacite|Capacité]], [[Degats|Dégâts]], [[Engager|Engager]], [[ElementDeJeu|Élément de Jeu]], [[PointsDeVie|Points de Vie]], [[Identite|Identité]], [[Sbire|Sbire]], [[IconeParJoueur|Icône par joueur]], [[Joueur|Joueur]], [[CartesJoueur|Cartes Joueur]], [[DeckJoueur|Deck Joueur]], [[ZoneDeJeuDUnJoueur|Zone de Jeu d’un Joueur]], [[GagnerLaPartie|Gagner la Partie]]_  
 
-**EN v1.7**:  
-```
+<details class="source">
+<summary>EN v1.7</summary>
 PLAYER ELIMINATION
 A player is eliminated from the game if their identity is defeated. This usually occurs when the character’s remaining hit points are reduced to zero.
 When a player is eliminated, perform the following in order:
@@ -37,11 +37,11 @@ When a player is eliminated, the remaining players continue to play the game. El
 • If a player is eliminated partway through the resolution of an ability, resolve the entire ability.
 • Effects that refer to the players in the game ignore eliminated players, except for the per player icon ().
 See also: Ability, Deal, Engage, Game Element, Hit Points, Identity, Minion, Per Player Icon, Player, Player Card, Player Deck, Player’s Play Area, Winning the Game
-```
+</details>
 
 
-**FR v1.4**:  
-```
+<details class="source">
+<summary>FR v1.4</summary>
 ELIMINATION DE JOUEUR
 Un joueur est éliminé de la partie si son identité est vaincue.
 Cela se produit généralement quand les points de vie restants du personnage tombent à zéro.
@@ -54,4 +54,4 @@ Quand un joueur est éliminé, les joueurs restants continuent à jouer la parti
 • Si tous les joueurs sont éliminés, la partie se termine et les joueurs ont perdu.
 Si un joueur est éliminé au milieu de la résolution d’une capacité, résolvez la capacité en entier.
 Voir aussi : Attribuer, Capacité, Cartes Joueur, Deck Joueur, Engager, Gagner la Partie, Identité, Joueur, Points de Vie, Sbire, Zone de Jeu d’un Joueur
-```
+</details>

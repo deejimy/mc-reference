@@ -23,8 +23,8 @@ Les étapes de la phase du Méchant sont les suivantes :
 _Voir aussi : [[IconeDacceleration|Icône d’Accélération]], [[Activation|Activation]], [[AttribuerAttribuerUneCarteRencontre|Attribuer]], [[IconeDaleas|Icône d’Aléas]], [[DansLordreDesJoueurs|Dans l’Ordre des Joueurs]], [[ManigancePrincipaleDeckManigancePrincipale|Manigance Principale]], [[MechantDeckMechant|Méchant]], [[Menace|Menace]], [[PremierJoueur|Premier Joueur]], [[Reveler|Révéler]], [[Sbire|Sbire]]_  
 
 
-**EN v1.7**:  
-```
+<details class="source">
+<summary>EN v1.7</summary>
 VILLAIN PHASE
 The steps of the villain phase are:
 1. Place Threat. Place the amount of threat indicated in the main scheme’s acceleration field onto that scheme.
@@ -35,11 +35,11 @@ If any acceleration icons or tokens are active, additional threat equal to the n
 5. Pass First Player Token. Pass the first player token to the next clockwise player.
 6. End of Villain Phase and Round. a. Any effects that last "until the end of the [villain] phase" or "until the end of the round" end. b. Resolve any "when/after the [villain] phase ends" or "when/after the round ends" effects.
 See also: Acceleration Icon, Activation, Attack (Enemy Activation), Deal, Engage, Find, Hazard Icon, In Player Order, Main Scheme, Minion, Player, Reveal, Scheme (Enemy Activation), Threat, Villain
-```
+</details>
 
 
-**FR v1.4**:  
-```
+<details class="source">
+<summary>FR v1.4</summary>
 PHASE DU MECHANT
 Les étapes de la phase du Méchant sont les suivantes :
 1. Placez la quantité de menaces indiquée dans le champ d’accélération de la manigance principale sur cette manigance.
@@ -50,4 +50,4 @@ Si un ou plusieurs icônes Accélération ou pions Accélération sont actifs, p
 24 Guide de Référence
 5. Passez le pion Premier Joueur au joueur suivant dans le sens horaire et terminez le round.
 Voir aussi : Activation, Attribuer, Dans l’ordre des Joueurs, Engagé, Icône d’Accélération, Icône d’Aléas, Joueur, Manigance (Activation des Ennemis), Manigance Principale, Méchant, Menace, Premier Joueur, Révéler, Sbire
-```
+</details>

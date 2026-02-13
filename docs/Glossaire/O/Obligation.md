@@ -20,8 +20,8 @@ Si un joueur révèle une carte Obligation du deck Rencontre et que cette obliga
 
 _Voir aussi : [[TypesDeCarte|Types de Carte]], [[CartesRencontre|Carte Rencontre]], [[DeckRencontre|Deck Rencontre]], [[EntrerEnJeu|Entrer en Jeu]], [[FormeChangerDeForme|Forme]], [[Identite|Identité]], [[QuitterLeJeu|Quitter le Jeu]], [[Joueur|Joueur]], [[EliminationDeJoueur|Élimination de Joueur]], [[RetireDeLaPartie|Retiré de la Partie]]_  
 
-**EN v1.7**:  
-```
+<details class="source">
+<summary>EN v1.7</summary>
 OBLIGATION
 Obligation is an encounter card type that represents a commitment or obstacle that an identity’s alter-ego might have to face or overcome.
 • Abilities on obligations that use the words "you" or "your" apply only to the player whose play area the obligation is in.
@@ -35,11 +35,11 @@ If a player reveals an obligation card from the encounter deck and that obligati
 If a player draws an obligation card from their player deck, they place that obligation into their play area.
 • The player does not draw a card to replace the obligation unless they are refilling their hand to their hand size.
 See also: Card Types, Encounter Card, Encounter Deck, Enters Play, Form, Identity, Leaves Play, Player, Player Elimination, Removed from the Game
-```
+</details>
 
 
-**FR v1.4**:  
-```
+<details class="source">
+<summary>FR v1.4</summary>
 OBLIGATION
 Obligation est un type de carte Rencontre qui représente les engagements ou les obstacles que les alter ego doivent respecter ou surmonter.
 • Chaque identité est associée à une ou plusieurs cartes Obligation.
@@ -51,4 +51,4 @@ Si une carte Obligation est révélée du deck Rencontre et que cette obligation
 Si un joueur révèle une carte Obligation du deck Rencontre et que cette obligation ne demande pas à ce qu’elle soit donnée à un joueur spécifique, le joueur place cette obligation dans sa zone de jeu. Il doit ensuite décider de la manière de résoudre cette obligation.
 • Seul le joueur avec l’obligation dans sa zone de jeu peut déclencher les capacités ou payer les coûts figurant sur cette obligation.
 Voir aussi : Carte Rencontre, Deck Rencontre, Elimination de Joueur, Entrer en Jeu, Forme, Identité, Joueur, Quitter le Jeu, Retirer de la Partie, Types de Carte
-```
+</details>

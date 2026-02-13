@@ -8,22 +8,22 @@ S’il y a un tiret (–) à la place de la valeur d’un pouvoir (ATQ, CTR, REC
 
 _Voir aussi : [[PouvoirDeBase|Pouvoir de Base]], [[VariableNonNumerique|Variable Non-Numérique]]_  
 
-**EN v1.7**:  
-```
+<details class="source">
+<summary>EN v1.7</summary>
 DASH (VALUE)
 A value presented as a dash (–) indicates that value cannot be used.
 • If a card has a dash (–) as its cost value, that card cannot be played and can only enter play through other means.
 • If a character’s power (ATK, DEF, REC, SCH, and THW) has a dash (–) as the value, the character cannot exhaust to use that power.
 • If a game step or card ability references a value of dash (–), that value is treated as an unmodifiable
 0. (For example, if an ability targets "the ally with the lowest SCH," an ally with a dash for its SCH is considered to have the same SCH as an ally with a SCH of 0.) See also: Basic Power, Non-Numerical Variable
-```
+</details>
 
 
 
 
-**FR v1.4**:  
-```
+<details class="source">
+<summary>FR v1.4</summary>
 TIRET
 S’il y a un tiret (-) à la place de la valeur d’un pouvoir (ATQ, CTR, REC, DEF, MNG) d’un personnage, ce personnage ne peut pas s’incliner pour utiliser ce pouvoir. Si une étape de jeu ou une capacité de carte se réfère à un pouvoir doté d’un tiret (-), on considère que ce pouvoir à une valeur de 0.
 Voir aussi : Pouvoir de Base, Variable Non-Numérique
-```
+</details>

@@ -15,8 +15,8 @@
 _Voir aussi : [[AttaqueActivationDuJoueur|Attaque (Action de Joueur)]], [[DefendreDefense|Défendre]], [[CTR|Contre / Contrer]]_
 
 
-**EN v1.7**:  
-```
+<details class="source">
+<summary>EN v1.7</summary>
 LABELED ABILITY
 A labeled ability is a triggered ability with a parenthetical following its bold trigger text that designates that ability as an attack, defense, and/or thwart.
 • When a player resolves an ability labeled "(attack)," that ability is considered to be an attack made by that player’s identity.
@@ -28,4 +28,4 @@ A labeled ability is a triggered ability with a parenthetical following its bold
 » » That identity is not considered to have attacked, defended, or thwarted.
 » » Each status card on the player’s identity that cancels any of the labeled ability’s types is removed when that ability is canceled. For example, an ability labeled "(attack/thwart)" would remove both a confused status and a stunned status from the identity of the player who triggered the ability.
 See also: Attack (Player Ability Type), Defend, Thwart
-```
+</details>

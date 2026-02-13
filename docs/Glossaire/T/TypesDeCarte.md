@@ -11,8 +11,8 @@ Le type d’une carte indique les diverses règles et fonctions de jeu qui lui s
 
 _Voir aussi : [[Allie|Allié]], [[Attachement|Attachement]], [[CartesRencontre|Carte Rencontre]], [[Environnement|Environnement]], [[Evenement|Événement]], [[Identite|Identité]], [[ManigancePrincipaleDeckManigancePrincipale|Manigance principale]], [[Sbire|Sbire]], [[Obligation|Obligation]], [[CartesJoueur|Carte Joueur]], [[ManiganceAnnexeDeJoueur|Manigance annexe de joueur]], [[RessourceCarte|Carte Ressource]], [[ManiganceAnnexe|Manigance annexe]], [[Soutien|Soutien]], [[Traitrise|Traîtrise]], [[Amelioration|Amélioration]], [[MechantDeckMechant|Méchant]], Appendice III : Description des Cartes_  
 
-**EN v1.7**:  
-```
+<details class="source">
+<summary>EN v1.7</summary>
 CARD TYPES
 A card’s card type denotes various rules and game functions associated with that card.
 • Ally, event, identity, player side scheme, resource, support, and upgrade cards are types of player cards.
@@ -23,15 +23,15 @@ A card’s card type denotes various rules and game functions associated with th
 » » When a player changes a minion to an ally, that player takes control of that ally.
 See also: Ally, Attachment, Encounter Card, Environment, Event, Identity, Main Scheme, Minion, Obligation, Player Card, Player Side Scheme, Resource Card, Side Scheme, Support, Treachery, Upgrade, Villain, Appendix III:
 Card Anatomy
-```
+</details>
 
 
-**FR v1.4**:  
-```
+<details class="source">
+<summary>FR v1.4</summary>
 TYPES DE CARTE
 Un type de carte définit les diverses règles et fonctions de jeu associées à cette carte.
 • Allié, Amélioration, Evénement, Identité, Ressource et Soutien sont des types de cartes Joueur.
 • Attachement, Environnement, Manigance principale, Manigance annexe, Obligation, Sbire, Traîtrise et Méchant sont des types de cartes Rencontre.
 • Si une capacité modifie le type d’une carte, elle perd tous ses autres types de carte et fonctionne comme n’importe quelle carte de son nouveau type.
 Voir aussi : Appendice III : Description des Cartes
-```
+</details>

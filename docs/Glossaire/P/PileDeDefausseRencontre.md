@@ -2,8 +2,8 @@
 
 _Voir: [[PileDeDefausse|Pile de défausse]]_
 
-**EN v1.7**:  
-```
+<details class="source">
+<summary>EN v1.7</summary>
 ENCOUNTER DISCARD PILE
 See: Discard Pile
-```
+</details>

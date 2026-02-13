@@ -2,8 +2,8 @@
 
 _Voir: [[Cout|Coût]]_
 
-**EN v1.7**:  
-```
+<details class="source">
+<summary>EN v1.7</summary>
 "PAY"
 See: Cost
-```
+</details>

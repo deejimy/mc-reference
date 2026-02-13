@@ -12,8 +12,8 @@ Jouer une carte consiste à payer son coût puis à placer la carte dans la zone
 
 _Voir aussi : [[EntrerEnJeu|Entrer en Jeu]], [[EnJeuEtHorsJeu|En Jeu et Hors Jeu]], [[InitierDesCapacites|Initier des Capacités]], [[QuitterLeJeu|Quitter le Jeu]], [[RestrictionsEtPermissionsDeJeu|Restrictions et Permissions de Jeu]]_  
 
-**EN v1.7**:  
-```
+<details class="source">
+<summary>EN v1.7</summary>
 PLAY, PUT INTO PLAY
 Playing a card involves paying the card’s cost and placing the card in the play area. This causes the card to enter play (or, in the case of an event card, to resolve its ability and be placed in the discard pile). Cards are played from a player’s hand.
 Some abilities cause cards to be put into play. This bypasses the need to pay the card’s cost as well as any restrictions or prohibitions regarding playing that card. A card that is put into play enters play in its controller’s play area.
@@ -23,11 +23,11 @@ Some abilities cause cards to be put into play. This bypasses the need to pay th
 • When a card is put into play, its resource cost is ignored.
 • Unless otherwise stated by the "put into play" effect, cards that are put into play must do so in a play area or state that matches the rules of playing the card.
 See also: Enters Play, In Play and Out of Play, Initiating Abilities, Leaves Play, Play Restrictions and Permissions
-```
+</details>
 
 
-**FR v1.4**:  
-```
+<details class="source">
+<summary>FR v1.4</summary>
 JOUER, METTRE EN JEU
 Jouer une carte correspond à payer le coût de cette carte et à la placer dans la zone de jeu. Cela fait entrer la carte en jeu (ou, dans le cas d’une carte Evénement, lui fait résoudre sa capacité avant de la placer dans la pile de défausse). Les cartes sont jouées depuis la main d’un joueur.
 Certaines capacités font qu’une carte peut être mise en jeu.
@@ -37,4 +37,4 @@ Cela contourne la nécessité de payer le coût de la carte, de même que les re
 • Quand une carte est mise en jeu, son coût en ressources est ignoré.
 • À moins que le contraire ne soit précisé par l’effet de mise en jeu, les cartes mises en jeu doivent l’être dans une zone de jeu et dans un état qui respecte les règles relatives au fait de jouer cette carte.
 Voir aussi : En jeu et Hors jeu, Entrer en jeu, Restrictions et Permissions de Jeu
-```
+</details>

@@ -4,15 +4,15 @@
 _Voir : [[EffetDalteration|Effet d'altération]]_
 
 
-**EN v1.7**:  
-```
+<details class="source">
+<summary>EN v1.7</summary>
 "ADDITIONAL"
 See: Alteration Effect
-```
+</details>
 
 
-**FR v1.4**:  
-```
+<details class="source">
+<summary>FR v1.4</summary>
 « SUPPLEMENTAIRE »
 Voir : Effets d’Altération
-```
+</details>

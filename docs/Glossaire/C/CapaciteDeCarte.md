@@ -3,9 +3,9 @@
 _Voir : [[Capacite|Capacité]]_
 
 
-**EN v1.7**:  
-```
+<details class="source">
+<summary>EN v1.7</summary>
 CARD ABILITY
 See: Ability
-```
+</details>
 

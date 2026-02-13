@@ -17,8 +17,8 @@ Si le dernier stade du deck Méchant est vaincu, les joueurs gagnent la partie.
 
 _Voir aussi : [[Attachement|Attachement]], [[CartesDetat|Cartes d’Etat]], [[Degats|Dégâts]], [[DegatsEnExces|Dégâts en Excès]], [[JetonsGeneriques|Jetons Génériques]], [[MechantDeckMechant|Méchant]], [[PointsDeVie|Points de Vie]], [[VaincreDejouer|Vaincre / Déjouer]]_  
 
-**EN v1.7**:  
-```
+<details class="source">
+<summary>EN v1.7</summary>
 VILLAIN DEFEAT
 If the villain’s hit point dial is reduced to zero, the players have defeated that stage of the villain.
 Remove the current stage of the villain deck from the game.
@@ -35,11 +35,11 @@ If the final stage of the villain deck is defeated, the players win the game.
 » » Attachments, upgrades, status cards, counters, and non-damage tokens do not carry over to the new stage.
 » » If the villain was defeated while activating, the activation ends without resolving.
 See also: All-Purpose Counter, Attachment, Damage, Defeat, Excess Damage, Hit Points, Status Cards, Villain
-```
+</details>
 
 
-**FR v1.4**:  
-```
+<details class="source">
+<summary>FR v1.4</summary>
 VAINCRE LE MECHANT
 Si les points de vie du compteur du méchant sont réduits à zéro, les joueurs ont vaincu ce stade du méchant.
 Retirez de la partie le stade actuel du deck Méchant. Le stade suivant du deck Méchant dans l’ordre séquentiel est révélé.
@@ -48,4 +48,4 @@ Guide de Référence 31 Si le dernier stade du deck Méchant est vaincu, les jou
 • Les dégâts en excès qui vainquent le stade d’un méchant ne sont pas reportés sur le nouveau stade.
 • Les attachements, les cartes d’état, les jetons, les pions autres que les pions Dégât sont reportés sur le nouveau stade.
 Voir aussi : Attachement, Cartes d’Etat, Dégâts, Dégâts en Excès, Jetons Génériques, Méchant, Points de Vie, Vaincre / Déjouer
-```
+</details>

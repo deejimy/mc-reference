@@ -28,8 +28,8 @@ _Voir aussi : [[CartesJoueur|Carte Joueur]], [[CartesRencontre|Carte Rencontre]]
 
 
 
-**EN v1.7**:  
-```
+<details class="source">
+<summary>EN v1.7</summary>
 OWNERSHIP AND CONTROL
 A card’s owner is the player whose deck contained the card at the start of setup. The scenario is considered to be the owner of the encounter deck and each encounter card.
 • Identity cards are owned and controlled by the player playing as that identity.
@@ -48,11 +48,11 @@ Encounter cards are considered to be under the control of the scenario.
 » » That card is discarded from a player’s hand, it is placed in its owner’s discard pile.
 • If a game step or card ability references a card that "you control" or a "player controls," that game step or card ability only refers to cards in play currently under that player’s control.
 See also: Classifications, Encounter Card, Encounter Deck, In Play and Out of Play, Player, Player Card, Player Deck, Player’s Play Area, Villain’s Play Area
-```
+</details>
 
 
-**FR v1.4**:  
-```
+<details class="source">
+<summary>FR v1.4</summary>
 PROPRIETE ET CONTRÔLE
 Le propriétaire d’une carte est le joueur dont le deck contenait la carte au début de la partie. Le scénario est considéré comme étant le propriétaire du deck Rencontre et de chaque carte Rencontre.
 • Les cartes entrent en jeu sous le contrôle de leur propriétaire.
@@ -66,4 +66,4 @@ Les cartes Rencontre sont considérées comme étant sous le contrôle du scéna
 • À moins qu’une durée ne soit spécifiée, un changement de contrôle persiste aussi longtemps que la carte reste en jeu.
 • Si une étape de jeu ou une capacité de carte fait référence à une carte « que vous contrôlez » ou « qu’un joueur contrôle », l’étape de jeu ou la capacité de carte se réfère seulement aux cartes en jeu qui sont actuellement sous le contrôle de ce joueur.
 Voir aussi : Carte Joueur, Carte Rencontre, Deck Joueur, Deck Rencontre, En Jeu et Hors Jeu, Joueur, Zone de Jeu d’un Joueur, Zone de Jeu du Méchant
-```
+</details>

@@ -25,8 +25,8 @@ De plus, certains sbires uniques peuvent porter le même titre que d’autres pe
 
 _Voir aussi : [[Allie|Allié]], [[EntrerEnJeu|Entrer en Jeu]], [[Identite|Identité]], [[Sbire|Sbire]], [[Joueur|Joueur]], [[SousTitre|Sous-Titre]], [[MechantDeckMechant|Méchant]], [[PersonnalisationDuDeck|Appendice I : Decks Personnalisés]]_  
 
-**EN v1.7**:  
-```
+<details class="source">
+<summary>EN v1.7</summary>
 UNIQUE ICON
 The unique icon indicates a card that represents a singular person, place, or thing within the Marvel universe.
 • Two unique cards are considered to "match" if any of the following apply:
@@ -40,13 +40,13 @@ The unique icon indicates a card that represents a singular person, place, or th
 Any effect that attempts to do so has no effect.
 » » A non-villain encounter card, it is discarded and any effects of it entering play are ignored. If it was being revealed, any effects of it being revealed are ignored and the player revealing it is dealt a facedown encounter card.
 See also: Ally, Enters Play, Identity, Minion, Player, Subtitle, Villain, Appendix I: Deck Customization
-```
+</details>
 
 
 
 
-**FR v1.4**:  
-```
+<details class="source">
+<summary>FR v1.4</summary>
 UNIQUE
 Une carte avec une icône  devant son titre est unique.
 • Les joueurs n’ont collectivement le droit d’avoir qu’un seul exemplaire de chaque carte unique (par titre) en jeu.
@@ -59,4 +59,4 @@ De plus, certains sbires uniques peuvent avoir le même titre que d’autres per
 • Si un sbire unique est révélé du deck Rencontre et tente d’entrer en jeu alors qu’un autre personnage unique avec le même titre est déjà en jeu, le joueur qui est en train de révéler ce sbire le défausse. Ensuite, il révèle une nouvelle carte du deck Rencontre.
 • Si une capacité de carte tente de mettre en jeu un sbire unique alors qu’un autre personnage unique avec le même titre est déjà en jeu, ce sbire ne peut pas entrer en jeu et l’effet de « mise en jeu » échoue à se résoudre. Résolvez le reste de la capacité de la carte normalement.
 Voir aussi : Allié, Entrer en Jeu, Identité, Joueur, Méchant, Sbire, Sous-Titre, Appendice I : Decks Personnalisés
-```
+</details>

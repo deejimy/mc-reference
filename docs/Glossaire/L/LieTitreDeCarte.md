@@ -10,8 +10,8 @@
 _Voir aussi : [[MotsCles|Mots‑clés]], [[ProprieteEtControle|Propriété et contrôle]], [[MettreDeCoteMisDeCote|Mettre de Côté, Mis de Côté]]_  
 
 
-**EN v1.7**:  
-```
+<details class="source">
+<summary>EN v1.7</summary>
 LINKED (CARD TITLE)
 Cards with the linked keyword cannot be included in any deck. Instead, they are set aside at the start of the game if any deck includes the card that brings the linked cards into play (indicated in the parentheses following the keyword).
 • Linked cards do not count toward the minimum or maximum deck size.
@@ -19,4 +19,4 @@ Cards with the linked keyword cannot be included in any deck. Instead, they are 
 » » If multiple decks contain the same card named on one or more linked cards, set aside the appropriate number of cards for each deck that contains the named card.
 • When a player takes control of a card with the linked keyword, that player becomes the owner of that card.
 See also: Keywords, Ownership and Control, Set Aside
-```
+</details>

@@ -2,15 +2,15 @@
 
 _Voir : [[PouvoirDeBase|Pouvoir de Base]], [[RecuperationRecuperer|Récupération]]_  
 
-**EN v1.7**:  
-```
+<details class="source">
+<summary>EN v1.7</summary>
 REC
 See: Basic Power, Recover
-```
+</details>
 
 
-**FR v1.4**:  
-```
+<details class="source">
+<summary>FR v1.4</summary>
 REC
 Voir : Pouvoir de Base, Récupération, Récupérer
-```
+</details>

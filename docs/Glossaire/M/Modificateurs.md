@@ -15,8 +15,8 @@ Chaque fois qu’un nouveau modificateur est appliqué ou retiré, la valeur con
 
 _Voir aussi : [[ValeurDeBase|Valeur de base]], [[TiretValeur|Tiret (Valeur)]], [[Imprime|Imprimé]]_  
 
-**EN v1.7**:  
-```
+<details class="source">
+<summary>EN v1.7</summary>
 MODIFIERS
 The game constantly checks and (if necessary) updates the count of any variable quantity that is being modified.
 Any time a new modifier is applied or removed, the entire quantity is recalculated from the start, considering the unmodified base value and all active modifiers.
@@ -29,11 +29,11 @@ Any time a new modifier is applied or removed, the entire quantity is recalculat
 » » If such an ability expires or otherwise becomes inactive, the modified statistic reverts to the value it would have without the modifier.
 • A value of a dash (–) cannot be modified.
 See also: Base Value, Dash (Value), Printed
-```
+</details>
 
 
-**FR v1.4**:  
-```
+<details class="source">
+<summary>FR v1.4</summary>
 MODIFICATEURS
 Le jeu vérifie constamment et actualise (si nécessaire) le compte de toutes les variables qui sont modifiées.
 Chaque fois qu’un nouveau modificateur est appliqué ou retiré, la valeur concernée est recalculée entièrement depuis le début en prenant en compte la valeur de base non modifiée et tous les modificateurs actifs.
@@ -42,4 +42,4 @@ Chaque fois qu’un nouveau modificateur est appliqué ou retiré, la valeur con
 • Après que tous les modificateurs actifs ont été pris en compte, si une valeur est inférieure à zéro, elle est considérée comme étant égale à zéro. Une carte ne peut pas avoir de valeur « négative » d’icônes, d’attributs, de traits, de coût ou de mot-clé.
 • Toutes les fractions sont arrondies au nombre supérieur après application de tous les modificateurs.
 Voir aussi : Valeur de base, Imprimé
-```
+</details>

@@ -14,8 +14,8 @@ Un joueur peut être soit sous forme de héros, soit sous forme d’alter‑ego.
 
 _Voir aussi : [[Retourner|Retourner]], [[Identite|Identité]], [[MotsCles|Mots-clés]]_  
 
-**EN v1.7**:  
-```
+<details class="source">
+<summary>EN v1.7</summary>
 FORM, CHANGE FORM
 A player can be in either hero or alter-ego form at a given time. This is indicated by the player’s identity card.
 • Once each round, during their turn, each player is permitted to change form by flipping their identity card.
@@ -29,11 +29,11 @@ The character retains their sustained damage, status cards, lasting effects, att
 » » When an identity changes their additional form, it does not count against the once-per-turn limit on flipping from hero to alter-ego (or vice versa), but it does count as changing form for the purpose of triggering card effects.
 • Cards with the text "[type] form only" can only be played or put into play by a player whose identity is in the specified form.
 See also: Flip, Identity, Keywords
-```
+</details>
 
 
-**FR v1.4**:  
-```
+<details class="source">
+<summary>FR v1.4</summary>
 FORME, CHANGER DE FORME
 Un joueur peut être soit sous forme de héros, soit sous forme d’alter ego. Il ne peut pas être les deux à la fois. Cet état est indiqué par la carte Identité du joueur.
 • Une fois par round, lors de son tour, chaque joueur a le droit de changer de forme en retournant sa carte Identité.
@@ -42,4 +42,4 @@ Un joueur peut être soit sous forme de héros, soit sous forme d’alter ego. I
 • Tant qu’un joueur est sous forme de héros, les capacités de carte qui interagissent avec sa forme d’alter ego n’interagissent pas avec son identité.
 • Tant qu’un joueur est sous forme d’alter ego, les capacités de carte qui interagissent avec sa forme de héros n’interagissent pas avec son identité.
 Voir aussi : Identité
-```
+</details>

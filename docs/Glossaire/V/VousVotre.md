@@ -29,8 +29,8 @@ Les cartes qui ne sont pas considérées comme une extension de l’identité d�
 _Voir aussi : [[Allie|Allié]], [[Amelioration|Amélioration]], [[Capacite|Capacité]], [[CarteJoueur|Carte Joueur]], [[DeckJoueur|Deck Joueur]], [[Evenement|Evénement]], [[Identite|Identité]], [[Joueur|Joueur]], [[Ressource|Ressource]], [[Soutien|Soutien]], [[ZoneDeJeuDUnJoueur|Zone de Jeu d’un Joueur]]_  
 
 
-**EN v1.7**:  
-```
+<details class="source">
+<summary>EN v1.7</summary>
 YOU, YOUR
 While resolving card abilities, if the word "you" can be resolved as referring to the player’s identity, it must be resolved as such. This includes but is not limited to:
 • If a sentence uses "you" and/or "your" multiple times, all instances in that sentence refer to the same identity or player.
@@ -56,11 +56,11 @@ Cards that are not considered to be an extension of a player’s identity are:
 • Player Side Schemes — Triggered abilities that resolve from player side schemes in play under a player’s control are not considered to be performed by that player’s identity.
 • Supports — Attacks, thwarts, defenses, action abilities, and triggered abilities that resolve from supports in play under a player’s control are not considered to be performed by that player’s identity.
 See also: Ability, Ally, Event, Identity, Player, Player Card, Player Deck, Player’s Play Area, Resource, Support, Upgrade
-```
+</details>
 
 
-**FR v1.4**:  
-```
+<details class="source">
+<summary>FR v1.4</summary>
 VOUS, VOTRE
 Lorsque vous résolvez des capacités de carte, si le mot « vous » peut être résolu comme faisant référence à l’identité du joueur, il doit être résolu de cette façon. Cela inclut (sans être exhaustif) les situations suivantes :
 • Si une capacité de carte « vous » inflige des dégâts ou si « vous « subissez » des dégâts, le joueur qui résout ces dégâts les applique au compteur de point de vie de son identité.
@@ -82,4 +82,4 @@ Les cartes qui ne sont pas considérées comme une extension de l’identité d�
 Alliés — C onsidérez q ue l es a ttaques, c ontres, d éfenses, c apacités d’action et capacités déclenchées qui se résolvent via des alliés en jeu contrôlés par un joueur ne sont pas effectués par l’identité de ce joueur.
 Soutiens — Considérez que les attaques, contres, défenses, capacités d’action et capacités déclenchées qui se résolvent via des soutiens en jeu contrôlés par un joueur ne sont pas effectués par l’identité de ce joueur.
 Voir aussi : Allié, Amélioration, Capacité, Carte Joueur, Deck Joueur, Evénement, Identité, Joueur, Ressource, Soutien, Zone de Jeu d’un Joueur
-```
+</details>

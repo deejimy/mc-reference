@@ -4,15 +4,15 @@
 _Voir : [[InitierDesCapacites|Initier des capacités]]_
 
 
-**EN v1.7**:  
-```
+<details class="source">
+<summary>EN v1.7</summary>
 PLAYING CARDS
 See: Initiating Abilities
-```
+</details>
 
 
-**FR v1.4**:  
-```
+<details class="source">
+<summary>FR v1.4</summary>
 JOUER DES CARTES
 Voir : Initier des Capacités
-```
+</details>

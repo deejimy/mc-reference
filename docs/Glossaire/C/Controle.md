@@ -3,15 +3,15 @@
 _Voir : [[ProprieteEtControle|Propriété et Contrôle]]_
 
 
-**EN v1.7**:  
-```
+<details class="source">
+<summary>EN v1.7</summary>
 CONTROL
 See: Ownership and Control
-```
+</details>
 
 
-**FR v1.4**:  
-```
+<details class="source">
+<summary>FR v1.4</summary>
 CONTRÔLE
 Voir : Propriété et Contrôle
-```
+</details>

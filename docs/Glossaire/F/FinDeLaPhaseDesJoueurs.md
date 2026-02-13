@@ -10,8 +10,8 @@ Pour mettre fin à la phase des joueurs, respectez les étapes suivantes :
 
 _Voir aussi : [[DefausserDefausse|Défausse]], [[DeckRencontre|Deck Rencontre]], [[TailleDeMain|Taille de main]], [[EffetsPersistants|Effets persistants]], [[Joueur|Joueur]], [[PhaseDesJoueurs|Phase du Joueur]], [[TourDeJoueur|Tour de Joueur]]_  
 
-**EN v1.7**:  
-```
+<details class="source">
+<summary>EN v1.7</summary>
 END OF PLAYER PHASE
 To end the player phase, perform the following steps:
 1. In player order, each player may discard any number of cards from their hand, and must discard down to their hand size if they have more cards than their hand size.
@@ -21,15 +21,15 @@ Ready each exhausted encounter card.
 4. Any effects that last "until the end of the [player] phase" end.
 5. Resolve any "when/after the [player] phase ends" effects.
 See also: Discard, Draw, Hand Size, Lasting Effects, Player, Player Phase, Player Turn, Ready
-```
+</details>
 
 
-**FR v1.4**:  
-```
+<details class="source">
+<summary>FR v1.4</summary>
 FIN DE LA PHASE DES JOUEURS
 Pour mettre fin à la phase des Joueurs, respectez les étapes suivantes :
 1. Dans l’ordre des joueurs, chaque joueur peut défausser n’importe quel nombre de cartes de sa main (et doit défausser des cartes de sa main jusqu’à atteindre sa taille de main s’il a plus de cartes en main que sa taille de main).
 2. Tous les joueurs piochent simultanément jusqu’à atteindre leur taille de main.
 3. Tous les joueurs redressent simultanément toutes leurs cartes.
 Voir aussi : Défausse, Joueur, Phase des Joueurs, Pioche, Redressé, Taille de Main, Tour de Joueur 16 Guide de Référence
-```
+</details>

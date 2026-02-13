@@ -18,8 +18,8 @@
 _Voir aussi : [[Capacite|Capacité]], [[Cible|Cible]]_  
 
 
-**EN v1.7**:  
-```
+<details class="source">
+<summary>EN v1.7</summary>
 "FOR EACH"
 "For each" indicates an effect is repeated based on the number of a countable game element.
 • If an effect with "for each" requires a target, that effect applies to a single target unless the "for each" clause includes a "choose" instruction.
@@ -31,4 +31,4 @@ Alternatively, an effect that reads "For each upgrade you control, choose an ene
 » » Responses can be triggered after each instance.
 » » For example, if a player is engaged with a guard minion and uses an effect that says "for each resource you spent this way, choose an enemy and deal 2 damage to it," that player can defeat the guard minion with one instance of 2 damage, making the villain a valid target for further instances. That player can trigger a response ability like "After you deal damage to an enemy" after each instance.
 • If another ability modifies a "for each" effect, that modifier is applied to each instance of the "for each" effect. (For example, Flurry of Blades is an event that has the effect: "For each Psi-Katana, choose an enemy and deal 2 damage to it." If modified by an effect that says "that event deals 1 additional damage," Flurry of Blades deals 3 damage to each chosen enemy.) See also: Ability, Target
-```
+</details>

@@ -21,8 +21,8 @@ _Si le texte d’une carte demande à un joueur de révéler une carte Rencontre
 
 _Voir aussi : [[Attachement|Attachement]], [[ChoisirElementDeJeu|Choisir (Élément de jeu)]], [[ChoisirOption|Choisir (Option)]], [[AttribuerAttribuerUneCarteRencontre|Attribuer]], [[CartesRencontre|Carte Rencontre]], [[EntrerEnJeu|Entrer en jeu]], [[Environnement|Environnement]], [[DansLordreDesJoueurs|Dans l’ordre des Joueurs]], [[Sbire|Sbire]], [[Obligation|Obligation]], [[Traitrise|Traîtrise]], [[PhaseDuMechant|Phase du Méchant]]_
 
-**EN v1.7**:  
-```
+<details class="source">
+<summary>EN v1.7</summary>
 REVEAL
 During step four of the villain phase, each player (in player order) reveals and resolves all facedown encounter cards that have been dealt to them, one card at a time in the order in which they were dealt.
 To reveal an encounter card, follow these steps:
@@ -40,11 +40,11 @@ To reveal an encounter card, follow these steps:
 4. If the card is a treachery, discard it.
 If a player is instructed by card text to reveal an encounter card from the encounter deck or any other game area, this same resolution procedure applies.
 See also: Attachment, Choose (Game Element), Choose (Option), Deal, Encounter Card, Enters Play, Environment, In Player Order, Minion, Obligation, Player, Side Scheme, Treachery, Villain Phase
-```
+</details>
 
 
-**FR v1.4**:  
-```
+<details class="source">
+<summary>FR v1.4</summary>
 REVELER
 Lors de la quatrième étape de la phase du Méchant, chaque joueur (dans l’ordre des joueurs) révèle et résout toutes les cartes Rencontre qui lui ont été attribuées, une carte à la fois.
 Pour révéler une carte Rencontre, un joueur la retourne face visible et résout la carte, ce qui inclut tous ses mots-clés et ses effets « Une fois révélée ». La manière de résoudre une carte Rencontre révélée dépend du type de cette carte, comme indiqué ci-dessous. Si la carte révélée est :
@@ -57,4 +57,4 @@ Pour révéler une carte Rencontre, un joueur la retourne face visible et résou
 • une obligation, elle est donnée au joueur spécifié par la carte, et ce joueur résout son texte.
 Si le texte d’une carte demande à un joueur de révéler une carte Rencontre du deck Rencontre ou de tout autre aire de jeu, la même procédure de résolution s’applique.
 Voir aussi : Attachement, Attribuer, Carte Rencontre, Dans L’ordre des Joueurs, Entrer en Jeu, Environnement, Joueur, Manigance Annexe, Obligation, Phase du Méchant, Sbire, Traîtrise
-```
+</details>

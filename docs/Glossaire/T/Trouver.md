@@ -14,8 +14,8 @@
 
 _Voir aussi : [[Chercher|Chercher]], [[RetireDeLaPartie|Retiré de la Partie]], [[PileDeVictoire|Pile de victoire]]_  
 
-**EN v1.7**:  
-```
+<details class="source">
+<summary>EN v1.7</summary>
 FIND
 When instructed to find a card, a player searches each game area where that card could be found (play area, set-aside area, player deck, discard pile, encounter deck, etc.).
 • Players should not unnecessarily search game areas if they know where the card they are looking for can be found.
@@ -28,4 +28,4 @@ When instructed to find a card, a player searches each game area where that card
 » » That minion is not considered to be entering play.
 » » That minion is considered to engage that player unless it was already engaged with that player.
 See also: Search, Removed from the Game, Victory Display
-```
+</details>

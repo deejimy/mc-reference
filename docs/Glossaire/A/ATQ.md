@@ -2,15 +2,15 @@
 
 _Voir aussi : [[AttaqueActivationDuJoueur|Attaque (Action de joueur)]], [[PouvoirDeBase|Pouvoir de Base]]_  
 
-**EN v1.7**:  
-```
+<details class="source">
+<summary>EN v1.7</summary>
 ATK
 See: Attack (Player Ability Type), Basic Power
-```
+</details>
 
 
-**FR v1.4**:  
-```
+<details class="source">
+<summary>FR v1.4</summary>
 ATQ
 Voir : Attaque, Pouvoir de Base
-```
+</details>

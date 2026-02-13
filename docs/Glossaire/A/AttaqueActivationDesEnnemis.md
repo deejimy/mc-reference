@@ -44,8 +44,8 @@ Pour résoudre une attaque ennemie, respectez les étapes suivantes :
 
 _Voir aussi : [[Activation|Activation]], [[Allie|Allié]], [[AttaquesContreLesAllies|Attaques contre les Alliés]], [[BoostIconeDeBoost|Boost]], [[Degats|Dégâts]], [[DefendreDefense|Défendre]], [[Ennemi|Ennemi]], [[Identite|Identité]], [[Modificateurs|Modificateurs]], [[RiposteX|Riposte X]], [[Cible|Cible]], [[MechantDeckMechant|Méchant]], [[Sbire|Sbire]], [[Vilenie|Vilenie]]_  
 
-**EN v1.7**:  
-```
+<details class="source">
+<summary>EN v1.7</summary>
 ATTACK (ENEMY ACTIVATION)
 An attack is a type of enemy activation. When an enemy initiates an attack, it targets a specific player, then resolves that attack against that player.
 • Enemy attacks are always initiated against both a player and a character.
@@ -79,11 +79,11 @@ These rules also apply to enemy attacks:
 • Interrupts that trigger "when [enemy name] attacks" have the same timing as interrupts that trigger "when [the villain/an enemy] initiates an attack."
 • If an enemy attack ends before damage is dealt, abilities that trigger after a character defends an attack resolve, but abilities that trigger after an enemy attacks do not.
 See also: Activation, Ally, Attacks Against Allies, Boost, Damage, Defend, Enemy, Identity, Minion, Modifiers, Retaliate X, Target, Villain, Villainous
-```
+</details>
 
 
-**FR v1.4**:  
-```
+<details class="source">
+<summary>FR v1.4</summary>
 ATTAQUE (ACTIVATION DES ENNEMIS)
 Une attaque est un type d’activation des ennemis. Lorsqu’un ennemi attaque, il cible un joueur spécifique. Ensuite, il résout cette attaque contre ce joueur. Pour résoudre une attaque ennemie, respectez les étapes suivantes :
 1. Si un méchant ou un sbire ayant le mot clé Vilenie attaque, donnez-lui une carte de boost face cachée prise sur le deck Rencontre. (Si un sbire sans le mot clé Vilenie attaque, ignorez cette étape.)
@@ -97,4 +97,4 @@ Une attaque est un type d’activation des ennemis. Lorsqu’un ennemi attaque, 
 • Si un allié défend contre l’attaque, tous les dégâts de l’attaque sont infligés à cet allié. (Si l’allié est vaincu par l’attaque, les dégâts en excès ne sont pas infligés à l’identité.)
 • Si aucun personnage ne défend contre l’attaque, l’attaque est considérée comme non défendue. Tous les dégâts de cette attaque sont infligés à l’identité du joueur ciblé (même si cette identité est sous sa forme d’alter ego).
 Voir aussi : Activation, Allié, Boost, Cible, Défendre, Dégâts, Ennemi, Identité, Méchant, Sbire, Vilenie
-```
+</details>

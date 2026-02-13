@@ -14,8 +14,8 @@ _Voir aussi : [[CartesJoueur|Carte Joueur]], [[LimiteDeManiganceAnnexeDeJoueur|L
 
 
 
-**EN v1.7**:  
-```
+<details class="source">
+<summary>EN v1.7</summary>
 PLAYER SIDE SCHEME
 Player side schemes are missions the heroes undertake to facilitate defeating the villain. They are the player card equivalent of the side schemes found in the encounter deck.
 • When a player side scheme enters play, it is placed next to the main scheme in the villain’s play area.
@@ -26,4 +26,4 @@ Player side schemes are missions the heroes undertake to facilitate defeating th
 » » Heroes and allies can remove threat from a player side scheme by performing a basic thwart.
 » » Abilities that remove threat from "a scheme" or "a side scheme" can remove threat from a player side scheme.
 See also: Card Types, Player Card, Player Side Scheme Limit, Scheme (Card Type), Side Scheme, Victory X
-```
+</details>

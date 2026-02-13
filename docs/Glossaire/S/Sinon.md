@@ -10,8 +10,8 @@
 
 _Voir aussi : [[EffetsDeRemplacement|Effets de remplacement]], [[Cible|Cible]]_  
 
-**EN v1.7**:  
-```
+<details class="source">
+<summary>EN v1.7</summary>
 "OTHERWISE"
 Effects beginning with "otherwise" resolve only if the preceding effect was not resolved.
 • An "otherwise" effect will resolve if one or more of the following are true of the preceding effect:
@@ -21,4 +21,4 @@ Effects beginning with "otherwise" resolve only if the preceding effect was not 
 The "otherwise" portion resolves if the player cannot discard at least 1 card from their hand.)
 • If "otherwise" is preceded by a semicolon, the "preceding effect" refers to the effects before the semicolon in the same sentence. If the "otherwise" effect is its own sentence, the "preceding effect" refers to the sentence coming directly before the "otherwise" sentence.
 See also: Replacement Effect, Target
-```
+</details>

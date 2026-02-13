@@ -10,8 +10,8 @@
 
 _Voir aussi : [[Allie|Allié]], [[AttaqueActivationDesEnnemis|Attaque (Activation des Ennemis)]], [[DefendreDefense|Défendre]], [[Cible|Cible]]_  
 
-**EN v1.7**:  
-```
+<details class="source">
+<summary>EN v1.7</summary>
 ATTACKS AGAINST ALLIES
 Some effects cause a villain or minion to attack an ally directly. When this occurs, any undefended damage from that attack is placed on the ally that was attacked.
 • The player who controls the ally is considered the attacked player.
@@ -20,4 +20,4 @@ Some effects cause a villain or minion to attack an ally directly. When this occ
 • Players may defend these attacks as normal by declaring a hero or an ally as the defender.
 • If the attack has overkill and defeats an ally (whether that ally was the attacked ally or a defending ally), any excess damage from that attack is dealt to the identity of the player who controlled the defeated ally.
 See also: Ally, Attack (Enemy Activation), Defend, Target
-```
+</details>

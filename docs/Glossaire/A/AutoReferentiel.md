@@ -2,8 +2,8 @@
 
 _Voir aussi : [[CapaciteReferentielle|Capacité référentielle]]_  
 
-**EN v1.7**:  
-```
+<details class="source">
+<summary>EN v1.7</summary>
 SELF-REFERENTIAL
 See: Referential Ability
-```
+</details>

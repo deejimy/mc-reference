@@ -10,8 +10,8 @@ Un effet persistant est un effet qui affecte la partie pour une durée spécifi�
 _Voir aussi : [[Capacite|Capacité]], [[EntrerEnJeu|Entrer en Jeu]]_  
 
 
-**EN v1.7**:  
-```
+<details class="source">
+<summary>EN v1.7</summary>
 LASTING EFFECTS
 Some card abilities create effects or conditions that affect the game for a specified duration (such as "until the end of the phase" or "until the end of this attack"). Such effects are known as lasting effects.
 • A lasting effect persists beyond the resolution of the ability that created it, for the duration specified by the effect. The effect continues to affect the game for the specified duration whether or not the card that created the lasting effect is in play.
@@ -21,11 +21,11 @@ Some card abilities create effects or conditions that affect the game for a spec
 • A lasting effect expires as soon as the timing point specified by its duration is reached. This means that an "until the end of the round" lasting effect expires just before an "at the end of the round" ability or delayed effect may initiate.
 • A lasting effect that expires at the end of a specified time period can only be initiated during that time period.
 See also: Ability, Enters Play
-```
+</details>
 
 
-**FR v1.4**:  
-```
+<details class="source">
+<summary>FR v1.4</summary>
 EFFETS PERSISTANTS
 Certaines capacités de carte créent des effets ou des conditions qui affectent la partie pour une durée spécifiée (comme « jusqu’à la fin de la phase » ou « jusqu’à la fin de cette attaque »). De tels effets sont appelés effets persistants.
 Considérez un effet persistant comme s’il s’agissait d’une capacité constante pendant la durée spécifiée.
@@ -34,4 +34,4 @@ Considérez un effet persistant comme s’il s’agissait d’une capacité cons
 • Un effet persistant expire dès que le point de timing spécifié dans sa durée est atteint. Cela signifie qu’un effet persistant qui dure « jusqu’à la fin du round » expire juste avant que les capacités ou les effets retardés « à la fin du round » ne puissent s’initier.
 • Un effet persistant qui expire à la fin d’une période de temps spécifiée ne peut être initié que durant cette période de temps.
 Voir aussi : Capacité, Entrer en Jeu
-```
+</details>
