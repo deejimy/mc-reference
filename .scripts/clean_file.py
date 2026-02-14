@@ -8,8 +8,8 @@ Script combiné pour :
 
 import re
 
-input_file = '../.work/glossary.txt'
-output_file = '../.work/glossary_clean.txt'
+input_file = '../docs/Appendice/IV.md'
+output_file = '../docs/Appendice/IV_cleaned.md'
 
 
 def is_uppercase_line(line):
@@ -116,7 +116,12 @@ def process_file(content):
     for i, line in enumerate(fixed_lines):
         if is_uppercase_line(line):
             # Ajouter ligne vide avant (sauf si première ligne ou déjà une ligne vide)
-            if i > 0 and final_lines and final_lines[-1].strip():
+            if (
+                i > 0
+                and final_lines
+                and final_lines[-1].strip()
+                and not is_uppercase_line(fixed_lines[i - 1])
+            ):
                 final_lines.append('')
                 titles_found += 1
         final_lines.append(line)
