@@ -1,6 +1,18 @@
 /* --- CONFIGURATION GLOBALE ET TAILLE DE POLICE --- */
 :root {
   --md-typeset-font-size: 0.70rem;
+  --md-default-bg-color: #f8f4f1;
+  --md-code-bg-color: #f8f4f1;
+}
+
+[data-md-color-scheme="default"] {
+  --md-default-bg-color: #f8f4f1;
+}
+
+html, body, .md-app, .md-main, .md-main__inner, .md-page, .md-content, .md-content__inner, .md-typeset, .md-sidebar, .md-toolbar {
+  background-color: #f8f4f1 !important;
+  background-image: none !important;
+  box-shadow: none !important;
 }
 
 .md-typeset {
@@ -129,15 +141,16 @@
 
 .source {
   background: none !important;
-  border: 1px solid #e9ecef !important;
+  border: 1px solid #ece8e5 !important;
   box-shadow: none !important;
   white-space: pre-wrap !important;
   display: block;
 }
 .source summary {
- background: #f8f9fa !important;
+ background: #ece8e5 !important;
  padding-left: 10px !important;
 }
 .source summary::before {
  display: none !important ;
 }
+
