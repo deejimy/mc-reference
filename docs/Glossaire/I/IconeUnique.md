@@ -27,7 +27,7 @@ De plus, certains sbires uniques peuvent porter le même titre que d’autres pe
     - <span class="new">Si c’est une carte joueur, elle ne peut pas être jouée ni mise en jeu. Tout effet tentant de le faire n’a aucun effet.</span> 
     - Si une carte Rencontre non‑méchant correspond à une carte en jeu, elle est défaussée et tout effet lié à son entrée en jeu est ignoré. Si elle était en train d’être révélée, tout effet lié à sa révélation est ignoré et le joueur qui l’a révélée reçoit une carte Rencontre face cachée.  
 
-_Voir aussi : [[Allie|Allié]], [[EntrerEnJeu|Entrer en Jeu]], [[Identite|Identité]], [[Sbire|Sbire]], [[Joueur|Joueur]], [[SousTitre|Sous-Titre]], [[MechantDeckMechant|Méchant]], [[PersonnalisationDuDeck|Appendice I : Decks Personnalisés]]_  
+_Voir aussi : [[Allie|Allié]], [[EntrerEnJeu|Entrer en Jeu]], [[Identite|Identité]], [[Sbire|Sbire]], [[Joueur|Joueur]], [[SousTitre|Sous-Titre]], [[MechantDeckMechant|Méchant]], [[I|Appendice I : Decks Personnalisés]]_  
 
 <details class="source">
 <summary>EN v1.7</summary>UNIQUE ICON

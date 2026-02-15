@@ -6,7 +6,7 @@ Les cartes qui appartiennent à un « set de rencontre modulaire » (parfois ré
 - Si un set de rencontre modulaire est ajouté au scénario, il convient d’ajouter l’intégralité du set. À moins que les règles d’un scénario spécifique ne demandent le contraire, les cartes d’un set de rencontre modulaire ne peuvent pas être intégrées individuellement à un scénario.  
 - Une carte de set de rencontre modulaire est identifiable par le nom du set de rencontre modulaire imprimé, en bas, dans le champ Information du set de rencontre.  
 
-_Voir aussi : [[Classifications|Classifications]], [[PersonnalisationDuDeck|Appendice I : Decks Personnalisés]]_  
+_Voir aussi : [[Classifications|Classifications]], [[I|Appendice I : Decks Personnalisés]]_  
 
 <details class="source">
 <summary>EN v1.7</summary>MODULAR ENCOUNTER SET

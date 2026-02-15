@@ -191,7 +191,6 @@
 [[Peril|Péril]]   
 [[Permanent|Permanent]]   
 [[Personnage|Personnage]]   
-[[PersonnalisationDuDeck|Personnalisation du deck]]   
 [[PhaseDesJoueurs|Phase des joueurs]]   
 [[PhaseDuMechant|Phase du Méchant]]   
 [[PileDeDefausse|Pile de défausse]]   

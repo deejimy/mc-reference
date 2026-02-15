@@ -8,7 +8,7 @@ Les cartes de la classification « spécifiques à l’identité » (parfois app
 
     - <span class="new">Les cartes Identité sont des cartes spécifiques à l’identité.</span>  
 
-_Voir aussi : [[CartesDaffinite|carte Aspect]], [[CartesBasiques|Cartes Basiques]], [[Classifications|Classifications]], [[Identite|Identité]], [[SetDeRencontreNemesis|Set de Rencontre Némésis]], [[PersonnalisationDuDeck|Appendice I : Decks Personnalisés]]_  
+_Voir aussi : [[CartesDaffinite|carte Aspect]], [[CartesBasiques|Cartes Basiques]], [[Classifications|Classifications]], [[Identite|Identité]], [[SetDeRencontreNemesis|Set de Rencontre Némésis]], [[I|Appendice I : Decks Personnalisés]]_  
 
 <details class="source">
 <summary>EN v1.7</summary>IDENTITY-SPECIFIC CARD

@@ -6,7 +6,7 @@
 - <span class="new">Les capacités « Mise en place » sur les cartes Rencontre se résolvent lors de l’étape « Résoudre la mise en place du scénario et les capacités Une fois révélée » de la mise en place.</span>  
 - <span class="new">Les capacités « Mise en place » sur les cartes Joueur se résolvent lors de l’étape « Résoudre les capacités de mise en place des personnages » de la mise en place.</span>  
 
-_Voir aussi : [[CapaciteDeclenchee|Capacité Déclenchée]], Appendice II : Mise en Place_  
+_Voir aussi : [[CapaciteDeclenchee|Capacité Déclenchée]], [[II|Appendice II : Mise en Place]]_  
 
 <details class="source">
 <summary>EN v1.7</summary>SETUP (TRIGGERED ABILITY)

@@ -8,7 +8,7 @@ Les cartes de la classification « spécifique au scénario » sont des cartes q
 - Dans la plupart des scénarios, les cartes spécifiques au scénario sont séparées en trois decks : le deck Méchant (contenant les cartes Méchant de ce scénario), le deck Manigance Principale (contenant les cartes Manigance Principale de ce scénario) et le deck Rencontre (contenant les cartes Attachement, Environnement, Manigance Annexe, Sbire et Traîtrise).  
 - Une carte spécifique au scénario est identifiable par le nom du scénario auquel elle est associée. Ce nom est imprimé à bas de la carte, dans le champ Information du set de rencontre.  
 
-_Voir aussi : [[Classifications|Classifications]], [[ManigancePrincipaleDeckManigancePrincipale|Deck Manigance Principale]], [[MechantDeckMechant|Deck Méchant]], [[PersonnalisationDuDeck|Appendice I : Decks Personnalisés]]_  
+_Voir aussi : [[Classifications|Classifications]], [[ManigancePrincipaleDeckManigancePrincipale|Deck Manigance Principale]], [[MechantDeckMechant|Deck Méchant]], [[I|Appendice I : Decks Personnalisés]]_  
 
 <details class="source">
 <summary>EN v1.7</summary>SCENARIO-SPECIFIC CARD

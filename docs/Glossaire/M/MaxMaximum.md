@@ -14,7 +14,7 @@
     - <span class="new">Un maximum sous la forme « (to a maximum of +X) » s’applique uniquement à la capacité qui contient ce maximum. (Par exemple, plusieurs capacités portant le texte « (to a maximum of +3 ATK) » peuvent être combinées pour augmenter l’ATK d’un personnage au‑delà de +3.)</span>  
     - <span class="new">Un maximum sous la forme « (to a maximum [élément de jeu] of X) » s’applique à toutes les capacités qui augmentent cet élément de jeu. (Par exemple, « (to a maximum hand size of 7) » signifie que la taille de main d’un joueur ne peut pas dépasser 7 du fait d’aucune capacité.)</span>  
 
-_Voir aussi : [[Annuler|Annuler]], [[Limite|Limite]], [[PersonnalisationDuDeck|Appendice I : Decks Personnalisés]]_  
+_Voir aussi : [[Annuler|Annuler]], [[Limite|Limite]], [[I|Appendice I : Decks Personnalisés]]_  
 
 <details class="source">
 <summary>EN v1.7</summary>MAX, MAXIMUM

@@ -2,7 +2,7 @@
 
 L’icône de set indique le produit d’origine d’une carte ; elle est située dans les informations de collection au bas de la carte.  
 
-_Voir aussi : Appendice III : Description des Cartes_  
+_Voir aussi : [[III|Appendice III : Description des Cartes]]_  
 
 
 

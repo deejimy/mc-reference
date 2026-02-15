@@ -5,7 +5,7 @@ Il existe 8 types de carte Rencontre : cartes Attachement, cartes Environnement,
 - Les cartes Rencontre appartiennent à diverses classifications, telles que les cartes Rencontre spécifiques à un scénario ou les cartes Rencontre de set modulaire.  
 - La plupart des cartes Rencontre ont un dos orange.  
 
-_Voir aussi : [[Attachement|Attachement]], [[Classifications|Classifications]], [[Environnement|Environnement]], [[ManiganceAnnexe|Manigance Annexe]], [[ManigancePrincipaleDeckManigancePrincipale|Manigance Principale]], [[MechantDeckMechant|Méchant]], [[Sbire|Sbire]], [[Traitrise|Traîtrise]], Appendice I : Decks Personnalisés_  
+_Voir aussi : [[Attachement|Attachement]], [[Classifications|Classifications]], [[Environnement|Environnement]], [[ManiganceAnnexe|Manigance Annexe]], [[ManigancePrincipaleDeckManigancePrincipale|Manigance Principale]], [[MechantDeckMechant|Méchant]], [[Sbire|Sbire]], [[Traitrise|Traîtrise]], [[I|Appendice I : Decks Personnalisés]]_  
 
 <details class="source">
 <summary>EN v1.7</summary>ENCOUNTER CARD

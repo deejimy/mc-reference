@@ -9,7 +9,7 @@ Le type d’une carte indique les diverses règles et fonctions de jeu qui lui s
     - <span class="new">Un allié qui a été changé en sbire engage son contrôleur et ne subit pas de dégâts consécutifs après avoir attaqué ou manigancé.  </span>
     - <span class="new">Lorsqu’un joueur transforme un sbire en allié, ce joueur prend le contrôle de cet allié.  </span>
 
-_Voir aussi : [[Allie|Allié]], [[Attachement|Attachement]], [[CartesRencontre|Carte Rencontre]], [[Environnement|Environnement]], [[Evenement|Événement]], [[Identite|Identité]], [[ManigancePrincipaleDeckManigancePrincipale|Manigance principale]], [[Sbire|Sbire]], [[Obligation|Obligation]], [[CartesJoueur|Carte Joueur]], [[ManiganceAnnexeDeJoueur|Manigance annexe de joueur]], [[RessourceCarte|Carte Ressource]], [[ManiganceAnnexe|Manigance annexe]], [[Soutien|Soutien]], [[Traitrise|Traîtrise]], [[Amelioration|Amélioration]], [[MechantDeckMechant|Méchant]], Appendice III : Description des Cartes_  
+_Voir aussi : [[Allie|Allié]], [[Attachement|Attachement]], [[CartesRencontre|Carte Rencontre]], [[Environnement|Environnement]], [[Evenement|Événement]], [[Identite|Identité]], [[ManigancePrincipaleDeckManigancePrincipale|Manigance principale]], [[Sbire|Sbire]], [[Obligation|Obligation]], [[CartesJoueur|Carte Joueur]], [[ManiganceAnnexeDeJoueur|Manigance annexe de joueur]], [[RessourceCarte|Carte Ressource]], [[ManiganceAnnexe|Manigance annexe]], [[Soutien|Soutien]], [[Traitrise|Traîtrise]], [[Amelioration|Amélioration]], [[MechantDeckMechant|Méchant]], [[III|Appendice III : Description des Cartes]]_  
 
 <details class="source">
 <summary>EN v1.7</summary>CARD TYPES

@@ -5,7 +5,7 @@ De nombreuses cartes possèdent un ou plusieurs traits indiqués au sommet de le
 - Les traits n’ont aucun effet direct sur le jeu. En revanche, certaines capacités de carte se réfèrent à des cartes qui possèdent (ou non) un trait spécifique.  
 - Les traits ne sont pas considérés comme faisant partie de la boîte de texte imprimée pour ce qui concerne les capacités de carte.  
 
-_Voir aussi : [[Imprime|Imprimé]], Appendice III : Description des Cartes_  
+_Voir aussi : [[Imprime|Imprimé]], [[III|Appendice III : Description des Cartes]]_  
 
 <details class="source">
 <summary>EN v1.7</summary>TRAITS

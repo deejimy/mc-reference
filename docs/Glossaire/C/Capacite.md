@@ -1,6 +1,6 @@
 # Capacité
 
-Une capacité est un texte de jeu sur une carte qui indique spécifiquement ce que fait une carte (ou ce qu’elle peut faire). Plusieurs exemples sont en Appendice III de ce Guide de Référence.  
+Une capacité est un texte de jeu sur une carte qui indique spécifiquement ce que fait une carte (ou ce qu’elle peut faire). Plusieurs exemples sont en [[III|Appendice III]] de ce Guide de Référence.  
 
 - Les capacités de carte ne peuvent interagir qu’avec les cartes qui sont en jeu, sauf si la capacité se réfère spécifiquement à une zone ou un élément hors jeu.  
 

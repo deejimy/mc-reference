@@ -5,7 +5,7 @@ Le mot-clé `En Equipe` est suivi du nom de deux personnages. Pour inclure une c
 - <span class="new">Un allié compte comme un personnage nommé si son titre ou son sous-titre correspond au personnage nommé.  
 </span>
 
-_Voir aussi : [[Allie|Allié]], [[EnJeuEtHorsJeu|En Jeu et Hors Jeu]], [[Identite|Identité]], [[JouerMettreEnJeu|Jouer]], [[MotsCles|Mots-clés]], [[TexteDeRappel|Texte de Rappel]], [[PersonnalisationDuDeck|Appendice I : Decks Personnalisés]]_  
+_Voir aussi : [[Allie|Allié]], [[EnJeuEtHorsJeu|En Jeu et Hors Jeu]], [[Identite|Identité]], [[JouerMettreEnJeu|Jouer]], [[MotsCles|Mots-clés]], [[TexteDeRappel|Texte de Rappel]], [[I|Appendice I : Decks Personnalisés]]_  
 
 <details class="source">
 <summary>EN v1.7</summary>TEAM-UP

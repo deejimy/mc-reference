@@ -5,7 +5,7 @@ On appelle cartes d’affinité, les cartes qui appartiennent aux affinités Agr
 - Lors de la construction d’un deck joueur, un joueur doit choisir une des <span class="new">cinq</span> affinités (Agressivité, Justice, Commandement, Protection ou <span class="new">`Pool`</span>) pour le personnaliser. Le reste de son deck (la portion qui n’est pas constituée des cartes spécifiques à son identité) peut donc être personnalisé avec des cartes qui appartiennent à l’affinité choisie.  
 - L’affinité d’une carte est identifiable par le nom de l’affinité imprimé en bas de la carte dans le champ de Classification de Construction.  
 
-_Voir aussi : [[CartesBasiques|Cartes Basiques]], [[CartesSpecifiquesALidentite|Cartes Spécifiques à l’Identité]], [[Classifications|Classifications]], Appendice I : Decks Personnalisés_  
+_Voir aussi : [[CartesBasiques|Cartes Basiques]], [[CartesSpecifiquesALidentite|Cartes Spécifiques à l’Identité]], [[Classifications|Classifications]], [[I|Appendice I : Decks Personnalisés]]_  
 
 <details class="source">
 <summary>EN v1.7</summary>ASPECT CARD

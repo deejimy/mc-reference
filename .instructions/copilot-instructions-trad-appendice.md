@@ -13,24 +13,13 @@ Le but est de traduire le bloc `EN v1.7` en n'oubliant aucune phrase.
 
 Etapes à suivre de 1 à 11 :
 
-1. Ne pas toucher aux blocs <details> `EN v1.7` et `FR v1.4`.
-2. Si la traduction existe dans le bloc `FR v1.4`, il faut la réutiliser pour être fidèle à la version précédente. Mais ne pas ajouter les phrases héritées de FR v1.4 qui ne figurent pas dans l'EN v1.7. 
-3. Traduire intégralement le bloc EN v1.7 en français entre le titre (#TITLE) et le bloc EN v1.7 La traduction doit être complète et fidèle au texte original, en respectant les termes spécifiques du jeu et en utilisant un langage clair et précis. Réduire le texte FR pour qu'il reflète strictement le contenu EN v1.7.
-4.  Ne pas préfixer la traduction par le titre en majuscule (éviter DUPLICATION).
-5. A partir de la traduction produite: remplacer les listes à puces `•` par un retour de ligne + tiret `\n-` et les chevrons `» »` par un tiret précédé d'un retour de ligne + 4 espaces `\n    -`. Respecter l'indentation des sub-bullets
-6. Pour tout texte non présent dans le bloc FR v1.4, l'englober par `<span class="new">...</span>` pour indiquer que ce texte a été ajouté dans la nouvelle version.
-7. Précéder les phrases `Voir` et `Voir aussi` d'une ligne vide et englober cette phrase en italique. Exemple: `_Voir aussi: Keyword1, keyword2_`. ATTENTION:Ne pas englober cette section dans un <span class="new">...</span>. Créer les liens markdowns de type [[Page|Title]]
-8. Remplacer les icones par l'image correspondantes (voir section Correspondance Icone) 
-9. Ajouter 2 espaces en fin de ligne pour assurer un bon rendu markdown.
-10. Vérifier les correspondances (voir chapitre) pour vérifier les traductions sur certains mots-clés. Exemple le mot `villainous`doit se traduire `vilenie`
-11. Executer les 4 contrôles de validation (voir chapitre Contrôles) pour s'assurer que la traduction est complète et conforme aux attentes. Sinon recommencer à partir de l'étape 3.
+1. Ne pas toucher aux blocs <details> `EN v1.7`.
+2. Traduire intégralement le bloc EN v1.7 en français entre le titre (#TITLE) et le bloc EN v1.7 La traduction doit être complète et fidèle au texte original, en respectant les termes spécifiques du jeu et en utilisant un langage clair et précis.
+3.  Ne pas préfixer la traduction par le titre en majuscule (éviter DUPLICATION).
+4. A partir de la traduction produite: remplacer les listes à puces `•` par un retour de ligne + tiret `\n-` et les chevrons `» »` par un tiret précédé d'un retour de ligne + 4 espaces `\n    -`. Respecter l'indentation des sub-bullets
+5. Remplacer les icones par l'image correspondantes (voir section Correspondance Icone) 
+6. Vérifier les correspondances (voir chapitre) pour vérifier les traductions sur certains mots-clés. Exemple le mot `villainous`doit se traduire `vilenie`
 
-
-# Contrôles ✅
-1. Vérifier que le texte EN v1.7 a été intégralement traduit, si il manque une phrase ou une partie de phrase, refuser la traduction et recommencer à partir de l'étape 3.
-2. Vérifier que le nombre de puces (top level et sous-puces et numérotation) dans la traduction produite correspond au nombre exact de puces dans le bloc EN v1.7.
-3. S’assurer que chaque phrase du bloc EN v1.7 est soit présente textuellement en FR v1.4, soit présente dans <span class="new"> ( une phrase présente dans EN v1.7 mais absente de FR v1.4 doit avoir la class "new").
-4. Rechercher et refuser les traductions préfixées par le titre MAJUSCULE.
 
 ## Correspondance Icone
 
