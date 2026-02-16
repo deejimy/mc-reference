@@ -1,5 +1,285 @@
 # APPENDICE V: Errata
 
+## BOÎTE DE BASE  
+
+DIVISION LÉGALE SURHUMAINE (#26)  
+Il devrait être écrit : « Action d’Alter-Ego : inclinez Division Légale Surhumaine et dépensez une ressource ![[icone_mentale.jpg|15]] → retirez 2 menaces d’une manigance. » (Suppression du label « (contre) ».)
+
+LA CHAISE DE L’APOCALYPSE (#183)  
+Il devrait être écrit : « Une fois révélée : si M.O.D.O.K. n’est pas en jeu, cherchez M.O.D.O.K. dans le deck Rencontre et la pile de défausse Rencontre et mettez-le en jeu engagé avec vous, puis mélangez le deck Rencontre. » (Ajout des points dans « M.O.D.O.K. ».)
+
+M.O.D.O.K. (#184)  
+Ajout des points dans le titre de la carte.
+
+## PACK SCÉNARIO L’ÉQUIPE DE DÉMOLITION
+« JE T’ATTENDAIS ! » (#41)  
+Il devrait être écrit : « Une fois révélée : le méchant actif soigne 3 points de vie. Donnez à ce méchant une carte d’état Tenace. » (« soigne » au lieu de « gagne ».)
+
+## PACK HÉROS CAPTAIN AMERICA
+MEMBRE HONORAIRE DES AVENGERS (#25)  
+Il devrait être écrit : « Jouez cette carte uniquement si votre identité a le trait Avenger. Attachez cette carte à un personnage ami. 1 max par personnage.
+Le personnage attaché gagne +1 point de vie et le trait Avenger. » (Ajout de « 1 max par personnage. »)
+
+PRIS EN FILATURE (#32)  
+Il devrait être écrit : « Interruption : quand la manigance attachée est déjouée, infligez 4 dégâts à un ennemi. » (« Interruption » au lieu de « Réponse ».)
+
+## PACK HÉROS THOR
+FRAPPE FOUDROYANTE (#6)  
+Il devrait être écrit : « Action de héros : dépensez X ressources ![[icone_energie.jpg|15]] → infligez X dégâts au méchant et à chaque sbire engagé avec vous.
+Ces dégâts ignorent les cartes d’état Tenace si vous avez le trait Aérien. » (« dégâts » au lieu de « attaque ».)
+
+LOKI (#28)  
+Il devrait être écrit : « Interruption forcée : quand Loki est censé être vaincu, défaussez la carte du dessus du deck Rencontre. Si cette carte est une traîtrise, soignez tous les dégâts de Loki à la place. » (« Interruption forcée » au lieu de « Interruption ».)
+
+## PACK HÉROS BLACK WIDOW
+BLACK WIDOW (#1A)  
+Il devrait être écrit : « Widowmaker — Réponse : après avoir résolu la capacité d’une carte Préparation que vous contrôlez, infligez 1 dégât à un ennemi. » (« résoudre » au lieu de « déclencher ».)
+
+## PACK HÉROS DOCTEUR STRANGE
+IRON FIST (#14)  
+Il devrait être écrit : « Interruption : quand Iron Fist attaque un ennemi, retirez-lui 1 jeton Mystique → sonnez cet ennemi et infligez-lui 1 dégât. » (« Interruption » au lieu de « Réponse ».)
+
+ALERTE (#21)  
+Il devrait être écrit : « Interruption : quand un héros est censé subir n’importe quelle quantité de dégâts, réduisez de 1 cette quantité. » (Suppression de « (défense) » et du trait Défense.)
+
+## PACK HÉROS HULK
+DÉMONS INTÉRIEURS (#25)  
+Il devrait être écrit : « Donnez cette carte au joueur de Bruce Banner. Changez de forme (retournez votre identité). • Si vous êtes Bruce Banner, défaussez 2 cartes de votre main. Défaussez cette obligation. • Si vous êtes Hulk, inclinez votre héros. Défaussez cette obligation. » (Suppression de « Ensuite : ».)
+
+## EXTENSION L’AVÈNEMENT DE CRÂNE ROUGE
+TOUR DES AVENGERS (#21)  
+Cette carte doit avoir le trait Avenger.
+
+DÉSIGNÉE POUR MOURIR (#28)  
+Il devrait être écrit : « Une fois révélée : le joueur Clint Barton cherche Mockingbird dans sa main, son deck, sa pile de défausse et sa zone de jeu, puis la place face visible sous cette carte. Quand cette manigance est déjouée, renvoyez Mockingbird dans la main de son propriétaire. » (« manigance » au lieu de « stade ».)
+
+HAIL HYDRA! (#57, #147)  
+Il devrait être écrit : « Une fois révélée : chaque sbire Hydra engagé avec un héros attaque ce héros. Chaque joueur qui n’a pas été attaqué de cette façon cherche un sbire Hydra dans le deck Rencontre et la pile de défausse Rencontre et le met en jeu engagé avec lui. Mélangez le deck Rencontre s’il a été fouillé. » (La capacité de mélange ne se produit que si le deck Rencontre est fouillé.)
+
+ATTAQUE DU MONT ATHENA (#61A)  
+Il devrait être écrit : « Contenu : Crossbones (I) et Crossbones (II). Sets de rencontre Crossbones, Armes Expérimentales et Standard. Trois sets modulaires (Assaut Hydra, Maître d’Armes et Légions d’Hydra). » (« Patrouille Hydra » devient « Assaut Hydra ».)
+
+L’AVÈNEMENT DE CRÂNE ROUGE (#128A)  
+Il devrait être écrit : « Mise en place : mettez la Maison Rouge en jeu. Mélangez toutes les autres manigances annexes Rencontre dans le deck de manigances annexes et placez-le à côté du deck Rencontre (voir encart). Mettez Le Dormeur de côté, hors-jeu. » (Ajout de « Rencontre » avant « manigance annexe ».)
+
+RÉALITÉ DISTORDUE (#135)
+Il devrait être écrit : « Interruption forcée : quand la manigance annexe attachée est déjouée, attribuez une carte Rencontre au premier joueur. » (« Interruption forcée » au lieu de « Réponse forcée ».)
+
+RIVAL AMER (#136)  
+Il devrait être écrit : « Une fois révélée : pour chaque manigance annexe en jeu, choisissez et inclinez un personnage que vous contrôlez. » (Texte révisé pour fonctionner comme prévu avec les règles mises à jour de « pour chaque ».)
+
+## PACK HÉROS WASP
+SCARABÉE (#28)  
+Il devrait être écrit : « Interruption forcée : quand Scarabée est vaincu, le joueur qui l’a vaincu choisit soit de dépenser une ressource ![[icone_physique.jpg|15]], soit de mélanger Scarabée dans le deck Rencontre. » (Précise quel joueur doit résoudre la capacité.)
+
+## EXTENSION CONVOITISE GALACTIQUE
+LIVRET DE RÈGLES P.10, INSTRUCTIONS DE CAMPAGNE, MISE EN PLACE, PUCE 5  
+Il devrait être écrit : « Campagne Experte uniquement : quand la mise en place se termine, dans l’ordre des joueurs, chaque joueur doit choisir 1 carte de sa main et la placer face visible dans la Collection. » (Ajout de « quand la mise en place se termine ».)
+
+LIVRET DE RÈGLES P.18, INSTRUCTIONS DE CAMPAGNE, MISE EN PLACE, PUCE 1  
+Il devrait être écrit : « (Optionnel) Révélez la manigance annexe Suprématie Kree (#182A) (utilisez le verso pour le mode expert). » (Ajout de « (Optionnel) ».)
+
+POTION D’OBÉISSANCE (#123)  
+Il devrait être écrit : « Action de héros : subissez 1 dégât et dépensez ![[icone_mentale.jpg|15]] ![[icone_mentale.jpg|15]] → défaussez cette carte. N’importe quel joueur peut faire ceci. » (Texte de rappel remplacé par un texte de règle.)
+
+LE POISON (#125)  
+Il devrait être écrit : « Action de héros : dépensez 3 ressources de types différents → défaussez cette carte. N’importe quel joueur peut faire ceci. » (Texte de rappel remplacé par un texte de règle.)
+
+## PACK HÉROS STAR-LORD
+COSMO (#20)  
+Il devrait être écrit : « Interruption : quand Cosmo attaque ou contre, nommez un type de carte, puis défaussez la carte du dessus d’un deck Joueur ou du deck Rencontre. Si cette carte est du type nommé, Cosmo ne subit pas de dégâts consécutifs pour cette utilisation. » (« un deck » devient « un deck Joueur ou le deck Rencontre ». Suppression du texte de rappel.)
+
+## EXTENSION L'OMBRE DU TITAN FOU
+LIVRET DE RÈGLES P.10, DEUX MANIGANCES PRINCIPALES, PARAGRAPHE 1  
+Ce paragraphe devrait se terminer par : « Quand un sbire manigance, cette menace est placée sur la manigance principale ayant l’attachement “Défense Focalisée”. »
+
+SANCTUAIRE (#116)  
+Il devrait être écrit : « Thanos ne peut pas subir de dégâts provenant des cartes Joueur. » (Ajout de « provenant des cartes Joueur ».)
+
+GANT DE L’INFINI (#129)  
+Il devrait être écrit : « Permanent. Mise en place.
+Attachez au méchant.
+Réponse forcée : après que le méchant attaché s’active contre vous, résolvez la capacité Spécial de chaque Pierre d’Infinité en jeu.
+Sinon, mettez en jeu la carte du dessus du deck Pierre d’Infinité. » (Ajout de « Attachez au méchant » et de « contre vous ».)
+
+## PACK HÉROS NEBULA
+EROS (#11)  
+Il devrait être écrit : « Réponse : après avoir joué Eros depuis votre main, pour chaque ressource ![[icone_mentale.jpg|15]] utilisée pour le payer, choisissez un sbire et désorientez-le. » (Texte révisé pour fonctionner avec les règles mises à jour de « pour chaque ».)
+
+COSMO (#20)  
+Il devrait être écrit : « Interruption : quand Cosmo attaque ou contre, nommez un type de carte, puis défaussez la carte du dessus d’un deck Joueur ou du deck Rencontre. Si cette carte est du type nommé, Cosmo ne subit pas de dégâts consécutifs pour cette utilisation. » (« un deck » devient « un deck Joueur ou le deck Rencontre ». Suppression du texte de rappel.)
+
+VIEUX RIVAUX (#31)  
+Il devrait être écrit : « Une fois révélée : Gamora vous attaque. Si le héros ou l’allié Gamora est en jeu, elle vous attaque (résolvez son ATQ contre vous sans l’incliner). Si aucune attaque n’a été effectuée de cette façon, cette carte gagne Renfort. » (Texte de rappel remplacé par un texte de règle pour fonctionner avec les règles mises à jour des capacités référentielles.)
+
+## PACK HÉROS WAR MACHINE
+JAMES RHODES (#1B)  
+Il devrait être écrit : « Action : choisissez une carte War Machine dans votre pile de défausse et mélangez-la dans votre deck. (Limite d’une fois par phase.) » (Ajout de « (Limite d’une fois par phase.) »)
+
+## PACK HÉROS VALKYRIE
+ARAGORN (#7)  
+Il devrait être écrit : « Vous gagnez +4 points de vie et le trait Aérien. » (« Valkyrie » devient « Vous ».)
+
+GUERRIERE PROTECTRICE (#11)  
+Cette carte devrait avoir le trait Défense et indiquer : « Interruption de héros (défense) : quand l’ennemi ayant Marque Mortelle attachée attaque, déclarez Valkyrie défenseure sans l’incliner. Elle gagne +2 DEF pour cette attaque. » (Ajout de « (défense) ».)
+
+ENSORCELÉE (#31)  
+Cette carte devrait avoir le trait Condition et indiquer : « Une fois révélée :
+Attachez à l’allié ayant le coût le plus élevé sans Ensorcelée attachée. L’allié attaché engage son contrôleur. Sinon, cette carte gagne Renfort. »
+
+## PACK HÉROS VISION
+MACHINE MAN (#22)  
+Il devrait être écrit : « Interruption : quand Machine Man attaque ou contre, dépensez jusqu’à 3 ressources de n’importe quel type → Machine Man gagne +1 CTR et +1 ATQ pour cette utilisation pour chaque ressource dépensée de cette manière. » (Ajout de « pour cette utilisation ».)
+
+## EXTENSION SINISTER MOTIVES
+LIVRET DE RÈGLES P.17, LE MARQUEUR PLANEUR, PARAGRAPHE 4  
+Ce paragraphe devrait se terminer par : « Quand une manigance principale est complétée, retournez-la sur sa face Environnement. »
+
+LIVRET DE RÈGLES P.22, PISTE DE RÉPUTATION, COLONNE DE GAUCHE, PARAGRAPHE 2  
+Il devrait être écrit : « Pendant l’étape Résoudre les Mulligans de la mise en place, chaque joueur peut faire 1 mulligan supplémentaire. » (« étape 13 » devient « l’étape Résoudre les Mulligans » pour s’aligner sur le processus de mise en place mis à jour.)
+
+PÈRE INQUIET (#25)  
+Il devrait être écrit : « Cherchez George Stacy dans votre deck, votre main, votre pile de défausse et votre zone de jeu puis attachez-le face cachée à cette carte. » (George Stacy est attaché à cette carte au lieu d’être mis de côté puis attaché à lui.)
+
+VENOM I ET II (#73-74)  
+Il devrait être écrit : « Vengeance — Réponse forcée : après que vous ou un allié que vous contrôlez attaque et inflige des dégâts à Venom, placez 1 carte de boost face cachée sur votre identité. » (« vous attaquez et infligez des dégâts à Venom avec une carte que vous contrôlez » devient « vous ou un allié que vous contrôlez attaque et inflige des dégâts à Venom ».)
+
+VENOM III (#75)  
+Il devrait être écrit : « Rétribution — Réponse forcée : après que vous ou un allié que vous contrôlez attaque et inflige des dégâts à Venom, placez 1 carte de boost face cachée sur votre identité (2 cartes de boost face cachée à la place si c’est la première attaque de ce tour). » (« vous attaquez et infligez des dégâts à Venom avec une carte que vous contrôlez » devient « vous ou un allié que vous contrôlez attaque et inflige des dégâts à Venom ».)
+
+ESPRIT MANIPULÉ (#171)  
+Il devrait être écrit : « Une fois révélée : attachez à l’allié que vous contrôlez ayant le coût le plus bas. L’allié attaché engage son contrôleur. Sinon, cette carte gagne Renfort. » (Ajout de « L’allié attaché engage son contrôleur. »)
+
+## PACK HÉROS NOVA
+MS. MARVEL (#2)  
+Il devrait être écrit : « Réponse de héros : après avoir joué un événement, inclinez Ms. Marvel et infligez-lui 1 dégât → renvoyez cet événement dans votre main depuis votre pile de défausse. » (Ajout de « depuis votre pile de défausse ».)
+
+## PACK HÉROS IRONHEART
+« ALLEZ LES CHAMPIONS ! » (#25)  
+Il devrait être écrit : « Action de héros : retirez “Allez les Champions !” de la partie → chaque personnage Champion en jeu ne peut pas subir de dégâts jusqu’à la fin du round. » (Ajout de « Retirez “Allez les Champions !” de la partie → ».)
+
+## PACK HÉROS SP//DR
+COMBINAISON SP//DR (#1B)  
+Il devrait être écrit : « Retour à la Base — Interruption forcée : quand vous passez sur cette face, retournez SP//dr sur Peni Parker. Détachez Peni Parker de cette carte en déplaçant sur elle tous les jetons de cette carte et les cartes attachées à cette carte. » (Les jetons et attachements sont désormais déplacés vers Peni Parker, et non l’inverse.)
+
+M.O.R.B.I.U.S. (#27)  
+Il devrait être écrit : « Réponse forcée : après que le joueur engagé génère n’importe quel nombre de ressources, infligez un montant égal de dégâts au héros de ce joueur. » (« héros engagé » devient « joueur engagé » et « ce héros » devient « le héros de ce joueur ».)
+
+## EXTENSION LA GENESE DES MUTANTS
+POING D’ACIER (#8)  
+Il devrait être écrit : « Action de héros (attaque) : infligez 5 dégâts à un ennemi. Vous pouvez défausser une carte d’état Tenace de votre héros pour sonner et désorienter cet ennemi. » (La flèche de coût est remplacée par « pour ».)
+
+EN ARMURE (#10)  
+Il devrait être écrit : « Interruption d’Alter-Ego : quand le méchant est censé s’activer, passez en forme héros. » (Ajout de « est censé ».)
+
+MUTANTS AU CENTRE COMMERCIAL (#88A)  
+Il devrait être écrit : « Une fois vaincue : le premier joueur cherche un sbire Sentinel dans le deck Rencontre et la pile de défausse Rencontre et le révèle. Retournez cette carte et mettez Jubilee en jeu, en défaussant de la zone de jeu toute autre version allié de Jubilee. » (Ajout de « allié ».)
+
+ASTEROID M (#141B)  
+Il devrait être écrit : « Réponse forcée : après que vous avez placé un marqueur magnétique sur cette manigance, s’il y a au moins 3 marqueurs magnétiques ici, retirez-en 3 et défaussez des cartes du deck Rencontre jusqu’à ce qu’une carte Magnétique soit défaussée. Révélez cette carte. » (Les marqueurs magnétiques sont désormais retirés avant de révéler la carte Magnétique.)
+
+USINE EN LIGNE (#142B)  
+Il devrait être écrit : « Réponse forcée : après que vous avez placé un marqueur magnétique sur cette manigance, s’il y a au moins 3 marqueurs magnétiques ici, retirez-en 3 et défaussez des cartes du deck Rencontre jusqu’à ce qu’une carte Magnétique soit défaussée. Révélez cette carte. » (Les marqueurs magnétiques sont désormais retirés avant de révéler la carte Magnétique.)
+
+LA RÈGLE DE MAGNUS (#143B)  
+Il devrait être écrit : « Réponse forcée : après que vous avez placé un marqueur magnétique sur cette manigance, s’il y a au moins 3 marqueurs magnétiques ici, retirez-en 3 et défaussez des cartes du deck Rencontre jusqu’à ce qu’une carte Magnétique soit défaussée. Révélez cette carte. » (Les marqueurs magnétiques sont désormais retirés avant de révéler la carte Magnétique.)
+
+## PACK HÉROS WOLVERINE
+LOGAN (#1A)  
+Il devrait être écrit : « Mise en place : mettez les Griffes de Wolverine en jeu. »
+
+BARRAGE BERSERKER (#8)  
+Il devrait être écrit : « Action de héros (attaque) : infligez 4 dégâts à un ennemi. Si cette attaque vainc un ennemi, vous pouvez subir 2 dégâts pour répéter cette capacité. » (La flèche de coût est remplacée par « pour ».)
+
+## PACK HÉROS STORM
+CLAUSTROPHOBIE (#30)  
+Il devrait être écrit : « Passez en forme alter-ego. Vous ne pouvez pas passer en forme héros. » (« changer de forme » devient « passer en forme héros ».)
+
+POSSÉDÉE (#38)  
+Il devrait être écrit : « Une fois révélée : attachez à l’allié ayant la CTR la plus basse sans Possédée attachée. L’allié attaché engage son contrôleur. Si vous ne pouvez pas, cette carte gagne Renfort. » (Ajout de « L’allié attaché engage son contrôleur. »)
+
+## PACK HÉROS GAMBIT
+BOUCLIER PSIONIQUE (#34)  
+Il devrait être écrit : « Interruption forcée : quand le sbire attaché est censé quitter le jeu, soignez à la place tous les dégâts de ce sbire.
+Puis, défaussez cet attachement. » (Suppression de « et remettez-le en jeu ».)
+
+## PACK HÉROS ROGUE
+ANNA MARIE (#1A)  
+Il devrait être écrit : « Mise en place : trouvez votre amélioration Touché et mettez-la de côté.
+Retrait — Réponse forcée : après être passé sur cette forme, trouvez Touché et mettez-la de côté. » (Précise désormais de « trouver » Touché et de la mettre de côté.)
+
+ROGUE (#1B)  
+Il devrait être écrit : « Contact Épidermique — Action : trouvez Touché et attachez-la à un autre personnage. Vous gagnez chacun des traits du personnage attaché jusqu’à la fin du round. (Limite d’une fois par round.) » (« Attachez Touché... » devient « Trouvez Touché et attachez-la... ».)
+
+TRANSFERT D’ÉNERGIE (#7)  
+Il devrait être écrit : « Action de héros : trouvez Touché et attachez-la à un personnage autre que Rogue, puis infligez 2 dégâts à ce personnage → soignez 2 dégâts de Rogue et redressez-la. Vous gagnez chacun des traits du personnage attaché jusqu’à la fin du round. » (« Attachez Touché... » devient « Trouvez Touché et attachez-la... ».)
+
+MANIPULATIONS DE MYSTIQUE (#26)  
+Il devrait être écrit : « Une fois vaincue : le joueur qui a vaincu cette carte cherche un exemplaire de la traîtrise Induit en Erreur dans le deck Rencontre et la pile de défausse Rencontre puis le mélange dans son deck. » (Précise qui doit résoudre la capacité.)
+
+BONEBREAKER (#31)  
+Il devrait être écrit : « Réponse forcée : après que Bonebreaker vous engage, subissez 1 dégât indirect pour chaque sbire Reaver engagé avec vous. » (« Interruption forcée » devient « Réponse forcée ».)
+
+## PACK SCÉNARIO MOJOMANIA
+À LA RECHERCHE DE SPIRAL (#16)  
+Il devrait être écrit : « Action de héros : subissez 2 dégâts → retirez 3 menaces d’ici. » (Ajout de la flèche de coût.)
+
+QUÊTE D’OBJET (#45)
+Il devrait être écrit : « Une fois déjouée : dans l’ordre des joueurs, chaque joueur peut chercher une carte dans son deck et jouer cette carte en ignorant son coût en ressources. (Mélangez.) » (« gratuitement » remplacé par « en ignorant son coût en ressources ».)
+
+## EXTENSION NEXT EVOLUTION
+COLLIER INHIBITEUR (#92)  
+Il devrait être écrit : « Action : choisissez soit d’incliner un personnage que vous contrôlez, soit de subir 3 dégâts → défaussez cette carte. N’importe quel joueur peut faire ceci. » (Texte de rappel remplacé par un texte de règle.)
+
+## PACK HÉROS X-23
+SPÉCIALISTE DE PREMIÈRE LIGNE (#36)  
+Il devrait être écrit : « Votre identité gagne +4 points de vie. » (« héros » remplacé par « identité ».)
+
+## PACK HÉROS DEADPOOL
+‘POOL-ISÉE (#41)  
+Il devrait être écrit : « Une fois révélée : attachez à l’allié ayant le coût le plus élevé sans ‘Pool-isée attachée. L’allié attaché engage son contrôleur. Sinon, cette carte gagne Renfort. » (Ajout de « L’allié attaché engage son contrôleur. »)
+
+## EXTENSION ÂGE D’APOCALYPSE
+ÉQUIPEZ-VOUS (#17)  
+Il devrait être écrit : « Action d’Alter-Ego : cherchez dans votre deck et votre pile de défausse un allié et une amélioration qui peut être attachée à un allié. Ajoutez-les à votre main. » (« peut être attachée à cet allié » devient « peut être attachée à un allié ».)
+
+ÉQUIPE DE MISSION (#171A)  
+La première puce devrait indiquer : « Réduisez de 2 le coût du prochain allié joué vers la mission pendant cette phase. » (Ajout de « pendant cette phase ».)
+
+## PACK HÉROS NIGHTCRAWLER
+ROGUE (#12)  
+Il devrait être écrit : « Action : infligez 1 dégât à un autre personnage ami → jusqu’à la fin du round, Rogue gagne chacun des traits de ce personnage et ajoute la CTR et l’ATQ de base de ce personnage à ses pouvoirs correspondants. (Limite d’une fois par round.) » (« imprimé » remplacé par « de base ».)
+
+TWEEDLEDOPE (#37)  
+L’icône étoile (![[icone_etoile.jpg|15]]) doit être retirée du champ de boost de cette carte.
+
+## PACK HÉROS MAGNETO
+MISSILE MAGNÉTIQUE (#10)  
+Il devrait être écrit : « Action de héros : défaussez un sbire ayant Enveloppé de Métal attaché. Puis, infligez 5 dégâts à un ennemi et sonnez-le. » (La flèche de coût est remplacée par « Puis ».)
+
+CONCENTRATION PARFAITE (#23)  
+La classification devrait être « Basique » au lieu de « Protection ».
+
+EXODUS (#28)  
+Il devrait être écrit : « Réponse forcée : après qu’Exodus vous attaque, défaussez des cartes du dessus de votre deck jusqu’à un nombre égal à son ATQ totale pour cette attaque. » (Ajout de « pour cette attaque ».)
+
+## EXTENSION AGENTS DU S.H.I.E.L.D.
+EXPOSITION AUX RADIATIONS (#171A)  
+Le modificateur « MNG » de cette carte devrait être un modificateur « CTR ».
+
+MACH-IV (#156)  
+Il devrait être écrit : « Chaque personnage sans le trait Aérien ne peut pas défendre contre les attaques de MACH-IV. » (« effectuer des défenses de base » devient « défendre ».)
+
+## PACK HÉROS SILK
+MÉMOIRE EIDÉTIQUE (#8)  
+Il devrait être écrit : « Interruption : quand vous révélez une carte du même set Rencontre qu’une carte sous votre identité, inclinez Mémoire Eidétique → échangez ces cartes. Révélez à la place la carte qui était sous votre identité. » (« Silk » devient « votre identité ».)
+
+## PACK HÉROS WINTER SOLDIER
+ADJOINT DU S.H.I.E.L.D. (#33)  
+Il devrait être écrit : « Attachez à un personnage ami. 1 max par personnage. » (Ajout de « 1 max par personnage. »)
+
+
+
 <details class="source"> <summary>EN v1.7</summary>CORE SET
 
 SUPERHUMAN LAW DIVISION (#26)
@@ -284,42 +564,3 @@ Should read: “Interrupt: When you reveal a card from the same encounter set as
 WINTER SOLDIER HERO PACK
 S.H.I.E.L.D. DEPUTY (#33)
 Should read: “Attach to a friendly character. Max 1 per character.” (Added “Max 1 per character.”) </details>
-
-<details class="source"> <summary>FR v1.4</summary>MEMBRE HONORAIRE DES AVENGERS
-
-(CAPTAIN AMERICA, 25)
-Il devrait être écrit : « Jouez cette carte uniquement si votre identité a le trait Avenger.
-Attachez cette carte a un personnage ami. 1 max par personnage.
-Le personnage attaché gagne +1 point de vie et le trait Avenger. »
-(Ajout de « 1 max par personnage. »)
-
-PRIS EN FILATURE (CAPTAIN AMERICA, 32)
-Il devrait être écrit : « Interruption : quand la manigance attachée est déjouée, infligez 4 dégâts à un ennemi. »
-(« Interruption » au lieu de « Réponse »)
-
-FRAPPE FOUDROYANTE (THOR, 6)
-Il devrait être écrit : « Action de héros : dépensez X ressources  → infligez X dégâts au méchant et à chaque sbire engagé avec vous. Ces dégâts ignorent les cartes d’état Tenace si vous avez le trait Aérien. »
-(« Ces dégâts… » au lieu de « Cette attaque… »)
-
-LOKI (THOR, 28)
-Il devrait être écrit : « Interruption forcée : quand Loki est censé être vaincu, défaussez la carte du dessus du deck Rencontre. Si cette carte est une traîtrise, soignez tous les dégâts de Loki à la place. »
-(« Interruption forcée » au lieu de « Interruption »)
-
-IRON FIST (DOCTEUR STRANGE, 14)
-Il devrait être écrit : « Interruption : quand Iron Fist attaque un ennemi, retirez-lui 1 jeton Mystique → sonnez cet ennemi et infligez-lui 1 dégât. »
-(« Interruption » au lieu de « Réponse »)
-
-ALERTE (DOCTEUR STRANGE, 21)
-Il devrait être écrit : « Interruption : quand un héros est censé subir n’importe quelle quantité de dégâts, réduisez de 1 cette quantité. »
-(« (défense) » et le trait Défense ont été supprimés.)
-
-DÉMONS INTÉRIEURS (HULK, 25)
-Il devrait être écrit : « Donnez cette carte au joueur de Bruce Banner. Changez de forme (retournez votre identité).
-Si vous êtes Bruce Banner, défaussez 2 cartes de votre main.
-Défaussez cette obligation.
-Si vous êtes Hulk, inclinez votre héros. Défaussez cette obligation. »
-(Le mot « Ensuite : » a été supprimé.)
-
-CONVOITISE GALACTIQUE
-Livret de règles, page 18, mise en place, première puce Il devrait être écrit : « (Optionnel) Révélez la manigance annexe Supériorité Kree ( 182A) (utilisez le verso pour le mode expert). »
-(Ajout de la mention (Optionnel)) </details>
