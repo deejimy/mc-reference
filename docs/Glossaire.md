@@ -1,4 +1,4 @@
-# Index
+# Index du Glossaire
 
 ## A
 [[ADistance|A distance]]  

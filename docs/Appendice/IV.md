@@ -111,10 +111,10 @@ R : Oui. Comme la capacité « Une fois révélée » de Je Te Vois ne précise 
 STEVE ROGERS (#1B)  
 **Q : Si le Bouclier de Captain America est mis en jeu comme sbire Drone pendant la mise en place d'Ultron, puis-je le récupérer avec la capacité de mise en place de Steve Rogers ?**  
 R : Non. La capacité de mise en place cherche spécifiquement dans le deck et la pile de défausse du joueur. Si le Bouclier de Captain America n'est dans aucune de ces zones, la capacité échoue à le trouver.  
-**Q : Si un allié est joué pendant que je suis Captain America, puis que je change de forme pour Steve Rogers, la capacité « Living Legend » de Steve Rogers s'appliquera-t-elle encore au prochain allié joué ?**  
-R : Non. Living Legend ne s'applique qu'au tout premier allié joué à chaque round.
+**Q : Si un allié est joué pendant que je suis Captain America, puis que je change de forme pour Steve Rogers, la capacité « Légende Vivante » de Steve Rogers s'appliquera-t-elle encore au prochain allié joué ?**  
+R : Non. Légende Vivante ne s'applique qu'au tout premier allié joué à chaque round.
 
-## PACK HÉROS MS. MARVEL
+## PACK HÉROS MISS MARVEL
 AMPLIFICATION ! (#10)  
 **Q : Si un événement Attaque inflige plusieurs sources de dégâts (comme Mêlée), comment fonctionne Amplification ! ?**  
 R : Amplification ! augmente de 2 toutes les occurrences de dégâts infligées par un événement Attaque. Par exemple, si un événement doit infliger 3 dégâts, puis 3 dégâts à nouveau, il infligera à la place 5 dégâts, puis encore 5 dégâts.
@@ -225,8 +225,8 @@ R : La Guêpe est considérée comme attaquant chaque cible affectée par son at
 
 ## PACK HÉROS VIF-ARGENT
 VIF-ARGENT (#1A)  
-**Q : Si Vif-Argent tente d'effectuer une attaque de base ou un contre de base alors qu'il est sonné ou désorienté, sa capacité Super Speed peut-elle se déclencher ?**  
-R : Non. Les cartes d'état Sonné et Désorienté remplacent l'utilisation du pouvoir de base par leur retrait. Si Vif-Argent fait une attaque de base en étant sonné, ou un contre de base en étant désorienté, il n'est pas considéré comme ayant utilisé un pouvoir de base et la condition de sa capacité Super Speed n'est pas remplie.
+**Q : Si Vif-Argent tente d'effectuer une attaque de base ou un contre de base alors qu'il est sonné ou désorienté, sa capacité Super Vitesse peut-elle se déclencher ?**  
+R : Non. Les cartes d'état Sonné et Désorienté remplacent l'utilisation du pouvoir de base par leur retrait. Si Vif-Argent fait une attaque de base en étant sonné, ou un contre de base en étant désorienté, il n'est pas considéré comme ayant utilisé un pouvoir de base et la condition de sa capacité Super Vitesse n'est pas remplie.
 
 ## PACK HÉROS LA SORCIERE ROUGE
 SPHÈRE HEX (#4)  
@@ -242,7 +242,7 @@ Bien qu'elle ait de nombreuses cartes dans son set personnel représentant les f
 ## EXTENSION LES GARDIENS DE LA GALAXIE
 SETS RENCONTRE MODULAIRES  
 **Q : Dans l'extension Les Gardiens de la Galaxie, quels sets sont considérés comme des sets Rencontre modulaires ?**  
-R : Si un set Rencontre n'est ni spécifique à un scénario (le nom du scénario figure dans la zone du nom de set Rencontre), ni spécifique à la campagne (le mot « Campaign » figure dans cette zone), alors il est modulaire. Les huit sets Rencontre modulaires de cette extension sont : Badoon Headhunter, Band of Badoon, Galactic Artifacts, Kree Militants, Menagerie Medley, Pierre du Pouvoir, Space Pirates et Ship Command.
+R : Si un set Rencontre n'est ni spécifique à un scénario (le nom du scénario figure dans la zone du nom de set Rencontre), ni spécifique à la campagne (le mot « Campagne » figure dans cette zone), alors il est modulaire. Les huit sets Rencontre modulaires de cette extension sont : Traqueur Badoon, Troupe de Badoon, Artifacts Galactiques, Milices Kree, Créatures de la Menagerie, Pierre du Pouvoir, Pirates de l'Espace et Contrôles du Vaisseau.
 
 MODE CAMPAGNE  
 **Q : Dois-je jouer en mode expert pour chaque scénario d'une campagne experte ?**  
@@ -251,16 +251,16 @@ R : Non. Augmenter la difficulté d'une campagne ajoute seulement des cartes ou 
 R : Non. Les joueurs peuvent, par exemple, jouer un scénario avec une combinaison des modes standard, héroïque et escarmouche, puis jouer le scénario suivant uniquement en mode expert. Les joueurs peuvent mixer les modes comme ils le souhaitent entre les scénarios.
 
 ROCKET RACCOON (#29A)  
-**Q : Si Rocket Raccoon utilise sa capacité « Tinkering » mais que l'amélioration Tech n'est pas placée dans une pile de défausse (par exemple à cause de la capacité du Collectionneur), Rocket Raccoon pioche-t-il 2 cartes ?**  
-R : Oui. Défausser est l'acte de tenter de placer une carte dans une pile de défausse. Même si l'amélioration Tech finit dans une autre zone de jeu, le coût de « Tinkering » de Rocket Raccoon a bien été payé.
+**Q : Si Rocket Raccoon utilise sa capacité « Rafistolage » mais que l'amélioration Tech n'est pas placée dans une pile de défausse (par exemple à cause de la capacité du Collectionneur), Rocket Raccoon pioche-t-il 2 cartes ?**  
+R : Oui. Défausser est l'acte de tenter de placer une carte dans une pile de défausse. Même si l'amélioration Tech finit dans une autre zone de jeu, le coût de « Rafistolage » de Rocket Raccoon a bien été payé.
 
 RÉCUP' (#33)  
 **Q : Si l'allié Hulk (Boîte de base #50) défausse Récup', que se passe-t-il ?**  
 R : La capacité de Hulk vérifie simultanément toutes les ressources imprimées sur Récup', puis résout l'effet approprié en fonction du résultat. Comme cette vérification et cette résolution sont simultanées, le joueur qui contrôle Hulk choisit l'ordre de résolution des effets.
 
-<span class="new">BATTERY PACK (#34)  
-**Q : Battery Pack peut-elle déplacer un marqueur charge vers une carte Tech qui n'utilise pas de « marqueurs charge » ?**  
-R : Oui. C'est la carte sur laquelle se trouve un marqueur polyvalent qui définit le type de ce marqueur ; Battery Pack peut donc déplacer un marqueur vers n'importe quelle carte Tech, et ce marqueur prendra le type défini par cette carte (s'il y en a un).</span>
+<span class="new">BATTERIES (#34)  
+**Q : Les Batteries peuvent-elles déplacer un marqueur charge vers une carte Tech qui n'utilise pas de « marqueurs charge » ?**  
+R : Oui. C'est la carte sur laquelle se trouve un marqueur polyvalent qui définit le type de ce marqueur ; Batteries peuvent donc déplacer un marqueur vers n'importe quelle carte Tech, et ce marqueur prendra le type défini par cette carte (s'il y en a un).</span>
 
 PIERRE DU POUVOIR (#149)  
 **Q : Si une identité qui contrôle la Pierre du Pouvoir est vaincue, que devient la Pierre du Pouvoir ?**  
@@ -270,8 +270,8 @@ R : Oui. La prévention des dégâts ne réduit pas la quantité de dégâts inf
 
 ## PACK HÉROS STAR-LORD
 STAR-LORD (#1A)  
-**Q : Si je joue un allié qui n'a pas le trait Gardien imprimé alors que je suis en forme héros, puis-je déclencher la réponse de Knowhere (#22) ?**  
-R : Oui. La capacité constante de Star-Lord donne le trait Gardien à chaque allié qu'il contrôle. Les capacités constantes ont priorité sur les capacités déclenchées comme la « Réponse » de Knowhere ; le nouvel allié joué aura donc déjà le trait Gardien avant le déclenchement de Knowhere.
+**Q : Si je joue un allié qui n'a pas le trait Gardien imprimé alors que je suis en forme héros, puis-je déclencher la réponse de Nulle-Part (#22) ?**  
+R : Oui. La capacité constante de Star-Lord donne le trait Gardien à chaque allié qu'il contrôle. Les capacités constantes ont priorité sur les capacités déclenchées comme la « Réponse » de Nulle-Part ; le nouvel allié joué aura donc déjà le trait Gardien avant le déclenchement de Nulle-Part.
 
 MISTER KNIFE (#26)  
 **Q : Quand Mister Knife est révélé par Ombre du Passé, Ombre du Passé gagne-t-elle Renfort si c'était la première traîtrise révélée par le joueur Star-Lord pendant cette phase ?**  
@@ -341,12 +341,12 @@ R : Non. Le titre d'un personnage doit contenir le mot « Spider » orthographi�
 **Q : Si la capacité « Une fois révélée » d'une traîtrise est annulée, Spider-Man Noir peut-il attacher cette traîtrise à lui-même ?**  
 R : Pour que la réponse de Spider-Man Noir se déclenche, une partie de la carte Traîtrise doit être résolue. Si la traîtrise a un mot-clé qui se résout quand elle est révélée, comme Renfort ou Incitation X, Spider-Man Noir peut déclencher sa réponse pour attacher cette carte à lui-même. Si aucune partie de la traîtrise ne se résout, il ne peut pas l'attacher.</span>
 
-## EXTENSION LA GENESE DES MUTANTS
+## EXTENSION LA GÉNÈSE DES MUTANTS
 COUP DE POING PUISSANT (#14)  
 **Q : Si Shadowcat joue Coup de poing puissant sur le méchant, à quel moment retourne-t-elle sa forme de masse ?**  
-R : Quand le méchant initie une attaque, Shadowcat joue Coup de poing puissant. Elle inflige 4 dégâts au méchant. Dès qu'elle a fini de résoudre cet effet portant le label attaque, elle est considérée comme ayant attaqué et peut retourner sa forme de masse dès que les dégâts sont infligés (elle doit le faire si elle est en forme Phased).
-Le méchant poursuit ensuite son attaque, et Shadowcat est désormais considérée comme défendant cette attaque. Si elle est en forme Phased, elle ne subira aucun dégât de cette attaque grâce à la capacité constante de son amélioration Phased.
-Après que le méchant a infligé les dégâts de son attaque (ou tenté de le faire), Shadowcat termine sa défense et peut retourner à nouveau sa forme de masse (ce qu'elle doit faire si elle est en forme Phased).
+R : Quand le méchant initie une attaque, Shadowcat joue Coup de poing puissant. Elle inflige 4 dégâts au méchant. Dès qu'elle a fini de résoudre cet effet portant le label attaque, elle est considérée comme ayant attaqué et peut retourner sa forme de masse dès que les dégâts sont infligés (elle doit le faire si elle est en forme Incorporelle).
+Le méchant poursuit ensuite son attaque, et Shadowcat est désormais considérée comme défendant cette attaque. Si elle est en forme Incorporelle, elle ne subira aucun dégât de cette attaque grâce à la capacité constante de son amélioration Incorporelle.
+Après que le méchant a infligé les dégâts de son attaque (ou tenté de le faire), Shadowcat termine sa défense et peut retourner à nouveau sa forme de masse (ce qu'elle doit faire si elle est en forme Incorporelle).
 
 PROTECTEURS MUTANTS (#17)  
 **Q : Comment fonctionne le label Défense de Protecteurs Mutants puisque la capacité de la carte fait d'un allié le défenseur ?**  
@@ -366,9 +366,9 @@ R : Oui. Opération Tolérance Zéro ne précise pas où trouver l'allié vaincu
 R : Non. Comme la mise en jeu de l'autre sbire est le dernier effet de la capacité « Une fois vaincu » de Fabian Cortez, Fabian Cortez est défaussé immédiatement quand l'autre sbire entre en jeu. Fabian Cortez n'est donc plus en jeu quand le mot-clé Collaboration de l'autre sbire tente de trouver un sbire Acolyte en jeu.</span>
 
 ## PACK HÉROS CYCLOPE
-RAYON RICOCHET (#9)  
-**Q : Si Cyclope choisit le même ennemi avec Exploit Weakness attachée pour les deux occurrences de dégâts de Rayon Ricochet, combien de dégâts sont infligés à cet ennemi ?**  
-R : Exploit Weakness augmente de 1 chaque occurrence de dégâts que Rayon Ricochet inflige à l'ennemi auquel Exploit Weakness est attachée ; Rayon Ricochet inflige donc un total de 8 dégâts à cet ennemi (4 + 4).
+RAYON EN RICOCHET (#9)  
+**Q : Si Cyclope choisit le même ennemi avec Exploiter Une Faiblesse attachée pour les deux occurrences de dégâts de Rayon En Ricochet, combien de dégâts sont infligés à cet ennemi ?**  
+R : Exploiter Une Faiblesse augmente de 1 chaque occurrence de dégâts que Rayon En Ricochet inflige à l'ennemi auquel Exploiter Une Faiblesse est attachée ; Rayon Ricochet inflige donc un total de 8 dégâts à cet ennemi (4 + 4).
 
 ## PACK SCÉNARIO MOJOMANIA
 <span class="new">LE CRIME ETAIT PRESQUE MOJO (#35)  
@@ -376,7 +376,7 @@ R : Exploit Weakness augmente de 1 chaque occurrence de dégâts que Rayon Ricoc
 R : Oui. Les méchants sont des cartes Rencontre ; Le Crime Était Presque Mojo donne donc Incitation 1 à Spiral. Quand Spiral se retourne, sa nouvelle face est révélée, donc son Incitation 1 se résout.</span>
 
 LES MOJOS DE L'OUEST (#66)  
-**Q : Comment les dégâts de Déferlement sont-ils affectés par l'« Interruption forcée » de Wild Wild Mojo ?**  
+**Q : Comment les dégâts de Déferlement sont-ils affectés par l'« Interruption forcée » des Mojos de l'Ouest ?**  
 R : Comme Les Mojos de l'Ouest augmente les dégâts qu'un personnage « subit » et que le mot-clé Déferlement inflige des dégâts en fonction des dégâts en excès « infligés » à un sbire ou un allié, Les Mojos de l'Ouest n'augmente les dégâts de déferlement qu'une seule fois, quand le méchant ou l'identité subit ces dégâts. (Remarque : cette réponse révise la réponse fournie dans la section FAQ du livret de règles MojoMania.)
 
 ## EXTENSION NEXT EVOLUTION
@@ -403,11 +403,11 @@ R : Non. Crise des Deadpools Infinis est incluse uniquement si au moins un joueu
 MAGIK (#30A)  
 **Q : Quand Magik joue la carte du dessus de son deck, à quel moment la carte suivante de son deck est-elle retournée face visible ?**  
 R : Quand elle joue la carte du dessus de son deck (c'est le même processus que jouer une carte depuis la main), Magik déplace la carte qu'elle joue devant elle à l'étape 3 du processus décrit dans la section Initier des Capacités. Dès qu'elle le fait, elle retourne face visible la nouvelle carte du dessus de son deck.  
-**Q : Magik peut-elle jouer la carte du dessus de son deck avec une capacité qui dit « jouez une carte depuis votre main », comme Team-Building Exercise (Ant-Man #24) ?**  
+**Q : Magik peut-elle jouer la carte du dessus de son deck avec une capacité qui dit « jouez une carte depuis votre main », comme Exercice de Cohésion d'Équipe (Ant-Man #24) ?**  
 R : Oui. Chaque fois que Magik a l'opportunité de jouer une carte depuis sa main, elle peut choisir de jouer à la place la carte du dessus de son deck (une fois par phase).  
 **Q : Magik peut-elle résoudre une capacité qui se déclenche « après que vous avez joué [carte] depuis votre main », comme Pixie (Storm #17), si elle joue cette carte depuis le dessus de son deck ?**  
 R : Oui. Quand Magik joue une carte depuis le dessus de son deck, cette carte est considérée comme ayant été jouée depuis sa main.  
-**Q : Magik peut-elle mettre en jeu la carte du dessus de son deck comme si elle était dans sa main, par exemple avec Protecteurs Mutants (Mutant Genesis #17) ?**  
+**Q : Magik peut-elle mettre en jeu la carte du dessus de son deck comme si elle était dans sa main, par exemple avec Protecteurs Mutants (La Génèse Des Mutants #17) ?**  
 R : Non. Mettre une carte en jeu n'est pas la même chose que jouer une carte, et la capacité de Magik lui permet uniquement de jouer la carte du dessus de son deck, pas de la mettre en jeu.
 
 ## EXTENSION AGENTS DU S.H.I.E.L.D.

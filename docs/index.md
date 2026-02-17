@@ -44,4 +44,11 @@ Cette section fournit des règles, termes et situations de jeu susceptibles d'in
 🎯 [[Glossaire]]
 
 ## Appendices
-Les appendices regroupent les règles avancées : [[I|personnalistion des decks]], [[II|procédures de mise en place]], [[III|description complète du format des cartes]], [[IV|FAQ]], [[V|errata]] et [[VI|Environnements de Jeu]]
+Les appendices regroupent les règles avancées :  
+
+1. [[I|Personnalistion des decks]]
+2. [[II|Procédures de mise en place]]
+3. [[III|Description complète du format des cartes]]
+4. [[IV|Foire Aux Questions]]
+5. [[V|Les Errata]]
+6. [[VI|Les Environnements de jeu (CURRENT/LEGACY)]]

@@ -33,7 +33,7 @@ Il devrait être écrit : « Interruption forcée : quand Loki est censé être 
 
 ## PACK HÉROS BLACK WIDOW
 <span class="new">BLACK WIDOW (#1A)  
-Il devrait être écrit : « Widowmaker — Réponse : après avoir résolu la capacité d'une carte Préparation que vous contrôlez, infligez 1 dégât à un ennemi. » (« résoudre » au lieu de « déclencher ».)</span>
+Il devrait être écrit : « Faiseuse de veuves — Réponse : après avoir résolu la capacité d'une carte Préparation que vous contrôlez, infligez 1 dégât à un ennemi. » (« résoudre » au lieu de « déclencher ».)</span>
 
 ## PACK HÉROS DOCTEUR STRANGE
 IRON FIST (#14)  
@@ -57,7 +57,7 @@ HAIL HYDRA! (#57, #147)
 Il devrait être écrit : « Une fois révélée : chaque sbire Hydra engagé avec un héros attaque ce héros. Chaque joueur qui n'a pas été attaqué de cette façon cherche un sbire Hydra dans le deck Rencontre et la pile de défausse Rencontre et le met en jeu engagé avec lui. Mélangez le deck Rencontre s'il a été fouillé. » (La capacité de mélange ne se produit que si le deck Rencontre est fouillé.)
 
 ATTAQUE DU MONT ATHENA (#61A)  
-Il devrait être écrit : « Contenu : Crossbones (I) et Crossbones (II). Sets de rencontre Crossbones, Armes Expérimentales et Standard. Trois sets modulaires (Assaut Hydra, Maître d'Armes et Légions d'Hydra). » (« Patrouille Hydra » devient « Assaut Hydra ».)
+Il devrait être écrit : « Contenu : Crossbones (I) et Crossbones (II). Sets de rencontre Crossbones, Armes Expérimentales et Standard. Trois sets modulaires (Patrouille d'Hydra, Maître d'Armes et Légions d'Hydra). » (« Patrouille Hydra » devient « Offensive d'Hydra ».)
 
 <span class="new">L'AVÈNEMENT DE CRÂNE ROUGE (#128A)  
 Il devrait être écrit : « Mise en place : mettez la Maison Rouge en jeu. Mélangez toutes les autres manigances annexes Rencontre dans le deck de manigances annexes et placez-le à côté du deck Rencontre (voir encart). Mettez Le Dormeur de côté, hors-jeu. » (Ajout de « Rencontre » avant « manigance annexe ».)</span>
@@ -131,7 +131,7 @@ Attachez à l'allié ayant le coût le plus élevé sans Ensorcelée attachée. 
 MACHINE MAN (#22)  
 Il devrait être écrit : « Interruption : quand Machine Man attaque ou contre, dépensez jusqu'à 3 ressources de n'importe quel type → Machine Man gagne +1 CTR et +1 ATQ pour cette utilisation pour chaque ressource dépensée de cette manière. » (Ajout de « pour cette utilisation ».)
 
-## EXTENSION SINISTER MOTIVES
+## EXTENSION SINISTRES MOTIVATIONS  
 LIVRET DE RÈGLES P.17, LE MARQUEUR PLANEUR, PARAGRAPHE 4  
 Ce paragraphe devrait se terminer par : « Quand une manigance principale est complétée, retournez-la sur sa face Environnement. »
 
@@ -151,8 +151,8 @@ ESPRIT MANIPULÉ (#171)
 Il devrait être écrit : « Une fois révélée : attachez à l'allié que vous contrôlez ayant le coût le plus bas. L'allié attaché engage son contrôleur. Sinon, cette carte gagne Renfort. » (Ajout de « L'allié attaché engage son contrôleur. »)
 
 ## PACK HÉROS NOVA
-MS. MARVEL (#2)  
-Il devrait être écrit : « Réponse de héros : après avoir joué un événement, inclinez Ms. Marvel et infligez-lui 1 dégât → renvoyez cet événement dans votre main depuis votre pile de défausse. » (Ajout de « depuis votre pile de défausse ».)
+MISS MARVEL (#2)  
+Il devrait être écrit : « Réponse de héros : après avoir joué un événement, inclinez Miss Marvel et infligez-lui 1 dégât → renvoyez cet événement dans votre main depuis votre pile de défausse. » (Ajout de « depuis votre pile de défausse ».)
 
 ## PACK HÉROS IRONHEART
 « ALLEZ LES CHAMPIONS ! » (#25)  
