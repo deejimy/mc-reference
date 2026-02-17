@@ -157,3 +157,11 @@ Pour traduire les termes et expressions spécifiques au jeu, se référer aux mo
 - DEF = DEF
 - REC = REC
 - SCH = MNG
+- Rogue = Malicia
+- Winter Soldier = Le Soldat de l'Hiver
+- Falcon = Faucon
+- Iceman = Iceberg
+- Quicksilver = Vif-Argent
+- Scarlet Witch - La Sorcière Rouge
+- Spider-Ham = Spider-Cochon
+- Cyclops = Cyclope

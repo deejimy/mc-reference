@@ -68,7 +68,7 @@ Il devrait être écrit : « Interruption forcée : quand la manigance annexe at
 <span class="new">RIVAL AMER (#136)  
 Il devrait être écrit : « Une fois révélée : pour chaque manigance annexe en jeu, choisissez et inclinez un personnage que vous contrôlez. » (Texte révisé pour fonctionner comme prévu avec les règles mises à jour de « pour chaque ».)</span>
 
-## PACK HÉROS WASP
+## PACK HÉROS LA GUÊPE
 <span class="new">SCARABÉE (#28)  
 Il devrait être écrit : « Interruption forcée : quand Scarabée est vaincu, le joueur qui l'a vaincu choisit soit de dépenser une ressource ![[icone_physique.jpg|15]], soit de mélanger Scarabée dans le deck Rencontre. » (Précise quel joueur doit résoudre la capacité.)</span>
 
@@ -203,16 +203,16 @@ BOUCLIER PSIONIQUE (#34)
 Il devrait être écrit : « Interruption forcée : quand le sbire attaché est censé quitter le jeu, soignez à la place tous les dégâts de ce sbire.
 Puis, défaussez cet attachement. » (Suppression de « et remettez-le en jeu ».)
 
-## PACK HÉROS ROGUE
+## PACK HÉROS MALICIA
 <span class="new">ANNA MARIE (#1A)  
 Il devrait être écrit : « Mise en place : trouvez votre amélioration Touché et mettez-la de côté.
 Retrait — Réponse forcée : après être passé sur cette forme, trouvez Touché et mettez-la de côté. » (Précise désormais de « trouver » Touché et de la mettre de côté.)</span>
 
-<span class="new">ROGUE (#1B)  
+<span class="new">MALICIA (#1B)  
 Il devrait être écrit : « Contact Épidermique — Action : trouvez Touché et attachez-la à un autre personnage. Vous gagnez chacun des traits du personnage attaché jusqu'à la fin du round. (Limite d'une fois par round.) » (« Attachez Touché... » devient « Trouvez Touché et attachez-la... ».)</span>
 
 <span class="new">TRANSFERT D'ÉNERGIE (#7)  
-Il devrait être écrit : « Action de héros : trouvez Touché et attachez-la à un personnage autre que Rogue, puis infligez 2 dégâts à ce personnage → soignez 2 dégâts de Rogue et redressez-la. Vous gagnez chacun des traits du personnage attaché jusqu'à la fin du round. » (« Attachez Touché... » devient « Trouvez Touché et attachez-la... ».)</span>
+Il devrait être écrit : « Action de héros : trouvez Touché et attachez-la à un personnage autre que Malicia, puis infligez 2 dégâts à ce personnage → soignez 2 dégâts de Malicia et redressez-la. Vous gagnez chacun des traits du personnage attaché jusqu'à la fin du round. » (« Attachez Touché... » devient « Trouvez Touché et attachez-la... ».)</span>
 
 <span class="new">MANIPULATIONS DE MYSTIQUE (#26)  
 Il devrait être écrit : « Une fois vaincue : le joueur qui a vaincu cette carte cherche un exemplaire de la traîtrise Induit en Erreur dans le deck Rencontre et la pile de défausse Rencontre puis le mélange dans son deck. » (Précise qui doit résoudre la capacité.)</span>
@@ -247,8 +247,8 @@ Il devrait être écrit : « Action d'Alter-Ego : cherchez dans votre deck et vo
 La première puce devrait indiquer : « Réduisez de 2 le coût du prochain allié joué vers la mission pendant cette phase. » (Ajout de « pendant cette phase ».)
 
 ## PACK HÉROS NIGHTCRAWLER
-<span class="new">ROGUE (#12)  
-Il devrait être écrit : « Action : infligez 1 dégât à un autre personnage ami → jusqu'à la fin du round, Rogue gagne chacun des traits de ce personnage et ajoute la CTR et l'ATQ de base de ce personnage à ses pouvoirs correspondants. (Limite d'une fois par round.) » (« imprimé » remplacé par « de base ».)</span>
+<span class="new">Malicia (#12)  
+Il devrait être écrit : « Action : infligez 1 dégât à un autre personnage ami → jusqu'à la fin du round, Malicia gagne chacun des traits de ce personnage et ajoute la CTR et l'ATQ de base de ce personnage à ses pouvoirs correspondants. (Limite d'une fois par round.) » (« imprimé » remplacé par « de base ».)</span>
 
 <span class="new">TWEEDLEDOPE (#37)  
 L'icône étoile (![[icone_etoile.jpg|15]]) doit être retirée du champ de boost de cette carte.</span>
@@ -274,7 +274,7 @@ Il devrait être écrit : « Chaque personnage sans le trait Aérien ne peut pas
 <span class="new">MÉMOIRE EIDÉTIQUE (#8)  
 Il devrait être écrit : « Interruption : quand vous révélez une carte du même set Rencontre qu'une carte sous votre identité, inclinez Mémoire Eidétique → échangez ces cartes. Révélez à la place la carte qui était sous votre identité. » (« Silk » devient « votre identité ».)</span>
 
-## PACK HÉROS WINTER SOLDIER
+## PACK HÉROS LE SOLDAT DE L'HIVER
 <span class="new">ADJOINT DU S.H.I.E.L.D. (#33)  
 Il devrait être écrit : « Attachez à un personnage ami. 1 max par personnage. » (Ajout de « 1 max par personnage. »)</span>
 

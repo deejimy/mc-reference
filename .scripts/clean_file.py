@@ -8,8 +8,8 @@ Script combiné pour :
 
 import re
 
-input_file = '../docs/Appendice/IV.md'
-output_file = '../docs/Appendice/IV_cleaned.md'
+input_file = '../docs/Appendice/VI.md'
+output_file = '../docs/Appendice/VI_cleaned.md'
 
 
 def is_uppercase_line(line):

@@ -213,30 +213,30 @@ RÉDUIT À L'IMPUISSANCE (#20)
 **Q : Si Réduit à l'Impuissance est dans la zone de jeu de Docteur Strange, le joueur Docteur Strange peut-il encore utiliser le deck Invocation ?**  
 R : Oui. Les capacités des cartes du deck Invocation sont simplement résolues, pas jouées.
 
-## PACK HÉROS WASP
-WASP (#1C)  
-**Q : Quand Wasp est en forme héros Géante, comment sa première capacité interagit-elle avec le mot-clé Patrouille et l'icône Crise ?**  
-R : La première capacité de Wasp permet à son contre de base de retirer simultanément de la menace de chaque manigance que Wasp choisit. Wasp ne peut pas choisir la manigance principale comme cible tant qu'elle est engagée avec un sbire ayant Patrouille, ou qu'une carte avec une icône Crise est en jeu. En raison de la nature simultanée de cette capacité, cela reste vrai même si la carte avec Patrouille ou l'icône Crise quitte le jeu pendant la résolution du contre de base.  
-**Q : Quand Wasp est en forme héros Géante, comment sa seconde capacité interagit-elle avec le mot-clé Garde ?**  
-R : La seconde capacité de Wasp permet à son attaque de base d'infliger des dégâts simultanément à chaque ennemi que Wasp choisit.
-Wasp ne peut pas choisir le méchant comme cible tant qu'elle est engagée avec un sbire ayant Garde. En raison de la nature simultanée de cette capacité, cela reste vrai même si la carte avec Garde quitte le jeu pendant la résolution de son attaque de base.  
-**Q : Quand Wasp est en forme héros Géante, comment sa seconde capacité interagit-elle avec plusieurs ennemis qui ont Riposte ?**  
-R : Wasp est considérée comme attaquant chaque cible affectée par son attaque de base répartie. Si son attaque de base est répartie entre plusieurs ennemis avec Riposte, chaque occurrence de Riposte inflige des dégâts à Wasp (dans l'ordre de son choix).
+## PACK HÉROS LA GUÊPE
+LA GUÊPE (#1C)  
+**Q : Quand La Guêpe est en forme héros Géante, comment sa première capacité interagit-elle avec le mot-clé Patrouille et l'icône Crise ?**  
+R : La première capacité de La Guêpe permet à son contre de base de retirer simultanément de la menace de chaque manigance que La Guêpe choisit. La Guêpe ne peut pas choisir la manigance principale comme cible tant qu'elle est engagée avec un sbire ayant Patrouille, ou qu'une carte avec une icône Crise est en jeu. En raison de la nature simultanée de cette capacité, cela reste vrai même si la carte avec Patrouille ou l'icône Crise quitte le jeu pendant la résolution du contre de base.  
+**Q : Quand La Guêpe est en forme héros Géante, comment sa seconde capacité interagit-elle avec le mot-clé Garde ?**  
+R : La seconde capacité de La Guêpe permet à son attaque de base d'infliger des dégâts simultanément à chaque ennemi que La Guêpe choisit.
+La Guêpe ne peut pas choisir le méchant comme cible tant qu'elle est engagée avec un sbire ayant Garde. En raison de la nature simultanée de cette capacité, cela reste vrai même si la carte avec Garde quitte le jeu pendant la résolution de son attaque de base.  
+**Q : Quand La Guêpe est en forme héros Géante, comment sa seconde capacité interagit-elle avec plusieurs ennemis qui ont Riposte ?**  
+R : La Guêpe est considérée comme attaquant chaque cible affectée par son attaque de base répartie. Si son attaque de base est répartie entre plusieurs ennemis avec Riposte, chaque occurrence de Riposte inflige des dégâts à La Guêpe (dans l'ordre de son choix).
 
 ## PACK HÉROS VIF-ARGENT
 VIF-ARGENT (#1A)  
 **Q : Si Vif-Argent tente d'effectuer une attaque de base ou un contre de base alors qu'il est sonné ou désorienté, sa capacité Super Speed peut-elle se déclencher ?**  
 R : Non. Les cartes d'état Sonné et Désorienté remplacent l'utilisation du pouvoir de base par leur retrait. Si Vif-Argent fait une attaque de base en étant sonné, ou un contre de base en étant désorienté, il n'est pas considéré comme ayant utilisé un pouvoir de base et la condition de sa capacité Super Speed n'est pas remplie.
 
-## PACK HÉROS SCARLET WITCH
+## PACK HÉROS LA SORCIERE ROUGE
 SPHÈRE HEX (#4)  
 **Q : Pour la seconde phrase de Sphère Hex, les capacités listées à puces se résolvent-elles à chaque carte défaussée du deck Rencontre, ou seulement après que les 3 cartes ont été défaussées ?**  
 R : Comme Sphère Hex ne contient pas d'effet d'altération, résolvez entièrement la première phrase de Sphère Hex, sans interruption.
 Ensuite, déterminez et résolvez les capacités à puces appropriées selon ce qui a été défaussé.
 
 SANTÉ MENTALE PRÉCAIRE (#23)  
-**Q : Est-ce intentionnel que Scarlet Witch ait deux cartes Obligation ?**  
-R : Oui. Les pouvoirs de Scarlet Witch sont chaotiques, souvent en sa faveur, mais parfois aussi contre elle.
+**Q : Est-ce intentionnel que La Socière Rouge ait deux cartes Obligation ?**  
+R : Oui. Les pouvoirs de La Socière Rouge sont chaotiques, souvent en sa faveur, mais parfois aussi contre elle.
 Bien qu'elle ait de nombreuses cartes dans son set personnel représentant les facettes positives de ses pouvoirs, le fait d'avoir plusieurs obligations représente les facettes négatives.
 
 ## EXTENSION LES GARDIENS DE LA GALAXIE
@@ -331,7 +331,7 @@ R : Oui. Répéter la capacité de cette carte inclut l'effet de répétition lu
 **Q : Si j'ai joué « Allez les Champions ! » ce round-ci, puis-je déclencher une capacité qui exige de subir des dégâts comme coût ?**  
 R : Non. Si vous ne pouvez pas subir de dégâts, vous ne pouvez pas payer un coût qui exige de subir des dégâts.</span>
 
-## PACK HÉROS SPIDER-HAM
+## PACK HÉROS SPIDER-COCHON
 GUERRIER DE LA GRANDE TOILE (#29)  
 **Q : Le héros ou allié SP//dr peut-il avoir Guerrier de la Grande Toile attachée ?**  
 R : Non. Le titre d'un personnage doit contenir le mot « Spider » orthographié exactement ainsi pour que Guerrier de la Grande Toile puisse lui être attachée.
@@ -365,9 +365,9 @@ R : Oui. Opération Tolérance Zéro ne précise pas où trouver l'allié vaincu
 **Q : Si la capacité « Une fois vaincu » de Fabian Cortez met en jeu un sbire Acolyte avec le mot-clé Collaboration alors que Fabian Cortez est le seul autre sbire Acolyte en jeu, le mot-clé Collaboration de l'autre sbire se déclenche-t-il ?**  
 R : Non. Comme la mise en jeu de l'autre sbire est le dernier effet de la capacité « Une fois vaincu » de Fabian Cortez, Fabian Cortez est défaussé immédiatement quand l'autre sbire entre en jeu. Fabian Cortez n'est donc plus en jeu quand le mot-clé Collaboration de l'autre sbire tente de trouver un sbire Acolyte en jeu.</span>
 
-## PACK HÉROS CYCLOPS
+## PACK HÉROS CYCLOPE
 RAYON RICOCHET (#9)  
-**Q : Si Cyclops choisit le même ennemi avec Exploit Weakness attachée pour les deux occurrences de dégâts de Rayon Ricochet, combien de dégâts sont infligés à cet ennemi ?**  
+**Q : Si Cyclope choisit le même ennemi avec Exploit Weakness attachée pour les deux occurrences de dégâts de Rayon Ricochet, combien de dégâts sont infligés à cet ennemi ?**  
 R : Exploit Weakness augmente de 1 chaque occurrence de dégâts que Rayon Ricochet inflige à l'ennemi auquel Exploit Weakness est attachée ; Rayon Ricochet inflige donc un total de 8 dégâts à cet ennemi (4 + 4).
 
 ## PACK SCÉNARIO MOJOMANIA

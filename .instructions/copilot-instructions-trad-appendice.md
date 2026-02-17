@@ -3,10 +3,10 @@
 ## Contexte
 Créer un référentiel du jeu Marvel Champions LCG, avec des définitions et des explications pour les termes et mécaniques du jeu. Le contenu est en français et vise à aider les joueurs à mieux comprendre les règles et les interactions du jeu. Les règles existantes sont en v1.7 en Anglais uniquement, et le but est de fournir une traduction et une adaptation complètes en français.
 
-
 ## Projet technique
 Projet MkDocs utilisant le thème Material for MkDocs. Le contenu est écrit en Markdown avec une structure de dossiers organisée pour les différentes sections du guide de référence. Le fichier mkdocs.yml configure le site, y compris le nom, l'URL, le thème, les extensions Markdown et les plugins utilisés.
 Hébergé sur GitHub Pages pour un accès facile et une distribution publique.
+
 
 ## Instructions de traduction
 Le but est de traduire le bloc `EN v1.7` en n'oubliant aucune phrase.
@@ -15,10 +15,11 @@ Etapes à suivre de 1 à 11 :
 
 1. Ne pas toucher aux blocs <details> `EN v1.7`.
 2. Traduire intégralement le bloc EN v1.7 en français entre le titre (#TITLE) et le bloc EN v1.7 La traduction doit être complète et fidèle au texte original, en respectant les termes spécifiques du jeu et en utilisant un langage clair et précis.
-3.  Ne pas préfixer la traduction par le titre en majuscule (éviter DUPLICATION).
-4. A partir de la traduction produite: remplacer les listes à puces `•` par un retour de ligne + tiret `\n-` et les chevrons `» »` par un tiret précédé d'un retour de ligne + 4 espaces `\n    -`. Respecter l'indentation des sub-bullets
-5. Remplacer les icones par l'image correspondantes (voir section Correspondance Icone) 
-6. Vérifier les correspondances (voir chapitre) pour vérifier les traductions sur certains mots-clés. Exemple le mot `villainous`doit se traduire `vilenie`
+3. Remplacer les icones par l'image correspondantes (voir section Correspondance Icone) 
+4. Vérifier les correspondances (voir chapitre) pour vérifier les traductions sur certains mots-clés. Exemple le mot `villainous`doit se traduire `vilenie`
+5. Chercher les correspondances sur le site mcdb.com. Exemple avec `SLIPPING SANITY (#23)` https://marvelcdb.com/find?q=SLIPPING+SANITY
+    - Récupérer le lien https://marvelcdb.com/card/XXXXX. Ici : https://marvelcdb.com/card/15023 et obtenir la traduction en ajoutant le préfix "fr": https://fr.marvelcdb.com/card/15023
+    - On obtient `SLIPPING SANITY (#23)` = `Santé Mentale Précaire (#23)`
 
 
 ## Correspondance Icone
