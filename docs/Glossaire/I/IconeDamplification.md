@@ -1,8 +1,8 @@
 # Icône d'Amplification
 
-L’icône d’amplification (![[icone_amplification.jpg|15]]) simule les différentes forces qui peuvent soutenir et renforcer le méchant.  
+L'icône d'amplification (![[icone_amplification.jpg|15]]) simule les différentes forces qui peuvent soutenir et renforcer le méchant.  
 
-Quand une carte de boost est retournée face visible lors de l’activation d’un ennemi, ajoutez une icône de boost supplémentaire à cette carte pour chaque icône d’amplification en jeu.  
+Quand une carte de boost est retournée face visible lors de l'activation d'un ennemi, ajoutez une icône de boost supplémentaire à cette carte pour chaque icône d'amplification en jeu.  
 
 _Voir aussi : [[Activation|Activation]], [[BoostIconeDeBoost|Boost]], [[Ennemi|Ennemi]], [[Icone|Icônes]]_  
 
@@ -16,8 +16,8 @@ See also: Activation, Boost, Enemy, Icons
 
 
 <details class="source">
-<summary>FR v1.4</summary>ICÔNE D’AMPLIFICATION ()
-L’icône d’amplification simule les différentes forces qui peuvent soutenir et renforcer le méchant.
-Quand une carte de boost est retournée face visible lors de l’activation d’un ennemi, ajoutez une icône de boost supplémentaire à cette carte pour chaque icône d’amplification en jeu.
+<summary>FR v1.4</summary>ICÔNE D'AMPLIFICATION ()
+L'icône d'amplification simule les différentes forces qui peuvent soutenir et renforcer le méchant.
+Quand une carte de boost est retournée face visible lors de l'activation d'un ennemi, ajoutez une icône de boost supplémentaire à cette carte pour chaque icône d'amplification en jeu.
 Voir aussi : Activation, Boost, Ennemi, Icônes
 </details>

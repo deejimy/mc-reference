@@ -2,8 +2,8 @@
 
 Si une capacité soigne un personnage, les dégâts subis par ce personnage peuvent être retirés de ce personnage.  
 
-- Un effet de soin peut seulement amener un personnage jusqu’à ses points de vie maximums, il ne peut pas amener un personnage à dépasser ses points de vie maximums, sauf si l’effet l’indique spécifiquement.  
-- Les effets qui déplacent des dégâts hors d’un personnage sont considérés comme soignant ce personnage.  
+- Un effet de soin peut seulement amener un personnage jusqu'à ses points de vie maximums, il ne peut pas amener un personnage à dépasser ses points de vie maximums, sauf si l'effet l'indique spécifiquement.  
+- Les effets qui déplacent des dégâts hors d'un personnage sont considérés comme soignant ce personnage.  
 
 _Voir aussi : [[Allie|Allié]], [[Identite|Identité]], [[Gagner|Gagner / Perdre (une statistique)]], [[MechantDeckMechant|Méchant]], [[PointsDeVie|Points de Vie]], [[Sbire|Sbire]]_  
 
@@ -19,6 +19,6 @@ See also: Ally, Hit Points, Identity, Minion, Villain
 <details class="source">
 <summary>FR v1.4</summary>SOIGNER
 Si une capacité soigne un personnage, les dégâts subis par ce personnage peuvent être retirés de ce personnage.
-• Un effet de soin peut seulement amener un personnage jusqu’à ses points de vie maximums, il ne peut pas amener un personnage à dépasser ses points de vie maximums, sauf si l’effet l’indique spécifiquement.
+• Un effet de soin peut seulement amener un personnage jusqu'à ses points de vie maximums, il ne peut pas amener un personnage à dépasser ses points de vie maximums, sauf si l'effet l'indique spécifiquement.
 Voir aussi : Allié, Identité, Gagner / Perdre (une statistique), Méchant, Points de Vie, Sbire
 </details>

@@ -1,6 +1,6 @@
 # Icône Par Joueur  
 
-L’icône ![[icone_joueur.jpg|15]] située après une valeur multiplie cette valeur par le nombre de joueurs qui ont commencé ce scénario.  
+L'icône ![[icone_joueur.jpg|15]] située après une valeur multiplie cette valeur par le nombre de joueurs qui ont commencé ce scénario.  
 
 - Si un joueur est éliminé, cette valeur ne change pas.  
 
@@ -19,6 +19,6 @@ See also: Icons, Modifiers, Player Elimination
 
 <details class="source">
 <summary>FR v1.4</summary>PAR JOUEUR
-L’icône située après une valeur multiplie cette valeur par le nombre de joueurs qui ont commencé ce scénario.
+L'icône située après une valeur multiplie cette valeur par le nombre de joueurs qui ont commencé ce scénario.
 • Si un joueur est éliminé, cette valeur ne change pas.
 </details>

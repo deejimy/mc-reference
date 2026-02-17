@@ -2,7 +2,7 @@
 
 Une carte ayant le mot-clé `Mise en Place` commence la partie en jeu.  
 
-- <span class="new">Les cartes ayant le mot-clé Mise en Place sont mises en jeu lors de l’étape « Mettre les cartes Mise en Place en jeu » de la mise en place.</span>  
+- <span class="new">Les cartes ayant le mot-clé Mise en Place sont mises en jeu lors de l'étape « Mettre les cartes Mise en Place en jeu » de la mise en place.</span>  
 
 _Voir aussi : [[MotsCles|Mots-clés]], [[TexteDeRappel|Texte de Rappel]], [[II|Appendice II : Mise en Place]]_  
 

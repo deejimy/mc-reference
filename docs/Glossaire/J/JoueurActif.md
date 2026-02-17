@@ -1,6 +1,6 @@
 # Joueur Actif
 
-Le joueur qui est en train d’effectuer son tour lors de la phase des Joueurs est le joueur actif. _Voir aussi : [[Joueur|Joueur]], [[TourDeJoueur|Tour de Joueur]]_
+Le joueur qui est en train d'effectuer son tour lors de la phase des Joueurs est le joueur actif. _Voir aussi : [[Joueur|Joueur]], [[TourDeJoueur|Tour de Joueur]]_
 
 <details class="source">
 <summary>EN v1.7</summary>ACTIVE PLAYER
@@ -11,6 +11,6 @@ See also: Player, Player Turn
 
 <details class="source">
 <summary>FR v1.4</summary>JOUEUR ACTIF
-Le joueur qui est en train d’effectuer son tour lors de la phase des Joueurs est le joueur actif.
+Le joueur qui est en train d'effectuer son tour lors de la phase des Joueurs est le joueur actif.
 Voir aussi : Joueur, Tour de Joueur
 </details>

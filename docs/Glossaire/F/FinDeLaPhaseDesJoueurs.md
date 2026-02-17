@@ -2,11 +2,11 @@
 
 Pour mettre fin à la phase des joueurs, respectez les étapes suivantes :  
 
-1. Dans l’ordre des joueurs, chaque joueur peut défausser n’importe quel nombre de cartes de sa main, et doit défausser jusqu’à atteindre sa taille de main s’il a plus de cartes en main que sa taille de main.  
-2. Chaque joueur pioche simultanément jusqu’à atteindre sa taille de main.  
+1. Dans l'ordre des joueurs, chaque joueur peut défausser n'importe quel nombre de cartes de sa main, et doit défausser jusqu'à atteindre sa taille de main s'il a plus de cartes en main que sa taille de main.  
+2. Chaque joueur pioche simultanément jusqu'à atteindre sa taille de main.  
 3. Chaque joueur redresse simultanément toutes ses cartes.  
 - <span class="new">Redressez également chaque carte Rencontre inclinée.</span>  
-4. <span class="new">Tous les effets qui durent « jusqu’à la fin de la phase [du joueur] » prennent fin.</span>  
+4. <span class="new">Tous les effets qui durent « jusqu'à la fin de la phase [du joueur] » prennent fin.</span>  
 5. <span class="new">Résolvez tous les effets « Quand/Après la fin de la phase [du joueur] ».</span>    
 
 _Voir aussi : [[DefausserDefausse|Défausse]], [[TailleDeMain|Taille de main]], [[EffetsPersistants|Effets persistants]], [[Joueur|Joueur]], [[PhaseDesJoueurs|Phase du Joueur]], [[PiocherPiocherDesCartes|Piocher]], [[TourDeJoueur|Tour de Joueur]]_  
@@ -27,8 +27,8 @@ See also: Discard, Draw, Hand Size, Lasting Effects, Player, Player Phase, Playe
 <details class="source">
 <summary>FR v1.4</summary>FIN DE LA PHASE DES JOUEURS
 Pour mettre fin à la phase des Joueurs, respectez les étapes suivantes :
-1. Dans l’ordre des joueurs, chaque joueur peut défausser n’importe quel nombre de cartes de sa main (et doit défausser des cartes de sa main jusqu’à atteindre sa taille de main s’il a plus de cartes en main que sa taille de main).
-2. Tous les joueurs piochent simultanément jusqu’à atteindre leur taille de main.
+1. Dans l'ordre des joueurs, chaque joueur peut défausser n'importe quel nombre de cartes de sa main (et doit défausser des cartes de sa main jusqu'à atteindre sa taille de main s'il a plus de cartes en main que sa taille de main).
+2. Tous les joueurs piochent simultanément jusqu'à atteindre leur taille de main.
 3. Tous les joueurs redressent simultanément toutes leurs cartes.
 Voir aussi : Défausse, Joueur, Phase des Joueurs, Pioche, Redressé, Taille de Main, Tour de Joueur
 </details>

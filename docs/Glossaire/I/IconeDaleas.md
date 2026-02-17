@@ -1,8 +1,8 @@
 # Icône d'aléas 
 
-Lors de l’étape de distribution des cartes de rencontre de la phase du méchant, pour chaque icône d’aléas (![[icone_aleas.jpg|15]]) sur les cartes en jeu, distribuez à un joueur une carte supplémentaire (pas une carte par joueur). Les cartes supplémentaires sont distribuées dans l’ordre des joueurs (la première carte supplémentaire au premier joueur, la deuxième au deuxième joueur, etc.).  
+Lors de l'étape de distribution des cartes de rencontre de la phase du méchant, pour chaque icône d'aléas (![[icone_aleas.jpg|15]]) sur les cartes en jeu, distribuez à un joueur une carte supplémentaire (pas une carte par joueur). Les cartes supplémentaires sont distribuées dans l'ordre des joueurs (la première carte supplémentaire au premier joueur, la deuxième au deuxième joueur, etc.).  
 
-_Voir aussi : [[AttribuerAttribuerUneCarteRencontre|Attribuer une Carte Rencontre]], [[DansLordreDesJoueurs|Dans l’ordre des joueurs]], [[PhaseDuMechant|Phase du Méchant]]_  
+_Voir aussi : [[AttribuerAttribuerUneCarteRencontre|Attribuer une Carte Rencontre]], [[DansLordreDesJoueurs|Dans l'ordre des joueurs]], [[PhaseDuMechant|Phase du Méchant]]_  
 
 <details class="source">
 <summary>EN v1.7</summary>HAZARD ICON
@@ -13,7 +13,7 @@ See also: Deal, In Player Order, Villain Phase
 
 
 <details class="source">
-<summary>FR v1.4</summary>ICÔNE D’ALEAS ()
-Lors de l’étape trois de la phase du Méchant, pour chaque icône d’aléas sur les cartes en jeu, attribuez une carte Rencontre supplémentaire. Les cartes supplémentaires sont distribuées dans l’ordre des joueurs (la première carte supplémentaire pour le premier Joueur, la seconde pour le second joueur, etc.).
-Voir aussi : Attribuer, Attribuer une Carte Rencontre, Dans l’Ordre des Joueurs, Phase du Méchant
+<summary>FR v1.4</summary>ICÔNE D'ALEAS ()
+Lors de l'étape trois de la phase du Méchant, pour chaque icône d'aléas sur les cartes en jeu, attribuez une carte Rencontre supplémentaire. Les cartes supplémentaires sont distribuées dans l'ordre des joueurs (la première carte supplémentaire pour le premier Joueur, la seconde pour le second joueur, etc.).
+Voir aussi : Attribuer, Attribuer une Carte Rencontre, Dans l'Ordre des Joueurs, Phase du Méchant
 </details>

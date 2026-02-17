@@ -1,12 +1,12 @@
 # Attaques Contre les Alliés
 
-<span class="new">Certaines capacités font en sorte qu’un méchant ou un sbire attaque directement un allié. Lorsqu’il en est ainsi, tous les dégâts non défendus de cette attaque sont placés sur l’allié qui a été attaqué.</span>  
+<span class="new">Certaines capacités font en sorte qu'un méchant ou un sbire attaque directement un allié. Lorsqu'il en est ainsi, tous les dégâts non défendus de cette attaque sont placés sur l'allié qui a été attaqué.</span>  
 
-- <span class="new">Le joueur qui contrôle l’allié est considéré comme le joueur attaqué.</span>  
-    - <span class="new">Les capacités qui se résolvent pendant/quand/après que l’ennemi attaquant « vous attaque » se résolvent contre le joueur attaqué.</span>  
-    - <span class="new">Toutes les capacités de boost qui se réfèrent à « vous » se réfèrent au joueur qui contrôle l’allié attaqué.</span>  
+- <span class="new">Le joueur qui contrôle l'allié est considéré comme le joueur attaqué.</span>  
+    - <span class="new">Les capacités qui se résolvent pendant/quand/après que l'ennemi attaquant « vous attaque » se résolvent contre le joueur attaqué.</span>  
+    - <span class="new">Toutes les capacités de boost qui se réfèrent à « vous » se réfèrent au joueur qui contrôle l'allié attaqué.</span>  
 - <span class="new">Les joueurs peuvent défendre ces attaques normalement en déclarant un héros ou un allié en tant que défenseur.</span>  
-- <span class="new">Si l’attaque a du `déferlement` et vainc un allié (que cet allié ait été l’allié attaqué ou un allié défenseur), tout le dégât en excès de cette attaque est infligé à l’identité du joueur qui contrôlait l’allié vaincu.</span>  
+- <span class="new">Si l'attaque a du `déferlement` et vainc un allié (que cet allié ait été l'allié attaqué ou un allié défenseur), tout le dégât en excès de cette attaque est infligé à l'identité du joueur qui contrôlait l'allié vaincu.</span>  
 
 _Voir aussi : [[Allie|Allié]], [[AttaqueActivationDesEnnemis|Attaque (Activation des Ennemis)]], [[DefendreDefense|Défendre]], [[Cible|Cible]]_  
 

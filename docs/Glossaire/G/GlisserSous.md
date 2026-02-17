@@ -1,6 +1,6 @@
 # Glisser Sous
 
-Quand un joueur est instruit de glisser une carte sous une autre carte, il place la carte glissée face visible sous l’autre carte.  
+Quand un joueur est instruit de glisser une carte sous une autre carte, il place la carte glissée face visible sous l'autre carte.  
 
 - Les cartes glissées ne sont pas en jeu et ne sont pas considérées comme « attachées » à la carte sous laquelle elles sont glissées.
 - Quand une carte quitte le jeu, chaque carte glissée sous elle est défaussée.

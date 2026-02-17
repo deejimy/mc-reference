@@ -1,6 +1,6 @@
 # Perdre
 
-<span class="new">Si une carte perd une caractéristique (comme un trait, un mot‑clé ou le texte d’une capacité), la carte fonctionne comme si elle ne possédait pas la caractéristique perdue.</span>  
+<span class="new">Si une carte perd une caractéristique (comme un trait, un mot‑clé ou le texte d'une capacité), la carte fonctionne comme si elle ne possédait pas la caractéristique perdue.</span>  
 
 - <span class="new">Les caractéristiques perdues sont toujours considérées comme étant imprimées sur la carte.</span>  
 - <span class="new">Une caractéristique perdue ne peut pas être regagnée tant que la capacité qui la fait perdre est en vigueur, même si un nouvel effet tenterait de faire gagner cette caractéristique.</span>  

@@ -1,6 +1,6 @@
 # Résolution simultanée
 
-Si deux effets ou plus avec le même indicatif de déclenchement en gras sont censés se résoudre simultanément, le premier joueur détermine l’ordre dans lequel ils sont résolus.
+Si deux effets ou plus avec le même indicatif de déclenchement en gras sont censés se résoudre simultanément, le premier joueur détermine l'ordre dans lequel ils sont résolus.
 
 _Voir aussi : [[CapaciteDeclenchee|Capacité Déclenchée]], [[PremierJoueur|Premier Joueur]]_
 
@@ -13,6 +13,6 @@ See also: "Each Player", Triggered Ability
 
 <details class="source">
 <summary>FR v1.4</summary>RESOLUTION SIMULTANEE<br>
-Si deux effets ou plus avec le même indicatif de déclenchement en gras sont censés se résoudre simultanément, le premier joueur détermine l’ordre dans lequel ils sont résolus.
+Si deux effets ou plus avec le même indicatif de déclenchement en gras sont censés se résoudre simultanément, le premier joueur détermine l'ordre dans lequel ils sont résolus.
 Voir aussi : Capacité Déclenchée, Premier Joueur
 </details>

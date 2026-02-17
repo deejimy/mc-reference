@@ -2,35 +2,35 @@
 
 Un mot-clé est un attribut qui confère des règles spécifiques à la carte qui le porte.  
 
-<span class="new">Si une carte gagne plusieurs occurrences d’un mot‑clé, les occurrences supplémentaires n’ont aucun effet, sauf si le mot‑clé est suivi d’un nombre (par exemple Entrave X, Riposte X), auquel cas les nombres de chaque occurrence sont additionnés.</span>  
+<span class="new">Si une carte gagne plusieurs occurrences d'un mot‑clé, les occurrences supplémentaires n'ont aucun effet, sauf si le mot‑clé est suivi d'un nombre (par exemple Entrave X, Riposte X), auquel cas les nombres de chaque occurrence sont additionnés.</span>  
 
 Les mots-clés suivants sont utilisés dans le jeu :  
 
-- Alliance : Lorsqu’un joueur déclare qu’il souhaite jouer une carte Alliance, n’importe quel autre joueur peut aider à payer les coûts de cette carte.  
+- Alliance : Lorsqu'un joueur déclare qu'il souhaite jouer une carte Alliance, n'importe quel autre joueur peut aider à payer les coûts de cette carte.  
 
-- <span class="new">Assaut : Lorsqu’un personnage effectue un contre de base contre une manigance portant le mot‑clé `Assaut`, ce personnage utilise sa valeur d’ATQ au lieu de sa valeur de CTR.</span>  
+- <span class="new">Assaut : Lorsqu'un personnage effectue un contre de base contre une manigance portant le mot‑clé `Assaut`, ce personnage utilise sa valeur d'ATQ au lieu de sa valeur de CTR.</span>  
 
 - <span class="new">Forme : Une carte portant le mot‑clé `Forme` confère à une identité une forme unique.</span>  
 
-- Garde : Tant qu’un sbire avec le mot‑clé `Garde` est engagé avec un joueur, ce joueur ne peut pas attaquer le méchant.  
+- Garde : Tant qu'un sbire avec le mot‑clé `Garde` est engagé avec un joueur, ce joueur ne peut pas attaquer le méchant.  
 
 - Entrave X : Quand une carte avec `Entrave X` entre en jeu, placez X menaces dessus.  
 
 - Incitation X : Quand un joueur révèle une carte avec `Incitation X`, ce joueur place X menaces sur la manigance principale.  
 
-- <span class="new">Liée (Titre de Carte) : Les cartes avec le mot‑clé `Liée` sont mises de côté jusqu’à ce que la carte nommée entre en jeu et ramène la carte liée en jeu.</span>  
+- <span class="new">Liée (Titre de Carte) : Les cartes avec le mot‑clé `Liée` sont mises de côté jusqu'à ce que la carte nommée entre en jeu et ramène la carte liée en jeu.</span>  
 
-- Déferlement : Les dégâts en excès d’une attaque avec `Déferlement` sont infligés à l’identité ou au méchant.  
+- Déferlement : Les dégâts en excès d'une attaque avec `Déferlement` sont infligés à l'identité ou au méchant.  
 
-- Patrouille : Tant qu’un sbire avec `Patrouille` est engagé avec un joueur, ce joueur ne peut pas contrer la manigance principale.  
+- Patrouille : Tant qu'un sbire avec `Patrouille` est engagé avec un joueur, ce joueur ne peut pas contrer la manigance principale.  
 
-- Péril : Tant qu’un joueur résout une carte avec `Péril`, les autres joueurs ne peuvent pas l’aider.  
+- Péril : Tant qu'un joueur résout une carte avec `Péril`, les autres joueurs ne peuvent pas l'aider.  
 
 - Permanent : Les cartes portant `Permanent` ne peuvent pas quitter le jeu. 
 
-- Perçant : Les attaques avec `Perçant` font défausser les cartes d’état Tenace de la cible avant que les dégâts ne soient infligés.  
+- Perçant : Les attaques avec `Perçant` font défausser les cartes d'état Tenace de la cible avant que les dégâts ne soient infligés.  
 
-- Coup Rapide : Après qu’un ennemi a engagé un joueur, il attaque immédiatement ce joueur si celui‑ci est sous forme de héros.  
+- Coup Rapide : Après qu'un ennemi a engagé un joueur, il attaque immédiatement ce joueur si celui‑ci est sous forme de héros.  
 
 - À Distance : Les attaques avec `À Distance` ignorent `Riposte`.  
 
@@ -38,25 +38,25 @@ Les mots-clés suivants sont utilisés dans le jeu :
 
 - Restreint : Un joueur ne peut pas contrôler plus de deux cartes Restreintes en même temps.  
 
-- Riposte X : Après qu’un personnage avec `Riposte X` est attaqué, infligez X dégâts à l’attaquant.  
+- Riposte X : Après qu'un personnage avec `Riposte X` est attaqué, infligez X dégâts à l'attaquant.  
 
 - Mise en Place : Les cartes avec `Mise en Place` commencent la partie en jeu.  
 
 - Robuste : Les personnages avec `Robuste` ne peuvent pas être sonnés ou désorientés.  
 
-- <span class="new">Solide : Un personnage avec `Solide` n’est pas sonné ni désorienté à moins d’avoir deux cartes d’état correspondantes.</span>  
+- <span class="new">Solide : Un personnage avec `Solide` n'est pas sonné ni désorienté à moins d'avoir deux cartes d'état correspondantes.</span>  
 
-- <span class="new">En collaboration : Après qu’un sbire avec `En collaboration` entre en jeu et engage un joueur, si au moins un autre sbire partageant le trait spécifié est en jeu, le sbire qui vient d’entrer s’active contre le joueur auquel il est engagé.</span>  
+- <span class="new">En collaboration : Après qu'un sbire avec `En collaboration` entre en jeu et engage un joueur, si au moins un autre sbire partageant le trait spécifié est en jeu, le sbire qui vient d'entrer s'active contre le joueur auquel il est engagé.</span>  
 
 - <span class="new">Temporaire : Une carte avec `Temporaire` doit être défaussée du jeu à la fin du round.</span>  
 
-- Ténacité : Quand un personnage avec `Ténacité` entre en jeu, placez une carte d’état Tenace dessus.  
+- Ténacité : Quand un personnage avec `Ténacité` entre en jeu, placez une carte d'état Tenace dessus.  
 
-- Utilisations (X « types ») : Quand une carte avec `Utilisations` entre en jeu, placez X jetons génériques dessus ; après que le dernier jeton a été retiré et que l’effet s’est résolu, défaussez la carte.  
+- Utilisations (X « types ») : Quand une carte avec `Utilisations` entre en jeu, placez X jetons génériques dessus ; après que le dernier jeton a été retiré et que l'effet s'est résolu, défaussez la carte.  
 
 - Victoire X : Quand une carte avec `Victoire X` est vaincue, ajoutez‑la à la pile de victoire.  
 
-- Vilenie : Quand un sbire avec `Vilenie` s’active, donnez‑lui une carte de boost.  
+- Vilenie : Quand un sbire avec `Vilenie` s'active, donnez‑lui une carte de boost.  
 
 _Voir aussi : [[ADistance|À distance]], [[CoupRapide|Coup rapide]], [[Deferlement|Déferlement]], [[EnEquipe|En équipe]], [[EntraveX|Entrave X]], [[Garde]], [[IncitationX|Incitation X]], [[LieTitreDeCarte|Lié]], [[Patrouille]], [[Percant|Perçant]], [[Permanent]], [[Peril|Péril]], [[Restreint]], [[RiposteX|Riposte X]], [[Robuste]], [[Solide]], [[Tenacite|Ténacité]]_  
 
@@ -85,7 +85,7 @@ Incite X)
 • Quickstrike: After this enemy engages a player, it immediately attacks that player if they are in hero form. (See: Quickstrike)
 • Ranged: Attacks with ranged ignore retaliate. (See:
 Ranged)
-• Requirement (Resources): A card with the requirement keyword cannot be played unless each resource of the specified type is spent while paying for that card’s cost. (See: Requirement (Resources))
+• Requirement (Resources): A card with the requirement keyword cannot be played unless each resource of the specified type is spent while paying for that card's cost. (See: Requirement (Resources))
 • Restricted: A player cannot control more than two restricted cards at a given time. (See: Restricted)
 • Retaliate X: After a character with retaliate X is attacked, deal X damage to the attacker. (See:
 Retaliate X)
@@ -109,29 +109,29 @@ Surge)
 <summary>FR v1.4</summary>MOTS-CLES
 Un mot-clé est un attribut qui confère des règles spécifiques à la carte qui le porte. Les mots-clés suivants sont utilisés dans le jeu :
 • À Distance : Les attaques ayant À Distance ignorent le mot-clé Riposte. (Voir : À Distance)
-• Coup Rapide : Après que cet ennemi a engagé un joueur, il attaque immédiatement ce joueur s’il est sous forme de héros. (Voir : Coup Rapide)
-• Déferlement : Les dégâts en excès des attaques avec déferlement sont infligés à l’identité ou au méchant. (Voir :
+• Coup Rapide : Après que cet ennemi a engagé un joueur, il attaque immédiatement ce joueur s'il est sous forme de héros. (Voir : Coup Rapide)
+• Déferlement : Les dégâts en excès des attaques avec déferlement sont infligés à l'identité ou au méchant. (Voir :
 Déferlement)
 • En Equipe : Une carte ayant En Equipe ne peut être jouée que si les deux personnages nommés à côté du mot-clé sont en jeu. (Voir : En Equipe)
 • Entrave X : Quand un joueur révèle une carte ayant Entrave X, ce joueur place X menaces dessus. (Voir : Entrave X)
-• Garde : Tant qu’un sbire ayant ce mot-clé est engagé avec un joueur, ce joueur ne peut pas attaquer le méchant. (Voir :
+• Garde : Tant qu'un sbire ayant ce mot-clé est engagé avec un joueur, ce joueur ne peut pas attaquer le méchant. (Voir :
 Garde)
 • Incitation X : Quand un joueur révèle une carte ayant Incitation X, ce joueur place X menaces sur la manigance principale.
 (Voir : Incitation X)
 • Mise en Place : Les cartes ayant Mise en Place commencent la partie en jeu. (Voir : Mise en Place)
-• Patrouille : Tant qu’un sbire ayant Patrouille est engagé avec un joueur, ce joueur ne peut pas contrer la manigance principale.
+• Patrouille : Tant qu'un sbire ayant Patrouille est engagé avec un joueur, ce joueur ne peut pas contrer la manigance principale.
 (Voir : Patrouille)
-• Perçant : Les attaques ayant Perçant défaussent les cartes d’état Tenace de la cible avant que les dégâts ne soient infligés.
+• Perçant : Les attaques ayant Perçant défaussent les cartes d'état Tenace de la cible avant que les dégâts ne soient infligés.
 (Voir : Perçant)
-• Péril : Tant qu’un joueur résout une carte ayant Péril, les autres joueurs ne peuvent pas l’aider. (Voir : Péril)
+• Péril : Tant qu'un joueur résout une carte ayant Péril, les autres joueurs ne peuvent pas l'aider. (Voir : Péril)
 • Permanent : Les cartes ayant Permanent ne peuvent pas quitter le jeu. (Voir : Permanent).
-• Renfort : Après qu’un joueur a révélé une carte avec ayant Renfort, ce joueur révèle une carte Rencontre supplémentaire.
+• Renfort : Après qu'un joueur a révélé une carte avec ayant Renfort, ce joueur révèle une carte Rencontre supplémentaire.
 (Voir : Renfort)
 • Restreint : Un joueur ne peut pas contrôler plus de deux cartes Restreintes en même temps. (Voir : Restreint)
-• Riposte X : Après qu’un personnage ayant Riposte X a été attaqué, infligez X dégâts à l’attaquant. (Voir : Riposte X)
+• Riposte X : Après qu'un personnage ayant Riposte X a été attaqué, infligez X dégâts à l'attaquant. (Voir : Riposte X)
 • Robuste : Les personnages ayant Robuste ne peuvent pas être sonnés ou désorientés. (Voir : Robuste)
-• Ténacité : Quand un personnage ayant Ténacité entre en jeu, placez une carte d’état Tenace dessus. (Voir : Tenace / Ténacité)
-• Utilisations (X « types ») : Quand une carte ayant le mot clé Utilisations entre en jeu, placez X jetons génériques (pris dans la réserve de pions) dessus. Après que le dernier jeton générique a été retiré d’une carte avec Utilisations (et que l’effet a été résolu), défaussez cette carte. (Voir : Utilisations (X « types »))
+• Ténacité : Quand un personnage ayant Ténacité entre en jeu, placez une carte d'état Tenace dessus. (Voir : Tenace / Ténacité)
+• Utilisations (X « types ») : Quand une carte ayant le mot clé Utilisations entre en jeu, placez X jetons génériques (pris dans la réserve de pions) dessus. Après que le dernier jeton générique a été retiré d'une carte avec Utilisations (et que l'effet a été résolu), défaussez cette carte. (Voir : Utilisations (X « types »))
 • Victoire X : Quand une carte ayant Victoire X est vaincue ou déjouée, ajoutez-la à la pile de victoire. (Voir : Victoire X)
-• Vilenie : Quand un sbire ayant Vilenie s’active, donnez-lui une carte de boost. (Voir : Vilenie)
+• Vilenie : Quand un sbire ayant Vilenie s'active, donnez-lui une carte de boost. (Voir : Vilenie)
 </details>

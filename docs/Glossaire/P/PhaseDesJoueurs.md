@@ -1,12 +1,12 @@
 # Phase des joueurs
 
-Lors de la phase des Joueurs, chaque joueur effectue son tour (dans l’ordre des joueurs).  
+Lors de la phase des Joueurs, chaque joueur effectue son tour (dans l'ordre des joueurs).  
 
-Après que chaque joueur a effectué son tour, les joueurs défaussent des cartes ou piochent des cartes jusqu’à atteindre leur taille de main et redressent toutes les cartes qu’ils contrôlent.  
+Après que chaque joueur a effectué son tour, les joueurs défaussent des cartes ou piochent des cartes jusqu'à atteindre leur taille de main et redressent toutes les cartes qu'ils contrôlent.  
 
-- <span class="new">Les effets qui durent « jusqu’à la fin de la phase des joueurs » prennent fin après que les joueurs ont défaussé ou pioché jusqu’à leur taille de main et que toutes les cartes ont été redressées. Ensuite, résolvez les effets qui se déclenchent « quand/ après la fin de la phase des joueurs ». </span>  
+- <span class="new">Les effets qui durent « jusqu'à la fin de la phase des joueurs » prennent fin après que les joueurs ont défaussé ou pioché jusqu'à leur taille de main et que toutes les cartes ont été redressées. Ensuite, résolvez les effets qui se déclenchent « quand/ après la fin de la phase des joueurs ». </span>  
 
-_Voir aussi : [[FinDeLaPhaseDesJoueurs|Fin de la Phase des Joueurs]], [[DansLordreDesJoueurs|Dans l’Ordre des Joueurs]], [[Joueur|Joueur]], [[TourDeJoueur|Tour de Joueur]]_  
+_Voir aussi : [[FinDeLaPhaseDesJoueurs|Fin de la Phase des Joueurs]], [[DansLordreDesJoueurs|Dans l'Ordre des Joueurs]], [[Joueur|Joueur]], [[TourDeJoueur|Tour de Joueur]]_  
 
 
 
@@ -21,7 +21,7 @@ See also: End of Player Phase, In Player Order, Player, Player Turn
 
 <details class="source">
 <summary>FR v1.4</summary>PHASE DES JOUEURS
-Lors de la phase des Joueurs, chaque joueur effectue son tour (dans l’ordre des joueurs).
-Après que chaque joueur a effectué son tour, les joueurs défaussent des cartes ou piochent des cartes jusqu’à atteindre leur taille de main et redressent toutes les cartes qu’ils contrôlent.
-Voir aussi : Fin de la Phase des Joueurs, Dans l’Ordre des Joueurs, Joueur, Tour de Joueur
+Lors de la phase des Joueurs, chaque joueur effectue son tour (dans l'ordre des joueurs).
+Après que chaque joueur a effectué son tour, les joueurs défaussent des cartes ou piochent des cartes jusqu'à atteindre leur taille de main et redressent toutes les cartes qu'ils contrôlent.
+Voir aussi : Fin de la Phase des Joueurs, Dans l'Ordre des Joueurs, Joueur, Tour de Joueur
 </details>

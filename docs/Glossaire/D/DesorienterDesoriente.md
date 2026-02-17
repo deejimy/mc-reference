@@ -2,20 +2,20 @@
 
 Désorienté est un statut qui annule la prochaine manigance ou le prochain contre d'un personnage.  
 
-- Si une capacité « désoriente » un personnage, donnez à ce personnage une carte d’état Désorienté.  
-- Un personnage est désorienté s’il possède une carte d’état Désorienté.  
-    - <span class="new">Un personnage avec le mot-clé **Solide** n’est désorienté que s’il possède deux cartes d’état Désorienté.</span>  
-- Si une capacité indique qu’un personnage « ne peut pas être désorienté », aucune carte d’état Désorienté ne peut être placée sur ce personnage.  
-- Lorsque une identité ou un allié désorienté tente de contrer ou d’utiliser une capacité de contre, défaussez la carte Désorienté à la place ; les coûts associés (y compris l’inclinaison) doivent tout de même être payés.  
-    - <span class="new">Un personnage désorienté peut tenter de contrer même s’il n’a pas de cible valide pour un contre.</span>  
-- Si un méchant ou un sbire désorienté serait censé manigancer, défaussez la carte d’état Désorienté à la place.  
-- Puisque l’action de contre ou l’activation de manigance est remplacée par la défausse de la carte Désorienté, le personnage n’est pas considéré comme ayant contré ou manigancé.  
+- Si une capacité « désoriente » un personnage, donnez à ce personnage une carte d'état Désorienté.  
+- Un personnage est désorienté s'il possède une carte d'état Désorienté.  
+    - <span class="new">Un personnage avec le mot-clé **Solide** n'est désorienté que s'il possède deux cartes d'état Désorienté.</span>  
+- Si une capacité indique qu'un personnage « ne peut pas être désorienté », aucune carte d'état Désorienté ne peut être placée sur ce personnage.  
+- Lorsque une identité ou un allié désorienté tente de contrer ou d'utiliser une capacité de contre, défaussez la carte Désorienté à la place ; les coûts associés (y compris l'inclinaison) doivent tout de même être payés.  
+    - <span class="new">Un personnage désorienté peut tenter de contrer même s'il n'a pas de cible valide pour un contre.</span>  
+- Si un méchant ou un sbire désorienté serait censé manigancer, défaussez la carte d'état Désorienté à la place.  
+- Puisque l'action de contre ou l'activation de manigance est remplacée par la défausse de la carte Désorienté, le personnage n'est pas considéré comme ayant contré ou manigancé.  
 
 _Voir aussi : [[Allie|Allié]], [[Annuler|Annuler]], [[Identite|Identité]], [[Sbire|Sbire]], [[CartesDetat|Cartes d'état]], [[Cible|Cible]], [[MechantDeckMechant|Méchant]]_  
 
 <details class="source">
 <summary>EN v1.7</summary>CONFUSE, CONFUSED
-Confuse is a status that cancels a character’s next scheme or thwart.
+Confuse is a status that cancels a character's next scheme or thwart.
 • If an ability "confuses" a character, give that character a confused status card.
 • A character is confused if it has a confused status card.
 » » A character with the steady keyword is confused only if it has two confused status cards.
@@ -31,8 +31,8 @@ See also: Ally, Cancel, Identity, Minion, Status Cards, Target, Villain
 
 <details class="source">
 <summary>FR v1.4</summary>DESORIENTER, DESORIENTE
-Désorienté est un statut qui empêche un personnage d’ajouter ou de retirer de la menace la prochaine fois qu’il manigance ou qu’il contre.
-• Si une capacité « désoriente » un personnage, donnez à ce personnage une carte d’état Désorienté.
-• Si un personnage a une capacité précisant « ne peut pas être désorienté », aucune carte d’état Désorienté ne peut être placée sur ce personnage.
-Voir aussi : Allié, Cartes d’Etat, Identité, Méchant, Sbire
+Désorienté est un statut qui empêche un personnage d'ajouter ou de retirer de la menace la prochaine fois qu'il manigance ou qu'il contre.
+• Si une capacité « désoriente » un personnage, donnez à ce personnage une carte d'état Désorienté.
+• Si un personnage a une capacité précisant « ne peut pas être désorienté », aucune carte d'état Désorienté ne peut être placée sur ce personnage.
+Voir aussi : Allié, Cartes d'Etat, Identité, Méchant, Sbire
 </details>

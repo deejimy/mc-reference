@@ -1,9 +1,9 @@
 # Assaut
 
-<span class="new">Lorsqu’un personnage effectue un contre de base contre une manigance portant le mot‑clé `Assaut`, ce personnage utilise sa valeur d’ATQ au lieu de sa valeur de CTR.</span>  
+<span class="new">Lorsqu'un personnage effectue un contre de base contre une manigance portant le mot‑clé `Assaut`, ce personnage utilise sa valeur d'ATQ au lieu de sa valeur de CTR.</span>  
 
-- <span class="new">Si le personnage qui contre est un allié, il subit les dégâts consécutifs indiqués sous son champ d’ATQ plutôt que sous son champ de CTR après le contre.</span>  
-- <span class="new">Les capacités qui augmentent le « pouvoir de base » d’un personnage peuvent être utilisées pour augmenter son ATQ lorsque ce personnage contre une manigance avec Assaut.</span>  
+- <span class="new">Si le personnage qui contre est un allié, il subit les dégâts consécutifs indiqués sous son champ d'ATQ plutôt que sous son champ de CTR après le contre.</span>  
+- <span class="new">Les capacités qui augmentent le « pouvoir de base » d'un personnage peuvent être utilisées pour augmenter son ATQ lorsque ce personnage contre une manigance avec Assaut.</span>  
 
 _Voir aussi : [[DegatsConsecutifs|Dégâts consécutifs]], [[MotsCles|Mots-clés]]_  
 
@@ -11,6 +11,6 @@ _Voir aussi : [[DegatsConsecutifs|Dégâts consécutifs]], [[MotsCles|Mots-clés
 <summary>EN v1.7</summary>ASSAULT
 When a character makes a basic thwart against a scheme with the assault keyword, that character uses its ATK instead of its THW.
 • If the thwarting character is an ally, it takes the consequential damage listed under its ATK instead of its THW after the thwart.
-• Abilities that increase a character’s "basic power" can be used to increase that character’s ATK when that character thwarts a scheme with assault.
+• Abilities that increase a character's "basic power" can be used to increase that character's ATK when that character thwarts a scheme with assault.
 See also: Consequential Damage, Keywords
 </details>

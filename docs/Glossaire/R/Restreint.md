@@ -2,8 +2,8 @@
 
 Un joueur ne peut pas contrôler plus de deux cartes ayant le mot‑clé `Restreint` en même temps.  
 
-- Un joueur peut jouer ou mettre en jeu une carte `Restreinte` même s’il contrôle déjà deux cartes Restreintes.  
-- Cependant, si un joueur contrôle un jour plus de deux cartes Restreintes en jeu, il doit immédiatement choisir et défausser du jeu des cartes Restreintes qu’il contrôle jusqu’à n’en avoir plus que deux.  
+- Un joueur peut jouer ou mettre en jeu une carte `Restreinte` même s'il contrôle déjà deux cartes Restreintes.  
+- Cependant, si un joueur contrôle un jour plus de deux cartes Restreintes en jeu, il doit immédiatement choisir et défausser du jeu des cartes Restreintes qu'il contrôle jusqu'à n'en avoir plus que deux.  
 
 _Voir aussi : [[ChoisirElementDeJeu|Choisir]], [[DefausserDefausse|Défausser]], [[JouerMettreEnJeu|Jouer, Mettre en Jeu]], [[Joueur|Joueur]], [[MotsCles|Mots-clés]], [[ProprieteEtControle|Propriété et contrôle]], [[TexteDeRappel|Texte de Rappel]]_  
 
@@ -18,6 +18,6 @@ See also: Discard, Keywords, Ownership and Control, Player, Reminder Text
 
 <details class="source">
 <summary>FR v1.4</summary>RESTREINT
-Un joueur ne peut pas contrôler plus de deux cartes ayant le mot-clé Restreint en même temps. Si un joueur contrôle plus de deux cartes ayant le mot-clé Restreint, il doit immédiatement choisir et défausser du jeu des cartes ayant le mot-clé Restreint qu’il contrôle jusqu’à n’en avoir plus que deux.
+Un joueur ne peut pas contrôler plus de deux cartes ayant le mot-clé Restreint en même temps. Si un joueur contrôle plus de deux cartes ayant le mot-clé Restreint, il doit immédiatement choisir et défausser du jeu des cartes ayant le mot-clé Restreint qu'il contrôle jusqu'à n'en avoir plus que deux.
 Voir aussi : Choisir, Défausser, Jouer, Joueur, Mots-clés, Propriété et Contrôle, Texte de Rappel
 </details>

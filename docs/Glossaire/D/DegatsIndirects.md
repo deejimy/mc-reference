@@ -25,8 +25,8 @@ Some card abilities may deal "indirect damage."
 » » A character with a tough status card can be assigned indirect damage up to its remaining hit points, and all damage assigned to it is prevented by its tough status card.
 • Characters that cannot take damage cannot be assigned indirect damage.
 » » If indirect damage dealt to a player cannot be assigned to any character that player controls, that damage is ignored.
-• If an enemy’s attack deals indirect damage, the indirect damage is dealt during step four of the enemy activation (after player’s have the opportunity to defend against the attack).
-» » Only the defending character, or the attacked player’s identity if the attack was undefended, is considered to have been attacked, even if other characters were assigned some or all of the indirect damage.
+• If an enemy's attack deals indirect damage, the indirect damage is dealt during step four of the enemy activation (after player's have the opportunity to defend against the attack).
+» » Only the defending character, or the attacked player's identity if the attack was undefended, is considered to have been attacked, even if other characters were assigned some or all of the indirect damage.
 • For example, if you take 5 indirect damage, but you control an ally with 4 hit points remaining, you may assign 4 of that indirect damage to the ally, then assign the remaining 1 indirect damage to your identity.
 See also: Ally, Attack (Enemy Activation), Damage, Defeat, Player
 </details>
@@ -35,10 +35,10 @@ See also: Ally, Attack (Enemy Activation), Damage, Defeat, Player
 <details class="source">
 <summary>FR v1.4</summary>DEGÂTS INDIRECTS
 Certaines capacités de carte peuvent infliger des « dégâts indirects ».
-• Les dégâts indirects infligés à un joueur doivent être répartis comme il le souhaite parmi les personnages qu’il contrôle.
+• Les dégâts indirects infligés à un joueur doivent être répartis comme il le souhaite parmi les personnages qu'il contrôle.
 • Les dégâts indirects infligés à un groupe de joueurs doivent être répartis comme ils le souhaitent parmi tous les personnages amis en jeu.
-• Quand vous assignez les dégâts indirects, un personnage ne peut pas se voir assigner plus de dégâts indirects que ce qui le vaincrait et ne tenez pas compte des éventuelles interactions avec d’autres capacités.
-• Si l’attaque d’un ennemi inflige des dégâts indirects, ces dégâts sont infligés pendant l’étape 4 de l’activation de l’ennemi (après que les joueurs ont eu l’opportunité de défendre contre cette attaque).
+• Quand vous assignez les dégâts indirects, un personnage ne peut pas se voir assigner plus de dégâts indirects que ce qui le vaincrait et ne tenez pas compte des éventuelles interactions avec d'autres capacités.
+• Si l'attaque d'un ennemi inflige des dégâts indirects, ces dégâts sont infligés pendant l'étape 4 de l'activation de l'ennemi (après que les joueurs ont eu l'opportunité de défendre contre cette attaque).
 Par exemple, si vous subissez 5 dégâts indirects, mais que vous contrôlez un allié à qui il reste 4 points de vie, vous pouvez assigner 4 de ces dégâts indirects à votre allié et assigner le dégât restant à votre identité.
 Voir aussi : Allié, Attaque (Activation des Ennemis), Dégâts, Joueur, Vaincre / Déjouer
 </details>

@@ -1,6 +1,6 @@
 # "Chaque fois"
 
-_See: [[EffetDAlteration|Effet d’Altération]]_
+_See: [[EffetDAlteration|Effet d'Altération]]_
 
 
 <details class="source">
@@ -11,5 +11,5 @@ See: Alteration Effect
 
 <details class="source">
 <summary>FR v1.4</summary>« CHAQUE FOIS »
-Voir : Effet d’Altération
+Voir : Effet d'Altération
 </details>

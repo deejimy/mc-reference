@@ -1,7 +1,7 @@
 # APPENDICE II: Mise en place
 
 Pour mettre en place une partie, effectuez les étapes suivantes  
-dans l’ordre :  
+dans l'ordre :  
 
 1. Choisir les identités. Chaque joueur sélectionne une identité et la place, face alter ego visible.  
 
@@ -16,14 +16,14 @@ bas de sa carte Identité.
 
 6. Mélanger les decks des joueurs. Chaque joueur mélange son deck Joueur.  
 
-7. Rassembler les pions, les jetons et les cartes d’état. Constituez une réserve de pions Dégât, de pions Menace, de pions Accélération et de jetons génériques que vous placez à portée de main de tous les joueurs.  
-Placez les piles de cartes d’état Sonné, Désorienté et Tenace à côté de cette réserve.  
+7. Rassembler les pions, les jetons et les cartes d'état. Constituez une réserve de pions Dégât, de pions Menace, de pions Accélération et de jetons génériques que vous placez à portée de main de tous les joueurs.  
+Placez les piles de cartes d'état Sonné, Désorienté et Tenace à côté de cette réserve.  
 
 8. Choisir un méchant. Choisissez un méchant et mettez en jeu son deck Méchant ainsi que son deck Manigance Principale au centre de la zone de jeu.  
 
 9. Déterminer les points de vie du méchant. Réglez le compteur de points de vie du méchant à la valeur indiquée sur sa carte Méchant.  
 
-10. <span class="new">Créer le deck Rencontre. Mélangez les sets de rencontre indiqués sur la face 1A de la carte Manigance Principale avec les cartes Obligation mises de côté lors de l’étape 4 pour créer le deck Rencontre.</span>  
+10. <span class="new">Créer le deck Rencontre. Mélangez les sets de rencontre indiqués sur la face 1A de la carte Manigance Principale avec les cartes Obligation mises de côté lors de l'étape 4 pour créer le deck Rencontre.</span>  
 
 11. <span class="new">Mettre en jeu les cartes « Mise en place ». Cherchez dans chaque deck et dans la zone mise de côté toute carte portant le mot‑clé « Mise en place » et mettez-la en jeu.</span>  
 
@@ -34,9 +34,9 @@ Placez les piles de cartes d’état Sonné, Désorienté et Tenace à côté de
 
 13. <span class="new">Mise en place de la campagne. Si vous jouez en mode campagne, résolvez les instructions de mise en place de campagne indiquées pour le scénario dans le livret de règles associé.</span>  
 
-14. Piocher des cartes. Chaque joueur pioche des cartes jusqu’à avoir en main un nombre de cartes égal à la valeur de sa taille de main indiquée en bas de sa carte Identité.  
+14. Piocher des cartes. Chaque joueur pioche des cartes jusqu'à avoir en main un nombre de cartes égal à la valeur de sa taille de main indiquée en bas de sa carte Identité.  
 
-15. Résoudre les mulligans. Chaque joueur peut défausser n’importe quel nombre de cartes de sa main et piocher des cartes jusqu’à atteindre sa taille de main. (Pour le moment, ne remélangez pas dans leurs decks les cartes ainsi défaussées.)  
+15. Résoudre les mulligans. Chaque joueur peut défausser n'importe quel nombre de cartes de sa main et piocher des cartes jusqu'à atteindre sa taille de main. (Pour le moment, ne remélangez pas dans leurs decks les cartes ainsi défaussées.)  
 
 16. Résoudre les capacités de mise en place des personnages. Résolvez toute instruction « Mise en place » inscrite sur les cartes Identité en jeu.  
 La partie peut désormais commencer.  
@@ -52,7 +52,7 @@ La partie peut désormais commencer.
 7. Collect Tokens and Status Cards. Collect a pool of damage tokens, threat tokens, acceleration tokens, and all-purpose counters within reach of each player. Place stacks of stunned, confused, and tough status cards
 near this pool.
 8. Select Scenario. Select a scenario and put its villain deck and main scheme deck into play near the center of the play area.
-9. Set the Villain’s Hit Points. Set the villain’s hit point dial to the value indicated by the villain card.  
+9. Set the Villain's Hit Points. Set the villain's hit point dial to the value indicated by the villain card.  
 10. Create the Encounter Deck. Shuffle the encounter sets listed on side 1A of the main scheme card with the obligation cards set aside during setup step four to create the encounter deck.
 11. Put Setup Cards Into Play. Search each deck and the set aside area for any cards with the setup keyword and put them into play.
 12. Resolve Scenario Setup and When Revealed Abilities.
@@ -71,7 +71,7 @@ The game is now ready to begin.
 <details class="source">
 <summary>FR v1.4</summary>
 Pour mettre en place une partie, effectuez les étapes suivantes
-dans l’ordre :  
+dans l'ordre :  
 
 1. Choisir les identités. Chaque joueur sélectionne une identité et la place, face alter ego visible.
 2. Déterminer les points de vie. Chaque joueur sélectionne sur son compteur de points de vie le nombre de points de vie de départ de son personnage, indiqué en
@@ -80,15 +80,15 @@ bas de sa carte Identité.
 4. Mettre de côté les obligations. Mettez de côté lacarte Ob ligation de chaque identité jouée.
 5. Mettre de côté les sets de Némésis. Pour chaque identité jouée, mettez de côté sa Némésis et les cartes Rencontre de cette Némésis.
 6. Mélanger les decks des joueurs. Chaque joueur mélange son deck Joueur.
-7. Rassembler les pions, les jetons et les cartes d’état. Constituez une réserve de pions Dégât, de pions Menace, de pions Accélération et de jetons génériques que vous placez à portée de main de tous les joueurs.
-Placez les piles de cartes d’état Sonné, Désorienté et Tenace à côté de cette réserve.
+7. Rassembler les pions, les jetons et les cartes d'état. Constituez une réserve de pions Dégât, de pions Menace, de pions Accélération et de jetons génériques que vous placez à portée de main de tous les joueurs.
+Placez les piles de cartes d'état Sonné, Désorienté et Tenace à côté de cette réserve.
 8. Choisir un méchant. Choisissez un méchant et mettez en jeu son deck Méchant ainsi que son deck Manigance Principale au centre de la zone de jeu.
 9. Déterminer les points de vie du méchant. Réglez le compteur de points de vie du méchant à la valeur indiquée sur sa carte Méchant.
 10. Créer le deck Rencontre. Rassemblez les sets de rencontre indiqués sur la face 1A de la carte Manigance Principale.
 11. Résoudre la mise en place de la manigance. Résolvez toute instruction « Mise en place » sur la face 1A de la carte Manigance Principale. Résolvez toute capacité « Une fois révélée » sur les cartes Rencontre qui entrent en jeu lors de la mise en place.
-12. Mélanger le deck Rencontre. Mélangez dans le deck Rencontre du méchant les cartes Obligation mises de côté lors de l’étape 4.
-13. Piocher des cartes. Chaque joueur pioche des cartes jusqu’à avoir en main un nombre de cartes égal à la valeur de sa taille de main indiquée en bas de sa carte Identité.
-14. Résoudre les mulligans. Chaque joueur peut défausser n’importe quel nombre de cartes de sa main et piocher des cartes jusqu’à atteindre sa taille de main.
+12. Mélanger le deck Rencontre. Mélangez dans le deck Rencontre du méchant les cartes Obligation mises de côté lors de l'étape 4.
+13. Piocher des cartes. Chaque joueur pioche des cartes jusqu'à avoir en main un nombre de cartes égal à la valeur de sa taille de main indiquée en bas de sa carte Identité.
+14. Résoudre les mulligans. Chaque joueur peut défausser n'importe quel nombre de cartes de sa main et piocher des cartes jusqu'à atteindre sa taille de main.
 (Pour le moment, ne remélangez pas dans leurs decks les cartes ainsi défaussées.)
 15. Résoudre les capacités de mise en place des personnages. Résolvez toute instruction « Mise en place » inscrite sur les cartes Identité en jeu.
 

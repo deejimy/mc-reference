@@ -1,6 +1,6 @@
 # Coup rapide
 
-Après qu’un sbire doté du mot-clé `Coup Rapide` a engagé un joueur dont l’identité est sous forme de héros, ce sbire attaque ce joueur.  
+Après qu'un sbire doté du mot-clé `Coup Rapide` a engagé un joueur dont l'identité est sous forme de héros, ce sbire attaque ce joueur.  
 
 _Voir aussi : [[AttaqueActivationDesEnnemis|Attaque (Activation des Ennemis)]], [[Engager|Engager]], [[FormeChangerDeForme|Forme]], [[MotsCles|Mots-clés]], [[Sbire|Sbire]], [[Joueur|Joueur]], [[TexteDeRappel|Texte de Rappel]]_  
 
@@ -14,6 +14,6 @@ See also: Attack (Enemy Activation), Engage, Form, Keywords, Minion, Player, Rem
 
 <details class="source">
 <summary>FR v1.4</summary>COUP RAPIDE
-Après qu’un sbire doté du mot-clé Coup Rapide a engagé un joueur dont l’identité est sous forme de héros, ce sbire attaque ce joueur.
+Après qu'un sbire doté du mot-clé Coup Rapide a engagé un joueur dont l'identité est sous forme de héros, ce sbire attaque ce joueur.
 Voir aussi : Attaquer (Activation des Ennemis), Engager, Forme, Mots-clés, Sbire
 </details>

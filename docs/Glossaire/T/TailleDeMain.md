@@ -1,8 +1,8 @@
 # Taille de main
 
-Chaque joueur vérifie la taille de sa main à la fin de la phase des joueurs : soit il défausse des cartes pour atteindre sa taille de main, soit il pioche des cartes jusqu’à atteindre sa taille de main.  
+Chaque joueur vérifie la taille de sa main à la fin de la phase des joueurs : soit il défausse des cartes pour atteindre sa taille de main, soit il pioche des cartes jusqu'à atteindre sa taille de main.  
 
-- Lorsqu’un joueur pioche pour atteindre sa taille de main, il pioche les cartes une par une, vérifiant après chaque carte piochée s’il a atteint sa taille de main.  
+- Lorsqu'un joueur pioche pour atteindre sa taille de main, il pioche les cartes une par une, vérifiant après chaque carte piochée s'il a atteint sa taille de main.  
 
 _Voir aussi : [[FinDeLaPhaseDesJoueurs|Fin de la phase des joueurs]], [[Modificateurs|Modificateurs]]_  
 
@@ -16,6 +16,6 @@ See also: End of Player Phase, Modifiers
 
 <details class="source">
 <summary>FR v1.4</summary>TAILLE DE MAIN
-Chaque joueur vérifie la taille de sa main à la fin de la phase des Joueurs. Soit il défausse des cartes, soit il pioche des cartes jusqu’à atteindre sa valeur de taille de main.
+Chaque joueur vérifie la taille de sa main à la fin de la phase des Joueurs. Soit il défausse des cartes, soit il pioche des cartes jusqu'à atteindre sa valeur de taille de main.
 Voir aussi : Fin de la Phase des Joueurs
 </details>

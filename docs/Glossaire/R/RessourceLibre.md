@@ -5,7 +5,7 @@ Une ressource libre (![[icone_libre.jpg|15]]) est un des quatre types de ressour
 - Des ressources Libre peuvent être dépensées pour payer le coût en ressource des cartes et capacités. Quand un joueur génère une ressource Libre (![[icone_libre.jpg|15]]), il spécifie à quel type de ressource elle correspond (énergie, mentale, physique ou libre).  
     - <span class="new">Lorsqu'une carte qui génère une ressource libre voit ses ressources doublées, chacune de ses ressources libres peut être déclarée comme un type différent.</span>  
 - Certaines capacités de cartes requièrent spécifiquement que des ressources Libre soient dépensées pour que leurs effets soient résolus.  
-- En dehors du moment où elle est générée pour un coût, une ressource Libre n’a aucune caractéristique autre que « ressource libre ». Dans de tels cas, les ressources Libre ne peuvent pas être considérées comme étant l’un des autres types de ressource.  
+- En dehors du moment où elle est générée pour un coût, une ressource Libre n'a aucune caractéristique autre que « ressource libre ». Dans de tels cas, les ressources Libre ne peuvent pas être considérées comme étant l'un des autres types de ressource.  
 
 _Voir aussi : [[Capacite|Capacité]], [[Cout|Coût]], [[RessourceEnergie|Ressource Energie]], [[Icone|Icônes]], [[RessourceMentale|Ressource Mentale]], [[RessourcePhysique|Ressource Physique]], [[Ressource|Ressource]]_  
 
@@ -29,6 +29,6 @@ See also: Ability, Cost, Energy Resource, Icons, Mental Resource, Physical Resou
 Une ressource Libre () est un des quatre types de ressource.
 • Des ressources Libre peuvent être dépensées pour payer le coût en ressource des cartes et capacités. Quand un joueur génère une ressource Libre (), il spécifie à quel type de ressource elle correspond (énergie, mentale, physique ou libre).
 • Certaines capacités de cartes requièrent spécifiquement que des ressources Libre soient dépensées pour que leurs effets soient résolus.
-• En dehors du moment où elle est générée pour un coût, une ressource Libre n’a aucune caractéristique autre que « ressource libre ». Dans de tels cas, les ressources Libre ne peuvent pas être considérées comme étant l’un des autres types de ressource.
+• En dehors du moment où elle est générée pour un coût, une ressource Libre n'a aucune caractéristique autre que « ressource libre ». Dans de tels cas, les ressources Libre ne peuvent pas être considérées comme étant l'un des autres types de ressource.
 Voir aussi : Capacité, Coût, Icônes, Ressource Energie, Ressource Mentale, Ressource Physique
 </details>

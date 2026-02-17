@@ -1,22 +1,22 @@
 # Sonner, sonné  
 
-Sonné est un état qui empêche un personnage d’infliger des dégâts avec sa prochaine attaque.  
+Sonné est un état qui empêche un personnage d'infliger des dégâts avec sa prochaine attaque.  
 
-- Si une capacité « sonne » un personnage, donnez‑lui une carte d’état Sonné.  
-- <span class="new">Un personnage est sonné s’il possède une carte d’état Sonné.  </span>
-    - <span class="new">Un personnage avec le mot‑clé `Solide` n’est sonné que s’il possède deux cartes d’état Sonné.  </span>
-- Si un personnage a une capacité spécifiant qu’il « ne peut pas être sonné », aucune carte d’état Sonné ne peut être placée sur ce personnage.  
-- <span class="new">Si une identité ou un allié sonné tente d’attaquer ou d’utiliser une capacité d’attaque, défaussez la carte Sonné à la place.  </span>
-  <span class="new">Les coûts associés à la tentative d’attaque, y compris l’inclinaison du personnage, doivent tout de même être payés.  </span>
-    - <span class="new">Un personnage sonné peut tenter d’attaquer ou d’utiliser une capacité d’attaque même s’il n’a pas de cible valide pour une attaque.  </span>
-- <span class="new">Si un méchant ou un sbire sonné devait attaquer, défaussez la carte d’état Sonné à la place.  </span>
-- <span class="new">Comme l’action d’attaque ou l’activation d’attaque a été remplacée par le retrait de la carte d’état Sonné, ce personnage n’est pas considéré comme ayant attaqué.  </span>
+- Si une capacité « sonne » un personnage, donnez‑lui une carte d'état Sonné.  
+- <span class="new">Un personnage est sonné s'il possède une carte d'état Sonné.  </span>
+    - <span class="new">Un personnage avec le mot‑clé `Solide` n'est sonné que s'il possède deux cartes d'état Sonné.  </span>
+- Si un personnage a une capacité spécifiant qu'il « ne peut pas être sonné », aucune carte d'état Sonné ne peut être placée sur ce personnage.  
+- <span class="new">Si une identité ou un allié sonné tente d'attaquer ou d'utiliser une capacité d'attaque, défaussez la carte Sonné à la place.  </span>
+  <span class="new">Les coûts associés à la tentative d'attaque, y compris l'inclinaison du personnage, doivent tout de même être payés.  </span>
+    - <span class="new">Un personnage sonné peut tenter d'attaquer ou d'utiliser une capacité d'attaque même s'il n'a pas de cible valide pour une attaque.  </span>
+- <span class="new">Si un méchant ou un sbire sonné devait attaquer, défaussez la carte d'état Sonné à la place.  </span>
+- <span class="new">Comme l'action d'attaque ou l'activation d'attaque a été remplacée par le retrait de la carte d'état Sonné, ce personnage n'est pas considéré comme ayant attaqué.  </span>
 
 _Voir aussi : [[Allie|Allié]], [[Annuler|Annuler]], [[Identite|Identité]], [[Sbire|Sbire]], [[CartesDetat|Cartes d'état]], [[Cible|Cible]], [[MechantDeckMechant|Méchant]]_  
 
 <details class="source">
 <summary>EN v1.7</summary>STUN, STUNNED
-Stun is a status that cancels a character’s next attack.
+Stun is a status that cancels a character's next attack.
 • If an ability "stuns" a character, give that character a stunned status card.
 • A character is stunned if it has a stunned status card.
 » » A character with the steady keyword is stunned only if it has two stunned status cards.
@@ -32,8 +32,8 @@ See also: Ally, Cancel, Identity, Minion, Status Cards, Target, Villain
 
 <details class="source">
 <summary>FR v1.4</summary>SONNER, SONNE
-Sonné est un état qui empêche un personnage d’infliger des dégâts avec sa prochaine attaque.
-• Si une capacité « sonne » un personnage, donnez-lui une carte d’état Sonné.
-• Si un personnage a une capacité spécifiant qu’il « ne peut pas être sonné », aucune carte d’état Sonné ne peut être placée sur ce personnage.
-Voir aussi : Allié, Cartes d’Etat, Identité, Méchant, Sbire
+Sonné est un état qui empêche un personnage d'infliger des dégâts avec sa prochaine attaque.
+• Si une capacité « sonne » un personnage, donnez-lui une carte d'état Sonné.
+• Si un personnage a une capacité spécifiant qu'il « ne peut pas être sonné », aucune carte d'état Sonné ne peut être placée sur ce personnage.
+Voir aussi : Allié, Cartes d'Etat, Identité, Méchant, Sbire
 </details>

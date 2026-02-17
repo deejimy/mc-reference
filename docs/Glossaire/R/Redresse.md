@@ -5,7 +5,7 @@ Les cartes entrent en jeu redressées, positionnées de manière à ce que leur 
 - Si on demande à un joueur de redresser une carte inclinée, la carte retrouve son état redressé.  
     - <span class="new">Si un coût supplémentaire est requis pour redresser une carte, le joueur peut choisir de ne pas payer ce coût.</span>  
 
-<span class="new">S’il ne paie pas ce coût, la carte ne se redresse pas.</span>  
+<span class="new">S'il ne paie pas ce coût, la carte ne se redresse pas.</span>  
 
 _Voir aussi : [[EntrerEnJeu|Entrer en jeu]], [[Incline|Incliné]]_  
 

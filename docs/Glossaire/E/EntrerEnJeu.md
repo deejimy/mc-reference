@@ -1,7 +1,7 @@
 # Entrer en jeu
 
 
-La locution « entrer en jeu » désigne tout moment où une carte passe d’une zone hors jeu à une zone en jeu. Jouer une carte, mettre en jeu une carte en utilisant une capacité de carte ou révéler une carte du deck Rencontre sont différents moyens par lesquels une carte peut entrer en jeu.  
+La locution « entrer en jeu » désigne tout moment où une carte passe d'une zone hors jeu à une zone en jeu. Jouer une carte, mettre en jeu une carte en utilisant une capacité de carte ou révéler une carte du deck Rencontre sont différents moyens par lesquels une carte peut entrer en jeu.  
 
 _Voir aussi : [[EnJeuEtHorsJeu|En Jeu et Hors Jeu]], [[JouerMettreEnJeu|Mettre en jeu]], [[QuitterLeJeu|Quitter le Jeu]], [[Reveler|Révéler]]_  
 
@@ -14,6 +14,6 @@ See also: In Play and Out of Play, Leaves Play, Play, Reveal
 
 <details class="source">
 <summary>FR v1.4</summary>ENTRER EN JEU
-La locution « entrer en jeu » désigne tout moment où une carte passe d’une zone hors jeu à une zone en jeu. Jouer une carte, mettre en jeu une carte en utilisant une capacité de carte ou révéler une carte du deck Rencontre sont différents moyens par lesquels une carte peut entrer en jeu.
+La locution « entrer en jeu » désigne tout moment où une carte passe d'une zone hors jeu à une zone en jeu. Jouer une carte, mettre en jeu une carte en utilisant une capacité de carte ou révéler une carte du deck Rencontre sont différents moyens par lesquels une carte peut entrer en jeu.
 Voir aussi : En Jeu et Hors Jeu, Jouer, Mettre en Jeu, Quitter le Jeu, Révéler
 </details>

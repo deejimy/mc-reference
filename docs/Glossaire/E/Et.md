@@ -1,6 +1,6 @@
 # "Et"
 
-<span class="new">Le mot « et » indique que deux effets ou plus à l’intérieur d’une capacité se résolvent simultanément.  
+<span class="new">Le mot « et » indique que deux effets ou plus à l'intérieur d'une capacité se résolvent simultanément.  
 
 - Les effets individuels reliés par « et » ne dépendent pas les uns des autres. Résolvez autant que possible de chaque effet.  
 

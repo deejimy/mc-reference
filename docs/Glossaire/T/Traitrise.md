@@ -1,10 +1,10 @@
 # Traîtrise  
 
-Traîtrise est un type de cartes Rencontre qui représente les tactiques, ruses, désastres et autres obstacles auxquels les joueurs sont confrontés lors d’un scénario.  
+Traîtrise est un type de cartes Rencontre qui représente les tactiques, ruses, désastres et autres obstacles auxquels les joueurs sont confrontés lors d'un scénario.  
 
 - Si une carte Traîtrise est révélée du deck Rencontre, le joueur qui a révélé la carte doit résoudre ses effets.  
-- Après avoir résolu les effets d’une carte Traîtrise (ou les avoir annulés), placez la carte dans la pile de défausse Rencontre.  
-    - <span class="new">Si une traîtrise cause une ou plusieurs activations d’ennemis comme dernier effet, cette carte de traîtrise est considérée comme résolue et est défaussée après que toutes ces activations se soient résolues.</span>  
+- Après avoir résolu les effets d'une carte Traîtrise (ou les avoir annulés), placez la carte dans la pile de défausse Rencontre.  
+    - <span class="new">Si une traîtrise cause une ou plusieurs activations d'ennemis comme dernier effet, cette carte de traîtrise est considérée comme résolue et est défaussée après que toutes ces activations se soient résolues.</span>  
 
 _Voir aussi : [[TypesDeCarte|Types de Carte]], [[DefausserDefausse|Défausse]], [[CartesRencontre|Carte Rencontre]], [[DeckRencontre|Deck Rencontre]], [[Reveler|Révéler]], [[MechantDeckMechant|Méchant]]_  
 
@@ -20,8 +20,8 @@ See also: Card Types, Discard, Encounter Card, Encounter Deck, Reveal, Villain
 
 <details class="source">
 <summary>FR v1.4</summary>TRAÎTRISE
-Traîtrise est un type de cartes Rencontre qui représente les tactiques, ruses, désastres et autres obstacles auxquels les joueurs sont confrontés lors d’un scénario.
+Traîtrise est un type de cartes Rencontre qui représente les tactiques, ruses, désastres et autres obstacles auxquels les joueurs sont confrontés lors d'un scénario.
 • Si une carte Traîtrise est révélée du deck Rencontre, le joueur qui a révélé la carte doit résoudre ses effets.
-• Après avoir résolu les effets d’une carte Traîtrise (ou les avoir annulés), placez la carte dans la pile de défausse Rencontre.
+• Après avoir résolu les effets d'une carte Traîtrise (ou les avoir annulés), placez la carte dans la pile de défausse Rencontre.
 Voir aussi : Carte Rencontre, Deck Rencontre, Défausse, Méchant, Types de Carte, Révéler
 </details>
