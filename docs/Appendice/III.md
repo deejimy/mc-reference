@@ -56,3 +56,12 @@ allié peut posséder.
 
 ![[app_rencontre.png]]
 ![[app_obligation.png]]
+
+
+
+## DOS DE CARTES
+
+Ce chapitre présente les différents dos de cartes utilisés dans le jeu.  
+Les dos de cartes Joueur et Rencontre alternatifs sont utilisés pour les cartes qui ne sont jamais mélangées dans leurs decks respectifs afin de faciliter l'identification de ces cartes.
+
+![[app_dos.png]]
