@@ -5,6 +5,11 @@ _Voir : [[InitierDesCapacites|Initier des capacités]]_
 
 
 <details class="source">
+<summary>EN v1.8</summary>PLAYING CARDS
+See: Initiating Abilities
+</details>
+
+<details class="source">
 <summary>EN v1.7</summary>PLAYING CARDS
 See: Initiating Abilities
 </details>

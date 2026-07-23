@@ -6,10 +6,22 @@ _Voir aussi : [[AttaqueActivationDesEnnemis|Attaque (Activation des Ennemis)]], 
 
 
 <details class="source">
+<summary>EN v1.8</summary>QUICKSTRIKE
+After a minion with the quickstrike keyword engages a player whose identity is in hero form, that minion attacks that player.
+• The quickstrike keyword is equivalent to the following triggered ability: "Forced Response (Hero): After this minion engages a player, it attacks that player."
+• If a minion with the quickstrike keyword is being revealed, the quickstrike keyword resolves after any "When Revealed" abilities on that minion are resolved.
+See also: Attack (Enemy Activation), Engage, Form, Keywords, Minion, Player, Reminder Text, Reveal
+</details>
+
+<details class="source">
 <summary>EN v1.7</summary>QUICKSTRIKE
 After a minion with the quickstrike keyword engages a player whose identity is in hero form, that minion attacks that player.
 See also: Attack (Enemy Activation), Engage, Form, Keywords, Minion, Player, Reminder Text
 </details>
+
+
+
+
 
 
 <details class="source">

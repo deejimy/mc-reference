@@ -5,6 +5,13 @@ Lors de l'étape de distribution des cartes de rencontre de la phase du méchant
 _Voir aussi : [[AttribuerAttribuerUneCarteRencontre|Attribuer une Carte Rencontre]], [[DansLordreDesJoueurs|Dans l'ordre des joueurs]], [[PhaseDuMechant|Phase du Méchant]]_  
 
 <details class="source">
+<summary>EN v1.8</summary>HAZARD ICON
+During the Deal Encounter Cards step of the villain phase, for each hazard icon on cards in play, deal one player one additional card (not one card per player). Additional cards are dealt in player order (first additional card to the first player, the second to the second player, etc.).
+• Each hazard icon is equivalent to the following constant ability: "During the Deal Encounter Cards step of the villain phase, deal 1 additional encounter card. Additional cards from hazard icons are dealt in player order."
+See also: Deal, In Player Order, Villain Phase
+</details>
+
+<details class="source">
 <summary>EN v1.7</summary>HAZARD ICON
 During the Deal Encounter Cards step of the villain phase, for each hazard icon on cards in play, deal one player one additional card (not one card per player). Additional cards are dealt in player order (first additional card to the first player, the second to the second player, etc.).
 See also: Deal, In Player Order, Villain Phase

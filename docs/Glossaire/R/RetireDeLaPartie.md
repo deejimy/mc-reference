@@ -8,6 +8,14 @@ Une carte qui a été retirée de la partie est mise de côté et n'interagit pl
 _Voir aussi : [[EnJeuEtHorsJeu|En Jeu et Hors Jeu]], [[QuitterLeJeu|Quitter le Jeu]]_  
 
 <details class="source">
+<summary>EN v1.8</summary>REMOVED FROM THE GAME
+A card that has been removed from the game is set aside and does not interact with the game in any manner for the duration of its removal. If there is no specified duration, a card that has been removed from the game is considered removed until the end of the game.
+• "Removed from the game" is an out-of-play state.
+• A card that has been removed from the game cannot reenter the game through any means.
+See also: In Play and Out of Play, Leaves Play
+</details>
+
+<details class="source">
 <summary>EN v1.7</summary>REMOVED FROM THE GAME
 A card that has been removed from the game is set aside and does not interact with the game in any manner for the duration of its removal. If there is no specified duration, a card that has been removed from the game is considered removed until the end of the game.
 • "Removed from the game" is an out-of-play state.

@@ -19,6 +19,13 @@ Lors de son tour, un joueur peut effectuer les options suivantes, dans n'importe
 _Voir aussi : [[Allie|Allié]], [[PouvoirDeBase|Pouvoir de Base]], [[CartesRencontre|Carte Rencontre]], [[Evenement|Événement]], [[FormeChangerDeForme|Forme]], [[ProprieteEtControle|Propriété et Contrôle]], [[JouerMettreEnJeu|Jouer]], [[Joueur|Joueur]], [[PhaseDesJoueurs|Phase de Joueur]], [[Soutien|Soutien]], [[CapaciteDeclenchee|Capacité Déclenchée]], [[Amelioration|Amélioration]]_  
 
 <details class="source">
+<summary>EN v1.8</summary>PLAYER TURN
+During their turn, a player may perform the following options, in any order. Each option, except "change form," may be performed as many times as the player is able, so long as they are able to pay the required costs.
+• Change form from hero to alter-ego, or from alterego to hero. This option may only be performed once each turn.
+• Play an ally, upgrade, support, or player side scheme card from hand.
+</details>
+
+<details class="source">
 <summary>EN v1.7</summary>PLAYER TURN
 During their turn, a player may perform the following options, in any order. Each option, except "change form," may be performed as many times as the player is able, so long as they are able to pay the required costs.
 • Change form from hero to alter-ego, or from alterego to hero. This option may only be performed once each turn.

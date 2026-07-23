@@ -10,6 +10,15 @@ Après qu'une carte avec des utilisations a dépensé sa dernière utilisation (
 _Voir aussi : [[DefausserDefausse|Défausse]], [[EntrerEnJeu|Entrer en Jeu]], [[JetonsGeneriques|Jeton Générique]], [[MotsCles|Mots-clés]], [[QuitterLeJeu|Quitter le Jeu]], [[TexteDeRappel|Texte de Rappel]]_  
 
 <details class="source">
+<summary>EN v1.8</summary>USES (X "TYPE")
+When a card with this keyword enters play, place X allpurpose counters from the token pool on the card. The word following the value establishes and identifies the type of uses the card holds.
+Each card with this keyword also has an ability that references the type of use established by the keyword as part of the cost.
+When the last all-purpose counter is removed from a card with uses, discard that card.
+• The uses (X "type") keyword is equivalent to the following constant ability: "This card enters play with X all-purpose counters. These are 'type counters.' If there are no all-purpose counters on this card, discard this card."
+See also: All-Purpose Counter, Discard, Enters Play, Keywords, Leaves Play, Reminder Text
+</details>
+
+<details class="source">
 <summary>EN v1.7</summary>USES (X "TYPE")
 When a card with this keyword enters play, place X allpurpose counters from the token pool on the card. The word following the value establishes and identifies the type of uses the card holds.
 Each card with this keyword also has an ability that references the type of use established by the keyword as part of the cost.

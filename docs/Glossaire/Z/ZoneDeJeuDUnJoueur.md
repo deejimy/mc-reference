@@ -12,6 +12,15 @@ La zone de jeu d'un joueur contient l'identité de ce joueur, son deck, sa main,
 _Voir aussi : [[Allie|Allié]], [[Amelioration|Amélioration]], [[DeckJoueur|Deck Joueur]], [[EliminationDeJoueur|Élimination d'un Joueur]], [[EnJeuEtHorsJeu|En Jeu et Hors Jeu]], [[Identite|Identité]], [[Obligation|Obligation]], [[PileDeDefausse|Pile de défausse]], [[Sbire|Sbire]], [[Soutien|Soutien]]_  
 
 <details class="source">
+<summary>EN v1.8</summary>PLAY AREA
+There are two types of play areas: a player’s play area and the villain’s play area.
+• A player’s play area contains that player’s identity, deck, hand, discard pile, any cards in play under their control, and any faceup or facedown encounter cards in their play area (such as engaged minions or encounter cards that have been dealt to them).
+• The villain’s play area contains the villain deck, main scheme deck, encounter deck, encounter discard pile, and any encounter cards in play that have not entered a player’s play area (such as side schemes or environments).
+• A card cannot be in more than one play area at a time.
+See also: In Play and Out of Play, Player’s Play Area, Villain’s Play Area
+</details>
+
+<details class="source">
 <summary>EN v1.7</summary>PLAYER'S PLAY AREA
 A player's play area (also sometimes referred to as a "player's game area") is the area of play where a player's identity card, deck, hand, discard pile, and hit point dial are located. Each player in the game has their own play area.
 • Ally cards, support cards, and upgrade cards are placed in a player's play area when they enter play.

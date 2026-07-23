@@ -9,6 +9,14 @@ _Voir aussi : [[MotsCles|Mots-clés]], [[Imprime|Imprimé]], [[Traits|Trait]]_
 
 
 <details class="source">
+<summary>EN v1.8</summary>"LOSES"
+If a card loses a characteristic (such as a trait, keyword, or ability text), the card functions as if it does not possess the gained characteristic.
+• Lost characteristics are still considered to be printed on the card.
+• A lost characteristic cannot be regained while the ability causing it to be lost is in effect, even if a new effect would cause the characteristic to be gained.
+See also: Keywords, Printed, Traits
+</details>
+
+<details class="source">
 <summary>EN v1.7</summary>"LOSES"
 If a card loses a characteristic (such as a trait, keyword, or ability text), the card functions as if it does not possess the gained characteristic.
 • Lost characteristics are still considered to be printed on the card.

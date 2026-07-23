@@ -4,14 +4,15 @@ Le mot « après » se réfère à une situation de jeu qui vient juste de se co
 
 _Voir aussi : [[Capacite|Capacité]], [[Reponse|Réponse]]_  
 
+
 <details class="source">
-<summary>EN v1.7</summary>"AFTER"
+<summary>EN v1.8</summary>"AFTER"
 The word "after" refers to a game occurrence that just concluded. Many response abilities use the term "after" to specify the time at which they can be used.
 See also: Ability, Response
 </details>
 
 <details class="source">
-<summary>EN v1.8</summary>"AFTER"
+<summary>EN v1.7</summary>"AFTER"
 The word "after" refers to a game occurrence that just concluded. Many response abilities use the term "after" to specify the time at which they can be used.
 See also: Ability, Response
 </details>

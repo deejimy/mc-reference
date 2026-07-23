@@ -22,6 +22,27 @@ _Si le texte d'une carte demande à un joueur de révéler une carte Rencontre d
 _Voir aussi : [[Attachement|Attachement]], [[ChoisirElementDeJeu|Choisir (Élément de jeu)]], [[ChoisirOption|Choisir (Option)]], [[AttribuerAttribuerUneCarteRencontre|Attribuer]], [[CartesRencontre|Carte Rencontre]], [[EntrerEnJeu|Entrer en jeu]], [[Environnement|Environnement]], [[DansLordreDesJoueurs|Dans l'ordre des Joueurs]], [[Sbire|Sbire]], [[Obligation|Obligation]], [[Traitrise|Traîtrise]], [[PhaseDuMechant|Phase du Méchant]]_
 
 <details class="source">
+<summary>EN v1.8</summary>REVEAL
+During step four of the villain phase, each player (in player order) reveals and resolves all facedown encounter cards that have been dealt to them, one card at a time in the order in which they were dealt.
+To reveal an encounter card, follow these steps:
+1. Turn the encounter card faceup.
+2. If the encounter card’s type is:
+• Attachment: It enters play attached to the game element specified by its "attach to" text. If it does not have "attach to" text, place it on the table in front of the player revealing it. (It is not in play.)
+• Environment: It enters play in the villain’s play area.
+• Minion: It enters play in the play area of the player revealing it. It is considered to engage that player.
+• Obligation: It enters play in the play area of the player revealing it.
+» If the card specifies a player to give it to, that player is considered to be revealing it.
+• Side scheme: It enters play in the villain’s play area.
+• Treachery: Place it on the table in front of the player revealing it. (It is not in play.)
+• Other: Place it on the table in front of the player revealing it. (It is not in play.)
+3. Resolve each "When Revealed" ability on that card (including those provided by keywords).
+4. If the card is a treachery, discard it.
+If a player is instructed by card text to reveal an encounter card from the encounter deck or any other game area, this same resolution procedure applies.
+• Responses (both forced and non-forced) to any step of the revealing of an encounter card are not resolved until after all steps of the reveal process have been completed.
+See also: Attachment, Choose (Game Element), Choose (Option), Deal, Encounter Card, Enters Play, Environment, In Player Order, Minion, Obligation, Player, Side Scheme, Treachery, Villain Phase
+</details>
+
+<details class="source">
 <summary>EN v1.7</summary>REVEAL
 During step four of the villain phase, each player (in player order) reveals and resolves all facedown encounter cards that have been dealt to them, one card at a time in the order in which they were dealt.
 To reveal an encounter card, follow these steps:

@@ -6,6 +6,13 @@ Tant qu'un sbire avec le mot‑clé `Patrouille` est engagé avec un joueur, ce 
 _Voir aussi : [[ContreContrer|Contrer]], [[Engager|Engager]], [[ManigancePrincipaleDeckManigancePrincipale|Manigance Principale]], [[MotsCles|Mots-clés]], [[Sbire|Sbire]], [[TexteDeRappel|Texte de Rappel]]_  
 
 <details class="source">
+<summary>EN v1.8</summary>PATROL
+While a minion with the patrol keyword is engaged with a player, that player cannot use cards they control to thwart the main scheme.
+• The patrol keyword is equivalent to the following constant ability: "The engaged player cannot thwart the main scheme."
+See also: Engage, Keywords, Main Scheme, Minion, Reminder Text, Thwart
+</details>
+
+<details class="source">
 <summary>EN v1.7</summary>PATROL
 While a minion with the patrol keyword is engaged with a player, that player cannot use cards they control to thwart the main scheme.
 See also: Engage, Keywords, Main Scheme, Minion, Reminder Text, Thwart

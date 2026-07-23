@@ -9,6 +9,15 @@ Traîtrise est un type de cartes Rencontre qui représente les tactiques, ruses,
 _Voir aussi : [[TypesDeCarte|Types de Carte]], [[DefausserDefausse|Défausse]], [[CartesRencontre|Carte Rencontre]], [[DeckRencontre|Deck Rencontre]], [[Reveler|Révéler]], [[MechantDeckMechant|Méchant]]_  
 
 <details class="source">
+<summary>EN v1.8</summary>TREACHERY
+Treachery is an encounter card type that represent tactics, tricks, disasters, and other immediate occurrences that confront players during a scenario.
+• If a treachery card is revealed from the encounter deck, the player revealing the card must resolve its effects.
+• After resolving the effects of a treachery card (or the effects are canceled), place the card in the encounter discard pile.
+» If a treachery causes one or more enemies to activate as its last effect, that treachery card is considered resolved and is discarded after all of those activations have resolved.
+See also: Card Types, Discard, Encounter Card, Encounter Deck, Reveal, Villain
+</details>
+
+<details class="source">
 <summary>EN v1.7</summary>TREACHERY
 Treachery is an encounter card type that represent tactics, tricks, disasters, and other immediate occurrences that confront players during a scenario.
 • If a treachery card is revealed from the encounter deck, the player revealing the card must resolve its effects.

@@ -9,6 +9,14 @@ _Voir aussi : [[ChoisirElementDeJeu|Choisir]], [[DefausserDefausse|Défausser]],
 
 
 <details class="source">
+<summary>EN v1.8</summary>RESTRICTED
+A player cannot have more than two cards with the restricted keyword in play under their control at the same time.
+A player can play or put into play a restricted card even if they already control two restricted cards. However, if a player ever controls more than two restricted cards in play, they must immediately choose and discard from play restricted cards they control until they have only two in play.
+• The restricted keyword is equivalent to the following triggered ability: "Forced Response: After you take control of this card, if you control more than 2 restricted cards, discard all but 2 of those cards."
+See also: Discard, Keywords, Ownership and Control, Player, Reminder Text
+</details>
+
+<details class="source">
 <summary>EN v1.7</summary>RESTRICTED
 A player cannot have more than two cards with the restricted keyword in play under their control at the same time.
 A player can play or put into play a restricted card even if they already control two restricted cards. However, if a player ever controls more than two restricted cards in play, they must immediately choose and discard from play restricted cards they control until they have only two in play.

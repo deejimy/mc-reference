@@ -6,6 +6,13 @@ _Voir aussi : [[Capacite|Capacité]], [[CapaciteDeclenchee|Capacité Déclenché
 
 
 <details class="source">
+<summary>EN v1.8</summary>PERIL
+While a player is resolving a card with the peril keyword, that player cannot consult other players, and other players cannot play cards or trigger abilities.
+• The peril keyword is equivalent to the following constant ability: "While a player is resolving this card, that player cannot consult other players, and other players cannot trigger abilities. While this card is in a player’s play area, other players cannot trigger abilities on this card."
+See also: Ability, Keywords, Player, Reminder Text, Table Talk, Triggered Ability
+</details>
+
+<details class="source">
 <summary>EN v1.7</summary>PERIL
 While a player is resolving a card with the peril keyword, that player cannot consult other players, and other players cannot play cards or trigger abilities.
 See also: Ability, Keywords, Player, Reminder Text, Table Talk, Triggered Ability

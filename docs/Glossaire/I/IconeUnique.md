@@ -30,6 +30,18 @@ De plus, certains sbires uniques peuvent porter le même titre que d'autres pers
 _Voir aussi : [[Allie|Allié]], [[EntrerEnJeu|Entrer en Jeu]], [[Identite|Identité]], [[Sbire|Sbire]], [[Joueur|Joueur]], [[SousTitre|Sous-Titre]], [[MechantDeckMechant|Méchant]], [[I|Appendice I : Decks Personnalisés]]_  
 
 <details class="source">
+<summary>EN v1.8</summary>UNIQUE ICON
+The unique icon indicates a card that represents a singular person, place, or thing within the Marvel universe.
+• Two unique cards are considered to "match" if any of the following apply:
+» The two cards share a title, and both have no subtitle and no alter-ego title. (For example, two copies of the Jarnbjorn upgrade, or the Jessica Jones ally and the Jessica Jones minion.)
+» The subtitle or alter-ego title of one matches the title, subtitle, or alter-ego title of the other. (For example, the identity with the T’Challa alter-ego, the T’Challa ally, and the Black Panther ally with the subtitle "T’Challa" are all considered to match.)
+• During deckbuilding, a player cannot include multiple matching cards in their deck. The identity is included in this evaluation.
+» Once setup for a game has begun, a player is not prevented from adding matching cards to their deck through game effects.
+• When choosing identities during setup, players cannot choose identities that match.
+» The players may choose a scenario even if one or more villains match one or more chosen identities.
+</details>
+
+<details class="source">
 <summary>EN v1.7</summary>UNIQUE ICON
 The unique icon indicates a card that represents a singular person, place, or thing within the Marvel universe.
 • Two unique cards are considered to "match" if any of the following apply:

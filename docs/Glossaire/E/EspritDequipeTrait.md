@@ -6,7 +6,18 @@ _Voir aussi : [[Activation|Activation]], [[Engager|Engager]], [[MotsCles|Mots-cl
 
 
 <details class="source">
+<summary>EN v1.8</summary>TEAMWORK (TRAIT)
+After a minion with teamwork enters play and engages a player, if there is at least one other minion that shares the specified trait in play, the minion that just entered play activates against the player it is engaged with.
+• The teamwork (trait) keyword is equivalent to the following triggered ability: "Forced Response: After this minion enters play, if there is another Trait minion in play, this minion activates against the engaged player."
+• If a minion with the teamwork keyword is being revealed, the teamwork keyword resolves after any "When Revealed" abilities on that minion are resolved.
+See also: Activation, Engage, Keywords
+</details>
+
+<details class="source">
 <summary>EN v1.7</summary>TEAMWORK (TRAIT)
 After a minion with teamwork enters play and engages a player, if there is at least one other minion that shares the specified trait in play, the minion that just entered play activates against the player it is engaged with.
 See also: Activation, Engage, Keywords
 </details>
+
+
+

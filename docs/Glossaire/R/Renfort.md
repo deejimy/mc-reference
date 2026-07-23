@@ -7,6 +7,14 @@ Après qu'une carte Rencontre dotée du mot‑clé `Renfort` a été révélée,
 _Voir aussi : [[CartesRencontre|Carte Rencontre]], [[DeckRencontre|Deck Rencontre]], [[MotsCles|Mots-clés]], [[TexteDeRappel|Texte de Rappel]], [[Reveler|Révéler]]_  
 
 <details class="source">
+<summary>EN v1.8</summary>SURGE
+When an encounter card with this keyword is revealed, the player resolving the card deals themself a facedown encounter card from the top of the encounter deck.
+• The surge keyword is equivalent to the following triggered ability: "When Revealed: Deal yourself 1 facedown encounter card."
+• Complete the process of resolving the original card, as well as any response abilities that are triggered by that card being revealed, before revealing the additional card.
+See also: Encounter Card, Encounter Deck, Keywords, Reminder Text, Reveal
+</details>
+
+<details class="source">
 <summary>EN v1.7</summary>SURGE
 After an encounter card with this keyword is revealed, the player resolving the card reveals an additional encounter card from the top of the encounter deck.
 • Complete the process of resolving the original card, as well as any response abilities that are triggered by that card being revealed, before revealing the additional card.

@@ -14,6 +14,13 @@ _Voir aussi : [[Activation|Activation]], [[Allie|Allié]], [[Attachement|Attache
 
 
 <details class="source">
+<summary>EN v1.8</summary>STAR ICON
+A star icon is used in conjunction with a card’s stat or boost field to indicate that there is a mandatory ability in the text box that corresponds to that field. In and of itself, the star icon has no effect; it is merely a reminder to check the card’s text box whenever that field is used.
+• If a star icon is located next to an enemy’s ATK or SCH value, the icon serves as a reminder to check that enemy’s text box whenever that enemy uses that value to attack or scheme.
+• If a star icon is located in the ATK or SCH field of an attachment, the icon serves as a reminder to check that attachment’s text box whenever the attached enemy uses the value that field is modifying to attack or scheme.
+</details>
+
+<details class="source">
 <summary>EN v1.7</summary>STAR ICON
 A star icon is used in conjunction with a card's stat or boost field to indicate that there is a mandatory ability in the text box that corresponds to that field. In and of itself, the star icon has no effect; it is merely a reminder to check the card's text box whenever that field is used.
 • If a star icon is located next to an enemy's ATK or SCH value, the icon serves as a reminder to check that enemy's text box whenever that enemy uses that value to attack or scheme.

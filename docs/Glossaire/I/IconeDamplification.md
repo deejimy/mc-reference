@@ -7,6 +7,14 @@ Quand une carte de boost est retournée face visible lors de l'activation d'un e
 _Voir aussi : [[Activation|Activation]], [[BoostIconeDeBoost|Boost]], [[Ennemi|Ennemi]], [[Icone|Icônes]]_  
 
 <details class="source">
+<summary>EN v1.8</summary>AMPLIFY ICON
+The amplify icon represents various forces that are empowering or bolstering the villain.
+When a boost card is turned faceup during an enemy activation, add one additional boost icon to that card for each amplify icon in play.
+• Each amplify icon is equivalent to the following constant ability: "Each boost card gains ."
+See also: Activation, Boost, Enemy, Icons
+</details>
+
+<details class="source">
 <summary>EN v1.7</summary>AMPLIFY ICON
 The amplify icon represents various forces that are empowering or bolstering the villain.
 When a boost card is turned faceup during an enemy activation, add one additional boost icon to that card for each amplify icon in play.

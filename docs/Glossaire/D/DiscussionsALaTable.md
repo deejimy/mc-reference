@@ -9,11 +9,22 @@ Les joueurs ne sont pas obligés de dévoiler les cartes dans leur main s'ils ne
 _Voir aussi : [[MotsCles|Mots-clés]], [[Peril|Péril]], [[Joueur|Joueur]]_  
 
 <details class="source">
+<summary>EN v1.8</summary>TABLE TALK
+Players are permitted and encouraged to talk to one another during play, and to work as a team to plan and execute the best course of action. Players can discuss anything they would like, including cards in play and cards in their hand. Players are not obligated to disclose the cards in their hand if they do not wish to do so.
+• While resolving an encounter card with the peril keyword, players are not permitted to consult with one another.
+See also: Keywords, Peril, Player
+</details>
+
+<details class="source">
 <summary>EN v1.7</summary>TABLE TALK
 Players are permitted and encouraged to talk to one another during play, and to work as a team to plan and execute the best course of action. Players can discuss anything they would like, including cards in play and cards in their hand. Players are not obligated to disclose the cards in their hand if they do not wish to do so.
 • While resolving an encounter card with the peril keyword, players are not permitted to consult with one another.
 See also: Keywords, Peril, Player
 </details>
+
+
+
+
 
 
 <details class="source">

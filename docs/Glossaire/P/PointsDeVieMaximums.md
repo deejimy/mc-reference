@@ -6,6 +6,12 @@ _Voir aussi : [[Allie|Allié]], [[ValeurDeBase|Valeur de Base]], [[PointsDeVie|P
 
 
 <details class="source">
+<summary>EN v1.8</summary>MAXIMUM HIT POINTS
+A character’s maximum hit points is their base hit points plus or minus all "gets" hit point modifiers that are active on that character.
+See also: Ally, Base Value, Hit Points, Identity, Minion, Modifiers, Villain
+</details>
+
+<details class="source">
 <summary>EN v1.7</summary>MAXIMUM HIT POINTS
 A character's maximum hit points is their base hit points plus or minus all "gets" hit point modifiers that are active on that character.
 See also: Ally, Base Value, Hit Points, Identity, Minion, Modifiers, Villain

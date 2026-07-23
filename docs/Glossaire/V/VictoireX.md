@@ -14,6 +14,21 @@ Tant qu'elle est dans la pile de victoire, X indique le nombre de points de vict
 _Voir aussi : [[MotsCles|Mots-clés]], [[PileDeDefausse|Pile de défausse]], [[PileDeVictoire|Pile de victoire]], [[TexteDeRappel|Texte de Rappel]], [[VaincreDejouer|Vaincre / Déjouer]]_  
 
 <details class="source">
+<summary>EN v1.8</summary>VICTORY X
+When a card with the victory X keyword leaves play under the following conditions, place it in the victory display instead of its owner’s discard pile:
+• The victory X keyword is equivalent to the following ability based on the card with the keyword:
+» Character or side scheme: "When Defeated: Add this card to the victory display."
+» Attachment: "Forced Interrupt: When the attached card is defeated, add this card to the victory display."
+» Card with the uses (X "type") keyword: "If there are no all-purpose counters on this card, add this card to the victory display instead of discarding it."
+• A character or side scheme with the victory X keyword is placed in the victory display when it is defeated.
+• An attachment or upgrade with the victory X keyword is placed in the victory display when the card to which it is attached is defeated. (The card the attachment or upgrade was attached to is discarded as normal.)
+• A card with both the victory X and uses (X "type") keywords is placed in the victory display when its last all-purpose counter is removed from it.
+While in the victory display, X indicates how many victory points that card is worth. (X is the value next to the victory keyword.)
+• Some scenarios or campaigns may count the number of victory points in the victory display.
+See also: Defeat, Discard Pile, Keywords, Reminder Text, Uses (X "Type"), Victory Display
+</details>
+
+<details class="source">
 <summary>EN v1.7</summary>VICTORY X
 When a card with the victory X keyword leaves play under the following conditions, place it in the victory display instead of its owner's discard pile:
 • A character or side scheme with the victory X keyword is placed in the victory display when it is defeated.

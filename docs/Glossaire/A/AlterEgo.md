@@ -2,20 +2,16 @@
 
 _Voir aussi : [[FormeChangerDeForme|Forme]], [[Identite|Identité]]_  
 
-<details class="source">
-<summary>EN v1.7</summary>ALTER-EGO, ALTER-EGO FORM
-See: Form, Identity
-</details>
 
 <details class="source">
 <summary>EN v1.8</summary>ALTER-EGO, ALTER-EGO FORM
 See: Form, Identity
+</details>
 
-AMPLIFY ICON 
-The amplify icon represents various forces that are empowering or bolstering the villain.
-When a boost card is turned faceup during an enemy activation, add one additional boost icon to that card for each amplify icon in play.
-• Each amplify icon is equivalent to the following constant ability: "Each boost card gains ."
-See also: Activation, Boost, Enemy, Icons
+
+<details class="source">
+<summary>EN v1.7</summary>ALTER-EGO, ALTER-EGO FORM
+See: Form, Identity
 </details>
 
 <details class="source">

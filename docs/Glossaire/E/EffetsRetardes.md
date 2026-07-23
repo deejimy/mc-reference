@@ -11,6 +11,15 @@ Certaines capacités contiennent des effets retardés. De telles capacités stip
 _Voir aussi : [[Capacite|Capacité]], [[CapaciteDeclenchee|Capacité Déclenchée]]_  
 
 <details class="source">
+<summary>EN v1.8</summary>DELAYED EFFECT
+Some abilities contain delayed effects. Such abilities specify a future timing point, or indicate a future condition that may arise, and dictate an effect that is to happen at that time.
+• Delayed effects resolve automatically and immediately after their specified timing point or future condition occurs or becomes true, and before responses to that point or condition may be used.
+» Delayed effects have the same timing priority as constant effects.
+• When a delayed effect resolves, it is not treated as a new triggered ability, even if the delayed effect was originally created by a triggered ability.
+See also: Ability
+</details>
+
+<details class="source">
 <summary>EN v1.7</summary>DELAYED EFFECT
 Some abilities contain delayed effects. Such abilities specify a future timing point, or indicate a future condition that may arise, and dictate an effect that is to happen at that time.
 • Delayed effects resolve automatically and immediately after their specified timing point or future condition occurs or becomes true, and before responses to that point or condition may be used.
@@ -18,6 +27,10 @@ Some abilities contain delayed effects. Such abilities specify a future timing p
 • When a delayed effect resolves, it is not treated as a new triggered ability, even if the delayed effect was originally created by a triggered ability.
 See also: Ability
 </details>
+
+
+
+
 
 
 <details class="source">

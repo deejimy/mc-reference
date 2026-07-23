@@ -6,6 +6,12 @@ _Voir aussi : [[CapaciteDeclenchee|Capacité déclenchée]]_
 
 
 <details class="source">
+<summary>EN v1.8</summary>SPECIAL
+A special ability is a type of triggered ability, indicated by the bold "Special" timing trigger. Special abilities may only be resolved through the explicit instruction of another card ability.
+See also: Triggered Ability
+</details>
+
+<details class="source">
 <summary>EN v1.7</summary>SPECIAL
 A special ability is a type of triggered ability, indicated by the bold "Special" timing trigger. Special abilities may only be executed through the explicit instruction of another card ability.
 See also: Triggered Ability

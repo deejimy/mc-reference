@@ -11,6 +11,15 @@ La zone de jeu contient deux types : la zone de jeu d'un joueur et la zone de je
 _Voir aussi : [[EnJeuEtHorsJeu|En Jeu et Hors Jeu]], [[ZoneDeJeuDUnJoueur|Zone de Jeu d'un Joueur]], [[ZoneDeJeuDuMechant|Zone de Jeu du Méchant]]_  
 
 <details class="source">
+<summary>EN v1.8</summary>PLAY AREA
+There are two types of play areas: a player’s play area and the villain’s play area.
+• A player’s play area contains that player’s identity, deck, hand, discard pile, any cards in play under their control, and any faceup or facedown encounter cards in their play area (such as engaged minions or encounter cards that have been dealt to them).
+• The villain’s play area contains the villain deck, main scheme deck, encounter deck, encounter discard pile, and any encounter cards in play that have not entered a player’s play area (such as side schemes or environments).
+• A card cannot be in more than one play area at a time.
+See also: In Play and Out of Play, Player’s Play Area, Villain’s Play Area
+</details>
+
+<details class="source">
 <summary>EN v1.7</summary>PLAY AREA
 There are two types of play areas: a player's play area and the villain's play area.
 • A player's play area contains that player's identity, deck, hand, discard pile, any cards in play under their control, and any faceup or facedown encounter cards in their play area (such as engaged minions or encounter cards that have been dealt to them).

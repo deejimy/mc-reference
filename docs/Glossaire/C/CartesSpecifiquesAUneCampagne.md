@@ -10,6 +10,15 @@ Les cartes de la classification « spécifique à une campagne » sont les carte
 _Voir aussi : [[ModesDeJeu|Mode de jeu Campagne]], [[Classifications|Classifications]]_  
 
 <details class="source">
+<summary>EN v1.8</summary>CAMPAIGN-SPECIFIC CARD
+Cards in the "campaign-specific" classification are cards that belong to a campaign’s set of accompanying cards.
+• Campaign-specific cards can only be used during a campaign from the same product (determined by that product’s set icon).
+• A campaign’s rules determine how players utilize campaign-specific cards within that campaign.
+• A campaign-specific card is designated by the word "Campaign" printed at the bottom of the card in its encounter set name area.
+See also: Classifications, Modes of Play
+</details>
+
+<details class="source">
 <summary>EN v1.7</summary>CAMPAIGN-SPECIFIC CARD
 Cards in the "campaign-specific" classification are cards that belong to a campaign's set of accompanying cards.
 • Campaign-specific cards can only be used during a campaign from the same product (determined by that product's set icon).
@@ -17,6 +26,10 @@ Cards in the "campaign-specific" classification are cards that belong to a campa
 • A campaign-specific card is designated by the word "Campaign" printed at the bottom of the card in its encounter set name area.
 See also: Classifications, Modes of Play
 </details>
+
+
+
+
 
 
 <details class="source">

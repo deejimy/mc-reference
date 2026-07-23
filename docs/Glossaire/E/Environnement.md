@@ -9,12 +9,24 @@ Environnement est un type de carte Rencontre qui crée une règle ou une série 
 _Voir aussi : [[CartesRencontre|Carte Rencontre]], [[EntrerEnJeu|Entrer en Jeu]], [[QuitterLeJeu|Quitter le Jeu]], [[MechantDeckMechant|Méchant]], [[TypesDeCarte|Types de Carte]]_  
 
 <details class="source">
+<summary>EN v1.8</summary>ENVIRONMENT
+Environment is an encounter card type that creates an overarching rule or set of rules for the scenario.
+An environment card enters play in the villain’s play area, and is active so long as it remains in play.
+• If an environment enters play, it remains in play until a card ability or game effect causes it to leave play.
+See also: Card Types, Encounter Card, Enters Play, Leaves Play, Villain
+</details>
+
+<details class="source">
 <summary>EN v1.7</summary>ENVIRONMENT
 Environment is an encounter card type that creates an overarching rule or set of rules for the scenario.
 An environment card enters play in the villain's play area, and is active so long as it remains in play.
 • If an environment enters play, it remains in play until a card ability or game effect causes it to leave play.
 See also: Card Types, Encounter Card, Enters Play, Leaves Play, Villain
 </details>
+
+
+
+
 
 
 <details class="source">

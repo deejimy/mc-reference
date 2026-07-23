@@ -4,6 +4,11 @@ _Voir : [[PouvoirDeBase|Pouvoir de base]], [[ManiganceActivationDesEnnemis|Manig
 
 
 <details class="source">
+<summary>EN v1.8</summary>SCH
+See: Basic Power, Scheme (Enemy Activation)
+</details>
+
+<details class="source">
 <summary>EN v1.7</summary>SCH
 See: Basic Power, Scheme (Enemy Activation)
 </details>

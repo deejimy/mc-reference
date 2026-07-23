@@ -5,6 +5,13 @@ Quand une carte ayant le mot‑clé `Incitation X` est révélée, placez X mena
 _Voir aussi : [[MotsCles|Mots-clés]], [[ManigancePrincipaleDeckManigancePrincipale|Manigance Principale]], [[Menace|Menace]], [[Reveler|Révéler]], [[TexteDeRappel|Texte de Rappel]]_  
 
 <details class="source">
+<summary>EN v1.8</summary>INCITE X
+When a card with the incite X keyword is revealed, place X threat on the main scheme. (X is the value next to the incite keyword.)
+• The incite X keyword is equivalent to the following triggered ability: "When Revealed: Place X threat on the main scheme."
+See also: Keywords, Main Scheme, Reminder Text, Reveal, Threat
+</details>
+
+<details class="source">
 <summary>EN v1.7</summary>INCITE X
 When a card with the incite X keyword is revealed, place X threat on the main scheme. (X is the value next to the incite keyword.) See also: Keywords, Main Scheme, Reminder Text, Reveal, Threat
 </details>

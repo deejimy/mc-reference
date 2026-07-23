@@ -6,6 +6,12 @@ Si aucun joueur n'est spécifié, l'option est accordée au contrôleur de la ca
 _Voir aussi : [[Joueur|Joueur]]_  
 
 <details class="source">
+<summary>EN v1.8</summary>MAY
+The word "may" indicates that a specified player has the option to resolve the text that follows. If no player is specified, the option is granted to the controller of the card with the ability in question.
+See also: Player
+</details>
+
+<details class="source">
 <summary>EN v1.7</summary>MAY
 The word "may" indicates that a specified player has the option to resolve the text that follows. If no player is specified, the option is granted to the controller of the card with the ability in question.
 See also: Player

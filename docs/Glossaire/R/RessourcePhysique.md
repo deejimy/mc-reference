@@ -9,6 +9,14 @@ _Voir aussi : [[Capacite|Capacité]], [[Cout|Coût]], [[Icone|Icônes]], [[Resso
 
 
 <details class="source">
+<summary>EN v1.8</summary>PHYSICAL RESOURCE
+A physical resource  is one of the four types of resources.
+• Physical resources can be spent to pay the resource cost of cards and abilities.
+• Some card abilities specifically require physical resources to be spent in order to resolve their effects.
+See also: Ability, Cost, Energy Resource, Icons, Mental Resource, Resource, Wild Resource
+</details>
+
+<details class="source">
 <summary>EN v1.7</summary>PHYSICAL RESOURCE
 A physical resource () is one of the four types of resources.
 • Physical resources can be spent to pay the resource cost of cards and abilities.

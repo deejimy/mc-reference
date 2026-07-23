@@ -9,6 +9,15 @@ Défaussez la carte de boost après cette activation.
 _Voir aussi : [[Activation|Activation]], [[AttaqueActivationDesEnnemis|Attaque (Activation des Ennemis)]], [[BoostIconeDeBoost|Boost]], [[DefausserDefausse|Défausse]], [[MotsCles|Mots-clés]], [[Sbire|Sbire]], [[TexteDeRappel|Texte de Rappel]], [[ManiganceActivationDesEnnemis|Manigance (Activation des Ennemis)]]_  
 
 <details class="source">
+<summary>EN v1.8</summary>VILLAINOUS
+When a character with the villainous keyword uses a basic power, give it a facedown boost card from the top of the encounter deck. When resolving that basic power, turn the boost card faceup, resolve any boost ability on that card, and apply its boost icons to the character’s stats for this use.
+Discard the boost card after it is resolved.
+• The villainous keyword is equivalent to the following triggered ability: "Forced Interrupt: When this character uses a basic power, give it a boost card."
+• If a boost ability on a boost card dealt to a character refers to "the villain," that ability still applies to the villain (even if another type of character is resolving it).
+See also: Activation, Attack (Enemy Activation), Boost, Discard, Keywords, Minion, Reminder Text, Scheme (Enemy Activation)
+</details>
+
+<details class="source">
 <summary>EN v1.7</summary>VILLAINOUS
 When a minion with the villainous keyword activates, give it a facedown boost card from the top of the encounter deck.
 When you resolve that minion's activation, turn the boost card faceup, resolve any boost ability on that card, and apply its boost icons to the minion's stats for this activation.

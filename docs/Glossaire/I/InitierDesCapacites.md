@@ -23,6 +23,21 @@ Si :
 _Voir aussi : [[Capacite|Capacité]], [[Cible]], [[Cout|Coût]], [[RestrictionsEtPermissionsDeJeu|Restrictions et Permissions de Jeu]]_  
 
 <details class="source">
+<summary>EN v1.8</summary>INITIATING ABILITIES
+When a player wishes to play a card or initiate a triggered ability, that player first declares their intent. Then, the player checks the following conditions in order:
+1. If playing a card, the player places that card faceup on the table in front of them. (This card is not in play.)
+2. Check play restrictions: can the card be played, or the ability initiated, at this time?
+» If the card or ability specifies one or more targets, check that it has at least one valid target. If the card or ability does not have at least one valid target, it cannot be played or initiated.
+» If the card or ability has a form requirement (for example, "Hero form only" or "Hero Action"), the form of the player playing that card or initiating that ability is checked now.
+3. Determine the cost (or costs) to play the card or initiate the ability and the player’s ability to pay them, taking modifiers into account.
+» If a card has a resource cost of X, the player playing that card chooses the value of X during this step.
+If both conditions are met, follow these steps in order:
+4. Apply any modifiers to the cost(s).
+5. Pay the cost(s). If this step is reached and the cost(s) cannot be paid, abort this process without paying any costs.
+6. The card commences being played, or the effects of the ability attempt to initiate.
+</details>
+
+<details class="source">
 <summary>EN v1.7</summary>INITIATING ABILITIES
 When a player wishes to play a card or initiate a triggered ability, that player first declares their intent. Then, the player checks the following conditions in order:
 1. Check play restrictions: can the card be played, or the ability initiated, at this time?

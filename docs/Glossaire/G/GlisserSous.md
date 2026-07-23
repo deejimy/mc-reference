@@ -9,6 +9,14 @@ _Voir aussi : [[EnJeuEtHorsJeu|En Jeu et Hors Jeu]]_
 
 
 <details class="source">
+<summary>EN v1.8</summary>TUCK
+When a player is instructed to tuck a card under another card, they place the tucked card faceup under the other card.
+• Tucked cards are not in play and are not considered "attached" to the card under which they are tucked.
+• When a card leaves play, each card tucked under it is discarded.
+See also: In Play and Out of Play
+</details>
+
+<details class="source">
 <summary>EN v1.7</summary>TUCK
 When a player is instructed to tuck a card under another card, they place the tucked card faceup under the other card.
 • Tucked cards are not in play and are not considered "attached" to the card under which they are tucked.

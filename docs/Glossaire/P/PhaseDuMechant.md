@@ -23,6 +23,27 @@ _Voir aussi : [[IconeDacceleration|Icône d'Accélération]], [[Activation|Activ
 
 
 <details class="source">
+<summary>EN v1.8</summary>VILLAIN PHASE
+The steps of the villain phase are:
+1. Place Threat. Place the amount of threat indicated in the main scheme’s acceleration field onto that scheme.
+If any acceleration icons or tokens are active, additional threat equal to the number of such icons and tokens is also placed at this time.
+2. Enemies Activate. In player order, each player resolves the following: a. The villain activates against the player. b. Each minion engaged with the player activates against them, in the order of that player’s choice.
+3. Deal Encounter Cards. Deal one encounter card to each player. Deal one additional card for each hazard icon on a card in play. These additional cards are dealt in player order.
+4. Reveal Encounter Cards. The first player reveals each of their encounter cards, one card at a time in the order in which they were dealt, resolving each card based on its card type. Each player repeats this process in player order, until no dealt encounter cards remain.
+5. Pass First Player Token. Pass the first player token to the next clockwise player.
+6. End of Villain Phase and Round. a. Any effects that last "until the end of the [villain] phase" or "until the end of the round" end. b. Resolve any "when/after the [villain] phase ends" or "when/after the round ends" effects.
+See also: Acceleration Icon, Activation, Attack (Enemy Activation), Deal, Engage, Find, Hazard Icon, In Player Order, Main Scheme, Minion, Player, Reveal, Scheme (Enemy Activation), Threat, Villain
+
+VILLAIN’S PLAY AREA
+The villain’s play area (also sometimes referred to as the "villain’s game area") is the area of play where the villain deck, the main scheme deck, the encounter deck, the encounter discard pile, and the villain’s hit point dial are located.
+• Environment cards and side scheme cards are placed in the villain’s play area when they enter play.
+• Attachment cards attached to cards in the villain’s play area are in the villain’s play area. Attachment cards attached to cards in a player’s play area are not in the villain’s play area.
+• Minion cards engaged with a player are in that player’s play area and not in the villain’s play area.
+• Obligation cards given to a player are in that player’s play area and not in the villain’s play area.
+See also: Attachment, Discard Pile, Encounter Deck, Environment, In Play and Out of Play, Main Scheme, Minion, Obligation, Villain
+</details>
+
+<details class="source">
 <summary>EN v1.7</summary>VILLAIN PHASE
 The steps of the villain phase are:
 1. Place Threat. Place the amount of threat indicated in the main scheme's acceleration field onto that scheme.

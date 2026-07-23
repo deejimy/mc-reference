@@ -11,6 +11,18 @@ Les ressources sont utilisées pour payer le coût pour jouer des cartes et le c
 _Voir aussi : [[Cout|Coût]], [[Icone|Icône]], [[RessourceEnergie|Ressource Energie]], [[RessourceLibre|Ressource Libre]], [[RessourceMentale|Ressource Mentale]], [[RessourcePhysique|Ressource Physique]]_  
 
 <details class="source">
+<summary>EN v1.8</summary>RESOURCE
+Resources are used to pay the cost to play cards and to pay certain ability costs.
+• A player can generate resources to pay a cost by discarding cards from their hand to generate the resource or resources indicated at the bottom-left corner of the card, or by using card abilities that generate resources.
+• There are four types of resources in the game: energy , mental , and physical , and wild .
+Wild resources can be used as their type or any of the other types.
+• To pay the cost of playing a card, a number of resources equal to (or greater than) the card’s cost must be generated. For most cards, any type (or mix of types) of resources can be used to pay this cost.
+• If an ability has a resource cost, a number of resources equal to or greater than this cost must be generated. Many abilities require specific resource types, and the specified types in the specified quantities must be generated in order to pay the cost of the ability.
+• Excess resources generated toward any cost are lost, and do not carry over to future costs.
+See also: Cost, Energy Resource, Icons, Mental Resource, Physical Resource, Wild Resource
+</details>
+
+<details class="source">
 <summary>EN v1.7</summary>RESOURCE
 Resources are used to pay the cost to play cards and to pay certain ability costs.
 • A player can generate resources to pay a cost by discarding cards from their hand to generate the resource or resources indicated at the bottom-left corner of the card, or by using card abilities that generate resources.

@@ -6,6 +6,12 @@ _Voir aussi : [[IconeUnique|Icône unique]]_
 
 
 <details class="source">
+<summary>EN v1.8</summary>SUBTITLE
+Some ally cards have a subtitle beneath the title. A subtitle represents an alternate alias a character sometimes uses.
+See also: Unique Icon 4
+</details>
+
+<details class="source">
 <summary>EN v1.7</summary>SUBTITLE
 Some ally cards have a subtitle beneath the title. A subtitle represents an alternate alias a character sometimes uses.
 See also: Unique Icon

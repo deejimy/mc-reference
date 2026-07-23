@@ -17,6 +17,20 @@ Les termes « max » et « maximum » imposent un maximum pour tous les exemplai
 _Voir aussi : [[Annuler|Annuler]], [[Limite|Limite]], [[I|Appendice I : Decks Personnalisés]]_  
 
 <details class="source">
+<summary>EN v1.8</summary>MAX, MAXIMUM
+The words "max" and "maximum" impose a maximum across all copies of a card (by title) for all players.
+• "Max X per [period]" imposes a maximum number of times that copies of that card can be played during the designated time period.
+» If a card with a maximum is canceled, the card is still counted toward the maximum.
+• "Max X per deck" restricts the number of copies of that card that may be included in each player deck.
+• "Max 1 per player" is player specific, and restricts the number of copies of that card that each player may control in play at a given time.
+» A player cannot take control of another copy of a "Max 1 per player" card they already control.
+• "Max 1 per [game element]" restricts the number of copies of that card that can be attached to each indicated game element. (For example, if an upgrade is "Max 1 per ally," an ally can have at most one copy of that upgrade attached.)
+• "Max 1 per [instance]" restricts the number of times an ability can be triggered by a single instance of a triggering effect across all copies of the card with the maximum. (For example, if an ability has the text "(Max 1 per event.)," only one card with that ability can be triggered per event played.)
+• The parenthetical "(to a maximum of [value])" within an ability imposes a maximum on that ability for the duration of that ability.
+See also: Cancel, Limit, Appendix I: Deck Customization
+</details>
+
+<details class="source">
 <summary>EN v1.7</summary>MAX, MAXIMUM
 The words "max" and "maximum" impose a maximum across all copies of a card (by title) for all players.
 • "Max X per [period]" imposes a maximum number of times that copies of that card can be played during the designated time period.

@@ -9,6 +9,16 @@ Pendant la première étape de la phase du méchant, placez X menaces supplémen
 _Voir aussi : [[Icone|Icône]], [[ManigancePrincipaleDeckManigancePrincipale|Manigance Principale]], [[Menace|Menace]], [[PhaseDuMechant|Phase du Méchant]]_  
 
 <details class="source">
+<summary>EN v1.8</summary>ACCELERATION ICON
+An acceleration icon represents additional forces that are advancing the villain’s nefarious plans.
+During step one of the villain phase, place X additional threat on the main scheme, where X is the number of acceleration icons in play.
+• Each acceleration icon is equivalent to the following constant ability: "During the Place Threat step of the villain phase, place 1 additional threat on the main scheme."
+• An acceleration icon can be removed from play by defeating the encounter card it is printed on.
+• Accleration icons are not considered acceleration tokens, and vice versa.
+See also: Icons, Main Scheme, Threat, Villain Phase
+</details>
+
+<details class="source">
 <summary>EN v1.7</summary>ACCELERATION ICON
 An acceleration icon represents additional forces that are advancing the villain's nefarious plans.
 During step one of the villain phase, place X additional threat on the main scheme, where X is the number of acceleration icons in play.

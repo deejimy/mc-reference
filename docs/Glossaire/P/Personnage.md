@@ -6,6 +6,12 @@ _Voir aussi : [[Allie|Allié]], [[Identite|Identité]], [[MechantDeckMechant|Mé
 
 
 <details class="source">
+<summary>EN v1.8</summary>CHARACTER
+Identities (heroes and alter-egos), allies, villains, and minions are all characters.
+See also: Ally, Identity, Minion, Villain
+</details>
+
+<details class="source">
 <summary>EN v1.7</summary>CHARACTER
 Identities (heroes and alter-egos), allies, villains, and minions are all characters.
 See also: Ally, Identity, Minion, Villain

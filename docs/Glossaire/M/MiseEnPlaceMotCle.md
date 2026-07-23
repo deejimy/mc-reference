@@ -7,6 +7,13 @@ Une carte ayant le mot-clé `Mise en Place` commence la partie en jeu.
 _Voir aussi : [[MotsCles|Mots-clés]], [[TexteDeRappel|Texte de Rappel]], [[II|Appendice II : Mise en Place]]_  
 
 <details class="source">
+<summary>EN v1.8</summary>SETUP (KEYWORD)
+A card with the setup keyword begins the game in play.
+• Cards with the setup keyword are put into play during the "Put Setup Cards Into Play" step of setup.
+See also: Keywords, Reminder Text, Appendix II: Setup
+</details>
+
+<details class="source">
 <summary>EN v1.7</summary>SETUP (KEYWORD)
 A card with the setup keyword begins the game in play.
 • Cards with the setup keyword are put into play during the "Put Setup Cards Into Play" step of setup.

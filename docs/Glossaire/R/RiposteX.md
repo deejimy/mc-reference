@@ -11,6 +11,14 @@ Après qu'un personnage doté de Riposte X a été attaqué, infligez X dégâts
 _Voir aussi : [[Allie|Allié]], [[AttaqueActivationDesEnnemis|Attaque (Activation des Ennemis)]], [[AttaqueActivationDuJoueur|Attaque (Action de Joueur)]], [[Degats|Dégâts]], [[Identite|Identité]], [[MechantDeckMechant|Méchant]], [[MotsCles|Mots-clés]], [[Sbire|Sbire]], [[TexteDeRappel|Texte de Rappel]]_  
 
 <details class="source">
+<summary>EN v1.8</summary>RETALIATE X
+After a character with the retaliate X keyword is attacked, deal X damage to the attacker. (X is the value next to the retaliate keyword.)
+• The retaliate X keyword is equivalent to the following triggered ability: "Forced Response: After this character is attacked, deal X damage to the attacker."
+• The character with retaliate X must be in play after the attack resolves to deal this damage.
+See also: Ally, Attack (Enemy Activation), Attack (Player Ability Type), Damage, Identity, Keywords, Minion, Reminder Text, Villain
+</details>
+
+<details class="source">
 <summary>EN v1.7</summary>RETALIATE X
 After a character with the retaliate X keyword is attacked, deal X damage to the attacker. (X is the value next to the retaliate keyword.)
 • The character with retaliate X must be in play after the attack resolves to deal this damage.

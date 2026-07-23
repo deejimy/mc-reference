@@ -11,6 +11,17 @@ Si des dégâts en excès sont infligés à un sbire lors d'une attaque portant 
 _Voir aussi : [[Allie|Allié]], [[AttaqueActivationDesEnnemis|Attaque (Activation des Ennemis)]], [[AttaqueActivationDuJoueur|Attaque (Action de Joueur)]], [[Degats|Dégâts]], [[Identite|Identité]], [[MotsCles|Mots‑clés]], [[PointsDeVie|Points de Vie]], [[Sbire|Sbire]], [[MechantDeckMechant|Méchant]], [[TexteDeRappel|Texte de Rappel]]_  
 
 <details class="source">
+<summary>EN v1.8</summary>OVERKILL
+If an ally is defeated by an attack with the overkill keyword, deal any damage on that ally beyond its hit points to the identity of the player who controls the ally.
+If a minion is defeated by an attack with the overkill keyword, deal any damage on that minion beyond its hit points to the villain.
+• The overkill keyword is equivalent to the following ability: "If this attack defeats an ally, deal the damage beyond its hit points to the identity of that ally’s controller. If this attack defeats a minion, deal the damage beyond its hit points to the villain."
+• Damage dealt by overkill to an identity or villain is considered damage from an attack, but does not constitute an attack against that character.
+• If a card ability counts excess damage dealt, that ability counts the same value of excess damage that is calculated when resolving the overkill keyword.
+• If excess damage from an attack with overkill is prevented, that damage is not dealt to the identity or villain.
+See also: Ally, Attack (Enemy Activation), Attack (Player Ability Type), Damage, Hit Points, Identity, Keywords, Minion, Reminder Text, Villain
+</details>
+
+<details class="source">
 <summary>EN v1.7</summary>OVERKILL
 If an ally takes any amount of excess damage from an attack with the overkill keyword, simultaneously deal damage equal to the excess amount to the identity of the player who controls the ally.
 If a minion takes any amount of excess damage from an attack with the overkill keyword, simultaneously deal damage equal to the excess amount to the villain.
@@ -19,6 +30,10 @@ If a minion takes any amount of excess damage from an attack with the overkill k
 • When an ally or minion with a tough status card is dealt excess damage by an attack with the overkill keyword, overkill damage is not dealt to the identity of that ally's controller or to the villain, respectively.
 See also: Ally, Attack (Enemy Activation), Attack (Player Ability Type), Damage, Hit Points, Identity, Keywords, Minion, Reminder Text, Villain
 </details>
+
+
+
+
 
 
 <details class="source">

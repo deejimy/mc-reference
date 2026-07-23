@@ -7,13 +7,6 @@ Lorsqu'un personnage effectue un contre de base contre une manigance portant le 
 
 _Voir aussi : [[DegatsConsecutifs|Dégâts consécutifs]], [[MotsCles|Mots-clés]]_  
 
-<details class="source">
-<summary>EN v1.7</summary>ASSAULT
-When a character makes a basic thwart against a scheme with the assault keyword, that character uses its ATK instead of its THW.
-• If the thwarting character is an ally, it takes the consequential damage listed under its ATK instead of its THW after the thwart.
-• Abilities that increase a character's "basic power" can be used to increase that character's ATK when that character thwarts a scheme with assault.
-See also: Consequential Damage, Keywords
-</details>
 
 <details class="source">
 <summary>EN v1.8</summary>ASSAULT
@@ -23,4 +16,13 @@ When a character makes a basic thwart against a scheme with the assault keyword,
 • Abilities that increase a character’s "basic power" can be used to increase that character’s ATK when that character thwarts a scheme with assault.
 See also: Consequential Damage, Keywords
 </details>
+
+<details class="source">
+<summary>EN v1.7</summary>ASSAULT
+When a character makes a basic thwart against a scheme with the assault keyword, that character uses its ATK instead of its THW.
+• If the thwarting character is an ally, it takes the consequential damage listed under its ATK instead of its THW after the thwart.
+• Abilities that increase a character's "basic power" can be used to increase that character's ATK when that character thwarts a scheme with assault.
+See also: Consequential Damage, Keywords
+</details>
+
 

@@ -5,6 +5,13 @@ Tant qu'un sbire ayant le mot-clé `Garde` est engagé avec un joueur, ce dernie
 _Voir aussi : [[AttaqueActivationDuJoueur|Attaque (Action de joueur)]], [[Engager|Engager]], [[MechantDeckMechant|Méchant]], [[MotsCles|Mots-clés]], [[Sbire|Sbire]], [[TexteDeRappel|Texte de Rappel]]_  
 
 <details class="source">
+<summary>EN v1.8</summary>GUARD
+While a minion with the guard keyword is engaged with a player, that player cannot use cards they control to attack a villain without this keyword.
+• The guard keyword is equivalent to the following constant ability: "The engaged player cannot attack any villain."
+See also: Attack (Player Ability Type), Engage, Keywords, Minion, Reminder Text, Villain
+</details>
+
+<details class="source">
 <summary>EN v1.7</summary>GUARD
 While a minion with the guard keyword is engaged with a player, that player cannot use cards they control to attack a villain without this keyword.
 See also: Attack (Player Ability Type), Engage, Keywords, Minion, Reminder Text, Villain

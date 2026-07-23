@@ -4,6 +4,11 @@ _Voir : [[FormeChangerDeForme|Forme]], [[Identite|Identité]]_
 
 
 <details class="source">
+<summary>EN v1.8</summary>HERO, HERO FORM
+See: Form, Identity
+</details>
+
+<details class="source">
 <summary>EN v1.7</summary>HERO, HERO FORM
 See: Form, Identity
 </details>
