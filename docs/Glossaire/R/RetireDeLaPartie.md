@@ -4,6 +4,7 @@ Une carte qui a été retirée de la partie est mise de côté et n'interagit pl
 
 - Si aucune durée n'est spécifiée, une carte retirée de la partie l'est jusqu'à la fin de la partie.  
 - « Retiré de la partie » est un état hors jeu.  
+- <span class="new">Une carte qui a été retirée de la partie ne peut plus réintégrer la partie par quelque moyen que ce soit.</span>  
 
 _Voir aussi : [[EnJeuEtHorsJeu|En Jeu et Hors Jeu]], [[QuitterLeJeu|Quitter le Jeu]]_  
 

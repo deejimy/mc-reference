@@ -2,6 +2,7 @@
 
 Une capacité étiquetée est une capacité déclenchée dont l'indicatif de déclenchement en gras est suivi, entre parenthèses, d'une désignation indiquant que la capacité est une attaque, une défense et/ou un contre.  
 
+- <span class="new">L'identité du joueur utilisant la capacité étiquetée est considérée comme effectuant l'effet étiqueté lorsque la capacité étiquetée commence à se résoudre (après que les coûts ont été payés).</span>  
 - Lorsque un joueur résout une capacité étiquetée "(attaque)", cette capacité est considérée comme une attaque effectuée par l'identité de ce joueur.  
 - Lorsque un joueur résout une capacité étiquetée "(défense)", cette capacité est considérée comme une défense effectuée par l'identité de ce joueur.  
     - Lorsque cette capacité est initiée pendant une attaque, l'identité du joueur devient le défenseur de cette attaque.  

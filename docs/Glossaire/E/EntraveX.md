@@ -1,7 +1,9 @@
 # Entrave X
 
 
-Quand une carte avec le mot-clé `Entrave X` est révélée, placez X menaces dessus. (X est la valeur indiquée à côté du mot-clé Entrave).  
+<span class="new">Une carte portant le mot-clé `Entrave X` entre en jeu avec X menace dessus. (X est la valeur indiquée à côté du mot-clé Entrave.)</span>  
+<span class="new">- Le mot-clé Entrave X est équivalent à la capacité constante suivante : "Cette carte entre en jeu avec X menace dessus."</span>  
+<span class="new">- Cette menace s'ajoute à toute menace avec laquelle elle entre normalement en jeu, comme la menace de départ d'une manigance annexe.</span>  
 
 _Voir aussi : [[EntrerEnJeu|Entrer en Jeu]], [[MotsCles|Mots-clés]], [[TexteDeRappel|Texte de Rappel]], [[Reveler|Révéler]], [[Menace|Menace]]_  
 

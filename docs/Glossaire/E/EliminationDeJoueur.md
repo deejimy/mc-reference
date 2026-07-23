@@ -18,8 +18,9 @@ Quand un joueur est éliminé, les joueurs restants continuent à jouer la parti
 - Si tous les joueurs sont éliminés, la partie se termine et les joueurs ont perdu.
   
 
-- Si un joueur est éliminé au milieu de la résolution d'une capacité, résolvez la capacité en entier.
-• Les effets qui font référence aux joueurs dans la partie ignorent les joueurs éliminés, sauf pour l'icône par joueur (![[icone_joueur.jpg|15]]).
+- Si un joueur est éliminé au milieu de la résolution d'une capacité, résolvez la capacité en entier.  
+<span class="new">- Si un joueur est éliminé en plein milieu d'une attaque, cette attaque se termine.</span>  
+- Les effets qui font référence aux joueurs dans la partie ignorent les joueurs éliminés, sauf pour l'icône par joueur (![[icone_joueur.jpg|15]]).  
 
 _Voir aussi : [[Capacite|Capacité]], [[Degats|Dégâts]], [[Engager|Engager]], [[ElementDeJeu|Élément de Jeu]], [[PointsDeVie|Points de Vie]], [[Identite|Identité]], [[Sbire|Sbire]], [[IconeParJoueur|Icône par joueur]], [[Joueur|Joueur]], [[CartesJoueur|Cartes Joueur]], [[DeckJoueur|Deck Joueur]], [[ZoneDeJeuDUnJoueur|Zone de Jeu d'un Joueur]], [[GagnerLaPartie|Gagner la Partie]]_  
 

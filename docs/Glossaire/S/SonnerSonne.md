@@ -3,6 +3,7 @@
 Sonné est un état qui empêche un personnage d'infliger des dégâts avec sa prochaine attaque.  
 
 - Si une capacité « sonne » un personnage, donnez‑lui une carte d'état Sonné.  
+- <span class="new">Une carte d'état Sonné se résout comme la capacité déclenchée suivante : "Interruption Forcée : Lorsque ce personnage devrait attaquer, retirez chacune de ses cartes d'état Sonné à la place."</span>  
 - Un personnage est sonné s'il possède une carte d'état Sonné.  
     - Un personnage avec le mot‑clé `Solide` n'est sonné que s'il possède deux cartes d'état Sonné.  
 - Si un personnage a une capacité spécifiant qu'il « ne peut pas être sonné », aucune carte d'état Sonné ne peut être placée sur ce personnage.  

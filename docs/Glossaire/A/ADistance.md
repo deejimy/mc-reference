@@ -2,6 +2,8 @@
 
 Une attaque avec le mot-clé `A Distance` ignore le mot-clé `Riposte`.  
 
+- <span class="new">Le mot-clé `A Distance` équivaut à la capacité suivante : « Cette attaque ignore le mot-clé Riposte. »</span>  
+
 _Voir aussi : [[AttaqueActivationDesEnnemis|Attaque (Activation des Ennemis)]], [[AttaqueActivationDuJoueur|Attaque (Action de joueur)]], [[MotsCles|Mots-clés]], [[TexteDeRappel|Texte de Rappel]], [[RiposteX|Riposte X]]_  
 
 

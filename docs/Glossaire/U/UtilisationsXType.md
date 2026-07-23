@@ -6,6 +6,7 @@ Le mot suivant la valeur établit et identifie le type d'utilisations de la cart
 Chaque carte ayant ce mot-clé possède également une capacité dont le coût fait référence au type d'utilisations établi par le mot-clé.  
 Quand cette capacité vous demande de dépenser une utilisation, un jeton de ce type doit être retiré de la carte.  
 Après qu'une carte avec des utilisations a dépensé sa dernière utilisation (et que l'effet a été résolu), défaussez la carte.  
+- <span class="new">Le mot-clé utilisations (X "type") est équivalent à la capacité constante suivante : "Cette carte entre en jeu avec X jetons génériques. Ce sont des 'jetons de type'. S'il n'y a aucun jeton générique sur cette carte, défaussez cette carte."</span>  
 
 _Voir aussi : [[DefausserDefausse|Défausse]], [[EntrerEnJeu|Entrer en Jeu]], [[JetonsGeneriques|Jeton Générique]], [[MotsCles|Mots-clés]], [[QuitterLeJeu|Quitter le Jeu]], [[TexteDeRappel|Texte de Rappel]]_  
 

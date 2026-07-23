@@ -3,6 +3,7 @@
 Une capacité Une fois vaincu ou Une fois déjouée est un type de capacité déclenchée signalé par l'indicatif de déclenchement « **Une fois vaincu** » ou « **Une fois déjouée** » en gras.  
 
 - Quand un stade de méchant, une manigance annexe, un stade de manigance principale, un allié ou un sbire est vaincu, toutes les capacités « **Une fois vaincu** » sur la carte se résolvent.  
+- <span class="new">L'indicatif de déclenchement « Une fois vaincu » équivaut à l'indicatif suivant : « Interruption forcée : Quand cette carte est vaincue... »</span>  
     - Une carte vaincue ou déjouée quitte le jeu après la résolution de sa capacité "**Une fois vaincu**" ou "**Une fois déjouée**", s'il y en a une.  
 
 _Voir aussi : [[Allie|Allié]], [[CapaciteDeclenchee|Capacité Déclenchée]], [[ManiganceAnnexe|Manigance Annexe]], [[ManigancePrincipaleDeckManigancePrincipale|Manigance Principale]], [[MechantDeckMechant|Méchant]], [[Sbire|Sbire]], [[VaincreDejouer|Vaincre/Déjoué]]_  

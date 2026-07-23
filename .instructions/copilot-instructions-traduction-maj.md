@@ -11,23 +11,28 @@ Hébergé sur GitHub Pages pour un accès facile et une distribution publique.
 ## Instructions de traduction
 Le but est de modifier la traduction existante (v1.7) vers la dernière version (v1.8) en n'oubliant aucune phrase.
 
-Etapes à suivre de 1 à 11 :
+Etapes à suivre de 1 à 8:
 
 1. Ne pas toucher aux blocs <details> `EN v1.8`, `EN v1.7` et `FR v1.4`.
-2. Si le texte est identique entre le bloc `EN v1.8` et le bloc `EN v1.7`, il n'est pas nécessaire de le traduire à nouveau.
-3. Si un texte est différent entre le bloc `EN v1.8` et le bloc `EN v1.7`, il faut modifier le texte en l'englobant par `<span class="new"></span>`.
+2. Si le texte est identique entre le bloc `EN v1.8` et le bloc `EN v1.7`, il n'est pas nécessaire de le traduire à nouveau. Il n'y a rien à faire pour ce fichier.
+3. Si un texte est différent entre le bloc `EN v1.8` et le bloc `EN v1.7`, il faut traduire le texte manquant en l'englobant par `<span class="new"></span>`.
 4. A partir de la traduction produite: remplacer les listes à puces `•` par un retour de ligne + tiret `\n-` et les chevrons `» »` par un tiret précédé d'un retour de ligne + 4 espaces `\n    -`. Respecter l'indentation des sub-bullets
 5. Remplacer les icones par l'image correspondantes (voir section Correspondance Icone) 
 6. Ajouter 2 espaces en fin de ligne pour assurer un bon rendu markdown.
 7. Vérifier les correspondances (voir chapitre) pour vérifier les traductions sur certains mots-clés. Exemple le mot `villainous`doit se traduire `vilenie`
-8. Executer les 4 contrôles de validation (voir chapitre Contrôles) pour s'assurer que la traduction est complète et conforme aux attentes. Sinon recommencer à partir de l'étape 3.
+8. Executer les 3 contrôles de validation (voir chapitre Contrôles) pour s'assurer que la traduction est complète et conforme aux attentes. Sinon recommencer à partir de l'étape 3.
 
 
 # Contrôles ✅
 1. Vérifier que le texte EN v1.8 a été intégralement traduit, si il manque une phrase ou une partie de phrase, refuser la traduction et recommencer à partir de l'étape 3.
 2. Vérifier que le nombre de puces (top level et sous-puces et numérotation) dans la traduction produite correspond au nombre exact de puces dans le bloc EN v1.8.
-3. S’assurer que chaque phrase du bloc EN v1.8 est soit traduitede EN v1.7, soit présente dans <span class="new"> ( une traduction présente dans EN v1.8  mais absente de FR v1.7 doit avoir la class "new").
-4. Rechercher et refuser les traductions préfixées par le titre MAJUSCULE.
+3. S’assurer que chaque phrase du bloc EN v1.8 est soit présente de EN v1.7, soit présente dans <span class="new"> ( une traduction présente dans EN v1.8  mais absente de FR v1.7 doit avoir la class "new").
+
+## Script pour vérifier les différences entre les versions
+exemple avec le dossier docs/Glossaire/C
+```bash
+py .scripts/translation_diff.py docs/Glossaire/C --diff
+```
 
 ## Correspondance Icone
 

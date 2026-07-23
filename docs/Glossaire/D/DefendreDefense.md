@@ -2,16 +2,20 @@
 
 Quand un ennemi attaque, un joueur peut défendre contre cette attaque en utilisant des cartes qu'il contrôle.  
 
-- Une attaque ennemie ne peut être défendue que par un seul joueur à la fois. Tant qu'un joueur défend, les autres joueurs ne peuvent pas défendre contre cette même attaque.  
+- Un seul joueur à la fois peut défendre contre une attaque ennemie. Tant qu'un joueur défend, les autres joueurs ne peuvent pas défendre contre cette même attaque.  
 - Un héros peut utiliser son pouvoir de base de défense pour défendre contre une attaque ennemie. Un héros doit s'incliner pour utiliser ce pouvoir. La quantité de dégâts infligés par l'attaque est réduite par la valeur DEF du héros, et les dégâts restants sont infligés à ce héros. Tant qu'un héros défend contre une attaque, les autres personnages amis ne peuvent pas défendre contre cette attaque.  
     - Quand une capacité de carte indique de « déclarer [un héros] défenseur » d'une attaque, ce héros est considéré comme effectuant une défense de base.  
+    - <span class="new">Une capacité de carte qui permet qu'un héros soit déclaré défenseur sans l'incliner peut être utilisée sur un héros déjà incliné.</span>  
 - Un allié peut s'incliner pour défendre contre une attaque ennemie. Les dégâts de l'attaque sont infligés à cet allié.  
+Tant qu'un allié défend contre une attaque, les autres personnages amis ne peuvent pas défendre contre cette attaque.  
+    - <span class="new">Quand un allié défend une attaque, cet allié devient le personnage ciblé par cette attaque, et son contrôleur devient le joueur ciblé par cette attaque.</span>  
     - Quand une capacité de carte indique de « déclarer [un allié] défenseur » d'une attaque, cet allié devient le défenseur de l'attaque.  
+    - <span class="new">Une capacité de carte qui permet qu'un allié soit déclaré défenseur sans l'incliner peut être utilisée sur un allié déjà incliné.</span>  
 
 - Lorsqu'un joueur initie une capacité déclenchée étiquetée « défense » — par exemple « Interruption de Héros (défense) » — pendant une attaque ennemie, l'identité de ce joueur devient le défenseur et est considérée comme ayant défendu l'attaque si aucun défenseur n'est déjà présent.  
     - L'identité du joueur est considérée comme défenseur dès que la capacité étiquetée défense commence à se résoudre.  
     - Les capacités qui se déclenchent « quand votre héros défend contre une attaque » peuvent se déclencher lors de la résolution d'une capacité étiquetée défense.  
-    - Jouer une capacité étiquetée défense n'est pas une défense de base et n'entraîne pas la réduction des dégâts par la valeur DEF du héros.  
+    - <span class="new">La résolution d'une capacité étiquetée défense n'est pas une défense de base et ne fait pas réduire les dégâts infligés par la valeur DEF du héros. Ce héros peut toujours être déclaré défenseur de l'attaque pendant l'étape « Déclarer le défenseur » ou par une autre capacité de carte.</span>  
     - Sauf indication contraire dans le texte de la capacité, un héros ne s'incline pas lorsqu'il utilise une capacité étiquetée défense.  
     - Le joueur défenseur peut résoudre n'importe quel nombre de capacités étiquetées défense lors d'une attaque ennemie (tant que leurs conditions de déclenchement sont remplies).  
     - Une fois qu'un joueur résout une capacité étiquetée défense pendant une attaque ennemie, les autres joueurs ne peuvent pas résoudre de capacités étiquetées défense pour cette même attaque.  

@@ -1,6 +1,7 @@
 # Icône d'aléas 
 
 Lors de l'étape de distribution des cartes de rencontre de la phase du méchant, pour chaque icône d'aléas (![[icone_aleas.jpg|15]]) sur les cartes en jeu, distribuez à un joueur une carte supplémentaire (pas une carte par joueur). Les cartes supplémentaires sont distribuées dans l'ordre des joueurs (la première carte supplémentaire au premier joueur, la deuxième au deuxième joueur, etc.).  
+- <span class="new">Chaque icône d'aléas est équivalente à la capacité constante suivante : « Pendant l'étape Distribution des Cartes Rencontre de la phase du Méchant, attribuez 1 carte Rencontre supplémentaire. Les cartes supplémentaires provenant des icônes d'aléas sont distribuées dans l'ordre des joueurs. »</span>  
 
 _Voir aussi : [[AttribuerAttribuerUneCarteRencontre|Attribuer une Carte Rencontre]], [[DansLordreDesJoueurs|Dans l'ordre des joueurs]], [[PhaseDuMechant|Phase du Méchant]]_  
 

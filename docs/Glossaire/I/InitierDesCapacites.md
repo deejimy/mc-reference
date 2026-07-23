@@ -3,12 +3,13 @@
 Quand un joueur souhaite jouer une carte ou initier une capacité déclenchée, ce joueur doit d'abord déclarer son intention.  
 Ensuite, il vérifie les conditions suivantes dans l'ordre :  
 
-1. Vérifier les restrictions de jeu : la carte peut‑elle être jouée ou la capacité initiée à ce moment ?  
+1. Si une carte est jouée, le joueur place cette carte face visible devant lui sur la table. (Cette carte n'est pas en jeu.)  
+2. Vérifier les restrictions de jeu : la carte peut‑elle être jouée ou la capacité initiée à ce moment ?  
     - Si la carte ou la capacité précise une ou plusieurs cibles, vérifiez qu'il existe au moins une cible valide. Si la carte ou la capacité n'a pas au moins une cible valide, elle ne peut pas être jouée ni initiée.  
-2. Déterminer le coût (ou les coûts) pour jouer la carte ou initier la capacité et la capacité du joueur à les payer, en prenant en compte les modificateurs.  
-    - Si une carte a un coût en ressources exprimé par X, le joueur qui la joue choisit la valeur de X lors de cette étape.  
+    - <span class="new">Si la carte ou la capacité a une exigence de forme (par exemple, « Forme héros uniquement » ou « Action héroïque »), la forme du joueur qui joue cette carte ou initie cette capacité est vérifiée maintenant.</span>  
+3. Déterminer le coût (ou les coûts) pour jouer la carte ou initier la capacité et la capacité du joueur à les payer, en prenant en compte les modificateurs.  
+    - <span class="new">Si une carte a un coût en ressources exprimé par X, le joueur qui la joue choisit la valeur de X lors de cette étape.</span>  
 Si ces deux conditions sont remplies, accomplissez les étapes suivantes, dans l'ordre :  
-3. Si une carte est jouée, le joueur place cette carte face visible devant lui sur la table. (Cette carte n'est pas en jeu.)  
 4. Appliquez tous les modificateurs au(x) coût(s).  
 5. Payez le ou les coûts. Si cette étape est atteinte et que le(s) coût(s) ne peuvent pas être payés, mettez fin à ce processus sans payer aucun coût.  
 6. La carte commence à être jouée, ou les effets de la capacité tentent de s'initier.  

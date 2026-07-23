@@ -2,6 +2,7 @@
 
 Après qu'un personnage doté de Riposte X a été attaqué, infligez X dégâts à l'attaquant. (X est la valeur indiquée à côté du mot‑clé `Riposte`.)  
 
+- <span class="new">Le mot-clé Riposte X est équivalent à la capacité déclenchée suivante : "Réponse Forcée : Après que ce personnage est attaqué, infligez X dégâts à l'attaquant."</span>  
 - Le personnage doit survivre à l'attaque pour infliger ses dégâts de riposte.  
 - L'ordre de résolution des capacités entourant le mot‑clé `Riposte` est le suivant :  
     1. Capacités qui se déclenchent « après que [personnage] a subi n'importe quelle quantité de dégâts... »  

@@ -33,14 +33,6 @@ If any acceleration icons or tokens are active, additional threat equal to the n
 5. Pass First Player Token. Pass the first player token to the next clockwise player.
 6. End of Villain Phase and Round. a. Any effects that last "until the end of the [villain] phase" or "until the end of the round" end. b. Resolve any "when/after the [villain] phase ends" or "when/after the round ends" effects.
 See also: Acceleration Icon, Activation, Attack (Enemy Activation), Deal, Engage, Find, Hazard Icon, In Player Order, Main Scheme, Minion, Player, Reveal, Scheme (Enemy Activation), Threat, Villain
-
-VILLAIN’S PLAY AREA
-The villain’s play area (also sometimes referred to as the "villain’s game area") is the area of play where the villain deck, the main scheme deck, the encounter deck, the encounter discard pile, and the villain’s hit point dial are located.
-• Environment cards and side scheme cards are placed in the villain’s play area when they enter play.
-• Attachment cards attached to cards in the villain’s play area are in the villain’s play area. Attachment cards attached to cards in a player’s play area are not in the villain’s play area.
-• Minion cards engaged with a player are in that player’s play area and not in the villain’s play area.
-• Obligation cards given to a player are in that player’s play area and not in the villain’s play area.
-See also: Attachment, Discard Pile, Encounter Deck, Environment, In Play and Out of Play, Main Scheme, Minion, Obligation, Villain
 </details>
 
 <details class="source">
@@ -67,6 +59,12 @@ Si un ou plusieurs icônes Accélération ou pions Accélération sont actifs, p
 2. Le méchant s'active une fois par joueur. Pour chaque activation, tous les sbires engagés avec ce joueur s'activent également.
 3. Attribuez une carte Rencontre à chaque joueur. Attribuez une carte supplémentaire pour chaque icône d'aléas sur une carte en jeu. Ces cartes supplémentaires sont attribuées dans l'ordre des joueurs.
 4. Les joueurs révèlent les cartes Rencontre qui leur ont été attribuées. Le premier joueur révèle chacune de ses cartes Rencontre, une à la fois, les résout en fonction du type de carte. Chaque joueur répète ce processus dans l'ordre des joueurs jusqu'à ce qu'il ne reste plus de carte Rencontre attribuée.
-5. Passez le pion Premier Joueur au joueur suivant dans le sens horaire et terminez le round.
+5. Passez le pion Premier Joueur au joueur suivant dans le sens horaire et terminez le round.ZONE DE JEU DU MÉCHANT  
+La zone de jeu du méchant (parfois appelée aussi « zone de jeu du méchant ») est l'aire de jeu où se trouvent le deck Méchant, le deck de la manigance principale, le deck Rencontre, la pile de défausse du deck Rencontre et le cadran de points de vie du méchant.  
+- <span class="new">Les cartes Environnement et les cartes de manigance annexe sont placées dans la zone de jeu du méchant lorsqu'elles entrent en jeu.</span>  
+- <span class="new">Les attachements attachés à des cartes dans la zone de jeu du méchant sont dans la zone de jeu du méchant. Les attachements attachés à des cartes dans la zone de jeu d'un joueur ne sont pas dans la zone de jeu du méchant.</span>  
+- <span class="new">Les cartes sbire engagées avec un joueur sont dans la zone de jeu de ce joueur et non dans la zone de jeu du méchant.</span>  
+- <span class="new">Les cartes Obligation données à un joueur sont dans la zone de jeu de ce joueur et non dans la zone de jeu du méchant.</span>  
+
 Voir aussi : Activation, Attribuer, Dans l'ordre des Joueurs, Engagé, Icône d'Accélération, Icône d'Aléas, Joueur, Manigance (Activation des Ennemis), Manigance Principale, Méchant, Menace, Premier Joueur, Révéler, Sbire
 </details>

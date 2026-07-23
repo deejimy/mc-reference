@@ -6,7 +6,7 @@ Une capacité d'interruption est un type de capacité déclenchée signalé par 
     - Les joueurs ne peuvent pas déclencher des interruptions sur des obligations situées dans la zone de jeu d'un autre joueur.  
 - Plusieurs interruptions peuvent être déclenchées par la même condition de déclenchement, mais chaque capacité d'interruption ne peut être déclenchée qu'une seule fois par instance de la condition de déclenchement.  
     - Plusieurs exemplaires d'une carte portant une interruption peuvent être chacun déclenchés par la même condition de déclenchement.  
-- Une capacité d'interruption est exécutée quand sa condition de déclenchement devient imminente, mais avant qu'elle ne se résolve.  
+- Une capacité d'interruption est résolue quand sa condition de déclenchement s'initie, mais avant que cette condition ne se résolve.  
     - Les interruptions qui utilisent le mot « would » se résolvent avant que la condition de déclenchement n'initie, lorsque cette condition devient imminente.  
 - Si une interruption modifie (via un effet de remplacement) ou annule une condition de déclenchement imminente, d'autres interruptions à la condition de déclenchement originelle ne peuvent pas être déclenchées.  
 - Une fois que tous les joueurs ont consécutivement passé et décident de ne pas résoudre d'autres interruptions pour une condition de déclenchement, aucune autre interruption pour cette instance de la condition ne peut être utilisée.  

@@ -4,6 +4,7 @@ L'icône d'accélération (![[icone_acceleration.jpg|15]]) simule des forces sup
 Pendant la première étape de la phase du méchant, placez X menaces supplémentaires sur la manigance principale, où X est le nombre d'icônes d'accélération en jeu.  
 
 - Une icône d'accélération peut être retirée du jeu en vainquant la carte de rencontre sur laquelle elle est imprimée.  
+- <span class="new">Chaque icône d'accélération est équivalente à la capacité constante suivante : « Pendant l'étape Placement de Menace de la phase du Méchant, placez 1 menace supplémentaire sur la manigance principale. »</span>  
 - Les icônes d'accélération ne sont pas considérées comme des jetons d'accélération, et inversement.  
 
 _Voir aussi : [[Icone|Icône]], [[ManigancePrincipaleDeckManigancePrincipale|Manigance Principale]], [[Menace|Menace]], [[PhaseDuMechant|Phase du Méchant]]_  

@@ -2,8 +2,9 @@
 
 Si les joueurs vainquent le stade final d'un méchant, ils gagnent la partie. Si le dernier stade de la manigance principale est achevé, le méchant gagne la partie.  
 
-- Certains scénarios peuvent avoir des conditions alternatives de victoire ou de défaite. Lorsque ces conditions sont satisfaites, les joueurs perdent/gagnent la partie.  
-    - Les conditions alternatives de victoire ou de défaite ne peuvent pas être effacées ni annulées.  
+- Certains scénarios peuvent avoir des conditions alternatives de victoire ou de défaite.  
+- Lorsque ces conditions sont satisfaites, les joueurs perdent/gagnent la partie.  
+    - <span class="new">Les conditions alternatives de victoire ou de défaite ne peuvent pas être effacées ni annulées.</span>  
 
 <details class="source">
 <summary>EN v1.8</summary>WINNING THE GAME
@@ -25,5 +26,7 @@ If these conditions are met, the players win or lose accordingly.
 <details class="source">
 <summary>FR v1.4</summary>GAGNER LA PARTIE
 Si les joueurs vainquent le stade final d'un méchant, ils gagnent la partie. Si le dernier stade de la manigance principale est achevé, le méchant gagne la partie.
-• Certains scénarios peuvent avoir des conditions alternatives de victoire ou de défaite. Lorsque ces conditions sont satisfaites, les joueurs perdent/gagnent la partie.
+• Certains scénarios peuvent avoir des conditions alternatives de victoire ou de défaite.
+Si ces conditions sont satisfaites, les joueurs perdent/gagnent la partie.
+    - <span class="new">Les conditions alternatives de victoire ou de défaite ne peuvent pas être effacées ni annulées.</span>
 </details>

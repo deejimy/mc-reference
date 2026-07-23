@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Appendice/III.md",
+                "file": "Glossaire/A/Assaut.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "III"
+              "title": "Assaut"
             }
           }
         ]
@@ -180,8 +180,17 @@
       "bases:Create new base": false
     }
   },
-  "active": "881f02d742a74674",
+  "active": "df966e4a1057ede5",
   "lastOpenFiles": [
+    "Glossaire/A/AlterEgo.md",
+    "Glossaire/A/Allie.md",
+    "Glossaire/A/Alliance.md",
+    "Glossaire/A/ALaPlace.md",
+    "Glossaire/A/ADistance.md",
+    "Glossaire/A/ActivationDesEnnemis.md",
+    "Glossaire/A/Activation.md",
+    "Glossaire/A/Action.md",
+    "Appendice/III.md",
     "img/app_dos.png",
     "Appendice/IV copy.md",
     "Appendice/IV_cleaned.md",
@@ -191,13 +200,11 @@
     "img/app_manigance.png",
     "Appendice/app_manigance.png",
     "img/app_allie.png",
-    "Appendice/III.md",
     "Appendice/II.md",
     "img/app_joueur.png",
     "img/app_manig.png",
     "img/app_obligation.png",
     "img/app_rencontre.png",
-    "Appendice/image-6.png",
     "Glossaire/V/VousVotre.md",
     "Glossaire/V/ValeurDeBase.md",
     "Glossaire/T/TypesDeCarte.md",
@@ -211,13 +218,6 @@
     "Glossaire/T/Tenacite.md",
     "Glossaire/T/Tenace.md",
     "Glossaire/T/Temporaire.md",
-    "Glossaire/T/TailleDeMain.md",
-    "Glossaire/S/Surpayer.md",
-    "Glossaire/S/Supplementaire.md",
-    "Glossaire/S/Special.md",
-    "Glossaire/S/Soutien.md",
-    "Glossaire/S/SousTitre.md",
-    "Glossaire/S/SonnerSonne.md",
     "Untitled.base",
     "Untitled 1.base",
     "Glossaire/E/EntrerEnJeu",

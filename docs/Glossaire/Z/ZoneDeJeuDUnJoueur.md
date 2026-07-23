@@ -1,13 +1,10 @@
 # Zone de jeu d'un joueur
 
-La zone de jeu d'un joueur contient l'identité de ce joueur, son deck, sa main, sa pile de défausse et son compteur de points de vie. Chaque joueur de la partie a sa propre zone de jeu.  
+<span class="new">Il existe deux types de zones de jeu : la zone de jeu d'un joueur et la zone de jeu du méchant.</span>  
 
-- Les cartes Allié, Soutien et Amélioration sont placées dans la zone de jeu d'un joueur lorsqu'elles entrent en jeu.  
-- Les cartes Attachement attachées à des cartes dans la zone de jeu du méchant ne sont pas dans la zone de jeu d'un joueur.  
-- Les cartes Sbire engagées avec un joueur sont dans la zone de jeu de ce joueur et pas dans la zone de jeu du méchant.  
-- Les cartes Obligation données à un joueur sont placées dans la zone de jeu de ce joueur et pas dans la zone de jeu du méchant.  
-- Bien que les capacités de carte puissent affecter des cartes placées dans différentes zones de jeu, les cartes ne peuvent pas être jouées dans la zone de jeu d'un autre joueur, à moins qu'une règle du jeu ou une capacité de carte ne l'autorise explicitement.  
-- Si un joueur est éliminé de la partie (parce que son identité est vaincue, ou autre), sa zone de jeu est retirée de la partie.  
+- <span class="new">La zone de jeu d'un joueur contient l'identité de ce joueur, son deck, sa main, sa pile de défausse, toutes les cartes en jeu qu'il contrôle, et toutes les cartes Rencontre face visible ou face cachée dans sa zone de jeu (telles que les sbires engagés ou les cartes Rencontre qui lui ont été attribuées).</span>  
+- <span class="new">La zone de jeu du méchant contient le deck Méchant, le deck Manigance Principale, le deck Rencontre, la pile de défausse Rencontre, et toutes les cartes Rencontre en jeu qui n'ont pas été placées dans la zone de jeu d'un joueur (telles que les manigances annexes ou les environnements).</span>  
+- <span class="new">Une carte ne peut pas être dans plus d'une zone de jeu à la fois.</span>  
 
 _Voir aussi : [[Allie|Allié]], [[Amelioration|Amélioration]], [[DeckJoueur|Deck Joueur]], [[EliminationDeJoueur|Élimination d'un Joueur]], [[EnJeuEtHorsJeu|En Jeu et Hors Jeu]], [[Identite|Identité]], [[Obligation|Obligation]], [[PileDeDefausse|Pile de défausse]], [[Sbire|Sbire]], [[Soutien|Soutien]]_  
 

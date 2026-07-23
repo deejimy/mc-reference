@@ -6,6 +6,7 @@ Il y a différentes façons d'attaquer :
 
 - Un héros ou un allié peut utiliser son pouvoir de base d'attaque pour attaquer un ennemi. Un personnage doit s'incliner pour utiliser ce pouvoir. Cela inflige à l'ennemi des dégâts égaux à la valeur d'ATQ du personnage.  
     - Un personnage ne peut initier une attaque de base que s'il existe un ennemi que ce personnage peut attaquer, ou si ce personnage est sonné.  
+    - <span class="new">Une capacité qui permet à un héros ou à un allié de « faire une attaque de base sans s'incliner » peut permettre à un personnage incliné de faire une attaque de base.</span>  
 
 - Si une capacité déclenchée est référencée en tant qu'attaque — comme « Action de héros (attaque) » — résoudre cette capacité est considéré comme une attaque contre la cible spécifiée. À moins que cela ne soit spécifiquement indiqué, un héros ne s'incline pas lorsqu'il utilise une telle capacité.  
     - Une capacité étiquetée comme une attaque est considérée comme une seule attaque, même si cette attaque inflige plusieurs occurrences de dégâts.  
@@ -20,12 +21,11 @@ Il y a différentes façons d'attaquer :
 
 L'ordre de résolution des capacités déclenchées par la résolution d'une attaque est le suivant :  
 
-1. Le mot‑clé `Riposte X` (si le personnage attaqué n'a pas été vaincu).  
-2. Capacités forcées avec les déclencheurs suivants (dans n'importe quel ordre) :  
+7. Capacités forcées (telles que le mot‑clé `Riposte X`) avec les déclencheurs suivants (dans n'importe quel ordre) :  
     - "après que [personnage] attaque [et inflige/des dégâts/vainc] [un ennemi/un sbire]..."  
     - "après que [personnage] est attaqué..."  
-3. Capacités non‑forcées avec les déclencheurs listés ci‑dessus.  
-4. Dégâts consécutifs (pour les alliés).  
+8. Capacités non‑forcées avec les déclencheurs listés ci‑dessus.  
+9. Dégâts consécutifs (pour les alliés).  
 
 _Voir aussi : [[Allie|Allié]], [[PouvoirDeBase|Pouvoir de base]], [[Degats|Dégâts]], [[DefendreDefense|Défendre]], [[Ennemi|Ennemi]], [[Identite|Identité]], [[CapaciteEtiquetee|Capacité étiquetée]], [[Sbire|Sbire]], [[Modificateurs|Modificateurs]], [[RiposteX|Riposte X]], [[Cible|Cible]], [[MechantDeckMechant|Méchant]]_  
 

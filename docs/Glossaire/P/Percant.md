@@ -1,6 +1,7 @@
 # Perçant
 
 Une attaque avec le mot‑clé `Perçant` défausse toute carte d'état Tenace de la cible de l'attaque avant d'infliger ses dégâts.  
+- <span class="new">Le mot-clé Perçant est équivalent à la capacité suivante : « Avant que cette attaque n'inflige des dégâts à un personnage, défaussez chaque carte d'état Tenace de ce personnage. »</span>  
 
 Si une attaque avec le mot‑clé `Perçant` ne doit infliger aucun dégât à la cible de l'attaque, elle ne défausse pas les cartes d'état Tenace de cette cible.  
 

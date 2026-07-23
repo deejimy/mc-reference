@@ -39,14 +39,16 @@ Une capacité est un texte de jeu sur une carte qui indique spécifiquement ce q
 
 Priorité de résolution simultanée — Certaines capacités ont une priorité de timing par rapport à d'autres capacités. Dans l'ordre, la priorité de timing des capacités ayant la même condition de déclenchement est :  
 
-1. Capacités constantes, effets retardés, effets persistants, mots‑clés et icônes ![[icone_acceleration.jpg|15]], ![[icone_amplification.jpg|15]], ![[icone_crise.jpg|15]], ![[icone_aleas.jpg|15]].  
-2. Cartes d'état.  
-3. Capacités « Interruption forcée ».  
-4. Capacités « Interruption ».  
-5. Capacités « Boost », « Une fois vaincu » et « Une fois révélée ».  
-6. Capacités « Réponse forcée ».  
-7. Capacités « Réponse ».  
-8. Dégâts consécutifs.  
+1. Capacités constantes, effets retardés <span class="new">et</span> effets persistants.  
+2. <span class="new">Interruptions</span>
+    1. <span class="new">Status card “Forced Interrupt” abilities</span>
+    2. Capacités « Interruption forcée ».  
+    3. Capacités « Interruption ».  
+3. Capacités « Boost », « Une fois vaincu » et « Une fois révélée ».  
+4. <span class="new">Réponses</span>  
+    1. Capacités « Réponse Forcée ».  
+    2. Capacités « Réponse ».  
+5. Dégâts consécutifs.  
 
 
 _Voir aussi : [[Action]], [[Annuler]], [[CapaciteUneFoisRevelee|Capacité une fois révélée]], [[CapaciteUneFoisVaincuDejouee|Capacité une fois vaincu/déjouée]], [[EffetDalteration|Effets d'Alteration]], [[EffetsDeRemplacement|Effets de Remplacement]], [[EffetsRetardes|Effets Retardés]], [[EffetsPersistants|Effets Persistants]], [[EnJeuEtHorsJeu|En Jeu et Hors Jeu]], [[Ensuite]], [[Et|« Et »]], [[Forcee|Forcée]], [[InitierDesCapacites|Initier des Capacités]], [[Interruption]], [[Qualificatifs]], [[Reponse|Réponse]], [[ResolutionSimultanee|Résolution Simultanée]], [[RessourceCapacite|Ressource (Capacité)]], [[Special]], [[Cible|Cible]], [[CapaciteEtiquetee|Capacité étiquetée]], [[EtreCense|"Est censé"]]_

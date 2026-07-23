@@ -4,6 +4,7 @@ Certains effets de jeu et capacités de carte font référence à des tentatives
 
 - Un héros ou un allié peut utiliser son pouvoir de base de contre pour contrer une manigance. Un personnage doit s'incliner pour utiliser ce pouvoir. Cela retire de la manigance un nombre de menaces égal à la valeur de CTR de ce personnage.  
     - Un personnage ne peut initier un contre de base que s'il existe une manigance avec au moins une menace que le personnage peut retirer ou si ce personnage est désorienté.  
+    - <span class="new">Une capacité qui permet à un héros ou un allié de « faire un contre de base sans s'incliner » peut autoriser un personnage incliné à effectuer une tentative de contre.</span>  
 - Si une capacité déclenchée est référencée en tant que contre — comme « Action de héros (contre) » — résoudre cette capacité est considéré comme contrer la manigance spécifiée. À moins que cela ne soit spécifiquement indiqué, un héros ne s'incline pas lorsqu'il utilise une telle capacité.  
     - Une capacité étiquetée comme un contre est considérée comme un seul contre, même si ce contre retire plusieurs instances de menace.  
     - Si une capacité augmente la quantité de menace qu'une capacité étiquetée comme un contre retire et que cette capacité retire plusieurs instances de menace, chacune de ces instances qui n'utilise pas le mot « supplémentaire » est augmentée du montant spécifié.  

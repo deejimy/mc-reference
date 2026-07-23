@@ -4,6 +4,7 @@ Le nombre de manigances annexes de joueur en jeu à un moment donné est limité
 
 - Si un ou deux joueurs ont commencé la partie, la limite est d'une manigance annexe de joueur. Si trois ou quatre joueurs ont commencé la partie, la limite est de deux.  
 - Si le nombre de manigances annexes de joueur en jeu dépasse la limite, le premier joueur choisit et défausse des manigances annexes de joueur jusqu'à ce que le nombre en jeu soit égal à la limite.  
+- <span class="new">Un joueur peut jouer une manigance annexe de joueur même si la limite de manigances annexes de joueur est atteinte. S'il le fait, il doit choisir une manigance annexe de joueur à défausser. (La manigance annexe de joueur défaussée de cette manière n'est pas considérée comme défaite.)</span>  
 
 Ceci se produit avant les capacités qui se résolvent suite à une entrée en jeu.  
 

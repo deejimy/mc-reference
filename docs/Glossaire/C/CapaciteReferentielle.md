@@ -7,7 +7,12 @@ Si une capacité fait référence à un nom partagé par plusieurs cartes du jeu
 1. La carte sur laquelle la capacité référentielle est imprimée.  
     - Une capacité autoréférentielle ne fait référence qu'à la carte sur laquelle elle est située et non aux autres exemplaires de cette carte ou aux autres cartes qui porteraient le même titre.  
     - Par exemple, la capacité de l'allié basique Spider-Man se lit : "**Réponse** : Après que Spider-Man attaque ou contrer, choisissez un autre personnage `Web-Warrior` → redressez ce personnage." Cette capacité se réfère à la carte sur laquelle elle est imprimée et ne se déclenche pas lorsqu'une autre carte intitulée "Spider-Man" attaque ou contrer.  
-2. Les cartes qui appartiennent à la même identité.  
+2. Les cartes associées à la même identité comprennent :  
+    - <span class="new">La carte Identité</span>  
+    - <span class="new">Les cartes spécifiques à l'identité</span>  
+    - <span class="new">Les cartes d'Obligation de l'identité</span>  
+    - <span class="new">Le set de Rencontre Némésis de l'identité</span>  
+    - <span class="new">Les cartes appartenant à un deck annexe utilisé par l'identité.</span>  
 3. Les cartes Joueur (si la capacité est sur une carte Joueur) ou les cartes Rencontre (si la capacité est sur une carte Rencontre).  
 
 _Voir aussi : [[Capacite|Capacité]], [[CartesSpecifiquesALidentite|Carte Spécifique à l'Identité]], [[Classifications|Classifications]], [[Identite|Identité]], [[Personnage|Personnage]]_  

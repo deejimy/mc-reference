@@ -4,6 +4,8 @@ Un joueur peut être soit sous forme de héros, soit sous forme d'alter‑ego. C
 
 - Une fois par round, lors de son tour, chaque joueur peut changer de forme en retournant sa carte Identité.  
 - Quand un joueur change de forme, seule sa forme change. Le personnage conserve ses dégâts subis, ses cartes d'état, ses effets persistants, ses attachements, ses jetons et son état actuel (redressé ou incliné).  
+ - Une fois par round, lors de son tour, chaque joueur peut changer de forme en retournant sa carte Identité.  
+ - Quand un joueur change de forme, seule sa forme change. Le personnage conserve ses dégâts subis, ses cartes d'état, ses effets persistants, ses attachements, <span class="new">ses cartes enfoncées</span>, ses jetons et son état actuel (redressé ou incliné).  
 - Si une capacité de carte fait changer de forme un joueur, cela ne compte pas comme le changement de forme volontaire unique que le joueur a le droit d'effectuer lors de son tour ce round.  
 - Tant qu'un joueur est sous forme de héros, les capacités de carte qui interagissent avec son alter‑ego n'interagissent pas avec son identité.  
 - Tant qu'un joueur est sous forme d'alter‑ego, les capacités de carte qui interagissent avec sa forme de héros n'interagissent pas avec son identité.  

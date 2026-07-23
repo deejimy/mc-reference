@@ -2,7 +2,7 @@
 
 Obligation est un type de carte Rencontre qui représente les engagements ou les obstacles que les alter ego doivent respecter ou surmonter.  
 
-- Les capacités figurant sur les obligations qui utilisent les mots "vous" ou "votre" s'appliquent uniquement au joueur dont la zone de jeu contient cette obligation.  
+- <span class="new">Les capacités figurant sur les obligations qui utilisent les mots "vous" ou "votre" s'appliquent uniquement au joueur dont la zone de jeu contient cette obligation.</span>  
 - Chaque identité est associée à une ou plusieurs cartes Obligation.  
 Si une identité est jouée, toutes les cartes Obligation associées à cette identité sont mélangées dans le deck Rencontre lors de la mise en place.  
 - Les cartes Obligation spécifiques à l'identité font partie du set spécifique à l'identité associée.  

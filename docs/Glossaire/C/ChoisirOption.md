@@ -6,6 +6,7 @@ Certaines capacités demandent à un joueur de choisir entre plusieurs options. 
 - Lorsqu'une carte Joueur demande à un joueur de choisir une option, il ne peut pas choisir une option qui ne peut pas être au moins partiellement résolue. Cela inclut les options qui :  
     - ont un coût que le joueur ne peut pas payer.  
     - requièrent une ou plusieurs cibles et il n'y a pas de cibles valides.  
+- <span class="new">Lorsqu'une carte demande à un joueur de choisir plusieurs options dans une liste, ce joueur ne peut pas choisir la même option plusieurs fois.</span>  
 
 _Voir aussi : [[Capacite|Capacité]], [[Joueur|Joueur]], [[Cible|Cible]]_  
 

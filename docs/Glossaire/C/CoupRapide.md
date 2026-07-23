@@ -1,8 +1,10 @@
 # Coup rapide
 
 Après qu'un sbire doté du mot-clé `Coup Rapide` a engagé un joueur dont l'identité est sous forme de héros, ce sbire attaque ce joueur.  
+- <span class="new">Le mot-clé Coup Rapide équivaut à la capacité déclenchée suivante : « Réponse forcée (Héros) : Après que ce sbire engage un joueur, il attaque ce joueur. »</span>  
+- <span class="new">Si un sbire avec le mot-clé Coup Rapide est révélé, le mot-clé Coup Rapide se résout après toutes les capacités « Une fois révélée » de ce sbire.</span>  
 
-_Voir aussi : [[AttaqueActivationDesEnnemis|Attaque (Activation des Ennemis)]], [[Engager|Engager]], [[FormeChangerDeForme|Forme]], [[MotsCles|Mots-clés]], [[Sbire|Sbire]], [[Joueur|Joueur]], [[TexteDeRappel|Texte de Rappel]]_  
+_Voir aussi : [[AttaqueActivationDesEnnemis|Attaque (Activation des Ennemis)]], [[Engager|Engager]], [[FormeChangerDeForme|Forme]], [[MotsCles|Mots-clés]], [[Sbire|Sbire]], [[Joueur|Joueur]], [[TexteDeRappel|Texte de Rappel]], [[Reveler|Révéler]]_  
 
 
 <details class="source">

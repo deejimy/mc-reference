@@ -5,6 +5,7 @@ Une carte avec une icône ![[icone_unique.jpg|15]] devant son titre est unique.
 - Les joueurs n'ont collectivement le droit d'avoir qu'un seul exemplaire de chaque carte unique (par titre) en jeu.  
 
 - Un joueur ne peut inclure qu'un seul exemplaire de chaque carte unique (par titre) dans son deck. La carte Identité est incluse dans cette évaluation.  
+- <span class="new">Une fois la mise en place d'une partie commencée, un joueur n'est pas empêché d'ajouter des cartes correspondantes à son deck par des effets de jeu.</span>  
 
 Dans l'Univers Marvel, il est possible que plusieurs personnages portent un même titre (par exemple, plusieurs personnages ont porté le titre de « Captain America »). C'est pourquoi la comparaison des alter‑egos et/ou des sous‑titres entre deux cartes crée les exceptions suivantes aux règles sur les cartes uniques.  
 

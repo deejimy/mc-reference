@@ -8,10 +8,11 @@ Le verbe « choisir » indique qu'un joueur doit sélectionner un élément de j
 - Si une capacité de carte Joueur requiert de choisir une cible et qu'il n'existe pas de cible valide, la capacité ne peut pas être initiée.  
 
 - S'il est demandé à un même joueur de choisir plusieurs cibles, choisissez simultanément autant de cibles disponibles que possible, jusqu'à un maximum égal au nombre spécifié.  
+- <span class="new">La même cible ne peut pas être choisie plusieurs fois de cette façon.</span>  
 
 - Un effet qui peut choisir « n'importe quel nombre » de cibles ne se résout pas avec succès (et ne peut pas changer l'état de la partie) si le nombre de cibles choisies est égal à zéro.  
 
-_Voir aussi : [[Capacite|Capacité]], [[Cible|Cible]], [[ElementDeJeu|Elément de jeu]] [[Joueur|Joueur]]_  
+_Voir aussi : [[Capacite|Capacité]], [[Cible|Cible]], [[ElementDeJeu|Elément de jeu]], [[Joueur|Joueur]]_  
 
 <details class="source">
 <summary>EN v1.8</summary>CHOOSE (GAME ELEMENT)

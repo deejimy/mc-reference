@@ -2,6 +2,7 @@
 
 Lorsqu'un personnage effectue un contre de base contre une manigance portant le mot‑clé `Assaut`, ce personnage utilise sa valeur d'ATQ au lieu de sa valeur de CTR.  
 
+- <span class="new">Le mot-clé `Assaut` équivaut à la capacité permanente suivante : « Tant qu'un personnage effectue un contre de base contre cette manigance, ce personnage utilise son ATQ au lieu de sa THW. »</span>  
 - Si le personnage qui contre est un allié, il subit les dégâts consécutifs indiqués sous son champ d'ATQ plutôt que sous son champ de CTR après le contre.  
 - Les capacités qui augmentent le « pouvoir de base » d'un personnage peuvent être utilisées pour augmenter son ATQ lorsque ce personnage contre une manigance avec Assaut.  
 

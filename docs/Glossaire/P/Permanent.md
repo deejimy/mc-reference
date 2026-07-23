@@ -1,9 +1,10 @@
 # Permanent
 
 Une carte avec le mot‑clé `Permanent` ne peut pas quitter le jeu.  
+- <span class="new">Le mot-clé Permanent est équivalent à la capacité constante suivante : « Mettez cette carte de côté pendant la mise en place. Les effets sur des cartes qui ne font pas partie de ce set ne peuvent pas vaincre cette carte, la retirer du jeu, ou effacer une partie de sa boîte de texte. »</span>  
+- <span class="new">Les cartes Permanent sont mises de côté avant l'étape 1 de la mise en place et sont mises en jeu plus tard par des capacités d'autres cartes.</span>  
 Une carte avec le mot‑clé `Permanent` ne peut être retirée du jeu, quitter le jeu, ni voir une partie de sa boîte de texte effacée, sauf par des capacités de carte du même set (set du héros, set du scénario, ou set modulaire). (Par exemple, une capacité sur une carte Héros peut faire quitter le jeu une carte Permanent appartenant au set de ce héros.)  
 
-- Les cartes `Permanent` sont mises de côté avant l'étape 1 de la mise en place et sont mises en jeu plus tard par des capacités d'autres cartes.  
 - Les cartes `Permanent` ne comptent pas dans la taille minimale ou maximale du deck d'un joueur.  
 - Les cartes `Permanent` ne sont pas des cibles valides pour des effets de carte qui feraient quitter le jeu la carte permanente.  
     - Si une carte `Permanent` devait être ciblée par un tel effet (par exemple « défaussez le soutien de coût le plus bas que vous contrôlez »), cet effet cible à la place la carte non‑permanente qui correspond à ses critères.  

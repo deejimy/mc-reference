@@ -1,6 +1,7 @@
 # Garde
 
 Tant qu'un sbire ayant le mot-clé `Garde` est engagé avec un joueur, ce dernier ne peut pas utiliser des cartes qu'il contrôle pour attaquer un méchant qui ne possède pas ce mot-clé.  
+- <span class="new">Le mot-clé Garde est équivalent à la capacité constante suivante : « Le joueur engagé ne peut attaquer aucun méchant. »</span>  
 
 _Voir aussi : [[AttaqueActivationDuJoueur|Attaque (Action de joueur)]], [[Engager|Engager]], [[MechantDeckMechant|Méchant]], [[MotsCles|Mots-clés]], [[Sbire|Sbire]], [[TexteDeRappel|Texte de Rappel]]_  
 
@@ -21,5 +22,6 @@ See also: Attack (Player Ability Type), Engage, Keywords, Minion, Reminder Text,
 <details class="source">
 <summary>FR v1.4</summary>GARDE
 Tant qu'un sbire ayant le mot-clé Garde est engagé avec un joueur, ce dernier ne peut pas utiliser des cartes qu'il contrôle pour attaquer un méchant qui ne possède pas ce mot-clé.
+- <span class="new">Le mot-clé Garde est équivalent à la capacité constante suivante : « Le joueur engagé ne peut attaquer aucun méchant. »</span>
 Voir aussi : Attaque (Action de joueur), Engager, Méchant, Mots-clés, Sbire, Texte de Rappel
 </details>

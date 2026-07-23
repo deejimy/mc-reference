@@ -1,7 +1,7 @@
 # Icône de Crise 
 
 Une icône de crise (![[icone_crise.jpg|15]]) empêche les joueurs de retirer de la menace de la manigance principale.  
-
+- <span class="new">Chaque icône de crise est équivalente à la capacité constante suivante : « Les cartes joueur ne peuvent pas retirer de menace de la manigance principale. »</span>  
 - Les capacités présentes sur les cartes de rencontre ne sont pas affectées par l'icône de crise.  
 
 _Voir aussi : [[ManigancePrincipaleDeckManigancePrincipale|Manigance Principale]], [[Menace|Menace]]_  

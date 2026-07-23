@@ -1,14 +1,15 @@
 # Déferlement
 
-Si des dégâts en excès sont infligés à un allié lors d'une attaque doté du mot‑clé `Déferlement`, infligez simultanément le montant excédentaire de dégâts à l'identité du joueur qui contrôle cet allié.  
+Si un allié est vaincu par une attaque portant le mot-clé Déferlement, infligez tout dommage dépassant ses points de vie à l'identité du joueur qui contrôle cet allié.  
 
-Si des dégâts en excès sont infligés à un sbire lors d'une attaque portant le mot‑clé `Déferlement`, infligez simultanément le montant excédentaire de dégâts au méchant.  
+Si un sbire est vaincu par une attaque portant le mot-clé Déferlement, infligez tout dommage dépassant ses points de vie au méchant.  
 
+- <span class="new">Le mot-clé Déferlement équivaut à la capacité suivante : « Si cette attaque vainc un allié, infligez les dégâts au-delà de ses points de vie à l'identité de son contrôleur. Si cette attaque vainc un sbire, infligez les dégâts au-delà de ses points de vie au méchant. »</span>  
 - Les dégâts infligés par Déferlement à une identité ou à un méchant sont considérés comme des dégâts provenant d'une attaque, mais ils ne constituent pas une attaque contre ce personnage.  
-- Si une capacité de carte comptabilise les dégâts infligés en excès, cette capacité comptabilise la même valeur de dégâts en excès que celle calculée lors de la résolution du mot‑clé Déferlement.  
-- Si un allié ou un sbire porteur d'une carte d'état Tenace subit des dégâts en excès lors d'une attaque avec le mot‑clé `Déferlement`, les dégâts de Déferlement ne sont pas infligés à l'identité du contrôleur de cet allié ni au méchant, respectivement.  
+- Si une capacité de carte compte les dégâts en excès infligés, cette capacité compte la même valeur de dégâts en excès que celle calculée lors de la résolution du mot-clé Déferlement.  
+- <span class="new">Si des dégâts en excès d'une attaque avec Déferlement sont empêchés, ces dégâts ne sont pas infligés à l'identité ou au méchant.</span>  
 
-_Voir aussi : [[Allie|Allié]], [[AttaqueActivationDesEnnemis|Attaque (Activation des Ennemis)]], [[AttaqueActivationDuJoueur|Attaque (Action de Joueur)]], [[Degats|Dégâts]], [[Identite|Identité]], [[MotsCles|Mots‑clés]], [[PointsDeVie|Points de Vie]], [[Sbire|Sbire]], [[MechantDeckMechant|Méchant]], [[TexteDeRappel|Texte de Rappel]]_  
+_Voir aussi : [[Allie|Allié]], [[AttaqueActivationDesEnnemis|Attaque (Activation des Ennemis)]], [[AttaqueActivationDuJoueur|Attaque (Action de Joueur)]], [[Degats|Dégâts]], [[Identite|Identité]], [[MechantDeckMechant|Méchant]], [[MotsCles|Mots‑clés]], [[PointsDeVie|Points de Vie]], [[Sbire|Sbire]], [[TexteDeRappel|Texte de Rappel]]_  
 
 <details class="source">
 <summary>EN v1.8</summary>OVERKILL

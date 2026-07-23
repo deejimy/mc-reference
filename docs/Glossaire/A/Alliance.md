@@ -2,6 +2,8 @@
 
 Lorsqu'un joueur déclare qu'il souhaite jouer une carte portant le mot‑clé `Alliance`, n'importe quel autre joueur peut aider à payer les coûts de cette carte.  
 
+- <span class="new">Le mot-clé `Alliance` équivaut à la capacité permanente suivante : « Tant que des coûts sont payés pour cette carte, n'importe quel joueur peut contribuer à payer ces coûts. »</span>  
+
 - Seul le joueur qui joue la carte portant le mot‑clé `Alliance` est considéré comme étant en train de résoudre cette carte.  
 
 _Voir aussi : [[Cout|Coût]], [[InitierDesCapacites|Initier des Capacités]], [[MotsCles|Mots-clés]]_  

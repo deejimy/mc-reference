@@ -2,6 +2,7 @@
 
 Un personnage ayant le mot‑clé `Robuste` ne peut pas être sonné ou désorienté.  
 
+- <span class="new">Le mot-clé Robuste est équivalent à la capacité constante suivante : "Ce personnage ne peut pas avoir de cartes d'état Désorienté ou Sonné."</span>  
 - Si un personnage gagne le mot‑clé `Robuste` alors qu'il a déjà une carte d'état Sonné ou Désorienté, chaque carte d'état Sonné ou Désorienté est retirée de ce personnage.  
 
 _Voir aussi : [[Allie|Allié]], [[CartesDetat|Cartes d'état]], [[DesorienterDesoriente|Désorienté]], [[MechantDeckMechant|Méchant]], [[MotsCles|Mots-clés]], [[Sbire|Sbire]], [[SonnerSonne|Sonné]], [[TexteDeRappel|Texte de Rappel]]_  

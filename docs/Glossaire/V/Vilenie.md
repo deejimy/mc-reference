@@ -1,10 +1,10 @@
 # Vilenie
 
-Quand un sbire avec le mot-clé Vilenie s'active, donnez-lui une carte de boost face cachée du dessus du deck Rencontre.  
-Quand vous résolvez l'activation de ce sbire, retournez la carte de boost face visible, résolvez ses éventuelles capacités de boost présentes et appliquez les icônes de boost aux valeurs de ce sbire pour cette activation.  
-Défaussez la carte de boost après cette activation.  
-
-- Si une capacité de boost sur une carte de boost donnée à un sbire fait référence à « le méchant », cette capacité s'applique toujours au méchant (même si c'est un sbire qui la résout).  
+<span class="new">Quand un personnage doté du mot-clé Vilenie utilise un pouvoir de base, donnez-lui une carte de boost face cachée du dessus du deck Rencontre.</span>  
+<span class="new">Lorsque ce pouvoir de base est résolu, retournez la carte de boost face visible, résolvez toute capacité de boost présente sur cette carte et appliquez ses icônes de boost aux valeurs de ce personnage pour cette utilisation.</span>  
+Défaussez la carte de boost après cette résolution.  
+- <span class="new">Le mot-clé Vilenie est équivalent à la capacité déclenchée suivante : "Interruption Forcée : Lorsque ce personnage utilise un pouvoir de base, donnez-lui une carte de boost."</span>  
+- <span class="new">Si une capacité de boost sur une carte de boost donnée à un personnage fait référence à « le méchant », cette capacité s'applique toujours au méchant (même si un autre type de personnage la résout).</span>  
 
 _Voir aussi : [[Activation|Activation]], [[AttaqueActivationDesEnnemis|Attaque (Activation des Ennemis)]], [[BoostIconeDeBoost|Boost]], [[DefausserDefausse|Défausse]], [[MotsCles|Mots-clés]], [[Sbire|Sbire]], [[TexteDeRappel|Texte de Rappel]], [[ManiganceActivationDesEnnemis|Manigance (Activation des Ennemis)]]_  
 

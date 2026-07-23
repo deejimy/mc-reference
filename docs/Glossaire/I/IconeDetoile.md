@@ -44,6 +44,5 @@ Une icône d'étoile est utilisée en association avec une statistique ou le cha
 • Si une icône d'étoile est située à côté de la valeur d'ATQ, de CTR ou de DEF d'un héros, ou à côté de la valeur de REC d'un alter-ego, souvenez-vous de vérifier la boîte de texte de ce personnage chaque fois qu'il utilise cette valeur pour attaquer, contrer, défendre ou récupérer.
 • Si une étape de jeu ou une capacité se réfère à un pouvoir dont la valeur est une étoile (), on considère que cette valeur est égale à 0.
 • Si une icône d'étoile est située dans le champ de boost d'une carte Rencontre, souvenez-vous de vérifier la boîte de texte de cette carte chaque fois qu'elle est retournée face visible en tant que carte de boost lors de l'activation du méchant.
-Tant qu'il y a au moins une icône de crise en jeu, la menace ne peut être retirée de la manigance principale par aucun joueur.
 Voir aussi : Manigance Principale, Menace
 </details>

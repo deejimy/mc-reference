@@ -41,6 +41,8 @@ Ces règles s'appliquent également aux attaques ennemies :
 
 - Les Interruptions qui se déclenchent "quand [nom de l'ennemi] attaque" ont le même timing que les Interruptions qui se déclenchent "quand [le méchant/un ennemi] initie une attaque".  
 - Si une attaque ennemie se termine avant que les dégâts ne soient infligés, les capacités qui se déclenchent après qu'un personnage a défendu une attaque se résolvent, mais les capacités qui se déclenchent après qu'un ennemi attaque ne se résolvent pas.  
+- <span class="new">Les capacités qui se déclenchent lorsqu'un ennemi « attaque et inflige » ou « attaque et vainc » un personnage se déclenchent uniquement lorsque ce personnage est endommagé ou vaincu par des dégâts provenant de l'attaque elle-même, et non par une capacité qui se résout pendant l'attaque.</span>  
+    - <span class="new">Par exemple, Sonic Converter indique : « Réponse Forcée : Après que Klaw attaque et inflige des dégâts à un personnage, sonnez ce personnage. » Si Klaw reçoit un boost qui dit « Boost : Infligez 1 dégât à chaque héros », cette capacité de boost ne déclenche pas la capacité de Sonic Converter.</span>  
 
 _Voir aussi : [[Activation|Activation]], [[Allie|Allié]], [[AttaquesContreLesAllies|Attaques contre les Alliés]], [[BoostIconeDeBoost|Boost]], [[Degats|Dégâts]], [[DefendreDefense|Défendre]], [[Ennemi|Ennemi]], [[Identite|Identité]], [[Modificateurs|Modificateurs]], [[RiposteX|Riposte X]], [[Cible|Cible]], [[MechantDeckMechant|Méchant]], [[Sbire|Sbire]], [[Vilenie|Vilenie]]_  
 
