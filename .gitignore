@@ -5,3 +5,5 @@ temp/*
 .scripts/output/*
 Marvel.md
 docs/Glossaire_back
+docs_plugins/__pycache__/
+site/

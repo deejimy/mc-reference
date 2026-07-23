@@ -1,6 +1,5 @@
-site_name: Marvel Champions - Guide de Référence v1.7 
+site_name: Marvel Champions - Guide de Référence v1.8 
 site_url: https://deejimy.github.io/mc-reference/
-
 
 theme:
     name: 'material'
@@ -35,5 +34,6 @@ extra_css:
   - stylesheets/extra.css
 
 plugins:
-  - search
   - roamlinks 
+  - search
+  - accent_normalizer

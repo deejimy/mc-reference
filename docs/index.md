@@ -1,14 +1,14 @@
-# Guide de référence v1.7 FR
+# Guide de référence v1.8 FR
 
 !!! note "Information"
-    Ce document est une traduction **non officielle** du livret de règles version 1.7 de Marvel Champions : Le Jeu de Cartes, édité par Fantasy Flight Games (FFG).  
+    Ce document est une traduction **non officielle** du livret de règles version 1.8 de Marvel Champions : Le Jeu de Cartes, édité par Fantasy Flight Games (FFG).  
 
     L'objectif de ce projet est de mettre à disposition des joueurs francophones une version actualisée aux dernières clarifications de règles publiées par l'éditeur.  
     Si vous souhaitez contribuer au projet, votre aide est la bienvenue !
 
-    Les sources officielles (version anglaise v1.7 et version française v1.4) sont consultables sur chaque page.  
+    Les sources officielles (version anglaise v1.8) sont consultables sur chaque page.  
 
-    <span class="new">Les modifications par rapport à la version française v1.4 sont indiquées en rouge.</span>
+    <span class="new">Les modifications par rapport à la version française v1.7 sont indiquées en rouge.</span>
 
 
 ## Présentation Générale
