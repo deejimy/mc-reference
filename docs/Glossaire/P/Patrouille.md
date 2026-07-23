@@ -2,6 +2,7 @@
 
 
 Tant qu'un sbire avec le mot‑clé `Patrouille` est engagé avec un joueur, ce joueur ne peut pas utiliser de cartes qu'il contrôle pour contrer la manigance principale.  
+
 - <span class="new">Le mot-clé Patrouille est équivalent à la capacité constante suivante : « Le joueur engagé ne peut pas contrer la manigance principale. »</span>  
 
 _Voir aussi : [[ContreContrer|Contrer]], [[Engager|Engager]], [[ManigancePrincipaleDeckManigancePrincipale|Manigance Principale]], [[MotsCles|Mots-clés]], [[Sbire|Sbire]], [[TexteDeRappel|Texte de Rappel]]_  

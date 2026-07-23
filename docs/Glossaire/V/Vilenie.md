@@ -3,6 +3,7 @@
 <span class="new">Quand un personnage doté du mot-clé Vilenie utilise un pouvoir de base, donnez-lui une carte de boost face cachée du dessus du deck Rencontre.</span>  
 <span class="new">Lorsque ce pouvoir de base est résolu, retournez la carte de boost face visible, résolvez toute capacité de boost présente sur cette carte et appliquez ses icônes de boost aux valeurs de ce personnage pour cette utilisation.</span>  
 Défaussez la carte de boost après cette résolution.  
+
 - <span class="new">Le mot-clé Vilenie est équivalent à la capacité déclenchée suivante : "Interruption Forcée : Lorsque ce personnage utilise un pouvoir de base, donnez-lui une carte de boost."</span>  
 - <span class="new">Si une capacité de boost sur une carte de boost donnée à un personnage fait référence à « le méchant », cette capacité s'applique toujours au méchant (même si un autre type de personnage la résout).</span>  
 

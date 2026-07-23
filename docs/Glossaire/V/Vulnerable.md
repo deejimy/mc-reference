@@ -1,6 +1,7 @@
 # Vulnérable
 
 Si un personnage avec le mot‑clé `Vulnérable` devient désorienté ou sonné, ce personnage est immédiatement retiré du jeu (défaussé).  
+
 - <span class="new">Le mot-clé Vulnérable est équivalent à la capacité déclenchée suivante : "Interruption Forcée : Lorsque ce personnage devient désorienté ou sonné, défaussez-le."</span>  
 
 - Si un personnage portant le mot‑clé `Vulnérable` subirait simultanément assez de dégâts pour être vaincu et devenir désorienté ou sonné, il est retiré du jeu avant l'application des dégâts et n'est pas considéré comme vaincu.  

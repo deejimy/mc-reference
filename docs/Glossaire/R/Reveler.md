@@ -6,18 +6,18 @@ Pour révéler une carte Rencontre, suivez les étapes suivantes :
 
 1. Retournez la carte Rencontre face visible.  
 2. Si le type de la carte Rencontre est :  
-- Attachement : il entre en jeu attaché à l'élément de jeu spécifié par son texte.  
-- <span class="new">S'il n'a pas de texte « attach to », placez-le sur la table devant le joueur qui la révèle. (Il n'est pas en jeu.)</span>  
-- Environnement : il entre en jeu à côté du méchant.  
-- Sbire : il entre en jeu dans la zone de jeu du joueur qui la révèle. Il est considéré comme engagé avec ce joueur.  
-- Obligation : elle entre en jeu dans la zone de jeu du joueur qui la révèle.  
-    - Si la carte précise un joueur auquel la donner, ce joueur est considéré comme celui qui la révèle.  
-- Manigance annexe : elle entre en jeu à côté de la manigance principale.  
-- Traîtrise : placez‑la sur la table devant le joueur qui la révèle (elle n'est pas en jeu).  
-- Autre : placez‑la sur la table devant le joueur qui la révèle (elle n'est pas en jeu).  
+    - Attachement : il entre en jeu attaché à l'élément de jeu spécifié par son texte.  
+    - <span class="new">S'il n'a pas de texte « attach to », placez-le sur la table devant le joueur qui la révèle. (Il n'est pas en jeu.)</span>  
+    - Environnement : il entre en jeu à côté du méchant.  
+    - Sbire : il entre en jeu dans la zone de jeu du joueur qui la révèle. Il est considéré comme engagé avec ce joueur.  
+    - Obligation : elle entre en jeu dans la zone de jeu du joueur qui la révèle.  
+        - Si la carte précise un joueur auquel la donner, ce joueur est considéré comme celui qui la révèle.  
+    - Manigance annexe : elle entre en jeu à côté de la manigance principale.  
+    - Traîtrise : placez‑la sur la table devant le joueur qui la révèle (elle n'est pas en jeu).  
+    - Autre : placez‑la sur la table devant le joueur qui la révèle (elle n'est pas en jeu).  
 3. Résolvez chaque capacité « une fois révélée » présente sur cette carte (y compris celles fournies par des mots‑clés).  
 4. Si la carte est une traîtrise, défaussez‑la.  
-- <span class="new">Les réponses (forcées ou non) à n'importe quelle étape de la révélation d'une carte Rencontre ne sont pas résolues tant que toutes les étapes du processus de révélation n'ont pas été terminées.</span>  
+    - <span class="new">Les réponses (forcées ou non) à n'importe quelle étape de la révélation d'une carte Rencontre ne sont pas résolues tant que toutes les étapes du processus de révélation n'ont pas été terminées.</span>  
 
 _Si le texte d'une carte demande à un joueur de révéler une carte Rencontre depuis le deck Rencontre ou depuis toute autre aire de jeu, la même procédure de résolution s'applique._  
 

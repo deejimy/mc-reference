@@ -3,7 +3,8 @@
 Une carte portant le mot-clé « Exigence » ne peut être jouée que si, lors du paiement de son coût, chaque ressource du type précisé a été dépensée pour ce paiement.  
 
 - Une carte dotée du mot-clé Exigence ne peut pas être jouée en « ignorant son coût en ressources », car les ressources requises ne peuvent pas être payées pour elle.  
-<span class="new">- Le mot-clé Exigence (Ressources) est équivalent à la capacité constante suivante : "Lors du paiement du coût en ressources de cette carte, vous devez dépenser les ressources suivantes : [resources]."</span>  
+
+- <span class="new">Le mot-clé Exigence (Ressources) est équivalent à la capacité constante suivante : "Lors du paiement du coût en ressources de cette carte, vous devez dépenser les ressources suivantes : [resources]."</span>  
 
 _Voir aussi : [[Cout|Coût]], [[InitierDesCapacites|Initier des Capacités]], [[MotsCles|Mots-clés]], [[Ressource|Ressource]]_  
 

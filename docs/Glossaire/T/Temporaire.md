@@ -1,6 +1,7 @@
 # Temporaire
 
 Une carte avec le mot-clé `temporaire` doit être défaussée du jeu à la fin du round.  
+
 - <span class="new">Le mot-clé temporaire est équivalent à la capacité déclenchée suivante : "Interruption Forcée : Lorsque le round se termine, défaussez cette carte du jeu."</span>  
 
 _Voir aussi : [[MotsCles|Mots-clés]]_

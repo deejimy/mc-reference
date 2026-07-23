@@ -2,7 +2,7 @@
 
 <span class="new">Lorsqu'une carte Rencontre dotée de ce mot-clé est révélée, le joueur qui résout la carte s'attribue une carte Rencontre face cachée depuis le dessus du deck Rencontre.</span>  
 
-<span class="new">• Le mot-clé Renfort est équivalent à la capacité déclenchée suivante : "Une fois révélée : attribuez-vous 1 carte Rencontre face cachée."</span>  
+- <span class="new">Le mot-clé Renfort est équivalent à la capacité déclenchée suivante : "Une fois révélée : attribuez-vous 1 carte Rencontre face cachée."</span>  
 
 - Terminez le processus de résolution de la carte originale, ainsi que toute capacité de Réponse qui est déclenchée par la révélation de cette carte, avant de révéler la carte supplémentaire.  
 

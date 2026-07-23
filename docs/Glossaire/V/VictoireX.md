@@ -1,6 +1,7 @@
 # Victoire "X"
 
 Quand une carte ayant le mot-clé victoire X est déjouée ou vaincue, placez-la dans la pile de victoire au lieu de la pile de défausse de son propriétaire.  
+
 - <span class="new">Le mot-clé victoire X est équivalent à la capacité suivante selon la carte qui possède ce mot-clé :  
     - Personnage ou manigance secondaire : "Une fois vaincu : ajoutez cette carte à la pile de victoire."  
     - Attachement : "Interruption Forcée : Lorsque la carte à laquelle il est attaché est vaincue, ajoutez cette carte à la pile de victoire."  

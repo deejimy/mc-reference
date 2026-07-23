@@ -5,7 +5,7 @@ Une instruction visant à « échanger » deux composants signifie intervertir l
 - Un échange ne peut être effectué que s'il y a un composant dans chacun des deux emplacements.  
     - Par exemple, vous ne pouvez pas « échanger une carte de votre main avec la carte du dessus de votre deck » si vous n'avez pas de cartes en main.  
 
-<span class="new">- Les cartes échangées conservent l'orientation (comme prêt ou épuisé, face visible ou face cachée) de la carte originale.</span>  
+- <span class="new">Les cartes échangées conservent l'orientation (comme prêt ou épuisé, face visible ou face cachée) de la carte originale.</span>  
 
 - Échanger une carte de la main avec la carte du dessus d'un deck n'est pas considéré comme piocher cette carte.  
 
