@@ -21,15 +21,15 @@
       
       
       <link rel="icon" href="../../../img/icons8-marvel-16.png">
-      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.7.1">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.7.7">
     
     
       
-        <title>Initier des Capacités, Jouer des cartes - Marvel Champions - Guide de Référence v1.7</title>
+        <title>Initier des Capacités, Jouer des cartes - Marvel Champions - Guide de Référence v1.8</title>
       
     
     
-      <link rel="stylesheet" href="../../../assets/stylesheets/main.484c7ddc.min.css">
+      <link rel="stylesheet" href="../../../assets/stylesheets/main.ec1eaa64.min.css">
       
         
         <link rel="stylesheet" href="../../../assets/stylesheets/palette.ab4e12ef.min.css">
@@ -92,7 +92,7 @@
 
 <header class="md-header md-header--shadow" data-md-component="header">
   <nav class="md-header__inner md-grid" aria-label="En-tête">
-    <a href="../../.." title="Marvel Champions - Guide de Référence v1.7" class="md-header__button md-logo" aria-label="Marvel Champions - Guide de Référence v1.7" data-md-component="logo">
+    <a href="../../.." title="Marvel Champions - Guide de Référence v1.8" class="md-header__button md-logo" aria-label="Marvel Champions - Guide de Référence v1.8" data-md-component="logo">
       
   <img src="../../../img/icons8-marvel.svg" alt="logo">
 
@@ -105,7 +105,7 @@
       <div class="md-header__ellipsis">
         <div class="md-header__topic">
           <span class="md-ellipsis">
-            Marvel Champions - Guide de Référence v1.7
+            Marvel Champions - Guide de Référence v1.8
           </span>
         </div>
         <div class="md-header__topic" data-md-component="header-topic">
@@ -189,12 +189,12 @@
 
 <nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
   <label class="md-nav__title" for="__drawer">
-    <a href="../../.." title="Marvel Champions - Guide de Référence v1.7" class="md-nav__button md-logo" aria-label="Marvel Champions - Guide de Référence v1.7" data-md-component="logo">
+    <a href="../../.." title="Marvel Champions - Guide de Référence v1.8" class="md-nav__button md-logo" aria-label="Marvel Champions - Guide de Référence v1.8" data-md-component="logo">
       
   <img src="../../../img/icons8-marvel.svg" alt="logo">
 
     </a>
-    Marvel Champions - Guide de Référence v1.7
+    Marvel Champions - Guide de Référence v1.8
   </label>
   
   <ul class="md-nav__list" data-md-scrollfix>
@@ -213,7 +213,7 @@
   <span class="md-ellipsis">
     
   
-    Guide de référence v1.7 FR
+    Guide de référence v1.8 FR
   
 
     
@@ -8735,8 +8735,10 @@
 <p>Quand un joueur souhaite jouer une carte ou initier une capacité déclenchée, ce joueur doit d'abord déclarer son intention.<br />
 Ensuite, il vérifie les conditions suivantes dans l'ordre :  </p>
 <ol>
+<li>Si une carte est jouée, le joueur place cette carte face visible devant lui sur la table. (Cette carte n'est pas en jeu.)  </li>
 <li>Vérifier les restrictions de jeu : la carte peut‑elle être jouée ou la capacité initiée à ce moment ?  <ul>
 <li>Si la carte ou la capacité précise une ou plusieurs cibles, vérifiez qu'il existe au moins une cible valide. Si la carte ou la capacité n'a pas au moins une cible valide, elle ne peut pas être jouée ni initiée.  </li>
+<li><span class="new">Si la carte ou la capacité a une exigence de forme (par exemple, « Forme héros uniquement » ou « Action héroïque »), la forme du joueur qui joue cette carte ou initie cette capacité est vérifiée maintenant.</span>  </li>
 </ul>
 </li>
 <li>Déterminer le coût (ou les coûts) pour jouer la carte ou initier la capacité et la capacité du joueur à les payer, en prenant en compte les modificateurs.  <ul>
@@ -8744,7 +8746,6 @@ Ensuite, il vérifie les conditions suivantes dans l'ordre :  </p>
 Si ces deux conditions sont remplies, accomplissez les étapes suivantes, dans l'ordre :  </li>
 </ul>
 </li>
-<li><span class="new">Si une carte est jouée, le joueur place cette carte face visible devant lui sur la table. (Cette carte n'est pas en jeu.)</span>  </li>
 <li>Appliquez tous les modificateurs au(x) coût(s).  </li>
 <li>Payez le ou les coûts. Si cette étape est atteinte et que le(s) coût(s) ne peuvent pas être payés, mettez fin à ce processus sans payer aucun coût.  </li>
 <li>La carte commence à être jouée, ou les effets de la capacité tentent de s'initier.  </li>
@@ -8757,6 +8758,21 @@ Si ces deux conditions sont remplies, accomplissez les étapes suivantes, dans l
 <li>la capacité initiée se trouve sur une carte en jeu, la séquence ne s'interrompt pas si la carte quitte le jeu pendant la séquence, à moins que le fait que la carte quitte le jeu n'empêche un coût requis d'être payé.  </li>
 </ul>
 <p><em>Voir aussi : <a href="../../C/Capacite/">Capacité</a>, <a href="../../C/Cible/">Cible</a>, <a href="../../C/Cout/">Coût</a>, <a href="../../R/RestrictionsEtPermissionsDeJeu/">Restrictions et Permissions de Jeu</a></em>  </p>
+<details class="source">
+<summary>EN v1.8</summary>INITIATING ABILITIES
+When a player wishes to play a card or initiate a triggered ability, that player first declares their intent. Then, the player checks the following conditions in order:
+1. If playing a card, the player places that card faceup on the table in front of them. (This card is not in play.)
+2. Check play restrictions: can the card be played, or the ability initiated, at this time?
+» If the card or ability specifies one or more targets, check that it has at least one valid target. If the card or ability does not have at least one valid target, it cannot be played or initiated.
+» If the card or ability has a form requirement (for example, "Hero form only" or "Hero Action"), the form of the player playing that card or initiating that ability is checked now.
+3. Determine the cost (or costs) to play the card or initiate the ability and the player’s ability to pay them, taking modifiers into account.
+» If a card has a resource cost of X, the player playing that card chooses the value of X during this step.
+If both conditions are met, follow these steps in order:
+4. Apply any modifiers to the cost(s).
+5. Pay the cost(s). If this step is reached and the cost(s) cannot be paid, abort this process without paying any costs.
+6. The card commences being played, or the effects of the ability attempt to initiate.
+</details>
+
 <details class="source">
 <summary>EN v1.7</summary>INITIATING ABILITIES
 When a player wishes to play a card or initiate a triggered ability, that player first declares their intent. Then, the player checks the following conditions in order:
@@ -8885,7 +8901,7 @@ Voir aussi : Capacité, Coût, Restrictions et Permissions de Jeu
       <script id="__config" type="application/json">{"annotate": null, "base": "../../..", "features": ["navigation.footer"], "search": "../../../assets/javascripts/workers/search.2c215733.min.js", "tags": null, "translations": {"clipboard.copied": "Copi\u00e9 dans le presse-papier", "clipboard.copy": "Copier dans le presse-papier", "search.result.more.one": "1 de plus sur cette page", "search.result.more.other": "# de plus sur cette page", "search.result.none": "Aucun document trouv\u00e9", "search.result.one": "1 document trouv\u00e9", "search.result.other": "# documents trouv\u00e9s", "search.result.placeholder": "Taper pour d\u00e9marrer la recherche", "search.result.term.missing": "Non trouv\u00e9", "select.version": "S\u00e9lectionner la version"}, "version": null}</script>
     
     
-      <script src="../../../assets/javascripts/bundle.79ae519e.min.js"></script>
+      <script src="../../../assets/javascripts/bundle.d7400e89.min.js"></script>
       
     
   </body>

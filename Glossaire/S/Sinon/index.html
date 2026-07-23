@@ -21,15 +21,15 @@
       
       
       <link rel="icon" href="../../../img/icons8-marvel-16.png">
-      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.7.1">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.7.7">
     
     
       
-        <title>"Sinon" - Marvel Champions - Guide de Référence v1.7</title>
+        <title>"Sinon" - Marvel Champions - Guide de Référence v1.8</title>
       
     
     
-      <link rel="stylesheet" href="../../../assets/stylesheets/main.484c7ddc.min.css">
+      <link rel="stylesheet" href="../../../assets/stylesheets/main.ec1eaa64.min.css">
       
         
         <link rel="stylesheet" href="../../../assets/stylesheets/palette.ab4e12ef.min.css">
@@ -92,7 +92,7 @@
 
 <header class="md-header md-header--shadow" data-md-component="header">
   <nav class="md-header__inner md-grid" aria-label="En-tête">
-    <a href="../../.." title="Marvel Champions - Guide de Référence v1.7" class="md-header__button md-logo" aria-label="Marvel Champions - Guide de Référence v1.7" data-md-component="logo">
+    <a href="../../.." title="Marvel Champions - Guide de Référence v1.8" class="md-header__button md-logo" aria-label="Marvel Champions - Guide de Référence v1.8" data-md-component="logo">
       
   <img src="../../../img/icons8-marvel.svg" alt="logo">
 
@@ -105,7 +105,7 @@
       <div class="md-header__ellipsis">
         <div class="md-header__topic">
           <span class="md-ellipsis">
-            Marvel Champions - Guide de Référence v1.7
+            Marvel Champions - Guide de Référence v1.8
           </span>
         </div>
         <div class="md-header__topic" data-md-component="header-topic">
@@ -189,12 +189,12 @@
 
 <nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
   <label class="md-nav__title" for="__drawer">
-    <a href="../../.." title="Marvel Champions - Guide de Référence v1.7" class="md-nav__button md-logo" aria-label="Marvel Champions - Guide de Référence v1.7" data-md-component="logo">
+    <a href="../../.." title="Marvel Champions - Guide de Référence v1.8" class="md-nav__button md-logo" aria-label="Marvel Champions - Guide de Référence v1.8" data-md-component="logo">
       
   <img src="../../../img/icons8-marvel.svg" alt="logo">
 
     </a>
-    Marvel Champions - Guide de Référence v1.7
+    Marvel Champions - Guide de Référence v1.8
   </label>
   
   <ul class="md-nav__list" data-md-scrollfix>
@@ -213,7 +213,7 @@
   <span class="md-ellipsis">
     
   
-    Guide de référence v1.7 FR
+    Guide de référence v1.8 FR
   
 
     
@@ -8732,20 +8732,32 @@
 
 
 <h1 id="sinon">"Sinon"<a class="headerlink" href="#sinon" title="Permanent link">&para;</a></h1>
-<p><span class="new">Les effets commençant par « sinon » ne se résolvent que si l'effet précédent ne s'est pas résolu.  </span></p>
+<p>Les effets commençant par « sinon » ne se résolvent que si l'effet précédent ne s'est pas résolu.  </p>
 <ul>
 <li>
-<p><span class="new">Un effet « sinon » se résout si une ou plusieurs des conditions suivantes concernant l'effet précédent sont vraies :  </span></p>
+<p>Un effet « sinon » se résout si une ou plusieurs des conditions suivantes concernant l'effet précédent sont vraies :  </p>
 <ul>
-<li><span class="new">Il a une condition qui n'est pas vraie. (Par exemple, une capacité indique : « Si vous êtes en forme Héros, subissez 2 dégâts. Sinon, placez 2 menaces sur la manigance principale. » La partie « sinon » se résout si le joueur n'est pas en forme Héros.)  </span></li>
-<li><span class="new">Il possède un effet qui ne peut pas, au minimum, se résoudre partiellement. (Par exemple, une capacité indique : « Défaussez 2 cartes de votre main. Sinon, inclinez votre identité. » La partie « sinon » se résout si le joueur ne peut pas défausser au moins 1 carte de sa main.)  </span></li>
+<li>Il a une condition qui n'est pas vraie. (Par exemple, une capacité indique : « Si vous êtes en forme Héros, subissez 2 dégâts. Sinon, placez 2 menaces sur la manigance principale. » La partie « sinon » se résout si le joueur n'est pas en forme Héros.)  </li>
+<li>Il possède un effet qui ne peut pas, au minimum, se résoudre partiellement. (Par exemple, une capacité indique : « Défaussez 2 cartes de votre main. Sinon, inclinez votre identité. » La partie « sinon » se résout si le joueur ne peut pas défausser au moins 1 carte de sa main.)  </li>
 </ul>
 </li>
 <li>
-<p><span class="new">Si « sinon » est précédé d'un point‑virgule, « l'effet précédent » fait référence aux effets situés avant le point‑virgule dans la même phrase. Si l'effet « sinon » constitue sa propre phrase, « l'effet précédent » fait référence à la phrase placée directement avant la phrase « sinon ».  </span></p>
+<p>Si « sinon » est précédé d'un point‑virgule, « l'effet précédent » fait référence aux effets situés avant le point‑virgule dans la même phrase. Si l'effet « sinon » constitue sa propre phrase, « l'effet précédent » fait référence à la phrase placée directement avant la phrase « sinon ».  </p>
 </li>
 </ul>
 <p><em>Voir aussi : <a href="../../E/EffetsDeRemplacement/">Effets de remplacement</a>, <a href="../../C/Cible/">Cible</a></em>  </p>
+<details class="source">
+<summary>EN v1.8</summary>"OTHERWISE"
+Effects beginning with "otherwise" resolve only if the preceding effect was not resolved.
+• An "otherwise" effect will resolve if one or more of the following are true of the preceding effect:
+» It has a condition that is not true. (For example, an ability reads: "If you are in hero form, take 2 damage. Otherwise, place 2 threat on the main scheme." The "otherwise" portion resolves if the player is not in hero form.)
+» It has an effect that cannot at least partially resolve.
+(For example, an ability reads: "Discard 2 cards from your hand. Otherwise, exhaust your identity."
+The "otherwise" portion resolves if the player cannot discard at least 1 card from their hand.)
+• If "otherwise" is preceded by a semicolon, the "preceding effect" refers to the effects before the semicolon in the same sentence. If the "otherwise" effect is its own sentence, the "preceding effect" refers to the sentence coming directly before the "otherwise" sentence.
+See also: Replacement Effect, Target
+</details>
+
 <details class="source">
 <summary>EN v1.7</summary>"OTHERWISE"
 Effects beginning with "otherwise" resolve only if the preceding effect was not resolved.
@@ -8849,7 +8861,7 @@ See also: Replacement Effect, Target
       <script id="__config" type="application/json">{"annotate": null, "base": "../../..", "features": ["navigation.footer"], "search": "../../../assets/javascripts/workers/search.2c215733.min.js", "tags": null, "translations": {"clipboard.copied": "Copi\u00e9 dans le presse-papier", "clipboard.copy": "Copier dans le presse-papier", "search.result.more.one": "1 de plus sur cette page", "search.result.more.other": "# de plus sur cette page", "search.result.none": "Aucun document trouv\u00e9", "search.result.one": "1 document trouv\u00e9", "search.result.other": "# documents trouv\u00e9s", "search.result.placeholder": "Taper pour d\u00e9marrer la recherche", "search.result.term.missing": "Non trouv\u00e9", "select.version": "S\u00e9lectionner la version"}, "version": null}</script>
     
     
-      <script src="../../../assets/javascripts/bundle.79ae519e.min.js"></script>
+      <script src="../../../assets/javascripts/bundle.d7400e89.min.js"></script>
       
     
   </body>

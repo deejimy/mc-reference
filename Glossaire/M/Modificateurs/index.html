@@ -21,15 +21,15 @@
       
       
       <link rel="icon" href="../../../img/icons8-marvel-16.png">
-      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.7.1">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.7.7">
     
     
       
-        <title>Modificateurs - Marvel Champions - Guide de Référence v1.7</title>
+        <title>Modificateurs - Marvel Champions - Guide de Référence v1.8</title>
       
     
     
-      <link rel="stylesheet" href="../../../assets/stylesheets/main.484c7ddc.min.css">
+      <link rel="stylesheet" href="../../../assets/stylesheets/main.ec1eaa64.min.css">
       
         
         <link rel="stylesheet" href="../../../assets/stylesheets/palette.ab4e12ef.min.css">
@@ -92,7 +92,7 @@
 
 <header class="md-header md-header--shadow" data-md-component="header">
   <nav class="md-header__inner md-grid" aria-label="En-tête">
-    <a href="../../.." title="Marvel Champions - Guide de Référence v1.7" class="md-header__button md-logo" aria-label="Marvel Champions - Guide de Référence v1.7" data-md-component="logo">
+    <a href="../../.." title="Marvel Champions - Guide de Référence v1.8" class="md-header__button md-logo" aria-label="Marvel Champions - Guide de Référence v1.8" data-md-component="logo">
       
   <img src="../../../img/icons8-marvel.svg" alt="logo">
 
@@ -105,7 +105,7 @@
       <div class="md-header__ellipsis">
         <div class="md-header__topic">
           <span class="md-ellipsis">
-            Marvel Champions - Guide de Référence v1.7
+            Marvel Champions - Guide de Référence v1.8
           </span>
         </div>
         <div class="md-header__topic" data-md-component="header-topic">
@@ -189,12 +189,12 @@
 
 <nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
   <label class="md-nav__title" for="__drawer">
-    <a href="../../.." title="Marvel Champions - Guide de Référence v1.7" class="md-nav__button md-logo" aria-label="Marvel Champions - Guide de Référence v1.7" data-md-component="logo">
+    <a href="../../.." title="Marvel Champions - Guide de Référence v1.8" class="md-nav__button md-logo" aria-label="Marvel Champions - Guide de Référence v1.8" data-md-component="logo">
       
   <img src="../../../img/icons8-marvel.svg" alt="logo">
 
     </a>
-    Marvel Champions - Guide de Référence v1.7
+    Marvel Champions - Guide de Référence v1.8
   </label>
   
   <ul class="md-nav__list" data-md-scrollfix>
@@ -213,7 +213,7 @@
   <span class="md-ellipsis">
     
   
-    Guide de référence v1.7 FR
+    Guide de référence v1.8 FR
   
 
     
@@ -8732,21 +8732,36 @@
 
 
 <h1 id="modificateurs">Modificateurs<a class="headerlink" href="#modificateurs" title="Permanent link">&para;</a></h1>
-<p><span class="new">Le jeu vérifie constamment et actualise (si nécessaire) le compte de toute quantité variable qui est modifiée.</span>  </p>
+<p>Le jeu vérifie constamment et actualise (si nécessaire) le compte de toute quantité variable qui est modifiée.  </p>
 <p>Chaque fois qu'un nouveau modificateur est appliqué ou retiré, la valeur concernée est recalculée entièrement depuis le début en prenant en compte la valeur de base non modifiée et tous les modificateurs actifs.  </p>
 <ul>
-<li><span class="new">L'icône « par joueur » <img alt="icone_joueur.jpg" src="../../../img/icone_joueur.jpg" width="15" /> n'est pas considérée comme un modificateur et s'applique avant que les autres modificateurs ne soient pris en compte.</span>  </li>
+<li>L'icône « par joueur » <img alt="icone_joueur.jpg" src="../../../img/icone_joueur.jpg" width="15" /> n'est pas considérée comme un modificateur et s'applique avant que les autres modificateurs ne soient pris en compte.  </li>
 <li>Le calcul d'une valeur considère tous les modificateurs comme étant appliqués simultanément. Cependant, lors du calcul, tous les modificateurs additifs ou soustractifs sont calculés avant les modificateurs multiplicatifs ou divisifs.  </li>
 <li>Si une valeur est « fixée » à un nombre spécifique, le modificateur fixé supplante tous les autres modificateurs qui ne sont pas fixés. Si plusieurs modificateurs fixant une valeur entrent en conflit, le modificateur fixé le plus récemment résolu prend la priorité.  </li>
 <li>Après que tous les modificateurs actifs ont été pris en compte, si une valeur est inférieure à zéro, elle est considérée comme étant égale à zéro : une carte ne peut pas avoir d'icônes, d'attributs, de traits, de coût ou de mots‑clé « négatifs ».  </li>
 <li>Toutes les valeurs fractionnaires sont arrondies au nombre supérieur après application de tous les modificateurs.  </li>
-<li><span class="new">Si une capacité de carte fait qu'un personnage gagne une statistique (par exemple +1 ATQ ou 4 points de vie), la capacité modifie la statistique du personnage tant qu'elle est active.</span>  <ul>
-<li><span class="new">Si une telle capacité expire ou devient inactive pour une autre raison, la statistique modifiée revient à la valeur qu'elle aurait sans ce modificateur.</span>  </li>
+<li>Si une capacité de carte fait qu'un personnage gagne une statistique (par exemple +1 ATQ ou 4 points de vie), la capacité modifie la statistique du personnage tant qu'elle est active.  <ul>
+<li>Si une telle capacité expire ou devient inactive pour une autre raison, la statistique modifiée revient à la valeur qu'elle aurait sans ce modificateur.  </li>
 </ul>
 </li>
-<li><span class="new">Une valeur représentée par un tiret (–) ne peut pas être modifiée.</span>  </li>
+<li>Une valeur représentée par un tiret (–) ne peut pas être modifiée.  </li>
 </ul>
 <p><em>Voir aussi : <a href="../../V/ValeurDeBase/">Valeur de base</a>, <a href="../../T/TiretValeur/">Tiret (Valeur)</a>, <a href="../../I/Imprime/">Imprimé</a></em>  </p>
+<details class="source">
+<summary>EN v1.8</summary>MODIFIERS
+The game constantly checks and (if necessary) updates the count of any variable quantity that is being modified.
+Any time a new modifier is applied or removed, the entire quantity is recalculated from the start, considering the unmodified base value and all active modifiers.
+• The "per player" icon  is not considered a modifier and is applied before any modifiers are applied.
+• The calculation of a value treats all modifiers as being applied simultaneously. However, while performing the calculation, all additive and subtractive modifiers are calculated before doubling and/or halving modifiers are calculated.
+• If a value is "set" to a specific number, the set modifier overrides all non-set modifiers. If multiple set modifiers are in conflict, the most recently resolved set modifier takes precedence.
+• After all active modifiers have been taken into account, if a value is below zero, it is treated as zero: a card cannot have "negative" icons, attributes, traits, cost, or keywords.
+• Fractional values are rounded up after all modifiers have been applied.
+• If a card ability causes a character to "get" a statistic (such as +1 ATK or 4 hit points), the ability modifies the character’s statistic while it is active.
+» If such an ability expires or otherwise becomes inactive, the modified statistic reverts to the value it would have without the modifier.
+• A value of a dash (–) cannot be modified.
+See also: Base Value, Dash (Value), Printed
+</details>
+
 <details class="source">
 <summary>EN v1.7</summary>MODIFIERS
 The game constantly checks and (if necessary) updates the count of any variable quantity that is being modified.
@@ -8864,7 +8879,7 @@ Voir aussi : Valeur de base, Imprimé
       <script id="__config" type="application/json">{"annotate": null, "base": "../../..", "features": ["navigation.footer"], "search": "../../../assets/javascripts/workers/search.2c215733.min.js", "tags": null, "translations": {"clipboard.copied": "Copi\u00e9 dans le presse-papier", "clipboard.copy": "Copier dans le presse-papier", "search.result.more.one": "1 de plus sur cette page", "search.result.more.other": "# de plus sur cette page", "search.result.none": "Aucun document trouv\u00e9", "search.result.one": "1 document trouv\u00e9", "search.result.other": "# documents trouv\u00e9s", "search.result.placeholder": "Taper pour d\u00e9marrer la recherche", "search.result.term.missing": "Non trouv\u00e9", "select.version": "S\u00e9lectionner la version"}, "version": null}</script>
     
     
-      <script src="../../../assets/javascripts/bundle.79ae519e.min.js"></script>
+      <script src="../../../assets/javascripts/bundle.d7400e89.min.js"></script>
       
     
   </body>
