@@ -23,6 +23,7 @@ jobs:
           pip install mkdocs
           pip install mkdocs-material
           pip install mkdocs-roamlinks-plugin
+          pip install -e .
       - name: Build site
         run: mkdocs build
       - name: Disable Jekyll on Pages
