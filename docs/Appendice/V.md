@@ -32,8 +32,8 @@ LOKI (#28)
 Il devrait être écrit : « Interruption forcée : quand Loki est censé être vaincu, défaussez la carte du dessus du deck Rencontre. Si cette carte est une traîtrise, soignez tous les dégâts de Loki à la place. » (« Interruption forcée » au lieu de « Interruption ».)
 
 ## PACK HÉROS BLACK WIDOW
-<span class="new">BLACK WIDOW (#1A)  
-Il devrait être écrit : « Faiseuse de veuves — Réponse : après avoir résolu la capacité d'une carte Préparation que vous contrôlez, infligez 1 dégât à un ennemi. » (« résoudre » au lieu de « déclencher ».)</span>
+BLACK WIDOW (#1A)  
+Il devrait être écrit : « Faiseuse de veuves — Réponse : après avoir résolu la capacité d'une carte Préparation que vous contrôlez, infligez 1 dégât à un ennemi. » (« résoudre » au lieu de « déclencher ».)
 
 ## PACK HÉROS DOCTEUR STRANGE
 IRON FIST (#14)  
@@ -59,18 +59,18 @@ Il devrait être écrit : « Une fois révélée : chaque sbire Hydra engagé av
 ATTAQUE DU MONT ATHENA (#61A)  
 Il devrait être écrit : « Contenu : Crossbones (I) et Crossbones (II). Sets de rencontre Crossbones, Armes Expérimentales et Standard. Trois sets modulaires (Patrouille d'Hydra, Maître d'Armes et Légions d'Hydra). » (« Patrouille Hydra » devient « Offensive d'Hydra ».)
 
-<span class="new">L'AVÈNEMENT DE CRÂNE ROUGE (#128A)  
-Il devrait être écrit : « Mise en place : mettez la Maison Rouge en jeu. Mélangez toutes les autres manigances annexes Rencontre dans le deck de manigances annexes et placez-le à côté du deck Rencontre (voir encart). Mettez Le Dormeur de côté, hors-jeu. » (Ajout de « Rencontre » avant « manigance annexe ».)</span>
+L'AVÈNEMENT DE CRÂNE ROUGE (#128A)  
+Il devrait être écrit : « Mise en place : mettez la Maison Rouge en jeu. Mélangez toutes les autres manigances annexes Rencontre dans le deck de manigances annexes et placez-le à côté du deck Rencontre (voir encart). Mettez Le Dormeur de côté, hors-jeu. » (Ajout de « Rencontre » avant « manigance annexe ».)
 
 RÉALITÉ DISTORDUE (#135)
 Il devrait être écrit : « Interruption forcée : quand la manigance annexe attachée est déjouée, attribuez une carte Rencontre au premier joueur. » (« Interruption forcée » au lieu de « Réponse forcée ».)
 
-<span class="new">RIVAL AMER (#136)  
-Il devrait être écrit : « Une fois révélée : pour chaque manigance annexe en jeu, choisissez et inclinez un personnage que vous contrôlez. » (Texte révisé pour fonctionner comme prévu avec les règles mises à jour de « pour chaque ».)</span>
+RIVAL AMER (#136)  
+Il devrait être écrit : « Une fois révélée : pour chaque manigance annexe en jeu, choisissez et inclinez un personnage que vous contrôlez. » (Texte révisé pour fonctionner comme prévu avec les règles mises à jour de « pour chaque ».)
 
 ## PACK HÉROS LA GUÊPE
-<span class="new">SCARABÉE (#28)  
-Il devrait être écrit : « Interruption forcée : quand Scarabée est vaincu, le joueur qui l'a vaincu choisit soit de dépenser une ressource ![[icone_physique.jpg|15]], soit de mélanger Scarabée dans le deck Rencontre. » (Précise quel joueur doit résoudre la capacité.)</span>
+SCARABÉE (#28)  
+Il devrait être écrit : « Interruption forcée : quand Scarabée est vaincu, le joueur qui l'a vaincu choisit soit de dépenser une ressource ![[icone_physique.jpg|15]], soit de mélanger Scarabée dans le deck Rencontre. » (Précise quel joueur doit résoudre la capacité.)
 
 ## EXTENSION CONVOITISE GALACTIQUE
 LIVRET DE RÈGLES P.10, INSTRUCTIONS DE CAMPAGNE, MISE EN PLACE, PUCE 5  
@@ -103,8 +103,8 @@ Réponse forcée : après que le méchant attaché s'active contre vous, résolv
 Sinon, mettez en jeu la carte du dessus du deck Pierre d'Infinité. » (Ajout de « Attachez au méchant » et de « contre vous ».)
 
 ## PACK HÉROS NEBULA
-<span class="new">EROS (#11)  
-Il devrait être écrit : « Réponse : après avoir joué Eros depuis votre main, pour chaque ressource ![[icone_mentale.jpg|15]] utilisée pour le payer, choisissez un sbire et désorientez-le. » (Texte révisé pour fonctionner avec les règles mises à jour de « pour chaque ».)</span>
+EROS (#11)  
+Il devrait être écrit : « Réponse : après avoir joué Eros depuis votre main, pour chaque ressource ![[icone_mentale.jpg|15]] utilisée pour le payer, choisissez un sbire et désorientez-le. » (Texte révisé pour fonctionner avec les règles mises à jour de « pour chaque ».)
 
 COSMO (#20)  
 Il devrait être écrit : « Interruption : quand Cosmo attaque ou contre, nommez un type de carte, puis défaussez la carte du dessus d'un deck Joueur ou du deck Rencontre. Si cette carte est du type nommé, Cosmo ne subit pas de dégâts consécutifs pour cette utilisation. » (« un deck » devient « un deck Joueur ou le deck Rencontre ». Suppression du texte de rappel.)
@@ -162,8 +162,8 @@ Il devrait être écrit : « Action de héros : retirez “Allez les Champions !
 COMBINAISON SP//DR (#1B)  
 Il devrait être écrit : « Retour à la Base — Interruption forcée : quand vous passez sur cette face, retournez SP//dr sur Peni Parker. Détachez Peni Parker de cette carte en déplaçant sur elle tous les jetons de cette carte et les cartes attachées à cette carte. » (Les jetons et attachements sont désormais déplacés vers Peni Parker, et non l'inverse.)
 
-<span class="new">M.O.R.B.I.U.S. (#27)  
-Il devrait être écrit : « Réponse forcée : après que le joueur engagé génère n'importe quel nombre de ressources, infligez un montant égal de dégâts au héros de ce joueur. » (« héros engagé » devient « joueur engagé » et « ce héros » devient « le héros de ce joueur ».)</span>
+M.O.R.B.I.U.S. (#27)  
+Il devrait être écrit : « Réponse forcée : après que le joueur engagé génère n'importe quel nombre de ressources, infligez un montant égal de dégâts au héros de ce joueur. » (« héros engagé » devient « joueur engagé » et « ce héros » devient « le héros de ce joueur ».)
 
 ## EXTENSION LA GENESE DES MUTANTS
 POING D'ACIER (#8)  
@@ -172,17 +172,17 @@ Il devrait être écrit : « Action de héros (attaque) : infligez 5 dégâts à
 EN ARMURE (#10)  
 Il devrait être écrit : « Interruption d'Alter-Ego : quand le méchant est censé s'activer, passez en forme héros. » (Ajout de « est censé ».)
 
-<span class="new">MUTANTS AU CENTRE COMMERCIAL (#88A)  
-Il devrait être écrit : « Une fois vaincue : le premier joueur cherche un sbire Sentinel dans le deck Rencontre et la pile de défausse Rencontre et le révèle. Retournez cette carte et mettez Jubilee en jeu, en défaussant de la zone de jeu toute autre version allié de Jubilee. » (Ajout de « allié ».)</span>
+MUTANTS AU CENTRE COMMERCIAL (#88A)  
+Il devrait être écrit : « Une fois vaincue : le premier joueur cherche un sbire Sentinel dans le deck Rencontre et la pile de défausse Rencontre et le révèle. Retournez cette carte et mettez Jubilee en jeu, en défaussant de la zone de jeu toute autre version allié de Jubilee. » (Ajout de « allié ».)
 
-<span class="new">ASTEROID M (#141B)  
-Il devrait être écrit : « Réponse forcée : après que vous avez placé un marqueur magnétique sur cette manigance, s'il y a au moins 3 marqueurs magnétiques ici, retirez-en 3 et défaussez des cartes du deck Rencontre jusqu'à ce qu'une carte Magnétique soit défaussée. Révélez cette carte. » (Les marqueurs magnétiques sont désormais retirés avant de révéler la carte Magnétique.)</span>
+ASTEROID M (#141B)  
+Il devrait être écrit : « Réponse forcée : après que vous avez placé un marqueur magnétique sur cette manigance, s'il y a au moins 3 marqueurs magnétiques ici, retirez-en 3 et défaussez des cartes du deck Rencontre jusqu'à ce qu'une carte Magnétique soit défaussée. Révélez cette carte. » (Les marqueurs magnétiques sont désormais retirés avant de révéler la carte Magnétique.)
 
-<span class="new">USINE EN LIGNE (#142B)  
-Il devrait être écrit : « Réponse forcée : après que vous avez placé un marqueur magnétique sur cette manigance, s'il y a au moins 3 marqueurs magnétiques ici, retirez-en 3 et défaussez des cartes du deck Rencontre jusqu'à ce qu'une carte Magnétique soit défaussée. Révélez cette carte. » (Les marqueurs magnétiques sont désormais retirés avant de révéler la carte Magnétique.)</span>
+USINE EN LIGNE (#142B)  
+Il devrait être écrit : « Réponse forcée : après que vous avez placé un marqueur magnétique sur cette manigance, s'il y a au moins 3 marqueurs magnétiques ici, retirez-en 3 et défaussez des cartes du deck Rencontre jusqu'à ce qu'une carte Magnétique soit défaussée. Révélez cette carte. » (Les marqueurs magnétiques sont désormais retirés avant de révéler la carte Magnétique.)
 
-<span class="new">LA RÈGLE DE MAGNUS (#143B)  
-Il devrait être écrit : « Réponse forcée : après que vous avez placé un marqueur magnétique sur cette manigance, s'il y a au moins 3 marqueurs magnétiques ici, retirez-en 3 et défaussez des cartes du deck Rencontre jusqu'à ce qu'une carte Magnétique soit défaussée. Révélez cette carte. » (Les marqueurs magnétiques sont désormais retirés avant de révéler la carte Magnétique.)</span>
+LA RÈGLE DE MAGNUS (#143B)  
+Il devrait être écrit : « Réponse forcée : après que vous avez placé un marqueur magnétique sur cette manigance, s'il y a au moins 3 marqueurs magnétiques ici, retirez-en 3 et défaussez des cartes du deck Rencontre jusqu'à ce qu'une carte Magnétique soit défaussée. Révélez cette carte. » (Les marqueurs magnétiques sont désormais retirés avant de révéler la carte Magnétique.)
 
 ## PACK HÉROS WOLVERINE
 LOGAN (#1A)  
@@ -204,18 +204,18 @@ Il devrait être écrit : « Interruption forcée : quand le sbire attaché est 
 Puis, défaussez cet attachement. » (Suppression de « et remettez-le en jeu ».)
 
 ## PACK HÉROS MALICIA
-<span class="new">ANNA MARIE (#1A)  
+ANNA MARIE (#1A)  
 Il devrait être écrit : « Mise en place : trouvez votre amélioration Touché et mettez-la de côté.
-Retrait — Réponse forcée : après être passé sur cette forme, trouvez Touché et mettez-la de côté. » (Précise désormais de « trouver » Touché et de la mettre de côté.)</span>
+Retrait — Réponse forcée : après être passé sur cette forme, trouvez Touché et mettez-la de côté. » (Précise désormais de « trouver » Touché et de la mettre de côté.)
 
-<span class="new">MALICIA (#1B)  
-Il devrait être écrit : « Contact Épidermique — Action : trouvez Touché et attachez-la à un autre personnage. Vous gagnez chacun des traits du personnage attaché jusqu'à la fin du round. (Limite d'une fois par round.) » (« Attachez Touché... » devient « Trouvez Touché et attachez-la... ».)</span>
+MALICIA (#1B)  
+Il devrait être écrit : « Contact Épidermique — Action : trouvez Touché et attachez-la à un autre personnage. Vous gagnez chacun des traits du personnage attaché jusqu'à la fin du round. (Limite d'une fois par round.) » (« Attachez Touché... » devient « Trouvez Touché et attachez-la... ».)
 
-<span class="new">TRANSFERT D'ÉNERGIE (#7)  
-Il devrait être écrit : « Action de héros : trouvez Touché et attachez-la à un personnage autre que Malicia, puis infligez 2 dégâts à ce personnage → soignez 2 dégâts de Malicia et redressez-la. Vous gagnez chacun des traits du personnage attaché jusqu'à la fin du round. » (« Attachez Touché... » devient « Trouvez Touché et attachez-la... ».)</span>
+TRANSFERT D'ÉNERGIE (#7)  
+Il devrait être écrit : « Action de héros : trouvez Touché et attachez-la à un personnage autre que Malicia, puis infligez 2 dégâts à ce personnage → soignez 2 dégâts de Malicia et redressez-la. Vous gagnez chacun des traits du personnage attaché jusqu'à la fin du round. » (« Attachez Touché... » devient « Trouvez Touché et attachez-la... ».)
 
-<span class="new">MANIPULATIONS DE MYSTIQUE (#26)  
-Il devrait être écrit : « Une fois vaincue : le joueur qui a vaincu cette carte cherche un exemplaire de la traîtrise Induit en Erreur dans le deck Rencontre et la pile de défausse Rencontre puis le mélange dans son deck. » (Précise qui doit résoudre la capacité.)</span>
+MANIPULATIONS DE MYSTIQUE (#26)  
+Il devrait être écrit : « Une fois vaincue : le joueur qui a vaincu cette carte cherche un exemplaire de la traîtrise Induit en Erreur dans le deck Rencontre et la pile de défausse Rencontre puis le mélange dans son deck. » (Précise qui doit résoudre la capacité.)
 
 BONEBREAKER (#31)  
 Il devrait être écrit : « Réponse forcée : après que Bonebreaker vous engage, subissez 1 dégât indirect pour chaque sbire Reaver engagé avec vous. » (« Interruption forcée » devient « Réponse forcée ».)
@@ -240,43 +240,43 @@ Il devrait être écrit : « Votre identité gagne +4 points de vie. » (« hér
 Il devrait être écrit : « Une fois révélée : attachez à l'allié ayant le coût le plus élevé sans ‘Pool-isée attachée. L'allié attaché engage son contrôleur. Sinon, cette carte gagne Renfort. » (Ajout de « L'allié attaché engage son contrôleur. »)
 
 ## EXTENSION ÂGE D'APOCALYPSE
-<span class="new">ÉQUIPEZ-VOUS (#17)  
-Il devrait être écrit : « Action d'Alter-Ego : cherchez dans votre deck et votre pile de défausse un allié et une amélioration qui peut être attachée à un allié. Ajoutez-les à votre main. » (« peut être attachée à cet allié » devient « peut être attachée à un allié ».)</span>
+ÉQUIPEZ-VOUS (#17)  
+Il devrait être écrit : « Action d'Alter-Ego : cherchez dans votre deck et votre pile de défausse un allié et une amélioration qui peut être attachée à un allié. Ajoutez-les à votre main. » (« peut être attachée à cet allié » devient « peut être attachée à un allié ».)
 
 ÉQUIPE DE MISSION (#171A)  
 La première puce devrait indiquer : « Réduisez de 2 le coût du prochain allié joué vers la mission pendant cette phase. » (Ajout de « pendant cette phase ».)
 
 ## PACK HÉROS NIGHTCRAWLER
-<span class="new">Malicia (#12)  
-Il devrait être écrit : « Action : infligez 1 dégât à un autre personnage ami → jusqu'à la fin du round, Malicia gagne chacun des traits de ce personnage et ajoute la CTR et l'ATQ de base de ce personnage à ses pouvoirs correspondants. (Limite d'une fois par round.) » (« imprimé » remplacé par « de base ».)</span>
+Malicia (#12)  
+Il devrait être écrit : « Action : infligez 1 dégât à un autre personnage ami → jusqu'à la fin du round, Malicia gagne chacun des traits de ce personnage et ajoute la CTR et l'ATQ de base de ce personnage à ses pouvoirs correspondants. (Limite d'une fois par round.) » (« imprimé » remplacé par « de base ».)
 
-<span class="new">TWEEDLEDOPE (#37)  
-L'icône étoile (![[icone_etoile.jpg|15]]) doit être retirée du champ de boost de cette carte.</span>
+TWEEDLEDOPE (#37)  
+L'icône étoile (![[icone_etoile.jpg|15]]) doit être retirée du champ de boost de cette carte.
 
 ## PACK HÉROS MAGNETO
-<span class="new">MISSILE MAGNÉTIQUE (#10)  
-Il devrait être écrit : « Action de héros : défaussez un sbire ayant Enveloppé de Métal attaché. Puis, infligez 5 dégâts à un ennemi et sonnez-le. » (La flèche de coût est remplacée par « Puis ».)</span>
+MISSILE MAGNÉTIQUE (#10)  
+Il devrait être écrit : « Action de héros : défaussez un sbire ayant Enveloppé de Métal attaché. Puis, infligez 5 dégâts à un ennemi et sonnez-le. » (La flèche de coût est remplacée par « Puis ».)
 
-<span class="new">CONCENTRATION PARFAITE (#23)  
-La classification devrait être « Basique » au lieu de « Protection ».</span>
+CONCENTRATION PARFAITE (#23)  
+La classification devrait être « Basique » au lieu de « Protection ».
 
-<span class="new">EXODUS (#28)  
-Il devrait être écrit : « Réponse forcée : après qu'Exodus vous attaque, défaussez des cartes du dessus de votre deck jusqu'à un nombre égal à son ATQ totale pour cette attaque. » (Ajout de « pour cette attaque ».)</span>
+EXODUS (#28)  
+Il devrait être écrit : « Réponse forcée : après qu'Exodus vous attaque, défaussez des cartes du dessus de votre deck jusqu'à un nombre égal à son ATQ totale pour cette attaque. » (Ajout de « pour cette attaque ».)
 
 ## EXTENSION AGENTS DU S.H.I.E.L.D.
-<span class="new">EXPOSITION AUX RADIATIONS (#171A)  
-Le modificateur « MNG » de cette carte devrait être un modificateur « CTR ».</span>
+EXPOSITION AUX RADIATIONS (#171A)  
+Le modificateur « MNG » de cette carte devrait être un modificateur « CTR ».
 
-<span class="new">MACH-IV (#156)  
-Il devrait être écrit : « Chaque personnage sans le trait Aérien ne peut pas défendre contre les attaques de MACH-IV. » (« effectuer des défenses de base » devient « défendre ».)</span>
+MACH-IV (#156)  
+Il devrait être écrit : « Chaque personnage sans le trait Aérien ne peut pas défendre contre les attaques de MACH-IV. » (« effectuer des défenses de base » devient « défendre ».)
 
 ## PACK HÉROS SILK
-<span class="new">MÉMOIRE EIDÉTIQUE (#8)  
-Il devrait être écrit : « Interruption : quand vous révélez une carte du même set Rencontre qu'une carte sous votre identité, inclinez Mémoire Eidétique → échangez ces cartes. Révélez à la place la carte qui était sous votre identité. » (« Silk » devient « votre identité ».)</span>
+MÉMOIRE EIDÉTIQUE (#8)  
+Il devrait être écrit : « Interruption : quand vous révélez une carte du même set Rencontre qu'une carte sous votre identité, inclinez Mémoire Eidétique → échangez ces cartes. Révélez à la place la carte qui était sous votre identité. » (« Silk » devient « votre identité ».)
 
 ## PACK HÉROS LE SOLDAT DE L'HIVER
-<span class="new">ADJOINT DU S.H.I.E.L.D. (#33)  
-Il devrait être écrit : « Attachez à un personnage ami. 1 max par personnage. » (Ajout de « 1 max par personnage. »)</span>
+ADJOINT DU S.H.I.E.L.D. (#33)  
+Il devrait être écrit : « Attachez à un personnage ami. 1 max par personnage. » (Ajout de « 1 max par personnage. »)
 
 
 

@@ -206,8 +206,8 @@ FINESSE (#33)
 R : Oui. Tant que la ressource générée par Finesse est dépensée pour une carte d'affinité (son coût en ressources ou un coût à l'intérieur de la capacité de cette carte), Finesse peut être utilisée.
 
 ## PACK SCÉNARIO KANG LE CONQUERANT  
-<span class="new">**Q : Pendant que les joueurs sont séparés en aires de jeu distinctes, dans quelle aire de jeu les cartes Environnement sont-elles considérées ?**  
-R : Les cartes Environnement sont considérées comme étant dans l'aire de jeu de tous les joueurs.</span>
+**Q : Pendant que les joueurs sont séparés en aires de jeu distinctes, dans quelle aire de jeu les cartes Environnement sont-elles considérées ?**  
+R : Les cartes Environnement sont considérées comme étant dans l'aire de jeu de tous les joueurs.
 
 RÉDUIT À L'IMPUISSANCE (#20)  
 **Q : Si Réduit à l'Impuissance est dans la zone de jeu de Docteur Strange, le joueur Docteur Strange peut-il encore utiliser le deck Invocation ?**  
@@ -258,9 +258,9 @@ RÉCUP' (#33)
 **Q : Si l'allié Hulk (Boîte de base #50) défausse Récup', que se passe-t-il ?**  
 R : La capacité de Hulk vérifie simultanément toutes les ressources imprimées sur Récup', puis résout l'effet approprié en fonction du résultat. Comme cette vérification et cette résolution sont simultanées, le joueur qui contrôle Hulk choisit l'ordre de résolution des effets.
 
-<span class="new">BATTERIES (#34)  
+BATTERIES (#34)  
 **Q : Les Batteries peuvent-elles déplacer un marqueur charge vers une carte Tech qui n'utilise pas de « marqueurs charge » ?**  
-R : Oui. C'est la carte sur laquelle se trouve un marqueur polyvalent qui définit le type de ce marqueur ; Batteries peuvent donc déplacer un marqueur vers n'importe quelle carte Tech, et ce marqueur prendra le type défini par cette carte (s'il y en a un).</span>
+R : Oui. C'est la carte sur laquelle se trouve un marqueur polyvalent qui définit le type de ce marqueur ; Batteries peuvent donc déplacer un marqueur vers n'importe quelle carte Tech, et ce marqueur prendra le type défini par cette carte (s'il y en a un).
 
 PIERRE DU POUVOIR (#149)  
 **Q : Si une identité qui contrôle la Pierre du Pouvoir est vaincue, que devient la Pierre du Pouvoir ?**  
@@ -291,9 +291,9 @@ SCÉNARIO N°2 DÉFENSE DE LA TOUR
 **Q : Quand un sbire manigance pendant ce scénario, sur quelle manigance principale sa menace est-elle placée ?**  
 R : La menace d'un sbire qui manigance est placée sur la manigance principale qui a l'attachement « Défense Focalisée » attaché.
 
-<span class="new">ENTRE-DEUX (#42), TRIBUNAL VIVANT (#48), ÉTERNITÉ (#54), LE JARDINIER (#60)  
+ENTRE-DEUX (#42), TRIBUNAL VIVANT (#48), ÉTERNITÉ (#54), LE JARDINIER (#60)  
 **Q : Où va un événement Entité Cosmique après avoir été résolu comme carte de boost ?**  
-R : Cet événement est placé dans la pile de défausse du deck Rencontre.</span>
+R : Cet événement est placé dans la pile de défausse du deck Rencontre.
 
 ## PACK HÉROS NEBULA
 VIEUX RIVAUX (#31)  
@@ -311,8 +311,8 @@ R : Non. La capacité ressource de Canon du Gantelet ne peut être déclenchée 
 SCÉNARIO N°4 LES SINISTRES SIX  
 **Q : S'il y a plus d'un méchant en jeu, quel méchant subit les dégâts en excès des attaques avec Déferlement ?**  
 R : Le méchant avec le marqueur actif subit les dégâts de déferlement.  
-<span class="new">**Q : Que se passe-t-il si un méchant doit s'activer et qu'il y a un ou plusieurs méchants en jeu, mais qu'aucun n'a le marqueur actif ?**  
-R : Placez le marqueur actif sur le méchant avec la valeur d'ordre d'activation la plus basse, puis poursuivez cette activation.</span>
+**Q : Que se passe-t-il si un méchant doit s'activer et qu'il y a un ou plusieurs méchants en jeu, mais qu'aucun n'a le marqueur actif ?**  
+R : Placez le marqueur actif sur le méchant avec la valeur d'ordre d'activation la plus basse, puis poursuivez cette activation.
 
 SCÉNARIO N°5 VENOM GOBLIN  
 **Q : Que se passe-t-il quand l'une des manigances principales est complétée ?**  
@@ -327,9 +327,9 @@ R : Le joueur qui utilise cet effet choisit une manigance principale sur laquell
 R : Oui. Répéter la capacité de cette carte inclut l'effet de répétition lui-même. Tant qu'un joueur pouvant dépenser 3 ressources et incliner une carte Web-Warrior peut être choisi, la capacité peut être répétée.
 
 ## PACK HÉROS IRONHEART
-<span class="new">« ALLEZ LES CHAMPIONS ! » (#25)  
+« ALLEZ LES CHAMPIONS ! » (#25)  
 **Q : Si j'ai joué « Allez les Champions ! » ce round-ci, puis-je déclencher une capacité qui exige de subir des dégâts comme coût ?**  
-R : Non. Si vous ne pouvez pas subir de dégâts, vous ne pouvez pas payer un coût qui exige de subir des dégâts.</span>
+R : Non. Si vous ne pouvez pas subir de dégâts, vous ne pouvez pas payer un coût qui exige de subir des dégâts.
 
 ## PACK HÉROS SPIDER-COCHON
 GUERRIER DE LA GRANDE TOILE (#29)  
@@ -337,9 +337,9 @@ GUERRIER DE LA GRANDE TOILE (#29)
 R : Non. Le titre d'un personnage doit contenir le mot « Spider » orthographié exactement ainsi pour que Guerrier de la Grande Toile puisse lui être attachée.
 
 ## PACK HÉROS SP//DR
-<span class="new">SPIDER-MAN NOIR (#15)  
+SPIDER-MAN NOIR (#15)  
 **Q : Si la capacité « Une fois révélée » d'une traîtrise est annulée, Spider-Man Noir peut-il attacher cette traîtrise à lui-même ?**  
-R : Pour que la réponse de Spider-Man Noir se déclenche, une partie de la carte Traîtrise doit être résolue. Si la traîtrise a un mot-clé qui se résout quand elle est révélée, comme Renfort ou Incitation X, Spider-Man Noir peut déclencher sa réponse pour attacher cette carte à lui-même. Si aucune partie de la traîtrise ne se résout, il ne peut pas l'attacher.</span>
+R : Pour que la réponse de Spider-Man Noir se déclenche, une partie de la carte Traîtrise doit être résolue. Si la traîtrise a un mot-clé qui se résout quand elle est révélée, comme Renfort ou Incitation X, Spider-Man Noir peut déclencher sa réponse pour attacher cette carte à lui-même. Si aucune partie de la traîtrise ne se résout, il ne peut pas l'attacher.
 
 ## EXTENSION LA GÉNÈSE DES MUTANTS
 COUP DE POING PUISSANT (#14)  
@@ -361,9 +361,9 @@ OPÉRATION TOLÉRANCE ZÉRO (#104)
 **Q : Si un allié n'est pas défaussé après avoir été vaincu par une attaque ennemie (par exemple, il est renvoyé en main ou mélangé dans un deck), va-t-il sous Opération Tolérance Zéro ?**  
 R : Oui. Opération Tolérance Zéro ne précise pas où trouver l'allié vaincu au moment de sa résolution ; il est donc placé sous Opération Tolérance Zéro, quel que soit l'endroit où il s'est retrouvé.
 
-<span class="new">FABIAN CORTEZ (#159)  
+FABIAN CORTEZ (#159)  
 **Q : Si la capacité « Une fois vaincu » de Fabian Cortez met en jeu un sbire Acolyte avec le mot-clé Collaboration alors que Fabian Cortez est le seul autre sbire Acolyte en jeu, le mot-clé Collaboration de l'autre sbire se déclenche-t-il ?**  
-R : Non. Comme la mise en jeu de l'autre sbire est le dernier effet de la capacité « Une fois vaincu » de Fabian Cortez, Fabian Cortez est défaussé immédiatement quand l'autre sbire entre en jeu. Fabian Cortez n'est donc plus en jeu quand le mot-clé Collaboration de l'autre sbire tente de trouver un sbire Acolyte en jeu.</span>
+R : Non. Comme la mise en jeu de l'autre sbire est le dernier effet de la capacité « Une fois vaincu » de Fabian Cortez, Fabian Cortez est défaussé immédiatement quand l'autre sbire entre en jeu. Fabian Cortez n'est donc plus en jeu quand le mot-clé Collaboration de l'autre sbire tente de trouver un sbire Acolyte en jeu.
 
 ## PACK HÉROS CYCLOPE
 RAYON EN RICOCHET (#9)  
@@ -371,9 +371,9 @@ RAYON EN RICOCHET (#9)
 R : Exploiter Une Faiblesse augmente de 1 chaque occurrence de dégâts que Rayon En Ricochet inflige à l'ennemi auquel Exploiter Une Faiblesse est attachée ; Rayon Ricochet inflige donc un total de 8 dégâts à cet ennemi (4 + 4).
 
 ## PACK SCÉNARIO MOJOMANIA
-<span class="new">LE CRIME ETAIT PRESQUE MOJO (#35)  
+LE CRIME ETAIT PRESQUE MOJO (#35)  
 **Q : Si Le Crime Était Presque Mojo est en jeu quand Spiral se retourne, son mot-clé Incitation 1 se déclenche-t-il ?**  
-R : Oui. Les méchants sont des cartes Rencontre ; Le Crime Était Presque Mojo donne donc Incitation 1 à Spiral. Quand Spiral se retourne, sa nouvelle face est révélée, donc son Incitation 1 se résout.</span>
+R : Oui. Les méchants sont des cartes Rencontre ; Le Crime Était Presque Mojo donne donc Incitation 1 à Spiral. Quand Spiral se retourne, sa nouvelle face est révélée, donc son Incitation 1 se résout.
 
 LES MOJOS DE L'OUEST (#66)  
 **Q : Comment les dégâts de Déferlement sont-ils affectés par l'« Interruption forcée » des Mojos de l'Ouest ?**  
@@ -395,9 +395,9 @@ HONEY BADGER (#3)
 R : Non. Au moment où la « Réponse » de Honey Badger devrait se déclencher, elle a déjà quitté le jeu ; elle ne peut donc pas être déclenchée.
 
 ## PACK HÉROS DEADPOOL
-<span class="new">CRISE DES DEADPOOLS INFINIS (#37)  
+CRISE DES DEADPOOLS INFINIS (#37)  
 **Q : Crise des Deadpools Infinis est-elle incluse dans le deck Rencontre si une capacité permet à un joueur d'inclure une ou plusieurs cartes d'affinité ‘Pool hors de son affinité choisie ?**  
-R : Non. Crise des Deadpools Infinis est incluse uniquement si au moins un joueur choisit l'affinité ‘Pool comme (l'une de) ses affinités choisies.</span>
+R : Non. Crise des Deadpools Infinis est incluse uniquement si au moins un joueur choisit l'affinité ‘Pool comme (l'une de) ses affinités choisies.
 
 ## EXTENSION ÂGE D'APOCALYPSE
 MAGIK (#30A)  
@@ -411,22 +411,22 @@ R : Oui. Quand Magik joue une carte depuis le dessus de son deck, cette carte es
 R : Non. Mettre une carte en jeu n'est pas la même chose que jouer une carte, et la capacité de Magik lui permet uniquement de jouer la carte du dessus de son deck, pas de la mettre en jeu.
 
 ## EXTENSION AGENTS DU S.H.I.E.L.D.
-<span class="new">MARIA HILL (#1B)  
+MARIA HILL (#1B)  
 **Q : Puis-je inclure seulement une ou deux cartes soutien S.H.I.E.L.D. d'autres affinités que mon affinité choisie dans mon deck Maria Hill ?**  
-R : Non. La capacité de Maria Hill est du tout ou rien. Vous devez inclure le nombre maximum d'exemplaires de chacune de exactement trois cartes soutien S.H.I.E.L.D. d'affinités autres que la vôtre, sinon vous ne pouvez inclure aucun soutien S.H.I.E.L.D. d'autres affinités dans votre deck.</span>
+R : Non. La capacité de Maria Hill est du tout ou rien. Vous devez inclure le nombre maximum d'exemplaires de chacune de exactement trois cartes soutien S.H.I.E.L.D. d'affinités autres que la vôtre, sinon vous ne pouvez inclure aucun soutien S.H.I.E.L.D. d'autres affinités dans votre deck.
 
-</span>FURTIVITE (#35)  
+FURTIVITE (#35)  
 **Q : Quand la forme combinaison Furtivité de Nick Fury change l'activation du méchant en manigance, que se passe-t-il si ce méchant est désorienté ?**  
-R : La capacité d'interruption de Furtivité fait réinitier l'activation du méchant, cette fois comme activation de manigance ; l'état Désorienté annule donc cette activation (et Nick Fury ne place aucune menace sur son amélioration de forme combinaison).</span>
+R : La capacité d'interruption de Furtivité fait réinitier l'activation du méchant, cette fois comme activation de manigance ; l'état Désorienté annule donc cette activation (et Nick Fury ne place aucune menace sur son amélioration de forme combinaison).
 
 ## PACK HÉROS BLACK PANTHER
-<span class="new">LA TROMPE DE L'ÉLÉPHANT (#7)  
+LA TROMPE DE L'ÉLÉPHANT (#7)  
 **Q : Puis-je satisfaire le coût de la capacité d'action de la Trompe de l'Éléphant en inclinant seulement la Trompe de l'Éléphant elle-même ?**  
-R : Oui. La Trompe de l'Éléphant est elle-même un soutien Wakanda ; elle satisfait donc le minimum d'un allié ou soutien Wakanda requis pour payer le coût de sa capacité.</span>
+R : Oui. La Trompe de l'Éléphant est elle-même un soutien Wakanda ; elle satisfait donc le minimum d'un allié ou soutien Wakanda requis pour payer le coût de sa capacité.
 
-</span>REPÉREUR DE CIBLE (#38)  
+REPÉREUR DE CIBLE (#38)  
 **Q : Si j'utilise Repéreur de Cible sur un sbire révélé par un autre joueur, ce sbire engage-t-il quand même cet autre joueur ?**  
-R : Non. Repéreur de Cible interrompt l'engagement de ce sbire et le fait engager à la place le joueur qui utilise Repéreur de Cible.</span>
+R : Non. Repéreur de Cible interrompt l'engagement de ce sbire et le fait engager à la place le joueur qui utilise Repéreur de Cible.
 
 
 <details class="source"> <summary>EN v1.7</summary>GENERAL QUESTIONS 

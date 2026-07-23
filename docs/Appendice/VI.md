@@ -1,6 +1,6 @@
 # APPENDICE VI : Environnements de jeu
 
-<span class="new">(BÊTA)</span>
+(BÊTA)
 
 Lors de la préparation d'une partie, un groupe de joueurs peut choisir un environnement de jeu pour cette partie, ou décider de laisser chaque joueur choisir son propre environnement pour cette partie. L'environnement de jeu détermine quels produits Marvel Champions peuvent être utilisés pendant la personnalisation du deck joueur pour cette partie. En choisissant d'utiliser un environnement plus restreint, les joueurs peuvent tester leur créativité et leur maîtrise en personnalisant leurs decks joueurs avec un pool de cartes joueur plus limité.  
 

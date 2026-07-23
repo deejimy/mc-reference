@@ -6,8 +6,7 @@ Créer un référentiel du jeu Marvel Champions LCG, avec des définitions et de
 
 ## Instructions de traduction
 Le but est de rajouter le bloc `EN v1.8` au dessus du bloc `EN V1.7`.
-A partir du fichier .work/v1.8/allContent_cleaned.txt, il faut créer le bloc EN v1.8 à partir du titre de la section (titre en majuscule) dans le fichier docs/Glossaire correspondant. Le bloc à copier commence par son titre et termine par see also: ...
-Il ne doit pas avoir 2 sections copiées dans le même bloc EN v1.8.
+A partir du fichier .work/v1.8/appendice_cleaned.txt, il faut créer le bloc EN v1.8 à partir du titre de la section (titre en majuscule) dans le fichier docs/Appendice/*.md correspondant. Le bloc à copier commence par son titre et termine par see also: ...
 
 
 Exemple: 
