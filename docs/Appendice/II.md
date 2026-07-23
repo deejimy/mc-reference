@@ -38,7 +38,8 @@ Placez les piles de cartes d'état Sonné, Désorienté et Tenace à côté de c
 
 15. Résoudre les mulligans. Chaque joueur peut défausser n'importe quel nombre de cartes de sa main et piocher des cartes jusqu'à atteindre sa taille de main. (Pour le moment, ne remélangez pas dans leurs decks les cartes ainsi défaussées.)  
 
-16. Résoudre les capacités de mise en place des personnages. Résolvez toute instruction « Mise en place » inscrite sur les cartes Identité en jeu.  
+16. Résoudre les capacités de mise en place des <span class="new">joueurs</span>. Résolvez toute instruction « Mise en place » inscrite sur les cartes Identité en jeu.  
+
 La partie peut désormais commencer.  
 
 <details class="source">
