@@ -17,7 +17,6 @@ Each scenario comes with a recommended list of card sets that form the default e
 • Most scenarios (including all of the scenarios in the core set) include a modular encounter set within their recommended list. To customize a scenario for a different experience, remove the modular encounter set from the list, and add any other modular encounter set as desired.
 • It is possible to add multiple modular sets to a scenario, but this will dilute the encounter deck if too many are added.
 • To add an additional element of uncertainty to a scenario, the modular set may be chosen from a group of facedown sets, and shuffled directly into the encounter deck without looking at the cards.
-50 Ru l e s Re f eren c e
 
 APPENDIX II: SETUP
 To set up a game, perform the following steps in order:
@@ -38,13 +37,11 @@ To set up a game, perform the following steps in order:
 15. Resolve Mulligans. Each player may discard any number of cards from hand, and then draw up to their starting hand size. (Do not shuffle these discarded cards back into their decks at this time.)
 16. Resolve Player Setup Abilities. Resolve any “Setup” abilities on player cards in play.
 The game is now ready to begin.
-51 Ru l e s Re f eren c e
 
 APPENDIX III:
 CARD ANATOMY
 This section presents an anatomy of each card type. Player cards are detailed first, followed by encounter cards.
 
-PL AYER C ARD
 ANATOMY KEY
 1. Title. The name of this card.
 2. Card Type. Indicates how this card behaves or may be used in the game.
@@ -66,7 +63,6 @@ ANATOMY KEY
 
 ALLY
 UPGRADE
- © MARVEL © 2019 FFG 58
 ALLY
 THW
 ATK
@@ -80,7 +76,6 @@ MATT MURDOCK
 daredevil
 
 JUSTICE
-3 2 4 2 Illus. David Nakayama © MARVEL © 2019 FFG 57
 
 UPGRADE
 AGGRESSION
@@ -90,7 +85,7 @@ SKILL.
 Play under any player’s control.
 Max 1 per player.
 Your hero gets +1 ATK.
-“Tony! She did it again!” —Janet Van Dyne 2 1 6 3 4 10 13 9 7 17 5 2 1 7 15 52 Ru l e s Re f eren c e
+“Tony! She did it again!” —Janet Van Dyne 
 
 IDENTITY (HERO)
 IDENTITY
@@ -98,7 +93,6 @@ IDENTITY
 SUPPORT
 EVENT
 RESOURCE
-© MARVEL © 2019 FFG 1A
 ATK
 DEF
 HERO
@@ -106,7 +100,7 @@ THW
 HAND SIZE 5 / HIT POINTS 10
 AVENGER.
 Spider-Sense — Interrupt: When the villain initiates an attack against you, draw 1 card.
-“Just your friendly neighborhood Spider-Man!” Spider-Man 3 2 1 Illus. Gabriel Eltaeb © MARVEL © 2019 FFG 1B
+“Just your friendly neighborhood Spider-Man!” 
 
 REC
 ALTER-EGO
@@ -116,13 +110,11 @@ Scientist — Resource: Generate a  resource. (Limit once per round.) “Righ
 HAND SIZE 6 / HIT POINTS 10
 peter parker 3
 
- © MARVEL © 2019 FFG 43A
 EVENT
 BLACK PANTHER 3/15
 TACTIC.
 Hero Action: Resolve the “Special” ability of each Black Panther upgrade you control in any order. (Resolving each ability is a step in this sequence.) 1 wakanda forever!
 
- © MARVEL © 2019 FFG 76 73
 SUPPORT
 LOCATION. S.H.I.E.L.D.
 Increase your ally limit by 1. (This allows you to control more than 3 allies.) “Think they made it tall enough?” —She-Hulk the triSkelion
@@ -130,12 +122,10 @@ Increase your ally limit by 1. (This allows you to control more than 3 allies.) 
 LEADERSHIP
 1
 
- © MARVEL © 2019 FFG 88
 RESOURCE
 energy Max 1 per deck.
 
 BASIC
-10 9 11 2 14 6 16 12 2 14 6 5 3 4 7 8 7 8 1 2 7 8 53 Ru l e s Re f eren c e
 
 ENCOUNTER C ARD
 ANATOMY KEY
@@ -158,7 +148,6 @@ ANATOMY KEY
 VILLAIN
 MINION
 SIDE SCHEME
-© MARVEL © 2019 FFG 103
 SCH
 ATK
 MINION
@@ -169,7 +158,6 @@ CRIMINAL.
 RHINO (12/21)
 ShoCkeR   3 2 1
 
-© MARVEL © 2019 FFG 94
 VILLAIN
 SCH
 ATK
@@ -178,7 +166,7 @@ That’s who I am.”
 
 BRUTE. CRIMINAL.
 RHINO (1/21) / HIT POINTS 14
-Rhino I 2 1 Illus. Andrea Di Vito/Laura Villari © MARVEL © 2019 FFG 126
+Rhino I 2 1 Illus. Andrea Di Vito/Laura Villari 
 
 SIDE SCHEME
 Klaw is supplying villains with advanced weaponry from a clandestine arms facility.
@@ -186,29 +174,26 @@ When Revealed: Place an additional 1 threat here.
 �
 
 KLAW (20/21)
-illegal aRmS FaCToRy 3   6 7 13 5 14 1 12 6 7 5 3 2 8 4 1 8 9 54 Ru l e s Re f eren c e
+illegal aRmS FaCToRy 
 
 ATTACHMENT TREACHERY
 ENVIRONMENT
 MAIN SCHEME
 OBLIGATION
-© 2026 MARVEL. Fantasy Flight Supply is TM of Fantasy Flight Games. Fantasy Flight Games, the FFG logo, Living Card Game, LCG, and the LCG logo are ® Fantasy Flight Games. Fantasy Flight Games is located at 1995 West County Road B2, Roseville, Minnesota, 55113, USA, 651-639-1905.
-Actual components may vary from those shown. Permission granted to print or photocopy for personal use.
 
-© MARVEL © 2019 FFG 98
 ENCOUNTER GROUP (XX/XX) ATTACHMENT
 Attach to Rhino.
 Forced Interrupt: When any amount of damage would be dealt to Rhino, place it here instead. Then, if there is at least 5 damage here, discard Armored Rhino Suit.
 
 ARMOR.
 RHINO (5/21)
-aRmoRed Rhino SuiT Illus. Steve Ellis © MARVEL © 2019 FFG 111
+aRmoRed Rhino SuiT Illus. Steve Ellis 
 
 TREACHERY
 When Revealed: If Bomb Scare is in play, assign X damage among heroes and allies, where X is the amount of threat on Bomb Scare. If Bomb Scare is not in play, this card gains surge. exploSion
 
 BOMB SCARE (4/6)  
-Illus. Matt James © MARVEL © 2019 FFG 97B
+Illus. Matt James 
 
 MAIN SCHEME
 Rhino is trying to smash through the facility wall and steal a shipment of vibranium. You must stop him!
@@ -217,7 +202,6 @@ If this stage is completed, the players lose the game.
 RHINO (4/21)
 The BReak-in! 1B +1 0 7
 
-© MARVEL © 2019 FFG 140
 ENVIRONMENT
 Each facedown Drone minion engaged with a player has a base SCH of 1, a base ATK of 1, and a base hit points of 1.
 Forced Response: After a facedown Drone minion is defeated, place that card in its owner's discard pile.
@@ -225,7 +209,6 @@ Forced Response: After a facedown Drone minion is defeated, place that card in i
 ULTRON (7/25)
 ulTRon dRoneS
 
-© MARVEL © 2019 FFG 170
 OBLIGATION
 Give to the Tony Stark player.
 You may flip to alter-ego form. Choose:
@@ -235,7 +218,6 @@ Discard this obligation.
 BuSineSS pRoBlemS
 
 IRON MAN  
-1 4 15 2 3 2 14 8 1 4 13 9 10 12 11 1 1 4 13 55 Ru l e s Re f eren c e
 
 CARD BACKS
 This page presents the different card backs used in the game.
@@ -247,7 +229,6 @@ PLAYER CARD ENCOUNTER CARD
 VILLAIN CARD
 PLAYER CARD
 (ALTERNATE)
-56 Ru l e s Re f eren c e
 
 APPENDIX IV: FAQ
 GENERAL QUESTIONS
@@ -299,7 +280,7 @@ A: No. The additional damage that Repulsor Blast deals is a simultaneous modific
 PEPPER POTTS (#33)
 Q: Does Pepper Potts generate 2 resources if a card with 2 printed resources (such as Energy, Genius, or Strength) is on top of the discard pile?
 A: Yes. Pepper Potts generates a number of resources that are equal in quantity and type to the resources on the top card of the discard pile.
-57 Ru l e s Re f eren c e Q: Will Pepper Potts generate 2 resources if a “The Power of [Aspect]” resource card (such as The Power of Aggression) is on top of the discard pile?
+Q: Will Pepper Potts generate 2 resources if a “The Power of [Aspect]” resource card (such as The Power of Aggression) is on top of the discard pile?
 A: No. Though the resources that Pepper Potts generates are equal in quantity and type to the resources of the top card of the discard pile, Pepper Potts is the card that is generating these resources. This means that a The Power of [Aspect] card never generates resources itself, having no opportunity to generate additional resources for a card of its specified aspect.
 Q: Can Pepper Potts generate the resources of a card that is currently being spent?
 A: No. Resources are generated simultaneously, meaning the spent card will not be on top of the discard pile at the time Pepper Potts uses her ability.
@@ -346,7 +327,6 @@ GREEN GOBLIN SCENARIO PACK
 NORMAN OSBORN (#1A)
 Q: Will a stun status card prevent Norman Osborn’s attack activation?
 A: Yes. Because status cards take priority over all other abilities, a stun status card will prevent Norman Osborn’s activation.
-58 Ru l e s Re f eren c e
 
 GREEN GOBLIN (#1B)
 Q: While Green Goblin is attacking, if the last madness counter is removed from the State of Madness environment through a “Boost” ability, what happens?
@@ -401,7 +381,6 @@ A: Because Dance of Death creates three separate attacks, a stun status card on 
 ATTACROBATICS (#6)
 Q: Can Attacrobatics cancel 0 boost icons?
 A: No. Attacrobatics cannot be used to cancel the boost icons on a card that has none as there is no valid target for the ability.
-59 Ru l e s Re f eren c e
 
 WIDOW’S BITE (#10)
 Q: If I have Widow’s Bite in play and I reveal a minion with quickstrike, which resolves first?
@@ -465,7 +444,6 @@ A: Environment cards are considered to be in all players’ game areas.
 DEPOWERED (#20)
 Q: If Depowered is in Doctor Strange’s play area, can the Doctor Strange player still use the Invocation deck?
 A: Yes. The abilities on cards in the Invocation deck are merely resolved, not played.
-60 Ru l e s Re f eren c e
 
 WASP HERO PACK
 WASP (#1C)
@@ -512,7 +490,6 @@ A: Yes. Discarding is the act of attempting to place a card into a discard pile.
 SALVAGE (#33)
 Q: If the Hulk ally (Core Set #50) discards Salvage, what happens?
 A: Hulk’s ability checks all printed resources on Salvage simultaneously, then resolves the appropriate effect based on the result. Because this check and resolution is simultaneous, the player who controls Hulk chooses the order in which the effects resolve.
-61 Ru l e s Re f eren c e
 
 BATTERY PACK (#34)
 Q: Can Battery Pack move a charge counter to a Tech card that does not use “charge counters”?
@@ -570,7 +547,6 @@ Q: If there is more than one villain in play, which villain takes the excess dam
 A: The villain with the active counter takes the overkill damage.
 Q: What happens if a villain needs to activate and there are one or more villains in play but none of them have the active counter?
 A: Place the active counter on the villain with the lowest activation order value and continue that activation.
-62 Ru l e s Re f eren c e
 
 SCENARIO #5 - VENOM GOBLIN
 Q: What happens when one of the main schemes is completed?
@@ -618,7 +594,6 @@ A: The phrase “you are confused” instructs you to place a confused status ca
 OPERATION ZERO TOLERANCE (#104)
 Q: If an ally is not discarded after being defeated by an enemy attack (for instance, it is returned to hand or shuffled into a player’s deck), does it go under Operation Zero Tolerance?
 A: Yes. Operation Zero Tolerance does not specify where to find the defeated ally when it resolves, so it is placed under Operation Zero Tolerance, regardless of where it ended up.
-63 Ru l e s Re f eren c e
 
 FABIAN CORTEZ (#159)
 Q: If Fabian Cortez’s “When Defeated” ability puts an Acolyte minion with the teamwork keyword into play while Fabian Cortez is the only other Acolyte minion in play, will the teamwork keyword on the other minion trigger?
@@ -673,7 +648,6 @@ AGENTS OF S.H.I.E.L.D. EXPANSION
 MARIA HILL (#1B)
 Q: Can I include just one or two S.H.I.E.L.D. supports from aspects other than my chosen aspect in my Maria Hill deck?
 A: No, Maria Hill’s ability is all or nothing. You must include the maximum number of copies of each of exactly three S.H.I.E.L.D. supports from aspects other than your chosen aspect, or else you cannot have any S.H.I.E.L.D. supports from other aspects in your deck.
-64 Ru l e s Re f eren c e
 
 STEALTH (#35)
 Q: When Nick Fury’s Stealth suit form changes the villain’s activation to a scheme, what happens if that villain is confused?
@@ -729,7 +703,7 @@ Should read: “Interrupt: When attached scheme is defeated, deal 4 damage to an
 THOR HERO PACK
 LIGHTNING STRIKE (#6)
 Should read: “Hero Action: Spend X  resources → deal X damage to the villain and each minion engaged with you.
-This damage ignores tough status cards if you have the Aerial trait.” (Changed “attack” to “damage”.) 65 Ru l e s Re f eren c e
+This damage ignores tough status cards if you have the Aerial trait.” (Changed “attack” to “damage”.) 
 
 LOKI (#28)
 Should read: “Forced Interrupt: When Loki would be defeated, discard the top card of the encounter deck. If that card is a treachery, heal all damage from Loki instead.” (Changed “Interrupt” to “Forced Interrupt”.)
@@ -792,7 +766,7 @@ OBEDIENCE POTION (#123)
 Should read: “Hero Action: Take 1 damage and spend   resources → discard this card. Any player can do this.” (Changed reminder text to rules text.)
 
 THE POISON (#125)
-Should read: “Hero Action: Spend 3 resources of different types → discard this card. Any player can do this.” (Changed reminder text to rules text.) 66 Ru l e s Re f eren c e
+Should read: “Hero Action: Spend 3 resources of different types → discard this card. Any player can do this.” (Changed reminder text to rules text.) 
 
 STAR-LORD HERO PACK
 COSMO (#20)
@@ -857,7 +831,7 @@ VENOM I AND II (#73-74)
 Should read: “Vengeance — Forced Response: After you or an ally you control attacks and damages Venom, place 1 facedown boost card on your identity.” (Changed “you attack and damage Venom with a card you control” to “you or an ally you control attacks and damages Venom”.)
 
 VENOM III (#75)
-Should read: “Retribution — Forced Response: After you or an ally you control attacks and damages Venom, place 1 facedown boost card on your identity (2 facedown boost cards instead if this is the first attack this turn).” (Changed “you attack and damage Venom with a card you control” to “you or an ally you control attacks and damages Venom”.) 67 Ru l e s Re f eren c e
+Should read: “Retribution — Forced Response: After you or an ally you control attacks and damages Venom, place 1 facedown boost card on your identity (2 facedown boost cards instead if this is the first attack this turn).” (Changed “you attack and damage Venom with a card you control” to “you or an ally you control attacks and damages Venom”.)
 
 MANIPULATED MIND (#171)
 Should read: “When Revealed: Attach to the ally you control with the lowest cost. Attached ally engages its controller. Otherwise, this card gains surge.” (Added “Attached ally engages its controller.”)
@@ -913,7 +887,7 @@ Should read: “When Revealed: Attach to the ally with the lowest THW without Po
 GAMBIT HERO PACK
 PSIONIC SHIELD (#34)
 Should read: “Forced Interrupt: When attached minion would leave play, instead heal all damage from that minion.
-Then, discard this attachment.” (Removed “and put it back into play”.) 68 Ru l e s Re f eren c e
+Then, discard this attachment.” (Removed “and put it back into play”.) 
 
 ROGUE HERO PACK
 ANNA MARIE (#1A)
@@ -980,7 +954,7 @@ RADIATION EXPOSURE (#171A)
 The “SCH” modifier on this card should be a “THW” modifier.
 
 MACH-IV (#156)
-Should read: “Each character without the Aerial trait cannot defend against MACH-IV’s attacks.” (Changed “make basic defenses” to “defend”.) 69 Ru l e s Re f eren c e
+Should read: “Each character without the Aerial trait cannot defend against MACH-IV’s attacks.” (Changed “make basic defenses” to “defend”.)
 
 SILK HERO PACK
 EIDETIC MEMORY (#8)
@@ -1017,7 +991,7 @@ Should read: “Action: Choose an attachment on the enemy leader with the text �
 
 WONDER MAN HERO PACK
 IONIC PHYSIOLOGY (#2)
-Should read: “Response: After you play an event with a printed  resource, tuck that event from your discard pile under this card. Then, heal 1 damage from your identity.” (Changed cost arrow to “Then”.) 70 Ru l e s Re f eren c e
+Should read: “Response: After you play an event with a printed  resource, tuck that event from your discard pile under this card. Then, heal 1 damage from your identity.” (Changed cost arrow to “Then”.) 
 
 APPENDIX VI: GAME
 ENVIRONMENTS (BETA)
@@ -1067,4 +1041,3 @@ The waves released as of the publication of this document are:
 8. The Age of Apocalypse campaign expansion, the Iceman Hero Pack, the Jubilee Hero Pack, the Nightcrawler Hero Pack, and the Magneto Hero Pack.
 9. The Agents of S.H.I.E.L.D. campaign expansion, the Black Panther Hero Pack, the Silk Hero Pack, the Falcon Hero Pack, and the Winter Soldier Hero Pack.
 10. The Civil War custom scenario expansion, the Wonder Man Hero Pack, and the Hercules Hero Pack.
-71 Ru l e s Re f eren c e
