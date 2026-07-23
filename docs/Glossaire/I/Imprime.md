@@ -2,8 +2,8 @@
 
 Le mot « imprimé » désigne le texte, la caractéristique ou la valeur qui est physiquement imprimée sur la carte.  
 
-- <span class="new">Si un joueur doit payer un coût en utilisant des « ressources imprimées », il peut utiliser des ressources générées par la capacité d'une carte, tant que l'icône de la ou des ressources que cette carte génère est imprimée dans sa boîte de texte.</span>  
-    - <span class="new">Les ressources libres (![[icone_libre.jpg|15]]) ne peuvent pas être dépensées en tant qu'autres types de ressources pour un tel coût.</span>  
+- Si un joueur doit payer un coût en utilisant des « ressources imprimées », il peut utiliser des ressources générées par la capacité d'une carte, tant que l'icône de la ou des ressources que cette carte génère est imprimée dans sa boîte de texte.  
+    - Les ressources libres (![[icone_libre.jpg|15]]) ne peuvent pas être dépensées en tant qu'autres types de ressources pour un tel coût.  
 
 _Voir aussi : [[ValeurDeBase|Valeur de Base]], [[Modificateurs|Modificateurs]]_  
 

@@ -1,0 +1,12 @@
+
+1. Capacités constantes, effets retardés <span class="new">et</span> effets persistants.  
+2. <span class="new">Interruptions</span>
+    1. <span class="new">Status card “Forced Interrupt” abilities</span>
+    2. Capacités « Interruption forcée ».  
+    3. Capacités « Interruption ».  
+3. Capacités « Boost », « Une fois vaincu » et « Une fois révélée ».  
+4. <span class="new">Réponses</span>  
+    1. Capacités « Réponse Forcée ».  
+    2. Capacités « Réponse ».  
+5. Dégâts consécutifs.  
+

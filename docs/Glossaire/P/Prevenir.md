@@ -3,11 +3,11 @@
 Certaines capacités de cartes peuvent prévenir des dégâts ou des menaces.  
 
 - Quand des dégâts sont prévenus, diminuez la quantité de dégâts que la cible subit (c'est‑à‑dire la quantité de dégâts placée sur la cible).  
-    - <span class="new">Quand un effet prévient des dégâts infligés à un personnage, la quantité de dégâts que ce personnage « subit » est réduite, mais la quantité de dégâts « infligée » n'est pas réduite.</span>  
-    - <span class="new">Si un effet prévient tous les dégâts infligés à un personnage, ce personnage n'est pas considéré comme ayant subi des dégâts.</span>  
-    - <span class="new">Si tous les dégâts d'une attaque sont prévenus, le personnage attaquant est considéré comme ayant infligé des dégâts, mais il n'est pas considéré comme ayant « attaqué et blessé » le personnage attaqué.</span>  
-    - <span class="new">Si infliger des dégâts est un coût, ce coût est considéré comme payé même si une partie ou la totalité de ces dégâts est prévenue.</span>  
-    - <span class="new">Si subir des dégâts est un coût, ce coût n'est considéré comme payé que si la totalité de ces dégâts est subie. (Si une partie des dégâts est prévenue, le coût n'est pas payé.)</span>  
+    - Quand un effet prévient des dégâts infligés à un personnage, la quantité de dégâts que ce personnage « subit » est réduite, mais la quantité de dégâts « infligée » n'est pas réduite.  
+    - Si un effet prévient tous les dégâts infligés à un personnage, ce personnage n'est pas considéré comme ayant subi des dégâts.  
+    - Si tous les dégâts d'une attaque sont prévenus, le personnage attaquant est considéré comme ayant infligé des dégâts, mais il n'est pas considéré comme ayant « attaqué et blessé » le personnage attaqué.  
+    - Si infliger des dégâts est un coût, ce coût est considéré comme payé même si une partie ou la totalité de ces dégâts est prévenue.  
+    - Si subir des dégâts est un coût, ce coût n'est considéré comme payé que si la totalité de ces dégâts est subie. (Si une partie des dégâts est prévenue, le coût n'est pas payé.)  
 
 - Quand des menaces sont prévenues, diminuez la quantité de menaces assignées avant qu'elles ne soient placées sur la manigance.  
 

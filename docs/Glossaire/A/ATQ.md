@@ -9,6 +9,11 @@ See: Attack (Player Ability Type), Basic Power
 
 
 <details class="source">
+<summary>EN v1.8</summary>ATK
+See: Attack (Player Ability Type), Basic Power
+</details>
+
+<details class="source">
 <summary>FR v1.4</summary>ATQ
 Voir : Attaque, Pouvoir de Base
 </details>

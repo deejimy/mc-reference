@@ -1,6 +1,6 @@
 # Piocher, Piocher des Cartes
 
-<span class="new">S'il est demandé à un joueur de piocher une ou plusieurs cartes, ces cartes sont piochées depuis le dessus de son deck, une à la fois.</span>   
+S'il est demandé à un joueur de piocher une ou plusieurs cartes, ces cartes sont piochées depuis le dessus de son deck, une à la fois.   
 Si un joueur pioche au moins deux cartes comme résultat d'une seule étape de jeu ou capacité de carte, ces cartes sont piochées simultanément.  
 
 - Les cartes piochées sont ajoutées à la main du joueur.  

@@ -4,7 +4,7 @@ Traîtrise est un type de cartes Rencontre qui représente les tactiques, ruses,
 
 - Si une carte Traîtrise est révélée du deck Rencontre, le joueur qui a révélé la carte doit résoudre ses effets.  
 - Après avoir résolu les effets d'une carte Traîtrise (ou les avoir annulés), placez la carte dans la pile de défausse Rencontre.  
-    - <span class="new">Si une traîtrise cause une ou plusieurs activations d'ennemis comme dernier effet, cette carte de traîtrise est considérée comme résolue et est défaussée après que toutes ces activations se soient résolues.</span>  
+    - Si une traîtrise cause une ou plusieurs activations d'ennemis comme dernier effet, cette carte de traîtrise est considérée comme résolue et est défaussée après que toutes ces activations se soient résolues.  
 
 _Voir aussi : [[TypesDeCarte|Types de Carte]], [[DefausserDefausse|Défausse]], [[CartesRencontre|Carte Rencontre]], [[DeckRencontre|Deck Rencontre]], [[Reveler|Révéler]], [[MechantDeckMechant|Méchant]]_  
 

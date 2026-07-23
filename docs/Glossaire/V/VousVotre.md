@@ -2,13 +2,13 @@
 
 Lorsque vous résolvez des capacités de carte, si le mot « vous » peut être résolu comme faisant référence à l'identité du joueur, il doit être résolu de cette façon. Cela inclut (sans être exhaustif) les situations suivantes :  
 
-- <span class="new">Si une phrase utilise « vous » et/ou « votre » plusieurs fois, toutes les occurrences dans cette phrase font référence à la même identité ou au même joueur.</span>  
+- Si une phrase utilise « vous » et/ou « votre » plusieurs fois, toutes les occurrences dans cette phrase font référence à la même identité ou au même joueur.  
 - Si une capacité de carte « vous » inflige des dégâts ou si « vous » subissez des dégâts, le joueur qui résout ces dégâts les applique au compteur de point de vie de son identité.  
 - Si une capacité de carte « vous » inflige des dégâts indirects ou si « vous » subissez des dégâts indirects, le joueur qui résout ces dégâts les assigne aux personnages en jeu sous son contrôle.  
 - Si une capacité de carte « vous » incline, le joueur qui résout cette capacité incline son identité.  
 - Si une capacité de carte place une carte d'état sur « vous » (par exemple « vous êtes sonné »), le joueur qui résout cette capacité place la carte d'état sur son identité.  
 - Si une capacité de carte se déclenche suite à une fonction de jeu que « vous » avez effectuée (telle que « après que vous avez attaqué et vaincu un ennemi »), le joueur qui résout cette capacité doit la résoudre comme si l'identité qu'il contrôle avait effectué cette fonction de jeu, si possible. (Par exemple, si une capacité se déclenche « après que vous avez attaqué et vaincu un sbire », elle se déclenche après que l'identité contrôlée par le joueur a attaqué et vaincu un sbire, mais pas après qu'un allié sous le contrôle de ce joueur a attaqué et vaincu un sbire.)  
-- <span class="new">Exception : Pour les capacités qui se déclenchent « après qu'un [ennemi] vous attaque », « vous » fait référence au joueur attaqué, même si ce joueur a défendu avec un allié.</span>  
+- Exception : Pour les capacités qui se déclenchent « après qu'un [ennemi] vous attaque », « vous » fait référence au joueur attaqué, même si ce joueur a défendu avec un allié.  
 
 Lorsque vous résolvez des capacités de carte, si le mot « vous » ne peut pas être résolu comme faisant référence à l'identité du joueur, il doit être résolu comme se référant au joueur. Cela inclut (notamment) les situations suivantes :  
 
@@ -28,8 +28,8 @@ Les cartes considérées comme une extension de l'identité d'un joueur sont :
 Les cartes qui ne sont pas considérées comme une extension de l'identité d'un joueur sont : 
  
 - Alliés — Considérez que les attaques, contres, défenses, capacités d'action et capacités déclenchées qui se résolvent via des alliés en jeu contrôlés par un joueur ne sont pas effectués par l'identité de ce joueur.  
-- <span class="new">Cartes de rencontre — Les capacités déclenchées qui se résolvent depuis des cartes de rencontre ne sont pas considérées comme effectuées par l'identité du joueur, qu'elles soient optionnelles ou forcées.</span>  
-- <span class="new">Manigances côté joueur — Les capacités déclenchées provenant de manigances côté joueur en jeu sous le contrôle d'un joueur ne sont pas considérées comme effectuées par l'identité de ce joueur.</span>  
+- Cartes de rencontre — Les capacités déclenchées qui se résolvent depuis des cartes de rencontre ne sont pas considérées comme effectuées par l'identité du joueur, qu'elles soient optionnelles ou forcées.  
+- Manigances côté joueur — Les capacités déclenchées provenant de manigances côté joueur en jeu sous le contrôle d'un joueur ne sont pas considérées comme effectuées par l'identité de ce joueur.  
 - Soutiens — Considérez que les attaques, contres, défenses, capacités d'action et capacités déclenchées qui se résolvent via des soutiens en jeu contrôlés par un joueur ne sont pas effectués par l'identité de ce joueur.  
 
 _Voir aussi : [[Allie|Allié]], [[Amelioration|Amélioration]], [[Capacite|Capacité]], [[CartesJoueur|Carte Joueur]], [[DeckJoueur|Deck Joueur]], [[Evenement|Evénement]], [[Identite|Identité]], [[Joueur|Joueur]], [[Ressource|Ressource]], [[Soutien|Soutien]], [[ZoneDeJeuDUnJoueur|Zone de Jeu d'un Joueur]]_  

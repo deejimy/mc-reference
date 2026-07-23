@@ -3,7 +3,7 @@
 Un effet de remplacement remplace un effet spécifié par un effet différent.  
 La plupart des effets de remplacement sont des capacités d'interruption au format « Quand [condition de déclenchement] serait censée se produire, faites [effet de remplacement] à la place. »  
   
-- <span class="new">Lorsque qu'un effet est remplacé, il n'est plus considéré comme imminent et aucune interruption ni réponse supplémentaire à cet effet ne peut être initiée.</span>  
+- Lorsque qu'un effet est remplacé, il n'est plus considéré comme imminent et aucune interruption ni réponse supplémentaire à cet effet ne peut être initiée.  
 
 _Voir aussi : [[Capacite|Capacité]], [[EffetDalteration|Effet d'Altération]], [[Annuler|Annuler]], [[Interruption|Interruption]], [[Sinon|Sinon]], [[CapaciteDeclenchee|Capacité Déclenchée]], [[EtreCense|"Est censé"]]_  
 

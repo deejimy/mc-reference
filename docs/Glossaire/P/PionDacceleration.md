@@ -2,17 +2,17 @@
 
 ![[pion_acceleration.png]] Les pions Accélération fonctionnent comme les icônes d'Accélération, mais **ne sont pas** considérés comme des icônes d'Accélération. Ils sont placés à côté de la manigance principale pour rappeler d'ajouter X menaces supplémentaires à la manigance principale pendant l'étape un de la phase du Méchant, X étant le nombre de pions Accélération en jeu.  
 
-<span class="new">Les pions Accélération entrent en jeu de deux façons :</span>  
+Les pions Accélération entrent en jeu de deux façons :  
 
 - Si le deck Rencontre est vidé, placez un pion Accélération sur la manigance principale.  
 
 - Des effets de carte peuvent demander aux joueurs d'ajouter un pion Accélération en jeu.  
-    - <span class="new">Les pions Accélération placés sur des cartes autres que la manigance principale ajoutent quand même de la menace à la manigance principale pendant l'étape un de la phase du Méchant.</span>  
+    - Les pions Accélération placés sur des cartes autres que la manigance principale ajoutent quand même de la menace à la manigance principale pendant l'étape un de la phase du Méchant.  
 
-<span class="new">Les pions Accélération placés sur la manigance principale ne peuvent pas être retirés du jeu. Contrairement aux autres pions, lorsqu'une carte Manigance Principale quitte le jeu, le pion Accélération n'est pas défaussé.</span>  
+Les pions Accélération placés sur la manigance principale ne peuvent pas être retirés du jeu. Contrairement aux autres pions, lorsqu'une carte Manigance Principale quitte le jeu, le pion Accélération n'est pas défaussé.  
 
-- <span class="new">Les pions Accélération placés sur d'autres cartes sont retirés du jeu lorsque la carte sur laquelle ils sont placés quitte le jeu.</span>  
-- <span class="new">Les pions Accélération ne sont pas considérés comme des icônes d'Accélération, et inversement.</span>  
+- Les pions Accélération placés sur d'autres cartes sont retirés du jeu lorsque la carte sur laquelle ils sont placés quitte le jeu.  
+- Les pions Accélération ne sont pas considérés comme des icônes d'Accélération, et inversement.  
 
 _Voir aussi : [[DeckRencontre|Deck Rencontre]], [[Index|Limitation du matériel]], [[ManigancePrincipaleDeckManigancePrincipale|Manigance Principale]], [[PhaseDuMechant|Phase du Méchant]]_  
 

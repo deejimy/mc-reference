@@ -9,11 +9,11 @@ Pour révéler une carte Rencontre, suivez les étapes suivantes :
 - Attachement : il entre en jeu attaché à l'élément de jeu spécifié par son texte.  
 - Environnement : il entre en jeu à côté du méchant.  
 - Sbire : il entre en jeu dans la zone de jeu du joueur qui la révèle. Il est considéré comme engagé avec ce joueur.  
-- Obligation : <span class="new">elle entre en jeu dans la zone de jeu du joueur qui la révèle.</span>  
-    - <span class="new">Si la carte précise un joueur auquel la donner, ce joueur est considéré comme celui qui la révèle.</span>  
+- Obligation : elle entre en jeu dans la zone de jeu du joueur qui la révèle.  
+    - Si la carte précise un joueur auquel la donner, ce joueur est considéré comme celui qui la révèle.  
 - Manigance annexe : elle entre en jeu à côté de la manigance principale.  
-- Traîtrise : <span class="new">placez‑la sur la table devant le joueur qui la révèle (elle n'est pas en jeu).</span>  
-- <span class="new">Autre : placez‑la sur la table devant le joueur qui la révèle (elle n'est pas en jeu).</span>  
+- Traîtrise : placez‑la sur la table devant le joueur qui la révèle (elle n'est pas en jeu).  
+- Autre : placez‑la sur la table devant le joueur qui la révèle (elle n'est pas en jeu).  
 3. Résolvez chaque capacité « une fois révélée » présente sur cette carte (y compris celles fournies par des mots‑clés).  
 4. Si la carte est une traîtrise, défaussez‑la.  
 

@@ -1,6 +1,6 @@
 # Capacité déclenchée
 
-<span class="new">Une capacité déclenchée est indiquée par un indicatif de déclenchement en gras suivi de deux points, puis du texte de la capacité.</span>  
+Une capacité déclenchée est indiquée par un indicatif de déclenchement en gras suivi de deux points, puis du texte de la capacité.  
 
 _Voir aussi : [[Capacite|Capacité]], [[Action|Action]], [[Forcee|Forcée]], [[Interruption|Interruption]], [[RessourceCapacite|Ressource (capacité)]], [[Reponse|Réponse]], [[MiseEnPlaceCapaciteDeclenchee|Mise en Place (Capacité Déclenchée)]], [[ResolutionSimultanee|Résolution Simultanée]], [[Special|Spécial]], [[ConditionDeDeclenchement|Condition de Déclenchement]], [[CapaciteUneFoisVaincuDejouee|Capacités une fois vaincu / déjouée]], [[CapaciteUneFoisRevelee|Capacités une fois révélée]]_
 

@@ -2,13 +2,13 @@
 
 Une capacité de réponse est un type de capacité déclenchée signalé par l'indicatif de déclenchement en gras « Réponse ». Les capacités de réponse peuvent être exécutées après que la condition de déclenchement spécifiée s'est produite, comme décrit dans le texte de la capacité de réponse.  
 
-- <span class="new">Les joueurs ne peuvent déclencher des capacités de réponse que sur des cartes qu'ils contrôlent ou sur des cartes Rencontre.</span>  
-    - <span class="new">Les joueurs ne peuvent pas déclencher de capacités de réponse sur des Obligations situées dans la zone de jeu d'un autre joueur.</span>  
+- Les joueurs ne peuvent déclencher des capacités de réponse que sur des cartes qu'ils contrôlent ou sur des cartes Rencontre.  
+    - Les joueurs ne peuvent pas déclencher de capacités de réponse sur des Obligations situées dans la zone de jeu d'un autre joueur.  
 
-- Plusieurs réponses peuvent être exécutées suite à la même condition de déclenchement, <span class="new">mais chaque réponse ne peut être déclenchée qu'une seule fois par occurrence de la condition de déclenchement.</span>  
-    - <span class="new">Plusieurs exemplaires d'une carte possédant une réponse peuvent chacun être déclenchés par la même condition de déclenchement.</span>  
+- Plusieurs réponses peuvent être exécutées suite à la même condition de déclenchement, mais chaque réponse ne peut être déclenchée qu'une seule fois par occurrence de la condition de déclenchement.  
+    - Plusieurs exemplaires d'une carte possédant une réponse peuvent chacun être déclenchés par la même condition de déclenchement.  
 
-- <span class="new">Si un seul effet provoque plusieurs conditions de déclenchement, les réponses à chacune de ces conditions peuvent être résolues dans n'importe quel ordre. (Par exemple, si une attaque déclenche à la fois des réponses « après que vous avez attaqué » et « après que vous avez vaincu », ces réponses peuvent être résolues dans n'importe quel ordre.)</span>  
+- Si un seul effet provoque plusieurs conditions de déclenchement, les réponses à chacune de ces conditions peuvent être résolues dans n'importe quel ordre. (Par exemple, si une attaque déclenche à la fois des réponses « après que vous avez attaqué » et « après que vous avez vaincu », ces réponses peuvent être résolues dans n'importe quel ordre.)  
 
 - Une fois que tous les joueurs ont consécutivement passé leur opportunité de répondre à une condition de déclenchement, aucune réponse pour cette instance de condition ne peut être utilisée.  
 

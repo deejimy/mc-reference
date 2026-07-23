@@ -4,9 +4,9 @@ Chaque identité est fournie avec son set de rencontre Némésis associé. Au d�
 
 - Un set de rencontre Némésis est un sous-groupe d'un set spécifique à l'identité.  
 - Les cartes d'un set de Némésis ne peuvent être utilisées avec une identité que si ces cartes partagent une icône de set avec cette identité.  
-- <span class="new">Le « sbire Némésis » d'une identité est le sbire appartenant au set de Némésis de cette identité.  </span>
-    - <span class="new">Si un set de Némésis contient plusieurs sbires, le « sbire Némésis » est désigné par un texte entre parenthèses imprimé sur un ou plusieurs de ces sbires.  </span>
-- <span class="new">La « manigance annexe Némésis » d'une identité est la manigance annexe appartenant au set de Némésis de cette identité.  </span>
+- Le « sbire Némésis » d'une identité est le sbire appartenant au set de Némésis de cette identité.  
+    - Si un set de Némésis contient plusieurs sbires, le « sbire Némésis » est désigné par un texte entre parenthèses imprimé sur un ou plusieurs de ces sbires.  
+- La « manigance annexe Némésis » d'une identité est la manigance annexe appartenant au set de Némésis de cette identité.  
 
 _Voir aussi : [[CartesSpecifiquesALidentite|Carte Spécifique à l'Identité]], [[EnJeuEtHorsJeu|En Jeu et Hors Jeu]], [[Identite|Identité]], [[Joueur|Joueur]]_  
 

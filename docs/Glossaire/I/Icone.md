@@ -13,7 +13,7 @@ Une icône est un élément de jeu qui symbolise diverses fonctions du jeu.
 - Icône de Boost (![[icone_boost.jpg|15]]) : une icône de boost augmente l'ATQ ou la MNG de l'ennemi qui s'active lors des activations ennemies.  
 - Icône d'Étoile (![[icone_etoile.jpg|15]]) : une icône d'étoile est utilisée avec une statistique ou un champ de boost d'une carte pour indiquer qu'il existe une capacité obligatoire dans la boîte de texte correspondant à ce champ.  
 - Icône de Dégâts Consécutifs (![[icone_consecutif.jpg|15]]) : une icône de dégâts consécutifs est utilisée avec le champ ATQ ou CTR d'un allié ; après qu'un allié attaque ou contre, il subit 1 dégât consécutif par icône de dégâts consécutifs dans ce champ.  
-- <span class="new">Icône de coût (→) : une icône en forme de flèche sépare le coût d'une capacité de ses effets.</span>  
+- Icône de coût (→) : une icône en forme de flèche sépare le coût d'une capacité de ses effets.  
 - Icône Par Joueur (![[icone_joueur.jpg|15]]) : une icône par joueur à côté d'une valeur multiplie cette valeur par le nombre de joueurs ayant commencé le scénario.  
 - Icône Unique (![[icone_unique.jpg|15]]) : une icône unique dans le titre d'une carte indique que la carte est unique.  
 

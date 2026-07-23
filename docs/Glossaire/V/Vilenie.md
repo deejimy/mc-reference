@@ -4,7 +4,7 @@ Quand un sbire avec le mot-clé Vilenie s'active, donnez-lui une carte de boost 
 Quand vous résolvez l'activation de ce sbire, retournez la carte de boost face visible, résolvez ses éventuelles capacités de boost présentes et appliquez les icônes de boost aux valeurs de ce sbire pour cette activation.  
 Défaussez la carte de boost après cette activation.  
 
-- <span class="new">Si une capacité de boost sur une carte de boost donnée à un sbire fait référence à « le méchant », cette capacité s'applique toujours au méchant (même si c'est un sbire qui la résout).</span>  
+- Si une capacité de boost sur une carte de boost donnée à un sbire fait référence à « le méchant », cette capacité s'applique toujours au méchant (même si c'est un sbire qui la résout).  
 
 _Voir aussi : [[Activation|Activation]], [[AttaqueActivationDesEnnemis|Attaque (Activation des Ennemis)]], [[BoostIconeDeBoost|Boost]], [[DefausserDefausse|Défausse]], [[MotsCles|Mots-clés]], [[Sbire|Sbire]], [[TexteDeRappel|Texte de Rappel]], [[ManiganceActivationDesEnnemis|Manigance (Activation des Ennemis)]]_  
 

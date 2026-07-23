@@ -4,14 +4,14 @@ La manigance principale est un type de carte Rencontre représentant l'objectif 
 
 - Pendant la première étape de la phase du méchant, placez sur la manigance principale la quantité de menaces indiquée dans son champ d'accélération (coin inférieur droit). Cette valeur est modifiée par tous les pions et icônes d'accélération actifs.  
 - Si la quantité de menaces sur une manigance principale est supérieure ou égale à sa valeur de menace cible, cette manigance est considérée comme déjouée et le deck Manigance Principale avance.  
-    - <span class="new">Si le méchant achève le dernier stade du deck Manigance Principale, le méchant gagne la partie.</span>  
-    - <span class="new">Si le deck Manigance Principale avance autrement que parce que la menace sur la carte a atteint ou dépassé sa valeur de menace cible, cette manigance n'est pas considérée comme déjouée.</span>  
+    - Si le méchant achève le dernier stade du deck Manigance Principale, le méchant gagne la partie.  
+    - Si le deck Manigance Principale avance autrement que parce que la menace sur la carte a atteint ou dépassé sa valeur de menace cible, cette manigance n'est pas considérée comme déjouée.  
 
-- <span class="new">Quand le deck Manigance Principale avance, procédez ainsi :</span>  
+- Quand le deck Manigance Principale avance, procédez ainsi :  
 
-    1. <span class="new">Retirez le haut du deck Manigance Principale de la partie. Renvoyez tous les jetons qui étaient sur cette carte (sauf les pions Accélération) dans la réserve de jetons et défaussez chaque carte qui y était attachée.</span>  
-    2. <span class="new">Résolvez toute capacité « Une fois révélée » sur la face « A » de la nouvelle carte du haut du deck Manigance Principale.</span>  
-    3. <span class="new">Retournez la carte du haut du deck Manigance Principale sur sa face « B », placez dessus un nombre de menaces égal à sa valeur de menace de départ, puis résolvez toute capacité « Une fois révélée » présente sur cette face.</span>  
+    1. Retirez le haut du deck Manigance Principale de la partie. Renvoyez tous les jetons qui étaient sur cette carte (sauf les pions Accélération) dans la réserve de jetons et défaussez chaque carte qui y était attachée.  
+    2. Résolvez toute capacité « Une fois révélée » sur la face « A » de la nouvelle carte du haut du deck Manigance Principale.  
+    3. Retournez la carte du haut du deck Manigance Principale sur sa face « B », placez dessus un nombre de menaces égal à sa valeur de menace de départ, puis résolvez toute capacité « Une fois révélée » présente sur cette face.  
 
 - Quand le deck Manigance Principale avance, la menace excédentaire du stade précédent n'est pas reportée sur le nouveau stade.  
 - Quand le deck Manigance Principale avance, les pions Accélération qui étaient dessus sont reportés sur le nouveau stade.  

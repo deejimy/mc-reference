@@ -3,11 +3,11 @@
 Les étapes de la phase du Méchant sont les suivantes :  
 
 1. Placez la quantité de menaces indiquée dans le champ d'accélération de la manigance principale sur cette manigance.  
-<span class="new">Si un ou plusieurs icônes Accélération ou pions Accélération sont actifs, placez également un nombre de menaces supplémentaires égal à la somme de ces icônes et pions.</span>  
+Si un ou plusieurs icônes Accélération ou pions Accélération sont actifs, placez également un nombre de menaces supplémentaires égal à la somme de ces icônes et pions.  
 
-2. Le méchant s'active une fois par joueur. <span class="new">Dans l'ordre des joueurs, chaque joueur résout ce qui suit :</span>  
+2. Le méchant s'active une fois par joueur. Dans l'ordre des joueurs, chaque joueur résout ce qui suit :  
     1. Le méchant s'active contre ce joueur.  
-    2. <span class="new">Chaque sbire engagé avec ce joueur s'active contre lui, dans l'ordre choisi par ce joueur.</span>  
+    2. Chaque sbire engagé avec ce joueur s'active contre lui, dans l'ordre choisi par ce joueur.  
 
 3. Attribuez une carte Rencontre à chaque joueur. Attribuez une carte supplémentaire pour chaque icône d'aléas sur une carte en jeu. Ces cartes supplémentaires sont attribuées dans l'ordre des joueurs.  
 
@@ -15,7 +15,7 @@ Les étapes de la phase du Méchant sont les suivantes :
 
 5. Passez le pion Premier Joueur au joueur suivant dans le sens horaire.  
 
-6. <span class="new">Fin de la phase du Méchant et du round.</span>   
+6. Fin de la phase du Méchant et du round.   
     1. Les effets qui durent « jusqu'à la fin de la phase du Méchant » ou « jusqu'à la fin du round » prennent fin.  
     2. Résolvez ensuite les effets « quand/ après la fin de la phase du Méchant » ou « quand/ après la fin du round ».   
 

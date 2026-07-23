@@ -9,10 +9,10 @@ Lors de son tour, un joueur peut effectuer les options suivantes, dans n'importe
 - Déclencher une capacité « Action » sur :  
     1. Une carte en jeu qu'il contrôle.    
     2. Une carte Rencontre en jeu.  
-    3. <span class="new">Toute carte en jeu dont le texte permet à ce joueur de déclencher sa capacité d'action.</span>  
+    3. Toute carte en jeu dont le texte permet à ce joueur de déclencher sa capacité d'action.  
     4. Une carte Événement dans sa main (en jouant cet Événement).  
 - 
-	- <span class="new">Si la capacité d'action est précédée de « Héros » ou « Alter‑ego », le joueur doit être sous la forme spécifiée pour pouvoir déclencher la capacité.</span>  
+	- Si la capacité d'action est précédée de « Héros » ou « Alter‑ego », le joueur doit être sous la forme spécifiée pour pouvoir déclencher la capacité.  
 
 - Demander à un autre joueur de déclencher une capacité « Action » que ce joueur pourrait déclencher lors de son propre tour ; l'autre joueur décide ensuite s'il déclenche ou non la capacité. (Un autre joueur peut également proposer d'utiliser une action lors du tour du joueur actif.)  
 

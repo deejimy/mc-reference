@@ -1,8 +1,8 @@
 # Ignorer  
 
-<span class="new">Une capacité qui ignore une capacité, une icône ou un coût considère que cette capacité, icône ou coût n'est pas en vigueur ou présent pendant la résolution de cette capacité.</span>  
+Une capacité qui ignore une capacité, une icône ou un coût considère que cette capacité, icône ou coût n'est pas en vigueur ou présent pendant la résolution de cette capacité.  
 
-- <span class="new">Quand une carte est jouée « en ignorant son coût en ressources », aucune ressource n'est payée pour cette carte. Aux fins des effets de carte, cette carte est considérée comme ayant été jouée avec zéro ressource payée pour son coût.</span>  
+- Quand une carte est jouée « en ignorant son coût en ressources », aucune ressource n'est payée pour cette carte. Aux fins des effets de carte, cette carte est considérée comme ayant été jouée avec zéro ressource payée pour son coût.  
 
 _Voir aussi : [[Capacite|Capacité]], [[Cout|Coût]], [[Icone|Icônes]], [[ExigenceRessources|Exigence (Ressources)]]_  
 

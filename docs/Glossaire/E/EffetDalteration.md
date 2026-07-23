@@ -2,7 +2,7 @@
 
 Un effet d'altération modifie la résolution d'une capacité qui le précède. Les différents types d'effets d'altération sont « supplémentaire », « déjà » et « chaque fois ».  
 
-<span class="new">Par exemple : un effet persistant du type « jusqu'à la fin de la phase, votre héros gagne +1 ATQ pour chaque sbire en jeu » modifie l'ATQ du héros affecté chaque fois qu'un sbire entre ou quitte le jeu pendant cette phase.</span>  
+Par exemple : un effet persistant du type « jusqu'à la fin de la phase, votre héros gagne +1 ATQ pour chaque sbire en jeu » modifie l'ATQ du héros affecté chaque fois qu'un sbire entre ou quitte le jeu pendant cette phase.  
 
 `Supplémentaire` — Le mot « supplémentaire » implique une modification à une capacité ou à un état de la partie. Le modificateur supplémentaire est résolu en même temps que la capacité qu'il modifie et selon les mêmes conditions qui s'appliquent à cette capacité. (Par exemple, sur « Rayon Répulsif », il est écrit : « Action de héros (attaque) : infligez 1 dégât à un ennemi et défaussez les 5 cartes du dessus de votre deck. Pour chaque ressource ![[icone_energie.jpg|15]] imprimée défaussée par cet effet, infligez 2 dégâts supplémentaires à cet ennemi. »)  
 

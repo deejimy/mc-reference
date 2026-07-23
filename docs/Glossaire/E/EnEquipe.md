@@ -2,8 +2,8 @@
 
 Le mot-clé `En Equipe` est suivi du nom de deux personnages. Pour inclure une carte avec le mot-clé En Equipe dans votre deck, votre identité doit correspondre au nom d'un de ces deux personnages.  De plus, une carte avec le mot-clé `En Equipe` ne peut être jouée que si les deux personnages nommés sont en jeu (en tant qu'identités ou en tant qu'alliés).  
 
-- <span class="new">Un allié compte comme un personnage nommé si son titre ou son sous-titre correspond au personnage nommé.  
-</span>
+- Un allié compte comme un personnage nommé si son titre ou son sous-titre correspond au personnage nommé.  
+
 
 _Voir aussi : [[Allie|Allié]], [[EnJeuEtHorsJeu|En Jeu et Hors Jeu]], [[Identite|Identité]], [[JouerMettreEnJeu|Jouer]], [[MotsCles|Mots-clés]], [[TexteDeRappel|Texte de Rappel]], [[I|Appendice I : Decks Personnalisés]]_  
 

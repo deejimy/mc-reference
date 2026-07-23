@@ -1,19 +1,19 @@
 # "Pour Chaque"
 
-<span class="new">« Pour chaque » indique qu'un effet est répété en fonction du nombre d'un élément de jeu dénombrable.</span>  
+« Pour chaque » indique qu'un effet est répété en fonction du nombre d'un élément de jeu dénombrable.  
 
-- <span class="new">Si un effet contenant « pour chaque » exige une cible, cet effet s'applique à une seule cible, sauf si la clause « pour chaque » inclut une instruction « choisissez ».</span>  
-    - <span class="new">Par exemple, un effet indiquant « Pour chaque traîtrise ainsi examinée, retirez 1 menace d'une manigance » retire la menace d'une seule manigance.</span>  
-    - <span class="new">À l'inverse, un effet indiquant « Pour chaque amélioration que vous contrôlez, choisissez un ennemi et infligez‑lui 2 dégâts » vous permet de choisir un ennemi différent pour chaque amélioration que vous contrôlez.</span>  
+- Si un effet contenant « pour chaque » exige une cible, cet effet s'applique à une seule cible, sauf si la clause « pour chaque » inclut une instruction « choisissez ».  
+    - Par exemple, un effet indiquant « Pour chaque traîtrise ainsi examinée, retirez 1 menace d'une manigance » retire la menace d'une seule manigance.  
+    - À l'inverse, un effet indiquant « Pour chaque amélioration que vous contrôlez, choisissez un ennemi et infligez‑lui 2 dégâts » vous permet de choisir un ennemi différent pour chaque amélioration que vous contrôlez.  
 
-- <span class="new">Si un effet « pour chaque » sans instruction « choisissez » inflige des dégâts ou retire de la menace, il est considéré comme une seule instance de dégâts infligés ou de menace retirée, respectivement.</span>  
+- Si un effet « pour chaque » sans instruction « choisissez » inflige des dégâts ou retire de la menace, il est considéré comme une seule instance de dégâts infligés ou de menace retirée, respectivement.  
 
-- <span class="new">Si un effet « pour chaque » comporte une instruction « choisissez », chaque itération de ce choix est considérée comme une instance distincte de cet effet, même si la même cible est choisie plusieurs fois.</span>  
-    - <span class="new">L'état de jeu est mis à jour après chaque instance (par exemple, si un sbire ou une manigance annexe est vaincu).</span>  
-    - <span class="new">Des réponses peuvent se déclencher après chaque instance.</span>  
-    - <span class="new">Par exemple, si un joueur est engagé avec un sbire Garde et utilise un effet indiquant « pour chaque ressource dépensée ainsi, choisissez un ennemi et infligez‑lui 2 dégâts », ce joueur peut vaincre le sbire Garde avec une instance de 2 dégâts, rendant le méchant une cible valide pour les instances suivantes. Le joueur peut déclencher une capacité de réponse telle que « Après que vous avez infligé des dégâts à un ennemi » après chaque instance.</span>  
+- Si un effet « pour chaque » comporte une instruction « choisissez », chaque itération de ce choix est considérée comme une instance distincte de cet effet, même si la même cible est choisie plusieurs fois.  
+    - L'état de jeu est mis à jour après chaque instance (par exemple, si un sbire ou une manigance annexe est vaincu).  
+    - Des réponses peuvent se déclencher après chaque instance.  
+    - Par exemple, si un joueur est engagé avec un sbire Garde et utilise un effet indiquant « pour chaque ressource dépensée ainsi, choisissez un ennemi et infligez‑lui 2 dégâts », ce joueur peut vaincre le sbire Garde avec une instance de 2 dégâts, rendant le méchant une cible valide pour les instances suivantes. Le joueur peut déclencher une capacité de réponse telle que « Après que vous avez infligé des dégâts à un ennemi » après chaque instance.  
 
-- <span class="new">Si une autre capacité modifie un effet « pour chaque », ce modificateur s'applique à chaque instance de l'effet « pour chaque ». (Par exemple, "Lames en Rafales" est un évènement ayant l'effet : « Pour chaque Psi‑Katana, choisissez un ennemi et infligez‑lui 2 dégâts. » Si cet effet est modifié par une capacité indiquant « cet évènement inflige 1 dégât supplémentaire », "Lames en Rafales" inflige 3 dégâts à chaque ennemi choisi.)</span>  
+- Si une autre capacité modifie un effet « pour chaque », ce modificateur s'applique à chaque instance de l'effet « pour chaque ». (Par exemple, "Lames en Rafales" est un évènement ayant l'effet : « Pour chaque Psi‑Katana, choisissez un ennemi et infligez‑lui 2 dégâts. » Si cet effet est modifié par une capacité indiquant « cet évènement inflige 1 dégât supplémentaire », "Lames en Rafales" inflige 3 dégâts à chaque ennemi choisi.)  
 
 _Voir aussi : [[Capacite|Capacité]], [[Cible|Cible]]_  
 

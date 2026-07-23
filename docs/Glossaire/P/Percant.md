@@ -2,7 +2,7 @@
 
 Une attaque avec le mot‑clé `Perçant` défausse toute carte d'état Tenace de la cible de l'attaque avant d'infliger ses dégâts.  
 
-<span class="new">Si une attaque avec le mot‑clé `Perçant` ne doit infliger aucun dégât à la cible de l'attaque, elle ne défausse pas les cartes d'état Tenace de cette cible.</span>  
+Si une attaque avec le mot‑clé `Perçant` ne doit infliger aucun dégât à la cible de l'attaque, elle ne défausse pas les cartes d'état Tenace de cette cible.  
 
 _Voir aussi : [[AttaqueActivationDesEnnemis|Attaque (Activation des Ennemis)]], [[AttaqueActivationDuJoueur|Attaque (Action de Joueur)]], [[Degats|Dégâts]], [[MotsCles|Mots-clés]], [[TexteDeRappel|Texte de Rappel]], [[CartesDetat|Cartes d'état]], [[Cible|Cible]], [[Tenacite|Tenace/Ténacité]]_  
 

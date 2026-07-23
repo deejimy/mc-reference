@@ -2,11 +2,11 @@
 
 Quand une carte ayant le mot-clé victoire X est déjouée ou vaincue, placez-la dans la pile de victoire au lieu de la pile de défausse de son propriétaire.  
 
-- <span class="new">Un personnage ou une manigance secondaire portant le mot‑clé `Victoire X` est placé dans la pile de victoire lorsqu'il est vaincu.</span>  
+- Un personnage ou une manigance secondaire portant le mot‑clé `Victoire X` est placé dans la pile de victoire lorsqu'il est vaincu.  
 
-- <span class="new">Un attachement ou une amélioration portant le mot‑clé `Victoire X` est placé dans la pile de victoire lorsque la carte à laquelle il est attaché est vaincue. (La carte à laquelle l'attachement ou l'amélioration était attaché est défaussée normalement.)</span>  
+- Un attachement ou une amélioration portant le mot‑clé `Victoire X` est placé dans la pile de victoire lorsque la carte à laquelle il est attaché est vaincue. (La carte à laquelle l'attachement ou l'amélioration était attaché est défaussée normalement.)  
 
-- <span class="new">Une carte portant à la fois les mots‑clés victoire X et utilisations (X "type") est placée dans la pile de victoire lorsque son dernier jeton générique est retiré.</span>  
+- Une carte portant à la fois les mots‑clés victoire X et utilisations (X "type") est placée dans la pile de victoire lorsque son dernier jeton générique est retiré.  
 Tant qu'elle est dans la pile de victoire, X indique le nombre de points de victoire que rapporte cette carte. (X est la valeur indiquée à côté du mot-clé Victoire.)  
 
 - Certains scénarios et certaines campagnes peuvent comptabiliser le nombre de points de victoire dans la pile de victoire.  

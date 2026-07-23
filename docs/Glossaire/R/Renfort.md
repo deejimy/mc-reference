@@ -2,7 +2,7 @@
 
 Après qu'une carte Rencontre dotée du mot‑clé `Renfort` a été révélée, le joueur qui résout cette carte révèle une carte Rencontre supplémentaire du dessus du deck Rencontre.  
 
-- Terminez le processus de résolution de la carte originale, <span class="new">ainsi que toute capacité de Réponse qui est déclenchée par la révélation de cette carte,</span> avant de révéler la carte supplémentaire.  
+- Terminez le processus de résolution de la carte originale, ainsi que toute capacité de Réponse qui est déclenchée par la révélation de cette carte, avant de révéler la carte supplémentaire.  
 
 _Voir aussi : [[CartesRencontre|Carte Rencontre]], [[DeckRencontre|Deck Rencontre]], [[MotsCles|Mots-clés]], [[TexteDeRappel|Texte de Rappel]], [[Reveler|Révéler]]_  
 

@@ -20,11 +20,11 @@ De plus, certains sbires uniques peuvent porter le même titre que d'autres pers
 
 - Si une capacité de carte tente de mettre en jeu un sbire unique alors qu'un autre personnage unique avec le même titre est déjà en jeu, ce sbire ne peut pas entrer en jeu et l'effet de « mise en jeu » échoue à se résoudre. Résolvez le reste de la capacité de la carte normalement.  
 
-- <span class="new">Lors du choix des identités lors de la mise en place, les joueurs ne peuvent pas choisir d'identités qui se correspondent.</span>   
-    - <span class="new">Les joueurs peuvent choisir un scénario même si un ou plusieurs méchants correspondent à une ou plusieurs identités choisies.</span>  
+- Lors du choix des identités lors de la mise en place, les joueurs ne peuvent pas choisir d'identités qui se correspondent.   
+    - Les joueurs peuvent choisir un scénario même si un ou plusieurs méchants correspondent à une ou plusieurs identités choisies.  
 
-- <span class="new">Une carte non‑méchant en dehors du jeu qui correspond à une carte en jeu ne peut pas entrer en jeu.</span>    
-    - <span class="new">Si c'est une carte joueur, elle ne peut pas être jouée ni mise en jeu. Tout effet tentant de le faire n'a aucun effet.</span> 
+- Une carte non‑méchant en dehors du jeu qui correspond à une carte en jeu ne peut pas entrer en jeu.    
+    - Si c'est une carte joueur, elle ne peut pas être jouée ni mise en jeu. Tout effet tentant de le faire n'a aucun effet. 
     - Si une carte Rencontre non‑méchant correspond à une carte en jeu, elle est défaussée et tout effet lié à son entrée en jeu est ignoré. Si elle était en train d'être révélée, tout effet lié à sa révélation est ignoré et le joueur qui l'a révélée reçoit une carte Rencontre face cachée.  
 
 _Voir aussi : [[Allie|Allié]], [[EntrerEnJeu|Entrer en Jeu]], [[Identite|Identité]], [[Sbire|Sbire]], [[Joueur|Joueur]], [[SousTitre|Sous-Titre]], [[MechantDeckMechant|Méchant]], [[I|Appendice I : Decks Personnalisés]]_  

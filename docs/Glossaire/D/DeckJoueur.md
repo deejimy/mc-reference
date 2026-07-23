@@ -7,7 +7,7 @@ Si le deck d'un joueur tombe à court de cartes, ce joueur mélange sa pile de d
 
 - Si le deck d'un joueur est vidé et reformé pendant qu'il piochait des cartes, le joueur continue de piocher des cartes jusqu'à atteindre le nombre requis.  
 - Si le deck d'un joueur est vidé et reformé pendant qu'il défaussait des cartes de son deck, aucune carte n'est défaussée du deck nouvellement formé.  
-- <span class="new">Si le deck d'un joueur est vidé et que la pile de défausse de ce joueur est vide, le deck ne peut être reconstitué tant qu'il n'y a pas au moins une carte dans la pile de défausse ; lorsque la première carte entre dans la pile de défausse, le joueur reforme son deck et se voit attribuer immédiatement une carte Rencontre face cachée.</span>  
+- Si le deck d'un joueur est vidé et que la pile de défausse de ce joueur est vide, le deck ne peut être reconstitué tant qu'il n'y a pas au moins une carte dans la pile de défausse ; lorsque la première carte entre dans la pile de défausse, le joueur reforme son deck et se voit attribuer immédiatement une carte Rencontre face cachée.  
 
 _Voir aussi : [[DefausserDefausse|Défausse]], [[PileDeDefausse|Pile de Défausse]], [[PiocherPiocherDesCartes|Piocher]], [[DeckRencontre|Deck Rencontre]], [[Melanger|Mélanger]]_  
 

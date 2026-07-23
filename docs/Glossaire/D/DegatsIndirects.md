@@ -5,13 +5,13 @@ Certaines capacités de carte peuvent infliger des « dégâts indirects ».
 - Les dégâts indirects infligés à un joueur peuvent être répartis comme ce joueur le souhaite parmi les personnages sous son contrôle.  
 - Les dégâts indirects infligés à un groupe de joueurs (ou entre joueurs) peuvent être répartis comme le groupe le souhaite parmi les personnages amis en jeu.  
 - Tous les dégâts indirects provenant d'une même source sont d'abord assignés, puis résolus simultanément.  
-    - <span class="new">Lors de l'assignation de dégâts indirects, un personnage ne peut se voir assigner plus de dégâts indirects que ce qui provoquerait sa défaite ; ceci est évalué sans tenir compte des interactions avec d'autres capacités.</span>  
-    - <span class="new">Un personnage possédant une carte d'état Tenace peut se voir assigner des dégâts indirects jusqu'à ses points de vie restants, et tous les dégâts qui lui sont assignés sont prévenus par sa carte d'état Tenace.</span>  
-- <span class="new">Les personnages qui ne peuvent pas subir de dégâts ne peuvent pas se voir assigner de dégâts indirects.</span>  
-    - <span class="new">Si des dégâts indirects infligés à un joueur ne peuvent être assignés à aucun personnage contrôlé par ce joueur, ces dégâts sont ignorés.</span>  
-- <span class="new">Si l'attaque d'un ennemi inflige des dégâts indirects, ces dégâts sont infligés lors de l'étape quatre de l'activation ennemie (après que les joueurs ont eu l'opportunité de défendre).</span>  
-    - <span class="new">Seul le personnage défenseur, ou l'identité du joueur attaqué si l'attaque est non défendue, est considéré comme ayant été attaqué, même si d'autres personnages se voient assigner une partie ou la totalité des dégâts indirects.</span>  
-- <span class="new">Par exemple, si vous subissez 5 dégâts indirects mais contrôlez un allié avec 4 PV restants, vous pouvez assigner 4 dégâts à l'allié et 1 à votre identité.</span>  
+    - Lors de l'assignation de dégâts indirects, un personnage ne peut se voir assigner plus de dégâts indirects que ce qui provoquerait sa défaite ; ceci est évalué sans tenir compte des interactions avec d'autres capacités.  
+    - Un personnage possédant une carte d'état Tenace peut se voir assigner des dégâts indirects jusqu'à ses points de vie restants, et tous les dégâts qui lui sont assignés sont prévenus par sa carte d'état Tenace.  
+- Les personnages qui ne peuvent pas subir de dégâts ne peuvent pas se voir assigner de dégâts indirects.  
+    - Si des dégâts indirects infligés à un joueur ne peuvent être assignés à aucun personnage contrôlé par ce joueur, ces dégâts sont ignorés.  
+- Si l'attaque d'un ennemi inflige des dégâts indirects, ces dégâts sont infligés lors de l'étape quatre de l'activation ennemie (après que les joueurs ont eu l'opportunité de défendre).  
+    - Seul le personnage défenseur, ou l'identité du joueur attaqué si l'attaque est non défendue, est considéré comme ayant été attaqué, même si d'autres personnages se voient assigner une partie ou la totalité des dégâts indirects.  
+- Par exemple, si vous subissez 5 dégâts indirects mais contrôlez un allié avec 4 PV restants, vous pouvez assigner 4 dégâts à l'allié et 1 à votre identité.  
 
 _Voir aussi : [[Allie|Allié]], [[AttaqueActivationDesEnnemis|Attaque (Activation des Ennemis)]], [[Degats|Dégâts]], [[VaincreDejouer|Vaincre/Déjouer]], [[Joueur|Joueur]]_  
 

@@ -3,10 +3,10 @@
 Certains effets de jeu et capacités de carte font référence à des tentatives de contre. Il y a différentes façons de contrer :  
 
 - Un héros ou un allié peut utiliser son pouvoir de base de contre pour contrer une manigance. Un personnage doit s'incliner pour utiliser ce pouvoir. Cela retire de la manigance un nombre de menaces égal à la valeur de CTR de ce personnage.  
-    - <span class="new">Un personnage ne peut initier un contre de base que s'il existe une manigance avec au moins une menace que le personnage peut retirer ou si ce personnage est désorienté.</span>  
+    - Un personnage ne peut initier un contre de base que s'il existe une manigance avec au moins une menace que le personnage peut retirer ou si ce personnage est désorienté.  
 - Si une capacité déclenchée est référencée en tant que contre — comme « Action de héros (contre) » — résoudre cette capacité est considéré comme contrer la manigance spécifiée. À moins que cela ne soit spécifiquement indiqué, un héros ne s'incline pas lorsqu'il utilise une telle capacité.  
-    - <span class="new">Une capacité étiquetée comme un contre est considérée comme un seul contre, même si ce contre retire plusieurs instances de menace.</span>  
-    - <span class="new">Si une capacité augmente la quantité de menace qu'une capacité étiquetée comme un contre retire et que cette capacité retire plusieurs instances de menace, chacune de ces instances qui n'utilise pas le mot « supplémentaire » est augmentée du montant spécifié.</span>  
+    - Une capacité étiquetée comme un contre est considérée comme un seul contre, même si ce contre retire plusieurs instances de menace.  
+    - Si une capacité augmente la quantité de menace qu'une capacité étiquetée comme un contre retire et que cette capacité retire plusieurs instances de menace, chacune de ces instances qui n'utilise pas le mot « supplémentaire » est augmentée du montant spécifié.  
 
 _Voir aussi : [[Allie|Allié]], [[DegatsConsecutifs|Dégâts Consécutifs]], [[Incline|Incliné]], [[ManiganceAnnexe|Manigance Annexe]], [[ManigancePrincipaleDeckManigancePrincipale|Manigance Principale]], [[Menace|Menace]], [[PouvoirDeBase|Pouvoir de Base]], [[CapaciteEtiquetee|Capacité étiquetée]], [[Modificateurs|Modificateurs]]_  
 

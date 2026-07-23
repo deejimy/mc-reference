@@ -1,9 +1,9 @@
 # Vulnérable
 
-<span class="new">Si un personnage avec le mot‑clé `Vulnérable` devient désorienté ou sonné, ce personnage est immédiatement retiré du jeu (défaussé).</span>  
+Si un personnage avec le mot‑clé `Vulnérable` devient désorienté ou sonné, ce personnage est immédiatement retiré du jeu (défaussé).  
 
-- <span class="new">Si un personnage portant le mot‑clé `Vulnérable` subirait simultanément assez de dégâts pour être vaincu et devenir désorienté ou sonné, il est retiré du jeu avant l'application des dégâts et n'est pas considéré comme vaincu.</span>  
-- <span class="new">Si un personnage possède à la fois les mots‑clés solide et vulnérable, le mot‑clé `Vulnérable` ne prend effet que lorsque ce personnage possède deux cartes d'état Désorienté ou deux cartes d'état Sonné.</span>  
+- Si un personnage portant le mot‑clé `Vulnérable` subirait simultanément assez de dégâts pour être vaincu et devenir désorienté ou sonné, il est retiré du jeu avant l'application des dégâts et n'est pas considéré comme vaincu.  
+- Si un personnage possède à la fois les mots‑clés solide et vulnérable, le mot‑clé `Vulnérable` ne prend effet que lorsque ce personnage possède deux cartes d'état Désorienté ou deux cartes d'état Sonné.  
 
 _Voir aussi : [[DesorienterDesoriente|Désorienter / Désorienté]], [[Solide|Solide]], [[SonnerSonne|Sonné]]_  
 

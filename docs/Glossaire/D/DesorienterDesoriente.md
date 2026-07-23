@@ -4,10 +4,10 @@ Désorienté est un statut qui annule la prochaine manigance ou le prochain cont
 
 - Si une capacité « désoriente » un personnage, donnez à ce personnage une carte d'état Désorienté.  
 - Un personnage est désorienté s'il possède une carte d'état Désorienté.  
-    - <span class="new">Un personnage avec le mot-clé **Solide** n'est désorienté que s'il possède deux cartes d'état Désorienté.</span>  
+    - Un personnage avec le mot-clé **Solide** n'est désorienté que s'il possède deux cartes d'état Désorienté.  
 - Si une capacité indique qu'un personnage « ne peut pas être désorienté », aucune carte d'état Désorienté ne peut être placée sur ce personnage.  
 - Lorsque une identité ou un allié désorienté tente de contrer ou d'utiliser une capacité de contre, défaussez la carte Désorienté à la place ; les coûts associés (y compris l'inclinaison) doivent tout de même être payés.  
-    - <span class="new">Un personnage désorienté peut tenter de contrer même s'il n'a pas de cible valide pour un contre.</span>  
+    - Un personnage désorienté peut tenter de contrer même s'il n'a pas de cible valide pour un contre.  
 - Si un méchant ou un sbire désorienté serait censé manigancer, défaussez la carte d'état Désorienté à la place.  
 - Puisque l'action de contre ou l'activation de manigance est remplacée par la défausse de la carte Désorienté, le personnage n'est pas considéré comme ayant contré ou manigancé.  
 

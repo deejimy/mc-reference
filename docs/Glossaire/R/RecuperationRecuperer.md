@@ -3,7 +3,7 @@
 
 Le pouvoir de base de récupération d'un joueur ne peut être utilisé que sous forme d'alter‑ego. Pour récupérer, le joueur incline son alter‑ego et soigne un nombre de points de vie égal à sa valeur de REC.  
 
-- <span class="new">Une identité qui n'a pas de dégâts à soigner ne peut pas effectuer de récupération de base.</span>  
+- Une identité qui n'a pas de dégâts à soigner ne peut pas effectuer de récupération de base.  
 
 _Voir aussi : [[PouvoirDeBase|Pouvoir de Base]], [[FormeChangerDeForme|Forme]], [[Soigner|Soigner]], [[PointsDeVie|Points de Vie]]_  
 

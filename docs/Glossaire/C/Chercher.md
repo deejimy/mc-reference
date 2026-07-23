@@ -7,8 +7,8 @@ Si le joueur trouve une carte qui satisfait les critères de la recherche, ce jo
 - Si un joueur trouve plusieurs cartes qui satisfont les critères de la recherche, ce joueur choisit parmi ces options.  
 - Les cartes consultées ne sont pas considérées comme ayant quitté la zone consultée.  
 - Si une quelconque partie d'un deck est consultée, à cause d'une étape de jeu, une fonction de jeu ou une capacité de carte, mélangez l'intégralité du deck.  
-- <span class="new">Si un joueur est instruit de « chercher [sa] collection » pour une carte, le joueur parcourt toutes ses cartes Marvel Champions hors de la partie pour trouver la carte spécifiée.</span>  
-    - <span class="new">Il devient le propriétaire de cette carte jusqu'à la fin de la partie.</span>  
+- Si un joueur est instruit de « chercher [sa] collection » pour une carte, le joueur parcourt toutes ses cartes Marvel Champions hors de la partie pour trouver la carte spécifiée.  
+    - Il devient le propriétaire de cette carte jusqu'à la fin de la partie.  
 
 _Voir aussi : [[DeckRencontre|Deck Rencontre]], [[CartesJoueur|Deck Joueur]], [[Melanger|Mélanger]], [[Trouver]]_  
 

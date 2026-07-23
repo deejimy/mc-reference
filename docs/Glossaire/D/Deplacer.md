@@ -6,12 +6,12 @@ Certaines capacités permettent de "déplacer" des éléments de jeu (comme des 
 - Si un élément se déplace, il ne peut pas se déplacer vers son emplacement actuel.  
 - Si aucun point de départ ou de destination valide n'existe pour un déplacement, ce déplacement ne peut être effectué.  
 - Il est possible de déplacer des dégâts entre compteurs et cartes (et vice versa) :  
-    - <span class="new">Si des dégâts sont déplacés d'un compteur vers une carte, augmentez les points de vie indiqués par le compteur du montant spécifié (sans dépasser le maximum) et placez la même quantité de dégâts sur la carte.</span>  
-    - <span class="new">Si des dégâts sont déplacés d'une carte vers un compteur, retirez les dégâts de la carte et réduisez le compteur de la même quantité.</span>  
-- <span class="new">Si des dégâts sont déplacés hors d'un personnage, ces dégâts sont considérés comme soignés pour ce personnage.</span>  
-- <span class="new">Si des dégâts sont déplacés vers un personnage, ces dégâts sont considérés comme infligés à ce personnage.</span>  
-- <span class="new">Si des menaces sont déplacées hors d'une manigance, ces menaces sont considérées comme retirées de cette manigance.</span>  
-- <span class="new">Si des menaces sont déplacées vers une manigance, ces menaces sont considérées comme placées sur cette manigance.</span>  
+    - Si des dégâts sont déplacés d'un compteur vers une carte, augmentez les points de vie indiqués par le compteur du montant spécifié (sans dépasser le maximum) et placez la même quantité de dégâts sur la carte.  
+    - Si des dégâts sont déplacés d'une carte vers un compteur, retirez les dégâts de la carte et réduisez le compteur de la même quantité.  
+- Si des dégâts sont déplacés hors d'un personnage, ces dégâts sont considérés comme soignés pour ce personnage.  
+- Si des dégâts sont déplacés vers un personnage, ces dégâts sont considérés comme infligés à ce personnage.  
+- Si des menaces sont déplacées hors d'une manigance, ces menaces sont considérées comme retirées de cette manigance.  
+- Si des menaces sont déplacées vers une manigance, ces menaces sont considérées comme placées sur cette manigance.  
 
 _Voir aussi : [[Degats|Dégâts]], [[SeuilDeMenace|Menace]], [[ElementDeJeu|Elément de Jeu]]_  
 

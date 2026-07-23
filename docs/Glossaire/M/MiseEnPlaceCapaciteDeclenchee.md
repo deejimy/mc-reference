@@ -1,10 +1,10 @@
 # Mise en Place (Capacité Déclenchée)
 
-<span class="new">« Mise en place » est un type de capacité déclenchée qui se résout lors de la mise en place.</span>  
+« Mise en place » est un type de capacité déclenchée qui se résout lors de la mise en place.  
 
-- <span class="new">Les capacités « Mise en place » sont obligatoires.</span>  
-- <span class="new">Les capacités « Mise en place » sur les cartes Rencontre se résolvent lors de l'étape « Résoudre la mise en place du scénario et les capacités Une fois révélée » de la mise en place.</span>  
-- <span class="new">Les capacités « Mise en place » sur les cartes Joueur se résolvent lors de l'étape « Résoudre les capacités de mise en place des personnages » de la mise en place.</span>  
+- Les capacités « Mise en place » sont obligatoires.  
+- Les capacités « Mise en place » sur les cartes Rencontre se résolvent lors de l'étape « Résoudre la mise en place du scénario et les capacités Une fois révélée » de la mise en place.  
+- Les capacités « Mise en place » sur les cartes Joueur se résolvent lors de l'étape « Résoudre les capacités de mise en place des personnages » de la mise en place.  
 
 _Voir aussi : [[CapaciteDeclenchee|Capacité Déclenchée]], [[II|Appendice II : Mise en Place]]_  
 

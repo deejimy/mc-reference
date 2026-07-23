@@ -2,9 +2,9 @@
 
 La locution « ne peut pas » (et ses dérivés) est absolue et ne peut pas être contournée par d'autres capacités ou effets.  
 
-- <span class="new">Si deux capacités sont en conflit, la capacité contenant « ne peut pas » prend la priorité.</span>  
-- <span class="new">Si deux règles sont en conflit, la règle contenant « ne peut pas » prend la priorité.</span>  
-- <span class="new">Une capacité peut toutefois suppléer une règle contenant « ne peut pas » en vertu des Règles d'Or.</span>  
+- Si deux capacités sont en conflit, la capacité contenant « ne peut pas » prend la priorité.  
+- Si deux règles sont en conflit, la règle contenant « ne peut pas » prend la priorité.  
+- Une capacité peut toutefois suppléer une règle contenant « ne peut pas » en vertu des Règles d'Or.  
 
 _Voir aussi : [[index|Les règles d'Or]], [[Cible|Cible]]_  
 

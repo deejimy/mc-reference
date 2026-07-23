@@ -2,15 +2,15 @@
 
 Un mot-clé est un attribut qui confère des règles spécifiques à la carte qui le porte.  
 
-<span class="new">Si une carte gagne plusieurs occurrences d'un mot‑clé, les occurrences supplémentaires n'ont aucun effet, sauf si le mot‑clé est suivi d'un nombre (par exemple Entrave X, Riposte X), auquel cas les nombres de chaque occurrence sont additionnés.</span>  
+Si une carte gagne plusieurs occurrences d'un mot‑clé, les occurrences supplémentaires n'ont aucun effet, sauf si le mot‑clé est suivi d'un nombre (par exemple Entrave X, Riposte X), auquel cas les nombres de chaque occurrence sont additionnés.  
 
 Les mots-clés suivants sont utilisés dans le jeu :  
 
 - Alliance : Lorsqu'un joueur déclare qu'il souhaite jouer une carte Alliance, n'importe quel autre joueur peut aider à payer les coûts de cette carte.  
 
-- <span class="new">Assaut : Lorsqu'un personnage effectue un contre de base contre une manigance portant le mot‑clé `Assaut`, ce personnage utilise sa valeur d'ATQ au lieu de sa valeur de CTR.</span>  
+- Assaut : Lorsqu'un personnage effectue un contre de base contre une manigance portant le mot‑clé `Assaut`, ce personnage utilise sa valeur d'ATQ au lieu de sa valeur de CTR.  
 
-- <span class="new">Forme : Une carte portant le mot‑clé `Forme` confère à une identité une forme unique.</span>  
+- Forme : Une carte portant le mot‑clé `Forme` confère à une identité une forme unique.  
 
 - Garde : Tant qu'un sbire avec le mot‑clé `Garde` est engagé avec un joueur, ce joueur ne peut pas attaquer le méchant.  
 
@@ -18,7 +18,7 @@ Les mots-clés suivants sont utilisés dans le jeu :
 
 - Incitation X : Quand un joueur révèle une carte avec `Incitation X`, ce joueur place X menaces sur la manigance principale.  
 
-- <span class="new">Liée (Titre de Carte) : Les cartes avec le mot‑clé `Liée` sont mises de côté jusqu'à ce que la carte nommée entre en jeu et ramène la carte liée en jeu.</span>  
+- Liée (Titre de Carte) : Les cartes avec le mot‑clé `Liée` sont mises de côté jusqu'à ce que la carte nommée entre en jeu et ramène la carte liée en jeu.  
 
 - Déferlement : Les dégâts en excès d'une attaque avec `Déferlement` sont infligés à l'identité ou au méchant.  
 
@@ -34,7 +34,7 @@ Les mots-clés suivants sont utilisés dans le jeu :
 
 - À Distance : Les attaques avec `À Distance` ignorent `Riposte`.  
 
-- <span class="new">Exigence (Ressources) : Une carte avec le mot‑clé `Exigence` ne peut être jouée que si, lors du paiement de son coût, chaque ressource du type indiqué est dépensée.</span>  
+- Exigence (Ressources) : Une carte avec le mot‑clé `Exigence` ne peut être jouée que si, lors du paiement de son coût, chaque ressource du type indiqué est dépensée.  
 
 - Restreint : Un joueur ne peut pas contrôler plus de deux cartes Restreintes en même temps.  
 
@@ -44,11 +44,11 @@ Les mots-clés suivants sont utilisés dans le jeu :
 
 - Robuste : Les personnages avec `Robuste` ne peuvent pas être sonnés ou désorientés.  
 
-- <span class="new">Solide : Un personnage avec `Solide` n'est pas sonné ni désorienté à moins d'avoir deux cartes d'état correspondantes.</span>  
+- Solide : Un personnage avec `Solide` n'est pas sonné ni désorienté à moins d'avoir deux cartes d'état correspondantes.  
 
-- <span class="new">En collaboration : Après qu'un sbire avec `En collaboration` entre en jeu et engage un joueur, si au moins un autre sbire partageant le trait spécifié est en jeu, le sbire qui vient d'entrer s'active contre le joueur auquel il est engagé.</span>  
+- En collaboration : Après qu'un sbire avec `En collaboration` entre en jeu et engage un joueur, si au moins un autre sbire partageant le trait spécifié est en jeu, le sbire qui vient d'entrer s'active contre le joueur auquel il est engagé.  
 
-- <span class="new">Temporaire : Une carte avec `Temporaire` doit être défaussée du jeu à la fin du round.</span>  
+- Temporaire : Une carte avec `Temporaire` doit être défaussée du jeu à la fin du round.  
 
 - Ténacité : Quand un personnage avec `Ténacité` entre en jeu, placez une carte d'état Tenace dessus.  
 

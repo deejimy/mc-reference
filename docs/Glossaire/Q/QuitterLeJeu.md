@@ -6,10 +6,10 @@ Vaincre un personnage, défausser une carte qui est en jeu, placez une carte dan
 
 - Quand une carte quitte le jeu, elle ne conserve pas le statut qu'elle avait juste avant de quitter le jeu, on considère qu'il s'agit d'un nouvel exemplaire de cette carte.  
 
-- <span class="new">Quand une carte quitte le jeu :</span>  
-    - <span class="new">Défaussez chaque carte attachée à cette carte ou glissée sous cette carte.</span>  
-    - <span class="new">Défaussez chaque carte Boost donnée à cette carte.</span>  
-    - <span class="new">Remettez chaque jeton et chaque carte d'état présents sur cette carte dans la réserve.</span>  
+- Quand une carte quitte le jeu :  
+    - Défaussez chaque carte attachée à cette carte ou glissée sous cette carte.  
+    - Défaussez chaque carte Boost donnée à cette carte.  
+    - Remettez chaque jeton et chaque carte d'état présents sur cette carte dans la réserve.  
 
 _Voir aussi : [[VaincreDejouer|Vaincre / Déjouer]], [[DefausserDefausse|Défausse]], [[PileDeDefausse|Pile de défausse]], [[EntrerEnJeu|Entrer en jeu]], [[EnJeuEtHorsJeu|En Jeu et Hors Jeu]], [[RetireDeLaPartie|Retiré de la Partie]], [[PileDeVictoire|Pile de victoire]]_  
 

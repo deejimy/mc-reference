@@ -2,11 +2,11 @@
 
 Certaines capacités font référence au nom de cartes spécifiques. Ce sont des capacités référentielles.  
 
-<span class="new">Si une capacité fait référence à un nom partagé par plusieurs cartes du jeu, cette capacité ne se réfère qu'à la ou aux carte(s) qui correspondent au critère le plus élevé dans la liste suivante :</span>  
+Si une capacité fait référence à un nom partagé par plusieurs cartes du jeu, cette capacité ne se réfère qu'à la ou aux carte(s) qui correspondent au critère le plus élevé dans la liste suivante :  
 
 1. La carte sur laquelle la capacité référentielle est imprimée.  
     - Une capacité autoréférentielle ne fait référence qu'à la carte sur laquelle elle est située et non aux autres exemplaires de cette carte ou aux autres cartes qui porteraient le même titre.  
-    - <span class="new">Par exemple, la capacité de l'allié basique Spider-Man se lit : "**Réponse** : Après que Spider-Man attaque ou contrer, choisissez un autre personnage `Web-Warrior` → redressez ce personnage." Cette capacité se réfère à la carte sur laquelle elle est imprimée et ne se déclenche pas lorsqu'une autre carte intitulée "Spider-Man" attaque ou contrer.</span>  
+    - Par exemple, la capacité de l'allié basique Spider-Man se lit : "**Réponse** : Après que Spider-Man attaque ou contrer, choisissez un autre personnage `Web-Warrior` → redressez ce personnage." Cette capacité se réfère à la carte sur laquelle elle est imprimée et ne se déclenche pas lorsqu'une autre carte intitulée "Spider-Man" attaque ou contrer.  
 2. Les cartes qui appartiennent à la même identité.  
 3. Les cartes Joueur (si la capacité est sur une carte Joueur) ou les cartes Rencontre (si la capacité est sur une carte Rencontre).  
 

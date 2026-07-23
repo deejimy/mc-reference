@@ -2,11 +2,11 @@
 
 Tenace est un statut qui empêche un personnage de subir des dégâts.  
 
-- <span class="new">Si un personnage possédant une carte d'état Tenace devait subir n'importe quelle quantité de dégâts, prévenez tous ces dégâts et défaussez à la place une carte d'état Tenace de ce personnage.  </span>
-    - <span class="new">Un personnage possédant plusieurs cartes d'état Tenace ne défausse qu'une seule carte d'état Tenace chaque fois qu'il devrait subir des dégâts.  </span>
-    - <span class="new">Lorsqu'un héros possédant une carte d'état Tenace défend une attaque, il réduit d'abord les dégâts de l'attaque de sa valeur DEF. Si les dégâts sont réduits à 0, le héros ne perd pas sa carte d'état Tenace.  </span>
-- <span class="new">Si un allié ou un sbire possédant une carte d'état Tenace subit des dégâts en excès à cause d'une attaque portant le mot‑clé `Déferlement`, ces dégâts en excès ne sont pas infligés respectivement à l'identité du contrôleur de cet allié ou au méchant.  </span>
-- <span class="new">Comme une carte d'état Tenace prévient intégralement les dégâts, le personnage qui possédait la carte d'état Tenace n'est pas considéré comme ayant subi des dégâts.  </span>
+- Si un personnage possédant une carte d'état Tenace devait subir n'importe quelle quantité de dégâts, prévenez tous ces dégâts et défaussez à la place une carte d'état Tenace de ce personnage.  
+    - Un personnage possédant plusieurs cartes d'état Tenace ne défausse qu'une seule carte d'état Tenace chaque fois qu'il devrait subir des dégâts.  
+    - Lorsqu'un héros possédant une carte d'état Tenace défend une attaque, il réduit d'abord les dégâts de l'attaque de sa valeur DEF. Si les dégâts sont réduits à 0, le héros ne perd pas sa carte d'état Tenace.  
+- Si un allié ou un sbire possédant une carte d'état Tenace subit des dégâts en excès à cause d'une attaque portant le mot‑clé `Déferlement`, ces dégâts en excès ne sont pas infligés respectivement à l'identité du contrôleur de cet allié ou au méchant.  
+- Comme une carte d'état Tenace prévient intégralement les dégâts, le personnage qui possédait la carte d'état Tenace n'est pas considéré comme ayant subi des dégâts.  
 
 _Voir aussi : [[Degats|Dégâts]], [[Deferlement|Déferlement]], [[CartesDetat|Cartes d'état]], [[Tenacite|Ténacité]]_  
 

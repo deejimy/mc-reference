@@ -5,9 +5,9 @@ Pour mettre fin à la phase des joueurs, respectez les étapes suivantes :
 1. Dans l'ordre des joueurs, chaque joueur peut défausser n'importe quel nombre de cartes de sa main, et doit défausser jusqu'à atteindre sa taille de main s'il a plus de cartes en main que sa taille de main.  
 2. Chaque joueur pioche simultanément jusqu'à atteindre sa taille de main.  
 3. Chaque joueur redresse simultanément toutes ses cartes.  
-- <span class="new">Redressez également chaque carte Rencontre inclinée.</span>  
-4. <span class="new">Tous les effets qui durent « jusqu'à la fin de la phase [du joueur] » prennent fin.</span>  
-5. <span class="new">Résolvez tous les effets « Quand/Après la fin de la phase [du joueur] ».</span>    
+- Redressez également chaque carte Rencontre inclinée.  
+4. Tous les effets qui durent « jusqu'à la fin de la phase [du joueur] » prennent fin.  
+5. Résolvez tous les effets « Quand/Après la fin de la phase [du joueur] ».    
 
 _Voir aussi : [[DefausserDefausse|Défausse]], [[TailleDeMain|Taille de main]], [[EffetsPersistants|Effets persistants]], [[Joueur|Joueur]], [[PhaseDesJoueurs|Phase du Joueur]], [[PiocherPiocherDesCartes|Piocher]], [[TourDeJoueur|Tour de Joueur]]_  
 

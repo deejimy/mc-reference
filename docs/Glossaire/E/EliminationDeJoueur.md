@@ -4,7 +4,7 @@ Un joueur est éliminé de la partie si son identité est vaincue. Cela se produ
 
 Quand un joueur est éliminé, effectuez les étapes suivantes dans l'ordre :  
 
-1. <span class="new">Si le joueur éliminé possède le jeton du premier joueur, il le passe au joueur suivant dans le sens horaire.</span>  
+1. Si le joueur éliminé possède le jeton du premier joueur, il le passe au joueur suivant dans le sens horaire.  
 2. Si des sbires sont engagés avec le joueur éliminé, chacun de ces sbires engage le joueur suivant dans le sens horaire en conservant tous leurs attachements, dégâts, jetons et cartes d'état.  
 3. S'il existe des cartes dans la zone de jeu du joueur éliminé dont ce joueur n'est pas le propriétaire :  
   - Si la carte est un attachement avec le mot-clé « Permanent », résolvez son texte « Attacher à ». Si elle n'en a pas ou si ce texte ne possède pas de cible valide, retirez l'attachement de la partie.  
@@ -16,10 +16,10 @@ Quand un joueur est éliminé, effectuez les étapes suivantes dans l'ordre :
 Quand un joueur est éliminé, les joueurs restants continuent à jouer la partie. On considère que les joueurs éliminés gagnent ou perdent la partie en même temps que le reste de leur groupe, en fonction du résultat de celui-ci.  
 
 - Si tous les joueurs sont éliminés, la partie se termine et les joueurs ont perdu.
-<span class="new">  
+  
 
-- Si un joueur est éliminé au milieu de la résolution d'une capacité, résolvez la capacité en entier.</span>
-<span class="new">• Les effets qui font référence aux joueurs dans la partie ignorent les joueurs éliminés, sauf pour l'icône par joueur (![[icone_joueur.jpg|15]]).</span>
+- Si un joueur est éliminé au milieu de la résolution d'une capacité, résolvez la capacité en entier.
+• Les effets qui font référence aux joueurs dans la partie ignorent les joueurs éliminés, sauf pour l'icône par joueur (![[icone_joueur.jpg|15]]).
 
 _Voir aussi : [[Capacite|Capacité]], [[Degats|Dégâts]], [[Engager|Engager]], [[ElementDeJeu|Élément de Jeu]], [[PointsDeVie|Points de Vie]], [[Identite|Identité]], [[Sbire|Sbire]], [[IconeParJoueur|Icône par joueur]], [[Joueur|Joueur]], [[CartesJoueur|Cartes Joueur]], [[DeckJoueur|Deck Joueur]], [[ZoneDeJeuDUnJoueur|Zone de Jeu d'un Joueur]], [[GagnerLaPartie|Gagner la Partie]]_  
 

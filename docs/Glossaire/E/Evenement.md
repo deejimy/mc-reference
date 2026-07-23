@@ -11,10 +11,10 @@ Evénement est un type de carte Joueur qui est généralement joué pour un effe
 
 - On considère que les cartes Evénement sont une extension d'une identité. Les Attaques, Contres, Défenses, capacités d'action et capacités déclenchées qui se résolvent grâce à un événement jouée par un joueur sont également considérés comme étant effectués par l'identité de ce joueur.  
 
-- <span class="new">Si un événement possède plus d'une capacité déclenchée, le joueur qui joue l'événement choisit l'une de ces capacités pour la déclencher.  
+- Si un événement possède plus d'une capacité déclenchée, le joueur qui joue l'événement choisit l'une de ces capacités pour la déclencher.  
 
 - Si un effet modifie la quantité de dégâts infligés par un événement ou la quantité de menace qu'un événement retire, et que cet événement inflige plusieurs instances de dégâts ou retire plusieurs instances de menace, chacune de ces instances est modifiée.
-    - Si un effet modifie la quantité de dégâts d'« une attaque » (plutôt que d'« un événement »), et qu'un événement initie plusieurs attaques, seule la première de ces attaques voit ses dégâts modifiés.</span>
+    - Si un effet modifie la quantité de dégâts d'« une attaque » (plutôt que d'« un événement »), et qu'un événement initie plusieurs attaques, seule la première de ces attaques voit ses dégâts modifiés.
 
 _Voir aussi : [[TypesDeCarte|Types de carte]], [[DefausserDefausse|Défausse]], [[Identite|Identité]], [[CapaciteEtiquetee|Capacité étiquetée]], [[Joueur|Joueur]], [[CartesJoueur|Carte Joueur]], [[ProprieteEtControle|Propriété et Contrôle]]_  
 

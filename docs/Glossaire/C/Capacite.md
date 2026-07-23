@@ -6,9 +6,9 @@ Une capacité est un texte de jeu sur une carte qui indique spécifiquement ce q
 
 - Les capacités de carte sur les cartes Héros, Alter‑ego, Allié, Amélioration et Soutien ne peuvent être utilisées que si la carte sur laquelle est inscrite la capacité est en jeu, sauf si la capacité indique spécifiquement une utilisation possible depuis un état hors jeu. Les cartes Événement interagissent implicitement avec la partie depuis une zone hors jeu, comme l'indiquent les règles propres au type de carte Événement.  
 
-- <span class="new">Si une capacité précise une ou plusieurs cibles, cette capacité ne peut être initiée que si elle dispose d'au moins une cible valide.</span>  
-- <span class="new">Par exemple : une capacité qui dit « infligez 5 dégâts à un sbire » ne peut pas être initiée s'il n'existe aucun sbire en jeu.</span>  
-    - <span class="new">Exemples de cibles (liste non exhaustive) : « le méchant », « un sbire », « un ennemi », « une manigance », « un héros », « un allié », « un personnage », « un joueur », « vous », « une carte ».</span>  
+- Si une capacité précise une ou plusieurs cibles, cette capacité ne peut être initiée que si elle dispose d'au moins une cible valide.  
+- Par exemple : une capacité qui dit « infligez 5 dégâts à un sbire » ne peut pas être initiée s'il n'existe aucun sbire en jeu.  
+    - Exemples de cibles (liste non exhaustive) : « le méchant », « un sbire », « un ennemi », « une manigance », « un héros », « un allié », « un personnage », « un joueur », « vous », « une carte ».  
 
 - Quand une capacité possède plusieurs phrases de texte, lisez l'intégralité de la capacité pour repérer d'éventuels effets d'altération qui pourraient changer la manière dont la capacité se résout. Ensuite, résolvez la capacité une phrase à la fois.  
 
@@ -20,9 +20,9 @@ Une capacité est un texte de jeu sur une carte qui indique spécifiquement ce q
     - Si l'un de ces types de capacités utilise le verbe « pouvoir », la partie de la capacité qui suit le verbe « pouvoir » est optionnelle.  
 
 - La résolution des types de capacités suivants est optionnelle : « Action », « Interruption », « Réponse », « Ressource ». Le joueur qui contrôle la carte qui possède la capacité optionnelle choisit ou non d'utiliser cette capacité au moment approprié.  
-    - <span class="new">Tout joueur peut utiliser une telle capacité sur une carte Rencontre, avec les exceptions suivantes :</span>  
-        - <span class="new">Seul le joueur qui contrôle une carte Joueur possédant un attachement contenant le terme « vous » ou « votre » peut déclencher des capacités ou payer les coûts sur cet attachement.</span>  
-        - <span class="new">Seul le joueur qui possède une Obligation dans sa zone de jeu peut déclencher des capacités ou payer les coûts liés à cette Obligation.</span>  
+    - Tout joueur peut utiliser une telle capacité sur une carte Rencontre, avec les exceptions suivantes :  
+        - Seul le joueur qui contrôle une carte Joueur possédant un attachement contenant le terme « vous » ou « votre » peut déclencher des capacités ou payer les coûts sur cet attachement.  
+        - Seul le joueur qui possède une Obligation dans sa zone de jeu peut déclencher des capacités ou payer les coûts liés à cette Obligation.  
 
 **Capacité constante** — Une capacité constante désigne toute capacité (hors mots‑clés) dont le texte ne contient pas d'indicatif de déclenchement en gras. Une capacité constante devient active dès que la carte entre en jeu et reste active tant que la carte est en jeu.  
 
@@ -37,16 +37,16 @@ Une capacité est un texte de jeu sur une carte qui indique spécifiquement ce q
 - Si l'indicatif de déclenchement en gras contient le mot « Héros » ou « Alter‑ego », la capacité ne peut être utilisée que si le joueur déclenchant la capacité est sous la forme spécifiée.  
 - Si des guillemets entourent l'indicatif de déclenchement et les deux points, le texte cité n'est pas un indicatif de déclenchement en lui‑même, mais se réfère aux capacités possédant cet indicatif de déclenchement.  
 
-<span class="new">Priorité de résolution simultanée — Certaines capacités ont une priorité de timing par rapport à d'autres capacités. Dans l'ordre, la priorité de timing des capacités ayant la même condition de déclenchement est :</span>  
+Priorité de résolution simultanée — Certaines capacités ont une priorité de timing par rapport à d'autres capacités. Dans l'ordre, la priorité de timing des capacités ayant la même condition de déclenchement est :  
 
-1. <span class="new">Capacités constantes, effets retardés, effets persistants, mots‑clés et icônes ![[icone_acceleration.jpg|15]], ![[icone_amplification.jpg|15]], ![[icone_crise.jpg|15]], ![[icone_aleas.jpg|15]].</span>  
-2. <span class="new">Cartes d'état.</span>  
-3. <span class="new">Capacités « Interruption forcée ».</span>  
-4. <span class="new">Capacités « Interruption ».</span>  
-5. <span class="new">Capacités « Boost », « Une fois vaincu » et « Une fois révélée ».</span>  
-6. <span class="new">Capacités « Réponse forcée ».</span>  
-7. <span class="new">Capacités « Réponse ».</span>  
-8. <span class="new">Dégâts consécutifs.</span>  
+1. Capacités constantes, effets retardés, effets persistants, mots‑clés et icônes ![[icone_acceleration.jpg|15]], ![[icone_amplification.jpg|15]], ![[icone_crise.jpg|15]], ![[icone_aleas.jpg|15]].  
+2. Cartes d'état.  
+3. Capacités « Interruption forcée ».  
+4. Capacités « Interruption ».  
+5. Capacités « Boost », « Une fois vaincu » et « Une fois révélée ».  
+6. Capacités « Réponse forcée ».  
+7. Capacités « Réponse ».  
+8. Dégâts consécutifs.  
 
 
 _Voir aussi : [[Action]], [[Annuler]], [[CapaciteUneFoisRevelee|Capacité une fois révélée]], [[CapaciteUneFoisVaincuDejouee|Capacité une fois vaincu/déjouée]], [[EffetDalteration|Effets d'Alteration]], [[EffetsDeRemplacement|Effets de Remplacement]], [[EffetsRetardes|Effets Retardés]], [[EffetsPersistants|Effets Persistants]], [[EnJeuEtHorsJeu|En Jeu et Hors Jeu]], [[Ensuite]], [[Et|« Et »]], [[Forcee|Forcée]], [[InitierDesCapacites|Initier des Capacités]], [[Interruption]], [[Qualificatifs]], [[Reponse|Réponse]], [[ResolutionSimultanee|Résolution Simultanée]], [[RessourceCapacite|Ressource (Capacité)]], [[Special]], [[Cible|Cible]], [[CapaciteEtiquetee|Capacité étiquetée]], [[EtreCense|"Est censé"]]_

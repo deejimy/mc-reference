@@ -2,8 +2,8 @@
 
 Si une capacité demande à un joueur de regarder des cartes qui sont normalement cachées à la vue des joueurs, seul le joueur qui résout la capacité peut consulter ces cartes. Cependant, ce joueur est autorisé à partager n'importe quelles informations aux autres joueurs concernant ces cartes.
 
-- <span class="new">Pendant qu'un joueur regarde des cartes dans un deck, ces cartes sont toujours considérées comme faisant partie de ce deck.</span>  
-    - <span class="new">Après avoir regardé des cartes dans un deck, ces cartes sont remises dans ce deck dans le même ordre.</span>  
+- Pendant qu'un joueur regarde des cartes dans un deck, ces cartes sont toujours considérées comme faisant partie de ce deck.  
+    - Après avoir regardé des cartes dans un deck, ces cartes sont remises dans ce deck dans le même ordre.  
 
 <details class="source">
 <summary>EN v1.7</summary>LOOK, LOOKED-AT

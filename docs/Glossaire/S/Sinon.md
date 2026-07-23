@@ -1,12 +1,12 @@
 # "Sinon"
 
-<span class="new">Les effets commençant par « sinon » ne se résolvent que si l'effet précédent ne s'est pas résolu.  </span>
+Les effets commençant par « sinon » ne se résolvent que si l'effet précédent ne s'est pas résolu.  
 
-- <span class="new">Un effet « sinon » se résout si une ou plusieurs des conditions suivantes concernant l'effet précédent sont vraies :  </span>
-    - <span class="new">Il a une condition qui n'est pas vraie. (Par exemple, une capacité indique : « Si vous êtes en forme Héros, subissez 2 dégâts. Sinon, placez 2 menaces sur la manigance principale. » La partie « sinon » se résout si le joueur n'est pas en forme Héros.)  </span>
-    - <span class="new">Il possède un effet qui ne peut pas, au minimum, se résoudre partiellement. (Par exemple, une capacité indique : « Défaussez 2 cartes de votre main. Sinon, inclinez votre identité. » La partie « sinon » se résout si le joueur ne peut pas défausser au moins 1 carte de sa main.)  </span>
+- Un effet « sinon » se résout si une ou plusieurs des conditions suivantes concernant l'effet précédent sont vraies :  
+    - Il a une condition qui n'est pas vraie. (Par exemple, une capacité indique : « Si vous êtes en forme Héros, subissez 2 dégâts. Sinon, placez 2 menaces sur la manigance principale. » La partie « sinon » se résout si le joueur n'est pas en forme Héros.)  
+    - Il possède un effet qui ne peut pas, au minimum, se résoudre partiellement. (Par exemple, une capacité indique : « Défaussez 2 cartes de votre main. Sinon, inclinez votre identité. » La partie « sinon » se résout si le joueur ne peut pas défausser au moins 1 carte de sa main.)  
 
-- <span class="new">Si « sinon » est précédé d'un point‑virgule, « l'effet précédent » fait référence aux effets situés avant le point‑virgule dans la même phrase. Si l'effet « sinon » constitue sa propre phrase, « l'effet précédent » fait référence à la phrase placée directement avant la phrase « sinon ».  </span>
+- Si « sinon » est précédé d'un point‑virgule, « l'effet précédent » fait référence aux effets situés avant le point‑virgule dans la même phrase. Si l'effet « sinon » constitue sa propre phrase, « l'effet précédent » fait référence à la phrase placée directement avant la phrase « sinon ».  
 
 _Voir aussi : [[EffetsDeRemplacement|Effets de remplacement]], [[Cible|Cible]]_  
 

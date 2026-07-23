@@ -3,7 +3,7 @@
 Jouer une carte consiste à payer son coût puis à placer la carte dans la zone de jeu, ce qui fait entrer la carte en jeu (ou, pour une carte Événement, provoque la résolution de sa capacité avant qu'elle ne soit placée dans la pile de défausse). Les cartes sont jouées depuis la main d'un joueur.    
 Certaines capacités mettent des cartes en jeu sans les jouer ; cela contourne le paiement du coût de la carte ainsi que toute restriction ou interdiction liée au fait de jouer cette carte. Une carte mise en jeu entre en jeu dans la zone de jeu de son contrôleur.  
 
-- <span class="new">Les cartes dont le texte indique « forme [type] uniquement » ne peuvent être jouées ni mises en jeu que par un joueur dont l'identité est dans la forme spécifiée.</span>  
+- Les cartes dont le texte indique « forme [type] uniquement » ne peuvent être jouées ni mises en jeu que par un joueur dont l'identité est dans la forme spécifiée.  
 - Quand une carte Événement est jouée, placez‑la sur la table, résolvez sa capacité, puis placez la carte dans la pile de défausse de son propriétaire.  
 - Une carte qui est mise en jeu n'est pas considérée comme ayant été jouée.  
 - Quand une carte est mise en jeu, son coût en ressources est ignoré.  

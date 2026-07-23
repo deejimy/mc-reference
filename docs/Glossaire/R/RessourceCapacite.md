@@ -3,7 +3,7 @@
 Une capacité de ressource est un type de capacité déclenchée signalé par l'indicatif de déclenchement « Ressource » en gras.  
 
 - Une capacité de ressource peut être déclenchée chaque fois que le joueur qui contrôle la capacité génère des ressources pour payer un coût.  
-    - <span class="new">Une capacité de ressource qui génère une ressource uniquement pour un type de coût spécifique ne peut pas être déclenchée lorsqu'on paie un coût qui n'est pas de ce type. (Par exemple, une capacité de ressource qui génère une ressource pour une carte d'affinité ne peut pas être déclenchée lorsqu'on paie pour une carte non‑affinité.)</span>  
+    - Une capacité de ressource qui génère une ressource uniquement pour un type de coût spécifique ne peut pas être déclenchée lorsqu'on paie un coût qui n'est pas de ce type. (Par exemple, une capacité de ressource qui génère une ressource pour une carte d'affinité ne peut pas être déclenchée lorsqu'on paie pour une carte non‑affinité.)  
 
 _Voir aussi : [[Cout|Coût]], [[Ressource|Ressource]], [[CapaciteDeclenchee|Capacité Déclenchée]]_  
 

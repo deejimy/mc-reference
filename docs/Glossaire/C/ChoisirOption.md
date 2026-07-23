@@ -4,8 +4,8 @@ Certaines capacités demandent à un joueur de choisir entre plusieurs options. 
 
 - Lorsqu'une carte Rencontre demande à un joueur de choisir une option, il ne peut pas choisir une option qui exige une ou plusieurs cibles s'il n'y a pas de cibles valides pour cette option.  
 - Lorsqu'une carte Joueur demande à un joueur de choisir une option, il ne peut pas choisir une option qui ne peut pas être au moins partiellement résolue. Cela inclut les options qui :  
-    - <span class="new">ont un coût que le joueur ne peut pas payer.</span>  
-    - <span class="new">requièrent une ou plusieurs cibles et il n'y a pas de cibles valides.</span>  
+    - ont un coût que le joueur ne peut pas payer.  
+    - requièrent une ou plusieurs cibles et il n'y a pas de cibles valides.  
 
 _Voir aussi : [[Capacite|Capacité]], [[Joueur|Joueur]], [[Cible|Cible]]_  
 
