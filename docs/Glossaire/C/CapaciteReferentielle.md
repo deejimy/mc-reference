@@ -6,7 +6,7 @@ Si une capacité fait référence à un nom partagé par plusieurs cartes du jeu
 
 1. La carte sur laquelle la capacité référentielle est imprimée.  
     - Une capacité autoréférentielle ne fait référence qu'à la carte sur laquelle elle est située et non aux autres exemplaires de cette carte ou aux autres cartes qui porteraient le même titre.  
-    - Par exemple, la capacité de l'allié basique Spider-Man se lit : "**Réponse** : Après que Spider-Man attaque ou contrer, choisissez un autre personnage `Web-Warrior` → redressez ce personnage." Cette capacité se réfère à la carte sur laquelle elle est imprimée et ne se déclenche pas lorsqu'une autre carte intitulée "Spider-Man" attaque ou contrer.  
+    - Par exemple, la capacité de l'allié basique Spider-Man se lit : "**Réponse** : Après que Spider-Man a attaqué ou contré, choisissez un autre personnage `Web-Warrior` → redressez ce personnage." Cette capacité se réfère à la carte sur laquelle elle est imprimée et ne se déclenche pas lorsqu'une autre carte intitulée "Spider-Man" a attaqué ou contré.  
 2. Les cartes <span class="new">associées à</span> la même identité <span class="new">incluant</span> :  
     - <span class="new">La carte Identité</span>  
     - <span class="new">Les cartes spécifiques à l'identité</span>  

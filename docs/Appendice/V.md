@@ -7,7 +7,7 @@ Il devrait être écrit : « Action d'Alter-Ego : inclinez Division Légale Surh
 
 <span class="new">
 IRON MAN (#29A)  
-Il devrait être écrit : « Vous gagnez +1 de taille de main pour chaque amélioration Tech que vous contrôlez (à un maximum de +6 de taille de main). » (« (à une taille de main maximale de 7) » est remplacé par « (à un maximum de +6 de taille de main) ».)
+Il devrait être écrit : « Vous gagnez +1 de taille de main pour chaque amélioration `TECH` que vous contrôlez (à un maximum de +6 de taille de main). » (« (à une taille de main maximale de 7) » est remplacé par « (à un maximum de +6 de taille de main) ».)
 </span>
 
 LA CHAISE DE L'APOCALYPSE (#183)  

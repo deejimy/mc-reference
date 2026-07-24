@@ -30,7 +30,7 @@ Pour résoudre une attaque ennemie, respectez les étapes suivantes :
     - Si un **allié** <span class="new">était déclaré en tant que défenseur</span> de l'attaque, tous les dégâts de l'attaque sont infligés à l'allié. (Si l'allié est vaincu par l'attaque, les dégâts en excès ne sont pas infligés à l'identité.)  
         - Si l'allié défenseur quitte le jeu avant que les dégâts de l'attaque ne soient infligés, l'attaque est considérée comme n'ayant aucun personnage en défense et l'identité du contrôleur de cet allié devient la cible de l'attaque.  
     - Si **aucun personnage** <span class="new">n'était déclaré en tant que défenseur</span> de l'attaque, l'attaque est considérée comme non défendue. Tous les dégâts de l'attaque sont infligés au personnage ciblé par l'attaque.  
-        - Le personnage ciblé est considéré comme ayant été attaqué.  span>
+        - Le personnage ciblé est considéré comme ayant été attaqué.  
 
 6. L'attaque termine sa résolution et les types de capacités suivants se déclenchent dans l'ordre :  
     - Les capacités forcées <span class="new">(comme le mot clé `Riposte`)</span> avec les déclencheurs suivants (dans n'importe quel ordre) :  

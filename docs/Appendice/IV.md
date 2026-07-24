@@ -446,8 +446,8 @@ R : Non, car le joueur sait que la capacité ne pourra pas affecter sa cible, la
 ## PACK HÉROS HERCULES
 <span class="new">
 CARTES TRAVAIL
-**Q : Que se passe-t-il si une carte Travail ne trouve pas de cible quand elle est révélée ?**
-R : Cette carte Travail est défaussée. Chaque fois qu'une carte Travail quitte le jeu autrement qu'en étant placée dans la zone de victoire, placez-la sous le deck Travail.
+**Q : Que se passe-t-il si une carte `TRAVAIL` ne trouve pas de cible quand elle est révélée ?**
+R : Cette carte `TRAVAIL` est défaussée. Chaque fois qu'une carte `TRAVAIL` quitte le jeu autrement qu'en étant placée dans la zone de victoire, placez-la sous le deck `TRAVAIL`.
 </span>
 
 <details class="source"> <summary>EN v1.8</summary>

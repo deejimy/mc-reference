@@ -6,8 +6,6 @@
     L'objectif de ce projet est de mettre à disposition des joueurs francophones une version actualisée aux dernières clarifications de règles publiées par l'éditeur.  
     Si vous souhaitez contribuer au projet, votre aide est la bienvenue !
 
-
-
 !!! warning "RÉSUMÉ DES MODIFICATIONS NOTABLES"
 
     - [[Capacite|Capacité]] : « Priorité de résolution simultanée ».
@@ -19,8 +17,8 @@
     - [[IV|APPENDICE IV: FAQ]] : Ajouts et mises à jour dans l'« Annexe IV : FAQ ».
     - [[V|APPENDICE V: Errata]] : Ajouts dans l'« Annexe V : Errata ».
 
-    Les sources officielles (version anglaise v1.8) sont consultables sur chaque page.  
-    <span class="new">Les modifications par rapport à la version française v1.7 sont indiquées en rouge.</span>  
+    Un doute sur la traduction ? Les sources officielles sont consultables sur chaque page.  
+    Les modifications par rapport à la version v1.7 sont indiquées <span class="new">EN ROUGE</span>.  
 
 
 ## Présentation Générale
