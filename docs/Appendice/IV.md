@@ -103,7 +103,7 @@ R : Oui. Comme les cartes d'état ont priorité sur toutes les autres capacités
 LE BOUFFON VERT (#1B)
 **Q : Pendant que le Bouffon Vert attaque, si le dernier marqueur folie est retiré de l'environnement Accès de Folie via une capacité de « Boost », que se passe-t-il ?**
 R : Le Bouffon Vert est immédiatement retourné sur sa forme Norman Osborn.
-Les icônes de boost de la carte de boost sont ensuite ajoutées à la valeur d'ATQ de Norman Osborn, qui est ![[icone_etoile.jpg 15]] et est traitée comme une valeur de 0.
+Les icônes de boost de la carte de boost sont ensuite ajoutées à la valeur d'ATQ de Norman Osborn, qui est ![[icone_etoile.jpg|15]] et est traitée comme une valeur de 0.
 Norman Osborn inflige alors des dégâts d'attaque égaux à sa valeur d'ATQ modifiée (base de 0 ATQ, plus le nombre d'icônes de boost de la carte de boost). Dans cette situation précise, l'« Interruption forcée » de Norman Osborn ne se déclenche pas, car l'attaque a déjà dépassé le point de timing « Quand Norman Osborn est censé attaquer... » au moment où il change de forme.
 
 JE TE VOIS (#30)
@@ -267,7 +267,7 @@ R : Oui. C'est la carte sur laquelle se trouve un marqueur polyvalent qui défin
 
 PIERRE DU POUVOIR (#149)
 **Q : Si une identité qui contrôle la Pierre du Pouvoir est vaincue, que devient la Pierre du Pouvoir ?**
-<span class="new">R :Si un joueur est éliminé du jeu alors qu'une carteattachement permanent est dans sa zone de jeu, il résout le texte « attaché à » de cet attachement. Dans ce cas, la Pierre du Pouvoir serait attachée au méchant.</span>
+<span class="new">R :Si un joueur est éliminé du jeu alors qu'une carte attachement permanent est dans sa zone de jeu, il résout le texte « attaché à » de cet attachement. Dans ce cas, la Pierre du Pouvoir serait attachée au méchant.</span>
 **Q : Si un personnage avec la Pierre du Pouvoir reçoit 3 dégâts ou plus, mais n'en subit pas 3 ou plus grâce à de la prévention de dégâts, l'attaquant récupère-t-il la Pierre du Pouvoir ?**
 R : Oui. La prévention des dégâts ne réduit pas la quantité de dégâts infligés. Notez qu'un héros qui effectue une défense de base réduit la quantité de dégâts infligés d'un montant égal à sa DEF ; défendre peut donc empêcher que la Pierre du Pouvoir soit prise.
 
@@ -401,8 +401,8 @@ R : Non. Au moment où la « Réponse » de Honey Badger devrait se déclencher,
 
 ## PACK HÉROS DEADPOOL
 CRISE DES DEADPOOLS INFINIS (#37)
-**Q : Crise des Deadpools Infinis est-elle incluse dans le deck Rencontre si une capacité permet à un joueur d'inclure une ou plusieurs cartes d'affinité ’Pool hors de son affinité choisie ?**
-R : Non. Crise des Deadpools Infinis est incluse uniquement si au moins un joueur choisit l'affinité ’Pool comme (l'une de) ses affinités choisies.
+**Q : Crise des Deadpools Infinis est-elle incluse dans le deck Rencontre si une capacité permet à un joueur d'inclure une ou plusieurs cartes d'affinité 'Pool hors de son affinité choisie ?**
+R : Non. Crise des Deadpools Infinis est incluse uniquement si au moins un joueur choisit l'affinité 'Pool comme (l'une de) ses affinités choisies.
 
 ## EXTENSION L'ÂGE D'APOCALYPSE
 MAGIK (#30A)
@@ -458,7 +458,7 @@ Q: If my hero has a tough status card and I am dealt damage, can I use an interr
 A: No. Status cards have priority over all triggered abilities, like interrupts, so the tough status card must be discarded to prevent all of the damage before any other abilities could trigger.
 A hero can keep their tough status card if:
 1. A constant effect reduces the damage the hero takes to zero. This is because constant effects have priority over status cards.
-2. The hero makes a basic defense and their DEF reduces the damage dealt by the attacking enemy’s ATK to zero. This is because a basic defense reduces the amount of damage dealt by the attacker, rather than the amount of damage taken by the defender.
+2. The hero makes a basic defense and their DEF reduces the damage dealt by the attacking enemy's ATK to zero. This is because a basic defense reduces the amount of damage dealt by the attacker, rather than the amount of damage taken by the defender.
 Q: If my ally with a tough status card takes overkill damage, does the excess damage get dealt to my identity?
 A: No. Only excess damage “taken” by the ally gets dealt to the identity by the overkill keyword, and a tough status card prevents the character from “taking” any damage.
 
@@ -468,18 +468,18 @@ A: Yes. The Leadership aspect received 1 fewer card than the other aspects becau
 
 SPIDER-MAN (#1A)
 Q: When does the villain “initiate” an attack against Spider-Man?
-A: An attack is “initiated” the moment the game determines an attack will be made against a character. This includes attacks made from game steps (such as step 2 of the villain phase) and card abilities (such as an attack initiated by the “Assault” treachery). Spider Man’s ability resolves before any of the steps of the process detailed in the “Attack (Enemy Activation)” section are performed.
+A: An attack is “initiated” the moment the game determines an attack will be made against a character. This includes attacks made from game steps (such as step 2 of the villain phase) and card abilities (such as an attack initiated by the “Assault” treachery). Spider Man's ability resolves before any of the steps of the process detailed in the “Attack (Enemy Activation)” section are performed.
 
 WEBBED UP (#9)
 Q: How many attacks does Webbed Up prevent?
-A: Two attacks in total. Webbed Up prevents the attached enemy’s very next attack by replacing that attack with the placement of a stun status card. Then, the stun status card will prevent that enemy’s following attack.
+A: Two attacks in total. Webbed Up prevents the attached enemy's very next attack by replacing that attack with the placement of a stun status card. Then, the stun status card will prevent that enemy's following attack.
 Q: Does Webbed Up prevent Spider-Sense from triggering?
-A: Yes. Webbed Up’s ability is a replacement effect (indicated by the word “instead”), meaning the attack never initiates.
+A: Yes. Webbed Up's ability is a replacement effect (indicated by the word “instead”), meaning the attack never initiates.
 
 JENNIFER WALTERS (#19B)
 Q: Can Jennifer Walters remove threat from a side scheme as it enters play?
 A: No. Side schemes enter play with threat already on them, meaning threat is not “placed” at this point.
-Q: If threat is placed on a scheme during game setup, does Jennifer Walters’s ability trigger?
+Q: If threat is placed on a scheme during game setup, does Jennifer Walters's ability trigger?
 A: No. Abilities that do not have the “Setup” timing trigger cannot resolve during game setup.
 
 LEGAL PRACTICE (#23)
@@ -488,15 +488,15 @@ A: No. All of the threat removed by Legal Practice must be removed from a single
 
 FOCUSED RAGE (#27)
 Q: If She-Hulk has a tough status card, can she use Focused Rage to draw a card?
-A: No. The tough status card prevents She-Hulk from “tak[ing] 1 damage,” so the ability’s cost cannot be paid.
-Because you cannot partially pay a cost, you cannot attempt to pay the cost of Focused Rage’s ability just to remove She-Hulk’s tough status card.
+A: No. The tough status card prevents She-Hulk from “tak[ing] 1 damage,” so the ability's cost cannot be paid.
+Because you cannot partially pay a cost, you cannot attempt to pay the cost of Focused Rage's ability just to remove She-Hulk's tough status card.
 
 SUPERHUMAN STRENGTH (#28)
-Q: If She-Hulk attacks an enemy that cannot be stunned because it is already stunned or is stalwart, does Superhuman Strength’s Forced Interrupt resolve?
-A: No. Because the effect of Superhuman Strength’s Forced Interrupt cannot affect the attacked enemy, the effect cannot resolve and Superhuman Strength is not discarded.
+Q: If She-Hulk attacks an enemy that cannot be stunned because it is already stunned or is stalwart, does Superhuman Strength's Forced Interrupt resolve?
+A: No. Because the effect of Superhuman Strength's Forced Interrupt cannot affect the attacked enemy, the effect cannot resolve and Superhuman Strength is not discarded.
 
 REPULSOR BLAST (#31)
-Q: Can Repulsor Blast’s first point of damage remove a tough status card from an enemy, then its additional damage deal damage to that enemy?
+Q: Can Repulsor Blast's first point of damage remove a tough status card from an enemy, then its additional damage deal damage to that enemy?
 A: No. The additional damage that Repulsor Blast deals is a simultaneous modification of its first point of damage. For instance, if a player were to discard 2 energy resources due to Repulsor Blast, they would deal a total of 5 damage to an enemy all at once, as the additional 4 damage dealt by the discard effect happens at the same time as the first point of damage.
 
 PEPPER POTTS (#33)
@@ -509,16 +509,16 @@ A: No. Resources are generated simultaneously, meaning the spent card will not b
 
 ROCKET BOOTS (#39)
 Q: If Iron Man has 1 hit point remaining and his Rocket Boots upgrade is discarded from play, is Iron Man defeated?
-A: Yes. If an ability that modifies hit points expires or otherwise becomes inactive, the modified hit points revert to the value they would be without the modifier. In this case, Iron Man’s hit points would revert to 0, instantly defeating him.
+A: Yes. If an ability that modifies hit points expires or otherwise becomes inactive, the modified hit points revert to the value they would be without the modifier. In this case, Iron Man's hit points would revert to 0, instantly defeating him.
 
 BLACK PANTHER (#40A)
-Q: If an enemy initiates an attack against Black Panther but another hero or an ally defends against that attack, will Black Panther’s retaliate ability trigger?
+Q: If an enemy initiates an attack against Black Panther but another hero or an ally defends against that attack, will Black Panther's retaliate ability trigger?
 A: No. Black Panther himself must be attacked for retaliate to trigger.
 Q: If Black Panther defends against an attack, will his retaliate ability trigger?
 A: Yes. As long as Black Panther himself is attacked, retaliate will trigger.
 
 ANCESTRAL KNOWLEDGE (#42)
-Q: Can Ancestral Knowledge shuffle different versions of Wakanda Forever into Black Panther’s deck?
+Q: Can Ancestral Knowledge shuffle different versions of Wakanda Forever into Black Panther's deck?
 A: No. Cards with the same title are considered to be the same card for the purpose of card abilities.
 
 VIBRANIUM SUIT (#49)
@@ -526,46 +526,46 @@ Q: Does moving damage discard tough status cards from the target enemy?
 A: Yes. If damage is moved to a character, the moved damage is considered to be dealt to that character.
 
 TIGRA/GREER GRANT NELSON (#51)
-Q: Does Tigra’s “Response” ability trigger before or after she takes consequential damage?
+Q: Does Tigra's “Response” ability trigger before or after she takes consequential damage?
 A: Before. The “After Tigra attacks and defeats a minion...” condition is checked immediately after Tigra defeats a minion with her attack power, but before consequential damage is applied to her.
 
 MAKE THE CALL (#71)
 Q: When playing Make the Call, do “The Power of [Aspect]” resource cards (such as The Power of Leadership) generate 1 resource or 2 resources?
-A: Make the Call’s text states “Action: Pay the printed cost of an ally in any player’s discard pile...”, meaning the player is paying the cost of the ally itself. If that ally’s aspect matches that of The Power of [Aspect] card, then The Power of [Aspect] card will generate 2 resources. However, if that ally’s aspect does not match, The Power of [Aspect] card will only generate 1 resource.
+A: Make the Call's text states “Action: Pay the printed cost of an ally in any player's discard pile...”, meaning the player is paying the cost of the ally itself. If that ally's aspect matches that of The Power of [Aspect] card, then The Power of [Aspect] card will generate 2 resources. However, if that ally's aspect does not match, The Power of [Aspect] card will only generate 1 resource.
 
 WHIRLWIND (#130)
-Q: How is Whirlwind’s attack against each hero resolved?
+Q: How is Whirlwind's attack against each hero resolved?
 A: Whirlwind makes a separate attack against each hero and these attacks are resolved simultaneously. Each player resolves each step of the attack simultaneously. Each attack may have a defender declared, and each defender defends for a single player.
 
 ULTRON II (#135)
-Q: If Ultron’s attack is defended by a player other than the one who was attacked, does Ultron get +1 ATK for each Drone minion engaged with the defending player or the player Ultron initiated the attack against?
-A: Ultron’s ability has already resolved before defenders are declared, creating a lasting effect that refers to the original target of the attack. The bonus to Ultron’s ATK is based on the number of Drone minions engaged with the player Ultron initiated the attack against. If the number of Drone minions engaged with that player changes, the bonus changes as well.
+Q: If Ultron's attack is defended by a player other than the one who was attacked, does Ultron get +1 ATK for each Drone minion engaged with the defending player or the player Ultron initiated the attack against?
+A: Ultron's ability has already resolved before defenders are declared, creating a lasting effect that refers to the original target of the attack. The bonus to Ultron's ATK is based on the number of Drone minions engaged with the player Ultron initiated the attack against. If the number of Drone minions engaged with that player changes, the bonus changes as well.
 
 ASSAULT (#197)
 Q: If Assault causes the villain to attack me and there is only one card left in the encounter deck, is Assault in the encounter discard pile when the discard pile is shuffled into the encounter deck after the villain is given a boost card?
-A: No. Assault is not discarded until it finishes resolving, which happens when the villain’s attack has been resolved.
+A: No. Assault is not discarded until it finishes resolving, which happens when the villain's attack has been resolved.
 
 GREEN GOBLIN SCENARIO PACK
 NORMAN OSBORN (#1A)
-Q: Will a stun status card prevent Norman Osborn’s attack activation?
-A: Yes. Because status cards take priority over all other abilities, a stun status card will prevent Norman Osborn’s activation.
+Q: Will a stun status card prevent Norman Osborn's attack activation?
+A: Yes. Because status cards take priority over all other abilities, a stun status card will prevent Norman Osborn's activation.
 58 Ru l e s Re f eren c e
 
 GREEN GOBLIN (#1B)
 Q: While Green Goblin is attacking, if the last madness counter is removed from the State of Madness environment through a “Boost” ability, what happens?
 A: Green Goblin immediate flips to Norman Osborn form.
-Boost icons from the boost card are then added to Norman Osborn’s ATK value of , which is treated as a value of 0.
-Norman Osborn then deals damage from the attack equal to his modified ATK value (base of 0 ATK, plus the number of boost icons on the boost card). In this specific situation, Norman Osborn’s “Forced Interrupt” does not trigger, as the attack is already past the point of “When Norman Osborn would attack...” by the time he changes to his Norman Osborn form.
+Boost icons from the boost card are then added to Norman Osborn's ATK value of , which is treated as a value of 0.
+Norman Osborn then deals damage from the attack equal to his modified ATK value (base of 0 ATK, plus the number of boost icons on the boost card). In this specific situation, Norman Osborn's “Forced Interrupt” does not trigger, as the attack is already past the point of “When Norman Osborn would attack...” by the time he changes to his Norman Osborn form.
 
 I SEE YOU (#30)
-Q: If I’m in alter-ego form and I reveal “I See You”, does Green Goblin attack me?
+Q: If I'm in alter-ego form and I reveal “I See You”, does Green Goblin attack me?
 A: Yes. Because the “When Revealed” ability on I See You does not specify hero form or alter-ego form, Green Goblin will attack the player no matter their form.
 
 CAPTAIN AMERICA HERO PACK
 STEVE ROGERS (#1B)
-Q: If Captain America’s Shield is put into play as a Drone minion during game setup for Ultron, can I retrieve it with Steve Rogers’s Setup ability?
-A: No. The Setup ability specifically searches the player’s deck and discard pile. If Captain America’s Shield is not in either game area, the ability fails to find it.
-Q: If an ally is played while I’m Captain America, then I change form to Steve Rogers, will Steve Rogers’s “Living Legend” ability still apply to the next ally played?
+Q: If Captain America's Shield is put into play as a Drone minion during game setup for Ultron, can I retrieve it with Steve Rogers's Setup ability?
+A: No. The Setup ability specifically searches the player's deck and discard pile. If Captain America's Shield is not in either game area, the ability fails to find it.
+Q: If an ally is played while I'm Captain America, then I change form to Steve Rogers, will Steve Rogers's “Living Legend” ability still apply to the next ally played?
 A: No. Living Legend only applies to the very first ally played each round.
 
 MS. MARVEL HERO PACK
@@ -578,13 +578,13 @@ Q: When playing Emergency, can I exhaust Shrink to remove 2 threat from a scheme
 A: No. Shrink increases each instance of threat removed by a thwart event. Because Emergency only prevents threat and does not remove any, Shrink will have no effect.
 
 NOVA/SAM ALEXANDER (#12)
-Q: If Nova’s ability defeats an attacking enemy, does that enemy’s attack still deal damage?
+Q: If Nova's ability defeats an attacking enemy, does that enemy's attack still deal damage?
 A: No. Although the attack sequence has initiated, damage from that attack has not yet been calculated. If Nova defeats the enemy during this step, the rest of the attack sequence fails to resolve.
 
 MELEE (#30)
 Q: Can Melee deal damage to the same enemy twice?
 A: No. When Melee deals damage a second time, that damage must be dealt to an enemy that is different from the first. Note that different stages of the villain are considered to be the same enemy.
-Q: If I’m engaged with a minion with guard, can I target that minion and the villain, as long as the minion would be destroyed by the damage done by Melee?
+Q: If I'm engaged with a minion with guard, can I target that minion and the villain, as long as the minion would be destroyed by the damage done by Melee?
 A: Yes, as long as you defeat the minion with the first sentence of the ability on Melee, you may deal damage to the villain with the second sentence of the ability.
 
 THOR HERO PACK
@@ -597,7 +597,7 @@ A: Yes. Each enemy that is dealt damage by an Attack event is considered to have
 BLACK WIDOW HERO PACK
 DANCE OF DEATH (#4)
 Q: Dance of Death does not contain the (attack) label. Are each of its damage-dealing effects actually considered attacks or is this a mistake?
-A: The first sentence of Dance of Death’s ability defines each damage-dealing effect from Dance of Death as an individual attack. Resolve each as a normal attack, one at a time.
+A: The first sentence of Dance of Death's ability defines each damage-dealing effect from Dance of Death as an individual attack. Resolve each as a normal attack, one at a time.
 Q: If Black Widow is stunned, will each attack from Dance of Death be prevented, or just the first attack?
 A: Because Dance of Death creates three separate attacks, a stun status card on Black Widow will only prevent the first attack. The second and third attack can be performed as normal.
 
@@ -606,14 +606,14 @@ Q: Can Attacrobatics cancel 0 boost icons?
 A: No. Attacrobatics cannot be used to cancel the boost icons on a card that has none as there is no valid target for the ability.
 59 Ru l e s Re f eren c e
 
-WIDOW’S BITE (#10)
-Q: If I have Widow’s Bite in play and I reveal a minion with quickstrike, which resolves first?
-A: Quickstrike triggers when a minion engages a player and minions enter play engaged with the player who revealed them, thus Quickstrike and the “Response” on Widow’s Bite have the same timing trigger. Keywords have timing priority over “Response” abilities, so Quickstrike resolves first.
+WIDOW'S BITE (#10)
+Q: If I have Widow's Bite in play and I reveal a minion with quickstrike, which resolves first?
+A: Quickstrike triggers when a minion engages a player and minions enter play engaged with the player who revealed them, thus Quickstrike and the “Response” on Widow's Bite have the same timing trigger. Keywords have timing priority over “Response” abilities, so Quickstrike resolves first.
 
 DOCTOR STRANGE HERO PACK
 THE NIGHT NURSE (#19)
 Q: If the only status card on a hero is a tough status card, is it discarded if I use The Night Nurse to heal that hero?
-A: Yes. The Night Nurse’s ability discards 1 status card from that hero, no matter the type.
+A: Yes. The Night Nurse's ability discards 1 status card from that hero, no matter the type.
 
 UNFLAPPABLE (#20)
 Q: If while defending against an enemy attack, my identity takes damage from a “Boost” ability but takes no damage from the attacking enemy otherwise, can I still trigger Unflappable to draw a card?
@@ -632,53 +632,53 @@ While its first effect may not have a valid target if the villain is already con
 
 HULK HERO PACK
 CRUSHING BLOW (#2)
-Q: If Crushing Blow’s resource cost is reduced to 0, can it be played without spend  resources?
+Q: If Crushing Blow's resource cost is reduced to 0, can it be played without spend  resources?
 A: Yes. The “You can only spend  resources to pay for this card” ability on Crushing Blow only applies when actual resources are being spent to pay for its resource cost. If its resource cost is reduced to 0, no resources are required to pay for Crushing Blow, so no  resources must be spent.
 
 UNSTOPPABLE FORCE (#6)
-Q: If Unstoppable Force’s resource cost is reduced to 0, will I draw 1 card from its second ability?
-A: No. Because no resources were spent to pay for Unstoppable Force’s resource cost, its “If you paid for this ability using only  resources...” condition was not fulfilled, so that effect will not resolve.
+Q: If Unstoppable Force's resource cost is reduced to 0, will I draw 1 card from its second ability?
+A: No. Because no resources were spent to pay for Unstoppable Force's resource cost, its “If you paid for this ability using only  resources...” condition was not fulfilled, so that effect will not resolve.
 
 CLASH OF TITANS (#28)
 Q: If my highest-ATK character is an ally, and the attack from Clash of Titans is undefended, which takes the damage: my identity or the ally that was attacked?
 A: The ally will take all damage from the undefended attack.
 
 RISE OF RED SKULL EXPANSION
-HAWKEYE’S QUIVER (#3)
-Q: After using Hawkeye’s Quiver to search the top 5 cards of my deck, what should I do with those cards?
-A: Shuffle those cards back into Hawkeye’s deck. After a search ability is completed—no matter if that ability searches the whole deck or only a portion of the deck—the entire deck is shuffled.
+HAWKEYE'S QUIVER (#3)
+Q: After using Hawkeye's Quiver to search the top 5 cards of my deck, what should I do with those cards?
+A: Shuffle those cards back into Hawkeye's deck. After a search ability is completed—no matter if that ability searches the whole deck or only a portion of the deck—the entire deck is shuffled.
 
 MARKED FOR DEATH (#28)
-Q: When Marked for Death is revealed, if a copy of Mockingbird is already under a player’s control who is not Clint Barton, what happens?
+Q: When Marked for Death is revealed, if a copy of Mockingbird is already under a player's control who is not Clint Barton, what happens?
 A: The Clint Barton player can tuck their copy of Mockingbird under this scheme even if there is another copy of Mockingbird in play because tucked cards are not considered to be in play.
 
 JESSICA DREW (#31B)
-Q: Does Jessica Drew’s Double Agent ability require her deck to be built with two aspects?
+Q: Does Jessica Drew's Double Agent ability require her deck to be built with two aspects?
 A: Yes. An equal number of cards from two different aspects must be included in her deck.
 
 FINESSE (#33)
-Q: Can Finesse generate a resource to pay for an aspect card’s ability (such as Jarnbjorn)?
-A: Yes. As long as the resource generated by Finesse is spent on an aspect card (its resource cost or a cost within that aspect card’s ability), Finesse can be used.
+Q: Can Finesse generate a resource to pay for an aspect card's ability (such as Jarnbjorn)?
+A: Yes. As long as the resource generated by Finesse is spent on an aspect card (its resource cost or a cost within that aspect card's ability), Finesse can be used.
 
 THE ONCE AND FUTURE K ANG
 SCENARIO PACK
 Q: While the players are split into separate game areas, whose game area are environment cards considered to be in?
-A: Environment cards are considered to be in all players’ game areas.
+A: Environment cards are considered to be in all players' game areas.
 
 DEPOWERED (#20)
-Q: If Depowered is in Doctor Strange’s play area, can the Doctor Strange player still use the Invocation deck?
+Q: If Depowered is in Doctor Strange's play area, can the Doctor Strange player still use the Invocation deck?
 A: Yes. The abilities on cards in the Invocation deck are merely resolved, not played.
 60 Ru l e s Re f eren c e
 
 WASP HERO PACK
 WASP (#1C)
 Q: While Wasp is in Giant hero form, how does her first ability interact the patrol keyword and the crisis icon?
-A: Wasp’s first ability allows her basic thwart to simultaneously remove threat from each scheme that Wasp chooses. Wasp cannot choose the main scheme as a target while she is engaged with a minion with the patrol keyword or there is a card with a crisis icon in play. Due to the simultaneous nature of this ability, this applies even if the card with the patrol keyword or crisis icon is removed from play during her basic thwart’s resolution.
+A: Wasp's first ability allows her basic thwart to simultaneously remove threat from each scheme that Wasp chooses. Wasp cannot choose the main scheme as a target while she is engaged with a minion with the patrol keyword or there is a card with a crisis icon in play. Due to the simultaneous nature of this ability, this applies even if the card with the patrol keyword or crisis icon is removed from play during her basic thwart's resolution.
 Q: While Wasp is in Giant hero form, how does her second ability interact with the guard keyword?
-A: Wasp’s second ability allows her basic attack to simultaneously damage each enemy that Wasp chooses.
-Wasp cannot choose the villain as a target while she is engaged with a minion with the guard keyword. Due to the simultaneous nature of this ability, this applies even if the card with the guard keyword is removed from play during her basic attack’s resolution.
+A: Wasp's second ability allows her basic attack to simultaneously damage each enemy that Wasp chooses.
+Wasp cannot choose the villain as a target while she is engaged with a minion with the guard keyword. Due to the simultaneous nature of this ability, this applies even if the card with the guard keyword is removed from play during her basic attack's resolution.
 Q: While Wasp is in Giant hero form, how does her second ability interact with multiple enemies who have the retaliate keyword?
-A: Wasp is considered to attack each target affected by her divided basic attack. If Wasp’s basic attack is divided among multiple enemies with the retaliate keyword, each instance of retaliate will damage Wasp (in the order of her choice).
+A: Wasp is considered to attack each target affected by her divided basic attack. If Wasp's basic attack is divided among multiple enemies with the retaliate keyword, each instance of retaliate will damage Wasp (in the order of her choice).
 
 QUICKSILVER HERO PACK
 QUICKSILVER (#1A)
@@ -693,28 +693,28 @@ Then, determine and resolve the appropriate bulleted abilities based off of what
 
 SLIPPING SANITY (#23)
 Q: Is it intentional that Scarlet Witch has two obligation cards?
-A: Yes. Scarlet Witch’s powers are chaotic, often working in her favor, though also sometimes working against her.
+A: Yes. Scarlet Witch's powers are chaotic, often working in her favor, though also sometimes working against her.
 While she has many cards within her personal set that represent the positive facets of her powers, having multiple obligations represents the negative facets.
 
-GAL A X Y’S MOST WANTED
+GAL A X Y'S MOST WANTED
 EXPANSION
 MODULAR ENCOUNTER SETS
-Q: In the Galaxy’s Most Wanted Expansion, which sets are considered modular encounter sets?
-A: If an encounter set is not scenario-specific (containing the name of that scenario in its encounter set name area) or campaign-specific (containing the word “Campaign” in its encounter set name area), then it is modular. The eight modular encounter sets in the Galaxy’s Most Wanted Expansion are: Badoon Headhunter, Band of Badoon, Galactic Artifacts, Kree Militants, Menagerie Medley, Power Stone, Space Pirates, and Ship Command.
+Q: In the Galaxy's Most Wanted Expansion, which sets are considered modular encounter sets?
+A: If an encounter set is not scenario-specific (containing the name of that scenario in its encounter set name area) or campaign-specific (containing the word “Campaign” in its encounter set name area), then it is modular. The eight modular encounter sets in the Galaxy's Most Wanted Expansion are: Badoon Headhunter, Band of Badoon, Galactic Artifacts, Kree Militants, Menagerie Medley, Power Stone, Space Pirates, and Ship Command.
 
 CAMPAIGN MODE
 Q: Do I have to play in expert mode for each scenario in an expert campaign?
-A: No. Increasing a campaign’s difficulty merely adds additional cards or setup instructions to each scenario in that campaign. It does not lock players into any other mode of play. For each scenario within a campaign, players are encouraged to choose the other modes of play that are right for them.
+A: No. Increasing a campaign's difficulty merely adds additional cards or setup instructions to each scenario in that campaign. It does not lock players into any other mode of play. For each scenario within a campaign, players are encouraged to choose the other modes of play that are right for them.
 Q: If I play one scenario in expert mode, do I have to play the next scenario using the same mode?
 A: No. The players may, for instance, play one scenario of the campaign using a combination of standard, heroic, and skirmish modes, then play the next scenario of the campaign using simply expert mode. Players can mix and match modes as they see fit between each scenario in a campaign.
 
 ROCKET RACCOON (#29A)
-Q: If Rocket Raccoon uses his “Tinkering” ability but the Tech upgrade is not placed into a discard pile (such as due to Collector’s ability), will Rocket Raccoon draw 2 cards?
-A: Yes. Discarding is the act of attempting to place a card into a discard pile. Even if the Tech upgrade ends up in a different game area, the cost of Rocket Raccoon’s “Tinkering” ability was still paid.
+Q: If Rocket Raccoon uses his “Tinkering” ability but the Tech upgrade is not placed into a discard pile (such as due to Collector's ability), will Rocket Raccoon draw 2 cards?
+A: Yes. Discarding is the act of attempting to place a card into a discard pile. Even if the Tech upgrade ends up in a different game area, the cost of Rocket Raccoon's “Tinkering” ability was still paid.
 
 SALVAGE (#33)
 Q: If the Hulk ally (Core Set #50) discards Salvage, what happens?
-A: Hulk’s ability checks all printed resources on Salvage simultaneously, then resolves the appropriate effect based on the result. Because this check and resolution is simultaneous, the player who controls Hulk chooses the order in which the effects resolve.
+A: Hulk's ability checks all printed resources on Salvage simultaneously, then resolves the appropriate effect based on the result. Because this check and resolution is simultaneous, the player who controls Hulk chooses the order in which the effects resolve.
 61 Ru l e s Re f eren c e
 
 BATTERY PACK (#34)
@@ -725,12 +725,12 @@ POWER STONE (#149)
 Q: If an identity who controls the Power Stone is defeated, what happens to the Power Stone?
 A: If a player is eliminated from the game while a permanent attachment is in their play area, they resolve the “attach to” text of that attachment. In this case, the Power Stone would be attached to the villain.
 Q: If a character with the Power Stone is dealt 3 or more damage but does not take 3 or more damage due to damage prevention, does the attacker get the Power Stone attached to them?
-A: Yes. Damage prevention does not reduce the amount of damage dealt. Note that a hero making a basic defense reduces the amount of damage dealt by that hero’s DEF, so defending an attack can prevent the Power Stone from being taken.
+A: Yes. Damage prevention does not reduce the amount of damage dealt. Note that a hero making a basic defense reduces the amount of damage dealt by that hero's DEF, so defending an attack can prevent the Power Stone from being taken.
 
 STAR-LORD HERO PACK
 STAR-LORD (#1A)
 Q: If I play an ally that does not have the printed Guardian trait while in hero form, can I trigger the response on Knowhere (#22)?
-A: Yes. Star-Lord’s constant ability grants each ally his player controls the Guardian trait. Constant abilities have priority over triggered abilities like Knowhere’s “Response” ability, so the newly-played ally will have the Guardian trait before Knowhere triggers.
+A: Yes. Star-Lord's constant ability grants each ally his player controls the Guardian trait. Constant abilities have priority over triggered abilities like Knowhere's “Response” ability, so the newly-played ally will have the Guardian trait before Knowhere triggers.
 
 MISTER KNIFE (#26)
 Q: When Mister Knife is revealed by Shadow of the Past, does Shadow of the Past gain surge if it was the first treachery revealed by the Star-Lord player that phase?
@@ -745,7 +745,7 @@ GRASPING TENDRILS (#3)
 Q: If I cancel an attack with Grasping Tendrils, is my hero considered to have defended that attack?
 A: Yes, because Grasping Tendrils is labeled as a defense, your hero is considered to have defended the attack.
 
-MAD TITAN’S SHADOW EXPANSION
+MAD TITAN'S SHADOW EXPANSION
 SCENARIO #2 - TOWER DEFENSE
 Q: When a minion schemes during this scenario, which main scheme is its threat placed on?
 A: Threat from a minion scheming is placed on the main scheme with the “Focused Defense” attachment attached to it.
@@ -764,8 +764,8 @@ A: Yes, allies always take consequential damage after they attack.
 
 WAR MACHINE HERO PACK
 GAUNTLET GUN (#5)
-Q: Can Gauntlet Gun’s resource ability be triggered when paying a cost other than for a War Machine event in order to place 1 ammo counter on War Machine?
-A: No, Gaunlet Gun’s resource ability can only be triggered when paying for a War Machine event.
+Q: Can Gauntlet Gun's resource ability be triggered when paying a cost other than for a War Machine event in order to place 1 ammo counter on War Machine?
+A: No, Gaunlet Gun's resource ability can only be triggered when paying for a War Machine event.
 
 SINISTER MOTIVES EXPANSION
 SCENARIO #4 - THE SINISTER SIX
@@ -795,12 +795,12 @@ A: No, if you cannot take damage, you cannot pay a cost that requires you to tak
 SPIDER-HAM HERO PACK
 WARRIOR OF THE GREAT WEB (#29)
 Q: Can the SP//dr hero or ally have Warrior of the Great Web attached?
-A: No. A character’s title must contain the word “Spider” spelled exactly that way in order for Warrior of the Great Web to be attached.
+A: No. A character's title must contain the word “Spider” spelled exactly that way in order for Warrior of the Great Web to be attached.
 
 SP//DR HERO PACK
 SPIDER-MAN NOIR (#15)
-Q: If a treachery’s “When Revealed” ability is canceled, can Spider-Man Noir attach that treachery to himself?
-A: In order for Spider-Man Noir’s response to trigger, some part of the treachery card must be resolved. If the treachery card has a keyword on it that is resolved when the card is revealed, like surge or incite X, Spider-Man Noir can trigger his response to attach that card to himself. If no part of the treachery card resolves, he cannot attach it.
+Q: If a treachery's “When Revealed” ability is canceled, can Spider-Man Noir attach that treachery to himself?
+A: In order for Spider-Man Noir's response to trigger, some part of the treachery card must be resolved. If the treachery card has a keyword on it that is resolved when the card is revealed, like surge or incite X, Spider-Man Noir can trigger his response to attach that card to himself. If no part of the treachery card resolves, he cannot attach it.
 
 MUTANT GENESIS EXPANSION
 POWERFUL PUNCH (#14)
@@ -812,24 +812,24 @@ After the villain deals damage from its attack (or attempts to do so), Shadowcat
 MUTANT PROTECTORS (#17)
 Q: How does the defense label on Mutant Protectors work since the card ability makes an ally the defender?
 A: When a player plays Mutant Protectors, that player becomes the target of the enemy attack and the X-Men ally put into play becomes the defender.
-If the defending ally leaves play before damage is dealt for the attack, the player’s hero becomes the defender and can trigger “after you defend” responses after the attack resolves. (This is not a basic defense, and the villain’s attack is not reduced by the hero’s DEF.)
+If the defending ally leaves play before damage is dealt for the attack, the player's hero becomes the defender and can trigger “after you defend” responses after the attack resolves. (This is not a basic defense, and the villain's attack is not reduced by the hero's DEF.)
 
 WHITE QUEEN (#56)
-Q: How does White Queen’s constant ability work?
-A: The phrase “you are confused” instructs you to place a confused status card on your identity. Because White Queen uses this phrase as a constant ability, she continuously places confused status cards on the engaged player’s identity until that identity cannot have any more confused status cards (normally one, but can be more, such as when the identity has the steady keyword). If that identity attempts to thwart, they can do so and remove their confused status card(s), but will immediately be given more confused status cards. When White Queen leaves play, any confused status cards remain on the identity until that identity attempts to thwart in order to remove them.
+Q: How does White Queen's constant ability work?
+A: The phrase “you are confused” instructs you to place a confused status card on your identity. Because White Queen uses this phrase as a constant ability, she continuously places confused status cards on the engaged player's identity until that identity cannot have any more confused status cards (normally one, but can be more, such as when the identity has the steady keyword). If that identity attempts to thwart, they can do so and remove their confused status card(s), but will immediately be given more confused status cards. When White Queen leaves play, any confused status cards remain on the identity until that identity attempts to thwart in order to remove them.
 
 OPERATION ZERO TOLERANCE (#104)
-Q: If an ally is not discarded after being defeated by an enemy attack (for instance, it is returned to hand or shuffled into a player’s deck), does it go under Operation Zero Tolerance?
+Q: If an ally is not discarded after being defeated by an enemy attack (for instance, it is returned to hand or shuffled into a player's deck), does it go under Operation Zero Tolerance?
 A: Yes. Operation Zero Tolerance does not specify where to find the defeated ally when it resolves, so it is placed under Operation Zero Tolerance, regardless of where it ended up.
 63 Ru l e s Re f eren c e
 
 FABIAN CORTEZ (#159)
-Q: If Fabian Cortez’s “When Defeated” ability puts an Acolyte minion with the teamwork keyword into play while Fabian Cortez is the only other Acolyte minion in play, will the teamwork keyword on the other minion trigger?
-A: No. Since putting the other minion into play is the last effect of Fabian Cortez’s “When Defeated” ability, he is discarded immediately upon the other minion entering play. This means Fabian Cortez is no longer in play when the other minion‘s teamwork keyword tries to find an Acolyte minion in play.
+Q: If Fabian Cortez's “When Defeated” ability puts an Acolyte minion with the teamwork keyword into play while Fabian Cortez is the only other Acolyte minion in play, will the teamwork keyword on the other minion trigger?
+A: No. Since putting the other minion into play is the last effect of Fabian Cortez's “When Defeated” ability, he is discarded immediately upon the other minion entering play. This means Fabian Cortez is no longer in play when the other minion‘s teamwork keyword tries to find an Acolyte minion in play.
 
 CYCLOPS HERO PACK
 RICOCHET BEAM (#9)
-Q: If Cyclops chooses the same enemy with Exploit Weakness attached for both of Ricochet Beam’s instances of damage, how much damage is dealt to that enemy?
+Q: If Cyclops chooses the same enemy with Exploit Weakness attached for both of Ricochet Beam's instances of damage, how much damage is dealt to that enemy?
 A: Exploit Weakness increases each instance of damage Ricochet Beam deals to the enemy to which Exploit Weakness is attached by 1, so Ricochet Beam deals that enemy a total of 8 damage (4 damage + 4 damage).
 
 MOJOMANIA SCENARIO PACK
@@ -853,8 +853,8 @@ A: Yes. While Malice is attached to an ally:
 
 X-23 HERO PACK
 HONEY BADGER (#3)
-Q: Can Honey Badger’s “Response” be triggered if the damage defeats her?
-A: No. By the time Honey Badger’s “Response“ would trigger, she has already left play, so it cannot be triggered.
+Q: Can Honey Badger's “Response” be triggered if the damage defeats her?
+A: No. By the time Honey Badger's “Response“ would trigger, she has already left play, so it cannot be triggered.
 
 DEADPOOL HERO PACK
 CRISIS OF INFINITE DEADPOOLS (#37)
@@ -870,22 +870,22 @@ A: Yes. Any time Magik has an opportunity to play a card from her hand, she may 
 Q: Can Magik resolve an ability that triggers “after you play [card] from your hand,” such as Pixie (Storm #17), if she plays that card from the top of her deck?
 A: Yes. When Magik plays a card from the top of her deck, that card is considered to have been played from her hand.
 Q: Can Magik put the top card of her deck into play as if it was in her hand, such as with Mutant Protectors (Mutant Genesis #17)?
-A: No. Putting a card into play is not the same as playing a card, and Magik’s ability only allows her to play the top card of her deck, not put it into play.
+A: No. Putting a card into play is not the same as playing a card, and Magik's ability only allows her to play the top card of her deck, not put it into play.
 
 AGENTS OF S.H.I.E.L.D. EXPANSION
 MARIA HILL (#1B)
 Q: Can I include just one or two S.H.I.E.L.D. supports from aspects other than my chosen aspect in my Maria Hill deck?
-A: No, Maria Hill’s ability is all or nothing. You must include the maximum number of copies of each of exactly three S.H.I.E.L.D. supports from aspects other than your chosen aspect, or else you cannot have any S.H.I.E.L.D. supports from other aspects in your deck.
+A: No, Maria Hill's ability is all or nothing. You must include the maximum number of copies of each of exactly three S.H.I.E.L.D. supports from aspects other than your chosen aspect, or else you cannot have any S.H.I.E.L.D. supports from other aspects in your deck.
 64 Ru l e s Re f eren c e
 
 STEALTH (#35)
-Q: When Nick Fury’s Stealth suit form changes the villain’s activation to a scheme, what happens if that villain is confused?
+Q: When Nick Fury's Stealth suit form changes the villain's activation to a scheme, what happens if that villain is confused?
 A: The interrupt ability of Stealth causes the villain activation to reinitiate, this time as a scheme activation, so the the confused status will cancel that activation (and Nick Fury does not get to place any threat on his suit form upgrade).
 
 BLACK PANTHER HERO PACK
-THE ELEPHANT’S TRUNK (#7)
-Q: Can I satisfy the cost of The Elephant’s Trunk’s action ability if I just exhaust The Elephant’s Trunk itself?
-A: Yes. The Elephant’s Trunk is itself a Wakanda support, so it satisfies the minimum of one Wakanda ally or support needed to pay its ability’s cost.
+THE ELEPHANT'S TRUNK (#7)
+Q: Can I satisfy the cost of The Elephant's Trunk's action ability if I just exhaust The Elephant's Trunk itself?
+A: Yes. The Elephant's Trunk is itself a Wakanda support, so it satisfies the minimum of one Wakanda ally or support needed to pay its ability's cost.
 
 TARGET SPOTTER (#38)
 Q: If I use Target Spotter on a minion revealed by another player, does that minion ever engage that other player?
@@ -893,7 +893,7 @@ A: No, Target Spotter interrupts the engagement of that minion and causes it to 
 
 FALCON HERO PACK
 REDWING (#2)
-Q: Can Redwing’s ability be triggered if the top card of the encounter deck is visible and that card has no icons in its boost area?
+Q: Can Redwing's ability be triggered if the top card of the encounter deck is visible and that card has no icons in its boost area?
 A: No, because the player knows that the ability will not be able to affect its target, the ability cannot be triggered.
 
 HERCULES HERO PACK

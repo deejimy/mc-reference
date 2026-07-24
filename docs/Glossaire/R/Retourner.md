@@ -5,7 +5,7 @@ Quand il est indiqué de retourner une carte, retournez cette carte de sorte que
 - Une carte pliable « à trois faces » est considérée comme ayant été retournée chaque fois que la face face visible de la carte change.  
 - Lorsqu'une carte est retournée, si la nouvelle face visible de cette carte possède :  
     - Le même type de carte que la face précédente, la carte conserve toutes ses cartes attachées, ses cartes glissées, ses cartes d'état et ses jetons.  
-    - Un type de carte différent de la face précédente, tous les attachements, cartes d'état et jetons sont défaussés de la carte.
+    - Un type de carte différent de la face précédente, tous <span class="new">les attachements, les cartes intercalées</span>, cartes d'état et jetons sont défaussés de la carte.
 
 _Voir aussi : [[CartesDoubleFace|Cartes Double-Face]]_  
 

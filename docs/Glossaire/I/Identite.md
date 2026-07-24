@@ -14,7 +14,7 @@ _Voir aussi : [[FormeChangerDeForme|Forme]], [[EnJeuEtHorsJeu|En Jeu et Hors Jeu
 <details class="source">
 <summary>EN v1.8</summary>IDENTITY
 Identity is a player card type that represents which character a player is playing in the game.
-A player’s identity card is a double-sided card that represents their hero on one side and their alter-ego on the other. The side that is face up indicates the form (hero or alter-ego) that player is currently in.
+A player's identity card is a double-sided card that represents their hero on one side and their alter-ego on the other. The side that is face up indicates the form (hero or alter-ego) that player is currently in.
 • Each player begins the game in alter-ego form.
 • If a card refers to a hero or alter-ego by title, it refers only to the identity with that title, and not to the other side of the card.
 • Identity cards cannot be discarded from play.

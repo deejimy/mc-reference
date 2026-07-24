@@ -6,8 +6,7 @@ Pour révéler une carte Rencontre, suivez les étapes suivantes :
 
 1. Retournez la carte Rencontre face visible.  
 2. Si le type de la carte Rencontre est :  
-    - Attachement : il entre en jeu attaché à l'élément de jeu spécifié par son texte.  
-    - <span class="new">S'il n'a pas de texte « attach to », placez-le sur la table devant le joueur qui la révèle. (Il n'est pas en jeu.)</span>  
+    - Attachement : il entre en jeu attaché à l'élément de jeu spécifié <span class="new">par son texte « attacher à ». S'il n'a pas de texte « attacher à », placez-le sur la table devant le joueur qui la révèle. (Il n'est pas en jeu.)</span>  
     - Environnement : il entre en jeu à côté du méchant.  
     - Sbire : il entre en jeu dans la zone de jeu du joueur qui la révèle. Il est considéré comme engagé avec ce joueur.  
     - Obligation : elle entre en jeu dans la zone de jeu du joueur qui la révèle.  
@@ -28,13 +27,13 @@ _Voir aussi : [[Attachement|Attachement]], [[ChoisirElementDeJeu|Choisir (Élém
 During step four of the villain phase, each player (in player order) reveals and resolves all facedown encounter cards that have been dealt to them, one card at a time in the order in which they were dealt.
 To reveal an encounter card, follow these steps:
 1. Turn the encounter card faceup.
-2. If the encounter card’s type is:
+2. If the encounter card's type is:
 • Attachment: It enters play attached to the game element specified by its "attach to" text. If it does not have "attach to" text, place it on the table in front of the player revealing it. (It is not in play.)
-• Environment: It enters play in the villain’s play area.
+• Environment: It enters play in the villain's play area.
 • Minion: It enters play in the play area of the player revealing it. It is considered to engage that player.
 • Obligation: It enters play in the play area of the player revealing it.
 » If the card specifies a player to give it to, that player is considered to be revealing it.
-• Side scheme: It enters play in the villain’s play area.
+• Side scheme: It enters play in the villain's play area.
 • Treachery: Place it on the table in front of the player revealing it. (It is not in play.)
 • Other: Place it on the table in front of the player revealing it. (It is not in play.)
 3. Resolve each "When Revealed" ability on that card (including those provided by keywords).

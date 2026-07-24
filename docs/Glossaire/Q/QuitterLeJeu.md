@@ -6,7 +6,7 @@ Vaincre un personnage, défausser une carte qui est en jeu, placez une carte dan
 
 - Quand une carte quitte le jeu, elle ne conserve pas le statut qu'elle avait juste avant de quitter le jeu, on considère qu'il s'agit d'un nouvel exemplaire de cette carte.  
 
-- Quand une carte quitte le jeu :  
+- Quand une carte <span class="new">(hors Méchant)</span> quitte le jeu :  
     - Défaussez chaque carte attachée à cette carte ou glissée sous cette carte.  
     - Défaussez chaque carte Boost donnée à cette carte.  
     - Remettez chaque jeton et chaque carte d'état présents sur cette carte dans la réserve.  

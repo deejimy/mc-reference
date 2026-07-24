@@ -52,6 +52,7 @@
 [[Cible|Cible]]   
 [[CibleValide|Cible Valide]]   
 [[Classifications|Classifications]]   
+[[Collaboration]]  
 [[Compteur|Compteur]]   
 [[ConditionDeDeclenchement|Condition de déclenchement]]   
 [[ContreContrer|Contre, contrer]]   
@@ -147,6 +148,7 @@
 [[JoueurActif|Joueur Actif]]   
 
 ## L
+[[Leader]]  
 [[LieTitreDeCarte|Liée (Titre de Carte)]]   
 [[Limite|Limite]]   
 [[LimiteDallies|Limite d'Alliés]]   
@@ -221,6 +223,7 @@
 [[Regarder|Regarder, regardée]]   
 [[Renfort|Renfort]]   
 [[Reponse|Réponse]]   
+[[Resoudre|Résoudre]]  
 [[ResolutionSimultanee|Résolution simultanée]]   
 [[Ressource|Ressource]]   
 [[RessourceCarte|Ressource (carte)]]   

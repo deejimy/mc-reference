@@ -1,7 +1,7 @@
 # Récupération, récupérer
 
 
-Le pouvoir de base de récupération d'un joueur ne peut être utilisé que sous forme d'alter‑ego. Pour récupérer, le joueur incline son alter‑ego et soigne un nombre de points de vie égal à sa valeur de REC.  
+Le pouvoir de base de <span class="new">récupération</span> d'un joueur ne peut être utilisé que sous forme d'alter‑ego. Pour récupérer, le joueur incline son alter‑ego et soigne un nombre de points de vie égal à sa valeur de REC.  
 
 - Une identité qui n'a pas de dégâts à soigner ne peut pas effectuer de récupération de base.  
 

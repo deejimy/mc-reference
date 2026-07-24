@@ -8,7 +8,7 @@ Désorienté est un statut qui annule la prochaine manigance ou le prochain cont
     - Un personnage avec le mot-clé Solide n'est désorienté que s'il possède deux cartes d'état Désorienté.  
 - Si une capacité indique qu'un personnage « ne peut pas être désorienté », aucune carte d'état Désorienté ne peut être placée sur ce personnage.  
 - Si une identité ou un allié désorienté tente de contrer ou d'utiliser une capacité de contre, défaussez la carte Désorienté à la place. Les coûts associés à la tentative de contre, y compris l'inclinaison du personnage, doivent tout de même être payés.  
-    - <span class="new">Un personnage désorienté peut tenter de contrer même s'il n'a pas de cible valide pour un contre.</span>  
+    - Un personnage désorienté peut tenter de contrer même s'il n'a pas de cible valide pour un contre.  
 - Si un méchant ou un sbire désorienté serait censé manigancer, défaussez la carte d'état Désorienté à la place.  
 - Puisque l'action de contre ou l'activation de manigance est remplacée par la défausse de la carte d'état Désorienté, le personnage n'est pas considéré comme ayant contré ou manigancé.  
 
@@ -16,7 +16,7 @@ _Voir aussi : [[Allie|Allié]], [[Annuler|Annuler]], [[Identite|Identité]], [[S
 
 <details class="source">
 <summary>EN v1.8</summary>CONFUSE, CONFUSED
-Confuse is a status that cancels a character’s next scheme or thwart.
+Confuse is a status that cancels a character's next scheme or thwart.
 • A confused status card resolves like the triggered ability: "Forced Interrupt: When this character would scheme or thwart, remove each confused status card from it instead."
 • If an ability "confuses" a character, give that character a confused status card.
 • A character is confused if it has a confused status card.

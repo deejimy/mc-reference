@@ -1,6 +1,6 @@
 # Interruption  
 
-Une capacité d'interruption est un type de capacité déclenchée signalé par l'indicatif de déclenchement **Interruption** en gras. Les capacités d'interruption peuvent être exécutées chaque fois que la condition de déclenchement spécifiée se produit, comme décrit dans le texte de la capacité d'interruption. La capacité d'interruption interrompt la résolution de la condition de déclenchement spécifiée et se résout immédiatement avant que cette condition ne se résolve.  
+Une capacité d'interruption est un type de capacité déclenchée signalé par l'indicatif de déclenchement **Interruption** en gras. Les capacités d'interruption peuvent être <span class="new">résolues</span> chaque fois que la condition de déclenchement spécifiée se produit, comme décrit dans le texte de la capacité d'interruption. La capacité d'interruption interrompt la résolution de la condition de déclenchement spécifiée et se résout immédiatement avant que cette condition ne se résolve.  
 
 - Les joueurs ne peuvent déclencher des capacités d'interruption que sur des cartes qu'ils contrôlent ou sur des cartes Rencontre.  
     - Les joueurs ne peuvent pas déclencher des interruptions sur des obligations situées dans la zone de jeu d'un autre joueur.  
@@ -15,9 +15,9 @@ _Voir aussi : [[Annuler|Annuler]], [[EffetsDeRemplacement|Effets de Remplacement
 
 <details class="source">
 <summary>EN v1.8</summary>INTERRUPT
-An interrupt ability is a type of triggered ability, indicated by the bold "Interrupt" timing trigger. Interrupt abilities may be resolved anytime the specified triggering condition occurs, as described in the interrupt’s ability text. The interrupt ability interrupts the resolution of the specified triggering condition, and resolves immediately before that triggering condition resolves.
+An interrupt ability is a type of triggered ability, indicated by the bold "Interrupt" timing trigger. Interrupt abilities may be resolved anytime the specified triggering condition occurs, as described in the interrupt's ability text. The interrupt ability interrupts the resolution of the specified triggering condition, and resolves immediately before that triggering condition resolves.
 • Players can only trigger interrupt abilities on cards they control or on encounter cards.
-» Players cannot trigger interrupt abilities on obligations in other players’ play areas.
+» Players cannot trigger interrupt abilities on obligations in other players' play areas.
 • Multiple interrupts may be triggered by the same triggering condition, but each interrupt can only be triggered once per occurrence of the triggering condition.
 » Multiple copies of a card with an interrupt can each be triggered by the same triggering condition.
 • An interrupt ability is resolved when its triggering condition initiates, but before that triggering condition resolves.

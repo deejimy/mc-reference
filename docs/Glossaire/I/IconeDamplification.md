@@ -1,4 +1,4 @@
-# Icône d'Amplification
+# Icône Amplification
 
 L'icône d'amplification (![[icone_amplification.jpg|15]]) simule les différentes forces qui peuvent soutenir et renforcer le méchant.  
 

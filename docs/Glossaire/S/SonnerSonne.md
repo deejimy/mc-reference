@@ -17,7 +17,7 @@ _Voir aussi : [[Allie|Allié]], [[Annuler|Annuler]], [[Identite|Identité]], [[S
 
 <details class="source">
 <summary>EN v1.8</summary>STUN, STUNNED
-Stun is a status that cancels a character’s next attack.
+Stun is a status that cancels a character's next attack.
 • A stunned status card resolves like the triggered ability: "Forced Interrupt: When this character would attack, remove each stunned status card from it instead."
 • If an ability "stuns" a character, give that character a stunned status card.
 • A character is stunned if it has a stunned status card.

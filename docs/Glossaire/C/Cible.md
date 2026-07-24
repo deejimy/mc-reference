@@ -28,7 +28,7 @@ _Voir aussi : [[Capacite|Capacité]], [[ChoisirElementDeJeu|Choisir (Élément d
 
 <details class="source">
 <summary>EN v1.8</summary>TARGET
-If a game function or card ability is directed toward a game element (such as an attack that deals damage to an enemy), that game element becomes the target of that function or ability for the duration of that function’s or ability’s resolution.
+If a game function or card ability is directed toward a game element (such as an attack that deals damage to an enemy), that game element becomes the target of that function or ability for the duration of that function's or ability's resolution.
 • Examples of targets include but are not limited to:
 "the villain," "a minion," "an enemy," "a scheme,"
 "a hero," "an ally," "a character," "a player," "you,"

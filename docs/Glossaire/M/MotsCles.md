@@ -6,47 +6,47 @@ Si une carte gagne plusieurs occurrences d'un mot‑clé, les occurrences suppl�
 
 Les mots-clés suivants sont utilisés dans le jeu :  
 
+- À Distance : Les attaques avec `À Distance` ignorent `Riposte`.  
+
 - Alliance : Lorsqu'un joueur déclare qu'il souhaite jouer une carte Alliance, n'importe quel autre joueur peut aider à payer les coûts de cette carte.  
 
 - Assaut : Lorsqu'un personnage effectue un contre de base contre une manigance portant le mot‑clé `Assaut`, ce personnage utilise sa valeur d'ATQ au lieu de sa valeur de CTR.  
+
+- Collaboration : Après qu'un sbire avec le mot-clé `Collaboration` entre en jeu et engage un joueur, s'il y a au moins un autre sbire en jeu partageant le trait spécifié, le sbire qui vient d'entrer en jeu s'active contre ce joueur.  
+
+- Coup Rapide : Après qu'un ennemi a engagé un joueur, il attaque immédiatement ce joueur si celui‑ci est sous forme de héros.  
+
+- Déferlement : Les dégâts en excès d'une attaque avec `Déferlement` sont infligés à l'identité ou au méchant.  
+
+- Entrave X : <span class="new">Une carte avec le mot clé `Entrave X` entre en jeu avec X menaces dessus.</span>  
+
+- Exigence (Ressources) : Une carte avec le mot‑clé `Exigence` ne peut être jouée que si, lors du paiement de son coût, chaque ressource du type indiqué est dépensée.  
 
 - Forme : Une carte portant le mot‑clé `Forme` confère à une identité une forme unique.  
 
 - Garde : Tant qu'un sbire avec le mot‑clé `Garde` est engagé avec un joueur, ce joueur ne peut pas attaquer le méchant.  
 
-- Entrave X : Quand une carte avec `Entrave X` entre en jeu, placez X menaces dessus.  
-
 - Incitation X : Quand un joueur révèle une carte avec `Incitation X`, ce joueur place X menaces sur la manigance principale.  
 
 - Liée (Titre de Carte) : Les cartes avec le mot‑clé `Liée` sont mises de côté jusqu'à ce que la carte nommée entre en jeu et ramène la carte liée en jeu.  
 
-- Déferlement : Les dégâts en excès d'une attaque avec `Déferlement` sont infligés à l'identité ou au méchant.  
+- Mise en Place : Les cartes avec `Mise en Place` commencent la partie en jeu.  
 
 - Patrouille : Tant qu'un sbire avec `Patrouille` est engagé avec un joueur, ce joueur ne peut pas contrer la manigance principale.  
+
+- Perçant : Les attaques avec `Perçant` font défausser les cartes d'état Tenace de la cible avant que les dégâts ne soient infligés.  
 
 - Péril : Tant qu'un joueur résout une carte avec `Péril`, les autres joueurs ne peuvent pas l'aider.  
 
 - Permanent : Les cartes portant `Permanent` ne peuvent pas quitter le jeu. 
 
-- Perçant : Les attaques avec `Perçant` font défausser les cartes d'état Tenace de la cible avant que les dégâts ne soient infligés.  
-
-- Coup Rapide : Après qu'un ennemi a engagé un joueur, il attaque immédiatement ce joueur si celui‑ci est sous forme de héros.  
-
-- À Distance : Les attaques avec `À Distance` ignorent `Riposte`.  
-
-- Exigence (Ressources) : Une carte avec le mot‑clé `Exigence` ne peut être jouée que si, lors du paiement de son coût, chaque ressource du type indiqué est dépensée.  
-
 - Restreint : Un joueur ne peut pas contrôler plus de deux cartes Restreintes en même temps.  
 
 - Riposte X : Après qu'un personnage avec `Riposte X` est attaqué, infligez X dégâts à l'attaquant.  
 
-- Mise en Place : Les cartes avec `Mise en Place` commencent la partie en jeu.  
-
 - Robuste : Les personnages avec `Robuste` ne peuvent pas être sonnés ou désorientés.  
 
 - Solide : Un personnage avec `Solide` n'est pas sonné ni désorienté à moins d'avoir deux cartes d'état correspondantes.  
-
-- En collaboration : Après qu'un sbire avec `En collaboration` entre en jeu et engage un joueur, si au moins un autre sbire partageant le trait spécifié est en jeu, le sbire qui vient d'entrer s'active contre le joueur auquel il est engagé.  
 
 - Temporaire : Une carte avec `Temporaire` doit être défaussée du jeu à la fin du round.  
 
@@ -85,7 +85,7 @@ Incite X)
 • Quickstrike: After this enemy engages a player, it immediately attacks that player if they are in hero form. (See: Quickstrike)
 • Ranged: Attacks with ranged ignore retaliate. (See:
 Ranged)
-• Requirement (Resources): A card with the requirement keyword cannot be played unless each resource of the specified type is spent while paying for that card’s cost. (See: Requirement (Resources))
+• Requirement (Resources): A card with the requirement keyword cannot be played unless each resource of the specified type is spent while paying for that card's cost. (See: Requirement (Resources))
 • Restricted: A player cannot control more than two restricted cards at a given time. (See: Restricted) 2
 • Retaliate X: After a character with retaliate X is attacked, deal X damage to the attacker. (See:
 Retaliate X)

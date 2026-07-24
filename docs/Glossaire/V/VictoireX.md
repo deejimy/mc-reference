@@ -1,11 +1,11 @@
 # Victoire "X"
 
-Quand une carte ayant le mot-clé victoire X est déjouée ou vaincue, placez-la dans la pile de victoire au lieu de la pile de défausse de son propriétaire.  
+Quand une carte ayant le mot-clé victoire X quitte le jeu dans l'une des conditions suivantes, placez-la dans la pile de victoire au lieu de la pile de défausse de son propriétaire.  
 
-- <span class="new">Le mot-clé victoire X est équivalent à la capacité suivante selon la carte qui possède ce mot-clé :  
-    - Personnage ou manigance secondaire : "Une fois vaincu : ajoutez cette carte à la pile de victoire."  
-    - Attachement : "Interruption Forcée : Lorsque la carte à laquelle il est attaché est vaincue, ajoutez cette carte à la pile de victoire."  
-    - Carte avec le mot-clé utilisations (X "type") : "S'il n'y a aucun jeton générique sur cette carte, ajoutez cette carte à la pile de victoire au lieu de la défausser."</span>  
+- <span class="new">Le mot-clé victoire X est équivalent à la capacité suivante selon la carte qui possède ce mot-clé :</span>  
+    - <span class="new">Personnage ou manigance secondaire : "Une fois vaincu : ajoutez cette carte à la pile de victoire."</span>  
+    - <span class="new">Attachement : "Interruption Forcée : Lorsque la carte à laquelle il est attaché est vaincue, ajoutez cette carte à la pile de victoire."</span>  
+    - <span class="new">Carte avec le mot-clé utilisations (X "type") : "S'il n'y a aucun jeton générique sur cette carte, ajoutez cette carte à la pile de victoire au lieu de la défausser."</span>  
 
 - Un personnage ou une manigance secondaire portant le mot‑clé `Victoire X` est placé dans la pile de victoire lorsqu'il est vaincu.  
 
@@ -20,7 +20,7 @@ _Voir aussi : [[MotsCles|Mots-clés]], [[PileDeDefausse|Pile de défausse]], [[P
 
 <details class="source">
 <summary>EN v1.8</summary>VICTORY X
-When a card with the victory X keyword leaves play under the following conditions, place it in the victory display instead of its owner’s discard pile:
+When a card with the victory X keyword leaves play under the following conditions, place it in the victory display instead of its owner's discard pile:
 • The victory X keyword is equivalent to the following ability based on the card with the keyword:
 » Character or side scheme: "When Defeated: Add this card to the victory display."
 » Attachment: "Forced Interrupt: When the attached card is defeated, add this card to the victory display."

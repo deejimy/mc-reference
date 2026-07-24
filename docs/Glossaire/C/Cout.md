@@ -27,7 +27,7 @@ _Voir aussi : [[Capacite|Capacité]], [[IconeDeCoutEnFormeDeFleche|Icône de Co�
 
 <details class="source">
 <summary>EN v1.8</summary>COST
-A card’s resource cost is the numerical value that must be paid to play the card. Some abilities have a cost described in the ability text that must be paid to use the ability.
+A card's resource cost is the numerical value that must be paid to play the card. Some abilities have a cost described in the ability text that must be paid to use the ability.
 • A cost arrow icon (→) in ability text distinguishes a cost from an effect, in a "pay cost → resolve effect" format.
 » Text indicating the timing of an interrupt or response trigger that precedes a cost arrow is not considered part of the cost.
 • A resource cost with the per-player icon  is multiplied by the number of players who started the scenario.
@@ -38,8 +38,8 @@ A card’s resource cost is the numerical value that must be paid to play the ca
 » Resources generated beyond the specified cost are considered to have been overpaid for that cost and were not paid for that cost.
 » Any resources that are generated beyond the specified cost are lost after paying that cost.
 • If multiple costs for a single card or ability require payment, those costs must be paid simultaneously.
-» A player generating resources for those costs chooses how to divide those resources between those costs. (For example, a player paying costs for an event with a resource cost of 1 and an ability that reads "Hero Action: Spend X  resouces →..." can spend a resource card that generates   resources and use one of those icons to pay for the card’s resource cost and the other to pay for the cost before the arrow.)
-• An ability’s cost cannot be paid if that ability’s effect requires one or more targets and there is not at least one valid target.
+» A player generating resources for those costs chooses how to divide those resources between those costs. (For example, a player paying costs for an event with a resource cost of 1 and an ability that reads "Hero Action: Spend X  resouces →..." can spend a resource card that generates   resources and use one of those icons to pay for the card's resource cost and the other to pay for the cost before the arrow.)
+• An ability's cost cannot be paid if that ability's effect requires one or more targets and there is not at least one valid target.
 • While a player is paying a cost, that player must pay costs with cards and/or game elements they control.
 » If a cost uses the word "choose," the player can choose targets they do not control.
 » If a cost targets a "friendly" card, the player can target cards they do not control.

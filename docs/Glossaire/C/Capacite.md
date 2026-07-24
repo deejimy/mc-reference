@@ -41,7 +41,7 @@ Priorité de résolution simultanée — Certaines capacités ont une priorité 
 
 1. Capacités constantes, effets retardés <span class="new">et</span> effets persistants.  
 2. <span class="new">Interruptions</span>
-    1. <span class="new">Status card “Forced Interrupt” abilities</span>
+    1. <span class="new">Capacités « Interruption Forcée » des cartes d'état</span>
     2. Capacités « Interruption forcée ».  
     3. Capacités « Interruption ».  
 3. Capacités « Boost », « Une fois vaincu » et « Une fois révélée ».  
@@ -79,7 +79,7 @@ Constant Abilities — A constant ability is any non-keyword ability whose text 
 • If multiple instances of the same constant ability are in play, each instance affects the game independently.
 Triggered Abilities — A triggered ability is indicated by a bold timing trigger followed by a colon and the rest of the ability text.
 • Unless prefaced by the word "Forced", all interrupt and response abilities are optional.
-• "Forced" abilities, "When Revealed" abilities, "When Defeated" abilities, and "When Completed" abilities are triggered by the game at the ability’s appropriate timing point.
+• "Forced" abilities, "When Revealed" abilities, "When Defeated" abilities, and "When Completed" abilities are triggered by the game at the ability's appropriate timing point.
 • If the bold timing trigger of an ability contains the word "Hero" or "Alter-Ego," the ability can only be used if the player triggering the ability is in the specified form.
 • If quotation marks are used around a timing trigger and colon, the quoted text is not itself a timing trigger, but is instead referring to other abilities with that trigger.
 Simultaneous Timing Priority — Some abilities have timing priority over other abilities. In order, the timing priority of abilities with the same triggering condition is:

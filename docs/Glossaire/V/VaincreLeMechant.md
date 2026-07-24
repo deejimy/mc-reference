@@ -21,9 +21,9 @@ _Voir aussi : [[Attachement|Attachement]], [[CartesDetat|Cartes d'Etat]], [[Dega
 
 <details class="source">
 <summary>EN v1.8</summary>VILLAIN DEFEAT
-If the villain’s hit point dial is reduced to zero, the players have defeated that stage of the villain.
+If the villain's hit point dial is reduced to zero, the players have defeated that stage of the villain.
 Remove the current stage of the villain deck from the game.
-The next sequential stage of the villain deck is revealed. Set the villain’s hit point dial as indicated by that stage.
+The next sequential stage of the villain deck is revealed. Set the villain's hit point dial as indicated by that stage.
 If the final stage of the villain deck is defeated, the players win the game.
 • The revealing of a villain cannot be canceled.
 • Excess damage that is dealt to defeat a villain stage does not carry over to the new stage.

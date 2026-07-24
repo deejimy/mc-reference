@@ -11,7 +11,7 @@ _Voir aussi : [[Capacite|Capacité]], [[JouerMettreEnJeu|Jouer, Mettre en Jeu]],
 <summary>EN v1.8</summary>PLAY RESTRICTIONS AND PERMISSIONS
 Many cards and abilities contain specific instructions pertaining to when or how they may or may not be used, or to specific conditions that must be true in order to use them.
 • In order to use an ability or play a card, all of its play restrictions must be observed.
-• A permission is an optional play restriction, which allows a player to play a card or use an ability outside the timing or specifications provided by the game rules. For example, a permission might allow an ally card to be played from a player’s discard pile.
+• A permission is an optional play restriction, which allows a player to play a card or use an ability outside the timing or specifications provided by the game rules. For example, a permission might allow an ally card to be played from a player's discard pile.
 See also: Ability, Play, Player
 </details>
 

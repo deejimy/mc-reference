@@ -19,7 +19,7 @@ Si un personnage a zéro point de vie ou moins, il est vaincu.
         4. Capacités qui se déclenchent « quand [personnage] subit n'importe quelle quantité de dégâts... »  
         5. Placement des pions de dégâts sur le personnage.  
         6. Capacités qui se déclenchent « quand [personnage] serait vaincu... »  
-        7. Capacités qui se déclenchent « quand [personnage] est vaincu... »  
+        7. Capacités qui se déclenchent « quand [personnage] est vaincu... » <span class="new">(Incluant « Une fois vaincu »)</span>  
         8. Capacités « Une fois vaincu ».  
         9. Défausse du personnage vaincu.  
         10. Capacités qui se déclenchent « après que [personnage] inflige/ se voit infliger/ subit n'importe quelle quantité de dégâts... » ou « après que [personnage] vainc/ est vaincu... »  
@@ -28,7 +28,7 @@ _Voir aussi : [[DegatsIndirects|Dégâts Indirects]], [[Deplacer|Déplacer]], [[
 
 <details class="source">
 <summary>EN v1.8</summary>DAMAGE
-Damage reduces a character’s hit points.
+Damage reduces a character's hit points.
 If a character has zero or fewer remaining hit points, it is defeated.
 • Damage on an identity or villain is tracked by a hit point dial. If such a character takes damaged, reduce its dial by the amount of damage that it took.
 • Damage on an ally or minion is tracked by damage tokens. If such a character takes damage, place the specified value of damage tokens on the character.

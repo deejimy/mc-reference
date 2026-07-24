@@ -2,8 +2,8 @@
 
 Les cartes portant le mot‑clé `Liée` ne peuvent pas être incluses dans un deck. Elles sont mises de côté au début de la partie si un deck comprend la carte qui ramène les cartes liées en jeu (la carte est indiquée entre parenthèses après le mot‑clé).  
 
-- Les cartes Liées ne comptent pas dans la taille minimale ou maximale du deck.  
 - <span class="new">Le mot-clé Liée (titre de carte) est équivalent à la capacité constante suivante : « Mettez cette carte de côté pendant la mise en place. Cette carte ne compte pas dans votre taille de deck. »</span>  
+- Les cartes Liées ne comptent pas dans la taille minimale ou maximale du deck.  
 - Le nombre de cartes Liées mises de côté pendant la mise en place est égal au nombre de ces cartes incluses dans le produit d'où provient la carte liée.  
     - Si plusieurs decks contiennent la même carte nommée sur une ou plusieurs cartes Liées, mettez de côté le nombre approprié de cartes pour chaque deck qui contient la carte nommée.  
 - Quand un joueur prend le contrôle d'une carte portant le mot‑clé `Liée`, ce joueur devient le propriétaire de cette carte.  

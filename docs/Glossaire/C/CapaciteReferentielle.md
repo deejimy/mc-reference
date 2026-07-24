@@ -7,7 +7,7 @@ Si une capacité fait référence à un nom partagé par plusieurs cartes du jeu
 1. La carte sur laquelle la capacité référentielle est imprimée.  
     - Une capacité autoréférentielle ne fait référence qu'à la carte sur laquelle elle est située et non aux autres exemplaires de cette carte ou aux autres cartes qui porteraient le même titre.  
     - Par exemple, la capacité de l'allié basique Spider-Man se lit : "**Réponse** : Après que Spider-Man attaque ou contrer, choisissez un autre personnage `Web-Warrior` → redressez ce personnage." Cette capacité se réfère à la carte sur laquelle elle est imprimée et ne se déclenche pas lorsqu'une autre carte intitulée "Spider-Man" attaque ou contrer.  
-2. Les cartes associées à la même identité comprennent :  
+2. Les cartes <span class="new">associées à</span> la même identité <span class="new">incluant</span> :  
     - <span class="new">La carte Identité</span>  
     - <span class="new">Les cartes spécifiques à l'identité</span>  
     - <span class="new">Les cartes d'Obligation de l'identité</span>  
@@ -23,12 +23,12 @@ _Voir aussi : [[Capacite|Capacité]], [[CartesSpecifiquesALidentite|Carte Spéci
 Some abilities refer to specific cards by name. These are called referential abilities. If an ability refers to a title shared by multiple cards in the game, that ability refers only to the card(s) that match the criteria highest in this list:
 1. The card on which the referential ability is printed.
 » Such an ability is a self-referential ability.
-» For example, the basic ally Spider-Man’s ability reads: "Response: After Spider-Man attacks or thwarts, choose another Web-Warrior character → ready that character." This ability refers to the card it is printed on and does not trigger when another card called "Spider-Man" attacks or thwarts.
+» For example, the basic ally Spider-Man's ability reads: "Response: After Spider-Man attacks or thwarts, choose another Web-Warrior character → ready that character." This ability refers to the card it is printed on and does not trigger when another card called "Spider-Man" attacks or thwarts.
 2. Cards associated with the same identity, including:
 » The identity card
 » Identity-specific cards
-» The identity’s obligation cards
-» The identity’s nemesis set
+» The identity's obligation cards
+» The identity's nemesis set
 » Cards belonging to a side deck used by the identity.
 3. Player cards (if the ability is on a player card) or encounter cards (if the ability is on an encounter card).
 See also: Ability, Character, Classifications, Identity, Identity-Specific Card

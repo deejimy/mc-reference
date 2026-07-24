@@ -349,7 +349,7 @@ Added periods to card title.
 
 THE WRECKING CREW SCENARIO
 PACK
-“I’VE BEEN WAITING FOR THIS!” (#41)
+“I'VE BEEN WAITING FOR THIS!” (#41)
 Should read: “When Revealed: The active villain heals 3 hit points. Give that villain a tough status card.” (Changed “gains” to “heals”.)
 
 CAPTAIN AMERICA HERO PACK
@@ -394,7 +394,7 @@ AVENGERS TOWER (#21)
 Should have the Avenger trait.
 
 MARKED FOR DEATH (#28)
-Should read: “When Revealed: The Clint Barton player searches their hand, deck, discard pile, and play area for Mockingbird and tucks her faceup beneath this card. When this scheme is defeated, return the tucked Mockingbird to her owner’s hand.” (Changed “places” to “tucks” and “stage” to “scheme”. Added “the tucked”.)
+Should read: “When Revealed: The Clint Barton player searches their hand, deck, discard pile, and play area for Mockingbird and tucks her faceup beneath this card. When this scheme is defeated, return the tucked Mockingbird to her owner's hand.” (Changed “places” to “tucks” and “stage” to “scheme”. Added “the tucked”.)
 
 HAIL HYDRA! (#57, #147)
 Should read: “When Revealed: Each Hydra minion engaged with a hero attacks that hero. Each player who was not attacked this way searches the encounter deck and discard pile for a Hydra minion and puts it into play engaged with them. Shuffle the encounter deck if it was searched.” (Changed the shuffle ability to only occur if the encounter deck is searched.)
@@ -415,7 +415,7 @@ WASP HERO PACK
 BEETLE (#28)
 Should read: “Forced Interrupt: When Beetle is defeated, the defeating player chooses to either spend a  resource or shuffle Beetle into the encounter deck.” (Specified which player should resolve the ability.)
 
-GAL A X Y’S MOST WANTED
+GAL A X Y'S MOST WANTED
 EXPANSION
 RULEBOOK PG. 10, CAMPAIGN INSTRUCTIONS,
 SETUP, BULLET 5
@@ -435,10 +435,10 @@ STAR-LORD HERO PACK
 COSMO (#20)
 Should read: “Interrupt: When Cosmo attacks or thwarts, name a card type, then discard the top card of a player deck or the encounter deck. If that card is of the named type, Cosmo does not take consequential damage for this use.” (Changed “a deck” to “a player deck or the encounter deck”. Removed reminder text.)
 
-MAD TITAN’S SHADOW EXPANSION
+MAD TITAN'S SHADOW EXPANSION
 RULEBOOK PG. 10, TWO MAIN SCHEMES,
 PARAGRAPH 1
-Should end with this sentence: “When a minion schemes, that threat is placed on the main scheme with the attachment ‘Focused Defense’ attached to it.”
+Should end with this sentence: “When a minion schemes, that threat is placed on the main scheme with the attachment ‘Focused Defense' attached to it.”
 
 SANCTUARY (#116)
 Should read: “Thanos cannot take damage from player cards.” (Added “from player cards”.)
@@ -505,14 +505,14 @@ Should read: “Hero Response: After you play an event, exhaust Ms. Marvel and d
 
 IRONHEART HERO PACK
 “GO FOR CHAMPIONS!” (#25)
-Should read: “Hero Action: Remove ‘Go for Champions!’ from the game → each Champion character in play cannot take damage until the end of the round.” (Added “Remove ‘Go for Champions!’ from the game →”.)
+Should read: “Hero Action: Remove ‘Go for Champions!' from the game → each Champion character in play cannot take damage until the end of the round.” (Added “Remove ‘Go for Champions!' from the game →”.)
 
 SP//DR HERO PACK
 SP//DR SUIT (#1B)
 Should read: “Return to Base — Forced Interrupt: When you flip to this side, flip SP//dr to Peni Parker. Detach Peni Parker from here, moving all counters on this card and cards attached to this card to her.” (Counters and attachments now move to Peni Parker, instead of the reverse.)
 
 M.O.R.B.I.U.S. (#27)
-Should read: “Forced Response: After the engaged player generates any number of resources, deal an equal amount of damage to that player’s hero.” (Changed “engaged hero” to “engaged player” and “that hero” to “that player’s hero”.)
+Should read: “Forced Response: After the engaged player generates any number of resources, deal an equal amount of damage to that player's hero.” (Changed “engaged hero” to “engaged player” and “that hero” to “that player's hero”.)
 
 MUTANT GENESIS EXPANSION
 STEEL FIST (#8)
@@ -535,7 +535,7 @@ Should read: “Forced Response: After you place a magnet counter on this scheme
 
 WOLVERINE HERO PACK
 LOGAN (#1A)
-Should read: “Setup: Put Wolverine’s Claws into play.”
+Should read: “Setup: Put Wolverine's Claws into play.”
 
 BERSERKER BARRAGE (#8)
 Should read: “Hero Action (attack): Deal 4 damage to an enemy. If this attack defeats an enemy, you may take 2 damage to repeat this ability.” (Replaced cost arrow with “to”.)
@@ -558,12 +558,12 @@ Should read: “Setup: Find your Touched upgrade and set it aside.
 Withdrawn — Forced Response: After you change to this form, find Touched and set it aside.” (Now specifies to “find” Touched and set it aside.)
 
 ROGUE (#1B)
-Should read: “Skin Contact — Action: Find Touched and attach it to another character. You gain each of the attached character’s Traits until the end of the round. (Limit once per round.)” (Changed “Attach Touched...” to “Find Touched and attach it...”.)
+Should read: “Skin Contact — Action: Find Touched and attach it to another character. You gain each of the attached character's Traits until the end of the round. (Limit once per round.)” (Changed “Attach Touched...” to “Find Touched and attach it...”.)
 
 ENERGY TRANSFER (#7)
-Should read: “Hero Action: Find Touched and attach it to a character other than Rogue and deal 2 damage to that character → heal 2 damage from Rogue and ready her. You gain each of the attached character’s Traits until the end of the round.” (Changed “Attach Touched...” to “Find Touched and attach it...”.)
+Should read: “Hero Action: Find Touched and attach it to a character other than Rogue and deal 2 damage to that character → heal 2 damage from Rogue and ready her. You gain each of the attached character's Traits until the end of the round.” (Changed “Attach Touched...” to “Find Touched and attach it...”.)
 
-MYSTIQUE’S MANIPULATIONS (#26)
+MYSTIQUE'S MANIPULATIONS (#26)
 Should read: “When Defeated: The defeating player searches the encounter deck and discard pile for a copy of the Misled treachery and shuffles it into their deck.” (Specified who should resolve the ability.)
 
 BONEBREAKER (#31)
@@ -597,10 +597,10 @@ The first bullet should read: “Reduce the cost of the next ally played to the 
 
 NIGHTCRAWLER HERO PACK
 ROGUE (#12)
-Should read: “Action: Deal 1 damage to another friendly character → until the end of the round, Rogue gains each of that character’s Traits and adds that character’s base THW and ATK to her matching powers. (Limit once per round.)” (Changed “printed” to “base”.)
+Should read: “Action: Deal 1 damage to another friendly character → until the end of the round, Rogue gains each of that character's Traits and adds that character's base THW and ATK to her matching powers. (Limit once per round.)” (Changed “printed” to “base”.)
 
 TWEEDLEDOPE (#37)
-Removed the star icon () from this card’s boost field.
+Removed the star icon () from this card's boost field.
 
 MAGNETO HERO PACK
 MAGNETIC MISSILE (#10)
@@ -617,7 +617,7 @@ RADIATION EXPOSURE (#171A)
 The “SCH” modifier on this card should be a “THW” modifier.
 
 MACH-IV (#156)
-Should read: “Each character without the Aerial trait cannot defend against MACH-IV’s attacks.” (Changed “make basic defenses” to “defend”.) 69 Ru l e s Re f eren c e
+Should read: “Each character without the Aerial trait cannot defend against MACH-IV's attacks.” (Changed “make basic defenses” to “defend”.) 69 Ru l e s Re f eren c e
 
 SILK HERO PACK
 EIDETIC MEMORY (#8)
@@ -632,7 +632,7 @@ TRICKSTER TAKEOVER SCENARIO
 PACK
 RULEBOOK PG. 19, SWAPPING AVATARS OF
 LOKI, PARAGRAPH 1
-Should read: “When a card effect instructs the players to swap an Avatar of Loki villain or Fading Figment with a random set-aside Avatar of Loki villain, they should replace the villain in play with one of the other set-aside versions of the Avatar of Loki villain.” (Rewritten to apply section’s rules to swapping a Fading Figment with an Avatar of Loki villain.)
+Should read: “When a card effect instructs the players to swap an Avatar of Loki villain or Fading Figment with a random set-aside Avatar of Loki villain, they should replace the villain in play with one of the other set-aside versions of the Avatar of Loki villain.” (Rewritten to apply section's rules to swapping a Fading Figment with an Avatar of Loki villain.)
 
 <span class="new">CIVIL WAR EXPANSION
 YELLOW JACKET (#19)
@@ -651,7 +651,7 @@ MOON KNIGHT (#65)
 Should read: “When Revealed: Resolve the “When Revealed” ability of the topmost treachery in the encounter discard pile. (Limit once per phase.)” (Added “(Limit once per phase.)”)
 
 PHASED OUT (#76)
-Should read: “Action: Choose an attachment on the enemy leader with the text ‘Hero Action’ or ‘Hero Response’ and discard it.” (Changed “Hero Interrupt” to “Hero Action.”)
+Should read: “Action: Choose an attachment on the enemy leader with the text ‘Hero Action' or ‘Hero Response' and discard it.” (Changed “Hero Interrupt” to “Hero Action.”)
 
 WONDER MAN HERO PACK
 IONIC PHYSIOLOGY (#2)

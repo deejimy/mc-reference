@@ -30,8 +30,8 @@ The following status cards are used in the game. When a character is given a sta
 » Characters with the steady keyword can have one additional confused status card and one additional stunned status card.
 • Status card abilities have timing priority over all conflicting triggered abilities.
 The three status card types are:
-Confused — A confused status card cancels a character’s next scheme or thwart. See: Confuse, Confused.
-Stunned — A stunned status card cancels a character’s next attack. See: Stun, Stunned.
+Confused — A confused status card cancels a character's next scheme or thwart. See: Confuse, Confused.
+Stunned — A stunned status card cancels a character's next attack. See: Stun, Stunned.
 Tough — A tough status card prevents a character from taking damage. See: Tough.
 See also: Ally, Attack (Enemy Activation), Attack (Player Ability Type), Basic Power, Damage, Form, Identity, Minion, Replacement Effect, Triggered Ability, Villain
 </details>
