@@ -198,7 +198,7 @@ R : Mélangez ces cartes dans le deck de Hawkeye. Après qu'une capacité de rec
 
 DÉSIGNÉE POUR MOURIR (#28)
 **Q : Quand Désignée pour Mourir est révélée, si un exemplaire de Mockingbird est déjà sous le contrôle d'un joueur qui n'est pas Clint Barton, que se passe-t-il ?**
-R : Le joueur Clint Barton doit chercher Mockingbird dans sa main, son deck, sa pile de défausse et sa zone de jeu, mais il ne peut pas placer sa Mockingbird sous Désignée pour Mourir puisqu'un personnage unique avec le même titre/sous-titre est déjà en jeu (mélangez après avoir cherché dans le deck). Toutefois, quand Désignée pour Mourir est déjouée, tout exemplaire de Mockingbird en jeu (même contrôlé par un autre joueur) est renvoyé dans la main de son propriétaire.
+R : Le joueur Clint Barton <span class="new">peut intercaler son exemplaire de Mockingbird sous cette manigance même s'il y a un autre exemplaire de Mockingbird en jeu, car les cartes intercalées ne sont pas considérées comme étant en jeu.</span>
 
 JESSICA DREW (#31B)
 **Q : La capacité Agent Double de Jessica Drew exige-t-elle que son deck soit construit avec deux affinités ?**
@@ -267,7 +267,7 @@ R : Oui. C'est la carte sur laquelle se trouve un marqueur polyvalent qui défin
 
 PIERRE DU POUVOIR (#149)
 **Q : Si une identité qui contrôle la Pierre du Pouvoir est vaincue, que devient la Pierre du Pouvoir ?**
-R : Si un joueur est éliminé alors qu'une carte permanente qu'il ne possède pas se trouve dans sa zone de jeu, placez cette carte permanente dans la pile de défausse de son propriétaire. Dans le cas de la Pierre du Pouvoir, placez-la dans la pile de défausse Rencontre.
+<span class="new">R :Si un joueur est éliminé du jeu alors qu'une carteattachement permanent est dans sa zone de jeu, il résout le texte « attaché à » de cet attachement. Dans ce cas, la Pierre du Pouvoir serait attachée au méchant.</span>
 **Q : Si un personnage avec la Pierre du Pouvoir reçoit 3 dégâts ou plus, mais n'en subit pas 3 ou plus grâce à de la prévention de dégâts, l'attaquant récupère-t-il la Pierre du Pouvoir ?**
 R : Oui. La prévention des dégâts ne réduit pas la quantité de dégâts infligés. Notez qu'un héros qui effectue une défense de base réduit la quantité de dégâts infligés d'un montant égal à sa DEF ; défendre peut donc empêcher que la Pierre du Pouvoir soit prise.
 
@@ -379,8 +379,10 @@ LE CRIME ÉTAIT PRESQUE MOJO (#35)
 R : Oui. Les méchants sont des cartes Rencontre ; Le Crime Était Presque Mojo donne donc Incitation 1 à Spiral. Quand Spiral se retourne, sa nouvelle face est révélée, donc son Incitation 1 se résout.
 
 LES MOJOS DE L'OUEST (#66)
-**Q : Comment les dégâts de déferlement sont-ils affectés par l'Interruption forcée de Mojo Sauvage ?**
-R : Mojo Sauvage augmente d'abord de 1 les dégâts initiaux infligés à un sbire ou un allié, puis, quand les dégâts en excès sont appliqués au méchant ou à l'identité, Mojo Sauvage les augmente à nouveau de 1, ce qui signifie que les dégâts de déferlement totaux infligés sont augmentés de 2.
+<span class="new">
+**Q : Comment les dégâts de déferlement sont-ils affectés par l'Interruption forcée des Mojos de l'Ouest ?**
+R : Les Mojos de l'Ouest augmente d'abord de 1 les dégâts initiaux infligés à un sbire ou un allié, puis, quand les dégâts en excès sont appliqués au méchant ou à l'identité, Les Mojos de l'Ouest les augmente à nouveau de 1, ce qui signifie que les dégâts de déferlement totaux infligés sont augmentés de 2.
+</span>
 
 ## EXTENSION NEXT EVOLUTION
 MALICE (#199)
@@ -435,14 +437,18 @@ REPÉREUR DE CIBLE (#38)
 R : Non. Repéreur de Cible interrompt l'engagement de ce sbire et le fait engager à la place le joueur qui utilise Repéreur de Cible.
 
 ## PACK HÉROS FALCON
-RAFALE (#2)
-**Q : La capacité de Rafale peut-elle être déclenchée si la carte du dessus du deck Rencontre est visible et que cette carte n'a pas d'icônes dans sa zone de boost ?**
+<span class="new">
+AILES-ROUGES (#2)
+**Q : La capacité de AILES-ROUGES peut-elle être déclenchée si la carte du dessus du deck Rencontre est visible et que cette carte n'a pas d'icônes dans sa zone de boost ?**
 R : Non, car le joueur sait que la capacité ne pourra pas affecter sa cible, la capacité ne peut pas être déclenchée.
+</span>
 
 ## PACK HÉROS HERCULES
+<span class="new">
 CARTES TRAVAIL
 **Q : Que se passe-t-il si une carte Travail ne trouve pas de cible quand elle est révélée ?**
-R : Cette carte Travail est défaussée. Chaque fois qu'une carte Travail quitte le jeu autrement qu'en étant placée dans la zone de victoire, placez-la au bas du deck Travail.
+R : Cette carte Travail est défaussée. Chaque fois qu'une carte Travail quitte le jeu autrement qu'en étant placée dans la zone de victoire, placez-la sous le deck Travail.
+</span>
 
 <details class="source"> <summary>EN v1.8</summary>
 

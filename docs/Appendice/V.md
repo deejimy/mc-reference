@@ -5,6 +5,11 @@
 DIVISION LÉGALE SURHUMAINE (#26)  
 Il devrait être écrit : « Action d'Alter-Ego : inclinez Division Légale Surhumaine et dépensez une ressource ![[icone_mentale.jpg|15]] → retirez 2 menaces d'une manigance. » (Suppression du label « (contre) ».)
 
+<span class="new">
+IRON MAN (#29A)  
+Il devrait être écrit : « Vous gagnez +1 de taille de main pour chaque amélioration Tech que vous contrôlez (à un maximum de +6 de taille de main). » (« (à une taille de main maximale de 7) » est remplacé par « (à un maximum de +6 de taille de main) ».)
+</span>
+
 LA CHAISE DE L'APOCALYPSE (#183)  
 Il devrait être écrit : « Une fois révélée : si M.O.D.O.K. n'est pas en jeu, cherchez M.O.D.O.K. dans le deck Rencontre et la pile de défausse Rencontre et mettez-le en jeu engagé avec vous, puis mélangez le deck Rencontre. » (Ajout des points dans « M.O.D.O.K. ».)
 
@@ -35,6 +40,11 @@ Il devrait être écrit : « Interruption forcée : quand Loki est censé être 
 BLACK WIDOW (#1A)  
 Il devrait être écrit : « Faiseuse de veuves — Réponse : après avoir résolu la capacité d'une carte Préparation que vous contrôlez, infligez 1 dégât à un ennemi. » (« résoudre » au lieu de « déclencher ».)
 
+<span class="new">
+COSTUME SYNTHÉTIQUE (#9)  
+Il devrait être écrit : « Réponse de héros : après avoir résolu la capacité d'une carte Préparation que vous contrôlez, inclinez Costume Synthétique → redressez Black Widow. » (« déclenché » est remplacé par « résolu ».)
+</span>
+
 ## PACK HÉROS DOCTEUR STRANGE
 IRON FIST (#14)  
 Il devrait être écrit : « Interruption : quand Iron Fist attaque un ennemi, retirez-lui 1 jeton Mystique → sonnez cet ennemi et infligez-lui 1 dégât. » (« Interruption » au lieu de « Réponse ».)
@@ -51,7 +61,7 @@ TOUR DES AVENGERS (#21)
 Cette carte doit avoir le trait Avenger.
 
 DÉSIGNÉE POUR MOURIR (#28)  
-Il devrait être écrit : « Une fois révélée : le joueur Clint Barton cherche Mockingbird dans sa main, son deck, sa pile de défausse et sa zone de jeu, puis la place face visible sous cette carte. Quand cette manigance est déjouée, renvoyez Mockingbird dans la main de son propriétaire. » (« manigance » au lieu de « stade ».)
+Il devrait être écrit : « Une fois révélée : le joueur Clint Barton cherche Mockingbird dans sa main, son deck, sa pile de défausse et sa zone de jeu, puis la <span class="new">intercale face visible sous cette carte</span>. Quand cette manigance est déjouée, renvoyez <span class="new">la Mockingbird intercalée</span> dans la main de son propriétaire. » (Changer « place » par « intercale ».)
 
 HAIL HYDRA! (#57, #147)  
 Il devrait être écrit : « Une fois révélée : chaque sbire Hydra engagé avec un héros attaque ce héros. Chaque joueur qui n'a pas été attaqué de cette façon cherche un sbire Hydra dans le deck Rencontre et la pile de défausse Rencontre et le met en jeu engagé avec lui. Mélangez le deck Rencontre s'il a été fouillé. » (La capacité de mélange ne se produit que si le deck Rencontre est fouillé.)
@@ -115,7 +125,7 @@ Il devrait être écrit : « Une fois révélée : Gamora vous attaque. Si le h�
 ## PACK HÉROS WAR MACHINE
 JAMES RHODES (#1B)  
 Il devrait être écrit : « Action : choisissez une carte War Machine dans votre pile de défausse et mélangez-la dans votre deck. (Limite d'une fois par phase.) » (Ajout de « (Limite d'une fois par phase.) »)
-
+ 64
 ## PACK HÉROS VALKYRIE
 ARAGORN (#7)  
 Il devrait être écrit : « Vous gagnez +4 points de vie et le trait Aérien. » (« Valkyrie » devient « Vous ».)
@@ -278,6 +288,48 @@ Il devrait être écrit : « Interruption : quand vous révélez une carte du m�
 ADJOINT DU S.H.I.E.L.D. (#33)  
 Il devrait être écrit : « Attachez à un personnage ami. 1 max par personnage. » (Ajout de « 1 max par personnage. »)
 
+
+## EXTENSION LA FÉLONIE DU FILOU
+<span class="new">
+LIVRET DE RÈGLES P.19, ÉCHANGE D'AVATARS DE LOKI, PARAGRAPHE 1
+Il devrait être écrit : « Quand un effet de carte demande aux joueurs d'échanger un méchant **Avatar de Loki** ou **Incarnation Déclinante** avec un **Avatar de Loki** méchant mis de côté aléatoire, ils doivent remplacer le méchant en jeu par une des autres versions mises de côté du méchant **Avatar de Loki**. » _(Réécrit pour appliquer les règles de la section à l'échange d'une **Incarnation Déclinante** avec un Avatar de Loki.)_
+</span>
+
+## EXTENSION CIVIL WAR
+<span class="new">
+YELLOWJACKET (#19)
+Le titre devrait être « Yellowjacket ».  
+Le texte devrait être : « Réponse : après que Yellowjacket entre en jeu, cherchez un parmi les 5 cartes du dessus de votre deck pour une amélioration et ajoutez-la à votre main. » (« Yellow Jacket » remplacé par « Yellowjacket ».)
+</span>
+
+<span class="new">
+YELLOWJACKET (#73)
+Le titre devrait être « Yellowjacket ».
+</span>
+
+<span class="new">
+ÉNERGIE CANALISÉE (#98)
+Il devrait être écrit : « Réponse forcée : après qu'un leader, héros, ou allié attaque Captain Marvel, placez 1 compteur d'énergie ici. Puis, s'il y a au moins 4 compteurs d'énergie ici, retirez-les tous et Captain Marvel attaque ce personnage. Cette attaque gagne le trait Déferlement. » (« → » remplacé par « et ».)
+</span>
+
+## EXTENSION LE CLASH DES SYNTHEZOIDES
+<span class="new">
+MOON KNIGHT (#65)
+Il devrait être écrit : « Une fois révélée : résolvez la capacité « Une fois révélée » de la traîtrise la plus proche au dessus de la pile de défausse Rencontre. (Limite d'une fois par phase.) » (Ajout de « (Limite d'une fois par phase.) »)
+</span>
+
+<span class="new">
+DÉPHASÉ (#76)
+Il devrait être écrit : « Action : choisissez un attachement sur le leader ennemi ayant le texte « Action de héros » ou « Réponse de héros » et défaussez-le. » (« Interruption de héros » remplacé par « Action de héros ».)
+</span>
+
+
+## PACK HÉROS WONDER MAN
+<span class="new">
+PHYSIOLOGIE IONIQUE (#2)  
+Il devrait être écrit : « Réponse : après avoir joué un événement ayant une ressource ![[icone_energie.jpg|15]] imprimée, intercalez-le sous cette carte depuis votre pile de défausse ensuite soignez 1 dégât de votre identité. » ( « → » remplacé par « Ensuite »)
+</span>
+
 <details class="source"><summary>EN v1.8</summary>
 
 APPENDIX V:
@@ -319,6 +371,9 @@ Should read: “Forced Interrupt: When Loki would be defeated, discard the top c
 BLACK WIDOW HERO PACK
 BLACK WIDOW (#1A)
 Should read: “Widowmaker — Response: After you resolve the ability of a Preparation card you control, deal 1 damage to an enemy.” (Changed “trigger” to “resolve”.)
+
+COSTUME SYNTHÉTIQUE (#9)  
+Il devrait être écrit : « Réponse de héros : après avoir résolu la capacité d'une carte Préparation que vous contrôlez, inclinez Costume Synthétique → redressez Black Widow. » (Remplacé « déclencher » par « résoudre ».)
 
 SYNTH-SUIT (#9)
 Should read: “Hero Response: After you resolve the ability of a preparation card you control, exhaust Synth-Suit → ready Black Widow.” (Changed “trigger” to “resolve”.)
@@ -572,13 +627,14 @@ WINTER SOLDIER HERO PACK
 S.H.I.E.L.D. DEPUTY (#33)
 Should read: “Attach to a friendly character. Max 1 per character.” (Added “Max 1 per character.”)
 
+<span class="new">
 TRICKSTER TAKEOVER SCENARIO
 PACK
 RULEBOOK PG. 19, SWAPPING AVATARS OF
 LOKI, PARAGRAPH 1
 Should read: “When a card effect instructs the players to swap an Avatar of Loki villain or Fading Figment with a random set-aside Avatar of Loki villain, they should replace the villain in play with one of the other set-aside versions of the Avatar of Loki villain.” (Rewritten to apply section’s rules to swapping a Fading Figment with an Avatar of Loki villain.)
 
-CIVIL WAR EXPANSION
+<span class="new">CIVIL WAR EXPANSION
 YELLOW JACKET (#19)
 Title should read “Yellowjacket”.
 Text should read: “Response: After Yellowjacket enters play, search the top 5 cards of your deck for an upgrade and add it to your hand.” (Changed “Yellow Jacket” to “Yellowjacket”.)
@@ -589,7 +645,7 @@ Title should read “Yellowjacket”.
 ENERGY CHANNEL (#98)
 Should read: “Forced Response: After a leader, hero, or ally attacks Captain Marvel, place 1 energy counter here. Then, if there are at least 4 energy counters here, remove all of them and Captain Marvel attacks that character. This attack gains overkill.” (Changed “→” to “and”.)
 
-SYNTHEZOID SMACKDOWN
+<span class="new">SYNTHEZOID SMACKDOWN
 SCENARIO PACK
 MOON KNIGHT (#65)
 Should read: “When Revealed: Resolve the “When Revealed” ability of the topmost treachery in the encounter discard pile. (Limit once per phase.)” (Added “(Limit once per phase.)”)
@@ -601,6 +657,7 @@ WONDER MAN HERO PACK
 IONIC PHYSIOLOGY (#2)
 Should read: “Response: After you play an event with a printed  resource, tuck that event from your discard pile under this card. Then, heal 1 damage from your identity.” (Changed cost arrow to “Then”.) 
 
+<span class="new">
 </details>
 
 <details class="source"> <summary>EN v1.7</summary>CORE SET
@@ -617,7 +674,7 @@ Added periods to card title.
 THE WRECKING CREW SCENARIO
 PACK
 “I'VE BEEN WAITING FOR THIS!” (#41)
-Should read: “When Revealed: The active villain heals 3 hit points. Give that villain a tough status card.” (Changed “gains” to “heals”.)
+</span></span>Should read: “When Revealed: The active villain heals 3 hit points. Give that villain a tough status card.” (Changed “gains” to “heals”.)
 
 CAPTAIN AMERICA HERO PACK
 HONORARY AVENGER (#25)
@@ -638,6 +695,9 @@ Should read: “Forced Interrupt: When Loki would be defeated, discard the top c
 BLACK WIDOW HERO PACK
 BLACK WIDOW (#1A)
 Should read: “Widowmaker — Response: After you resolve the ability of a Preparation card you control, deal 1 damage to an enemy.” (Changed “trigger” to “resolve”.)
+
+COSTUME SYNTHÉTIQUE (#9)  
+Il devrait être écrit : « Réponse de héros : après avoir résolu la capacité d'une carte Préparation que vous contrôlez, inclinez Costume Synthétique → redressez Black Widow. » (Remplacé « déclencher » par « résoudre ».)
 
 DOCTOR STRANGE HERO PACK
 IRON FIST (#14)

@@ -19,7 +19,8 @@ L'Environnement CURRENT inclut les produits suivants :
 - Extensions
     - Extension de campagne L'Age d'Apocalypse
     - Extension de campagne Agents du S.H.I.E.L.D.
-    - Extension de scénario personnalisé Civil War
+    - Extension de scénario personnalisé Civil War  
+    - <span class="new">Extension de campagne Peur De Rien (à la sortie)</span>
 - Packs Héros
     - Pack Héros Iceberg
     - Pack Héros Jubilee
@@ -31,7 +32,7 @@ L'Environnement CURRENT inclut les produits suivants :
     - Pack Héros Le Soldat De L'Hiver
     - Pack Héros Wonder Man
     - Pack Héros Hercules
-- Tous les produits publiés depuis la publication de la version la plus récente de ce document (v1.7, déc. 2025).  
+- Tous les produits publiés depuis la publication de la version la plus récente de ce document (v1.8, <span class="new">juil. 2026</span>).  
 
 ## ENVIRONNEMENT LEGACY
 L'Environnement LEGACY (ou environnement Héritage) est composé de l'ensemble des produits Marvel Champions. Pour jouer en Environnement LEGACY, un joueur personnalise son deck en utilisant des cartes joueur provenant de n'importe quel produit de sa collection.
@@ -41,7 +42,7 @@ Un environnement limité permet à un joueur qui possède un certain nombre de p
 
 - La boîte de base Marvel Champions : Le Jeu de Cartes
 - Jusqu'à 3 extensions de campagne et/ou extensions de scénario personnalisé
-- Jusqu'à 10 packs héros  
+- Jusqu'à <span class="new">4</span> packs héros  
 
 Bien que n'importe quelle extension ou pack héros puisse être choisi pour un Environnement Limité (et trouver des combinaisons créatives de produits à partir desquels construire peut être une expérience agréable pour les amateurs de deckbuilding), un certain nombre d'anciens produits Marvel Champions ont été développés ensemble par vagues. Comme point de départ pour créer un Environnement Limité, nous recommandons de sélectionner trois vagues de produits liés afin d'explorer les synergies entre ces cartes, puis de s'ouvrir à d'autres combinaisons plus créatives une fois le pool de cartes mieux maîtrisé.  
 
@@ -75,7 +76,7 @@ The Current Environment includes the following products:
 » The Age of Apocalypse campaign expansion
 » The Agents of S.H.I.E.L.D. campaign expansion
 » The Civil War custom scenario expansion
-» The Fear No Evil campaign expansion (upon release)
+» <span class="new">The Fear No Evil campaign expansion (upon release)</span>
 • Hero Packs
 » Iceman Hero Pack
 » Jubilee Hero Pack
@@ -172,7 +173,7 @@ environment. To play in a Limited Environment, a player
 customizes their deck using cards from:
 • The Marvel Champions: The Card Game core set
 • Up to 3 campaign and/or custom scenario expansions
-• Up to 10 hero packs
+• Up to <span class="new">4</span> hero packs
 While any expansion or hero pack may be chosen for a
 Limited Environment (and finding creative combinations
 of products from which to build could be an enjoyable

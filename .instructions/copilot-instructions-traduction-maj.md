@@ -153,6 +153,7 @@ Pour traduire les termes et expressions spécifiques au jeu, se référer aux mo
 - Triggering Condition = "Etre censé"
 - round = round
 - phase = phase
+- tuck = intercaler
 - THW = CTR
 - ATK = ATQ
 - HP = PV
@@ -167,3 +168,4 @@ Pour traduire les termes et expressions spécifiques au jeu, se référer aux mo
 - Scarlet Witch - La Sorcière Rouge
 - Spider-Ham = Spider-Cochon
 - Cyclops = Cyclope
+- Fear no Evil = Peur de Rien
