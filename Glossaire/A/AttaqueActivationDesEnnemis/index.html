@@ -2100,6 +2100,34 @@
   
   
     <li class="md-nav__item">
+      <a href="../../C/Collaboration/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Collaboration
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
       <a href="../../C/Compteur/" class="md-nav__link">
         
   
@@ -4033,7 +4061,7 @@
   <span class="md-ellipsis">
     
   
-    Icône d'Accélération
+    Icône Accélération
   
 
     
@@ -4061,7 +4089,7 @@
   <span class="md-ellipsis">
     
   
-    Icône d'aléas
+    Icône Aléas
   
 
     
@@ -4089,7 +4117,7 @@
   <span class="md-ellipsis">
     
   
-    Icône d'Amplification
+    Icône Amplification
   
 
     
@@ -4201,7 +4229,7 @@
   <span class="md-ellipsis">
     
   
-    Icône d'Étoile
+    Icône Étoile
   
 
     
@@ -4716,6 +4744,34 @@
 
           </label>
           <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../L/Leader/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Leader
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
             
               
                 
@@ -8772,11 +8828,13 @@
 </ul>
 <p>Pour résoudre une attaque ennemie, respectez les étapes suivantes :  </p>
 <ol>
-<li>Si un méchant, ou un sbire ayant le mot‑clé <code>vilenie</code>, attaque, donnez‑lui une carte de boost face cachée prise sur le deck Rencontre. (Si un sbire sans le mot‑clé <code>vilenie</code> attaque, ignorez cette étape.)  </li>
-<li>Si un joueur souhaite défendre, ce joueur incline un héros ou un allié comme défenseur. Si un joueur autre que le joueur ciblé défend, le joueur qui défend devient le nouveau joueur ciblé par cette attaque.  </li>
-<li>
-<p>Résolvez chacune des cartes de boost de l'ennemi attaquant, une à la fois et dans l'ordre dans lequel elles ont été distribuées, en procédant de la manière suivante :  </p>
-<ol>
+<li><span class="new"><strong>Donner une carte boost:</strong> </span>Si un méchant, ou un sbire ayant le mot‑clé <code>vilenie</code>, attaque, donnez‑lui une carte de boost face cachée prise sur le deck Rencontre. (Si un sbire sans le mot‑clé <code>vilenie</code> attaque, ignorez cette étape.)  </li>
+<li><span class="new"><strong>Déclarer en tant que défenseur:</strong> </span>Si un joueur souhaite défendre, ce joueur incline un héros ou un allié comme défenseur. <ol>
+<li><span class="new">Le personnage qui défend devient la cible du personnage qui attaque.</span> </li>
+<li>Si un joueur autre que le joueur ciblé défend, le joueur qui défend devient le nouveau joueur ciblé par cette attaque.  </li>
+</ol>
+</li>
+<li><span class="new"><strong>Retournez une carte boost:</strong> Retournez et </span>résolvez chacune des cartes de boost de l'ennemi attaquant, une à la fois et dans l'ordre dans lequel elles ont été distribuées, en procédant de la manière suivante :  <ol>
 <li>Retournez la carte de boost face visible.  </li>
 <li>Résolvez toute capacité « Boost : », indiquée par l'icône d'étoile dans le champ de boost. (Toutes les autres capacités imprimées sur la carte de boost sont ignorées.)  </li>
 <li>Augmentez la valeur d'ATQ de l'ennemi attaquant de 1 pour chaque icône de boost sur la carte.  </li>
@@ -8784,29 +8842,33 @@
 <li>Si l'ennemi a encore des cartes de boost, répétez ces étapes avec la carte suivante.  </li>
 </ol>
 </li>
-<li>
-<p>Infligez les dégâts de l'attaque égaux à la valeur d'ATQ modifiée de l'ennemi attaquant, selon les cas suivants :  </p>
+<li><span class="new"><strong>Calculez les dégâts:</strong> </span>Déterminez le nombre de dégâts à infliger par l'attaque.<ul>
+<li><span class="new">La somme des dégâts est égale à la valeur d'ATQ de l'ennemi attaquant, incluant les modificateurs de capacités en jeu et des icônes de boost résolues par cette attaque.</span>  </li>
+<li><span class="new">Si un héro a été déclaré défenseur de cette attaque, réduire le montant des dégâts infligés par la valeur de DEF de ce héros.</span>  </li>
+</ul>
 </li>
-<li>Si un héros effectue une défense de base contre l'attaque, la quantité de dégâts infligés est réduite par la valeur de DEF de ce héros, et les dégâts restants sont infligés à ce héros.  <ul>
+<li>
+<p><span class="new"><strong>Infligez les dégâts:</strong> </span> Infligez <span class="new">les dégâts de l'attaque à partir de l'étape précédente</span>, selon les cas suivants :  </p>
+<ul>
+<li>Si un <strong>héros</strong> <span class="new">était déclaré en tant que défenseur</span> de l'attaque, les dégâts de l'attaque sont infligés à ce héros.  <ul>
 <li>Le héros qui défend est considéré comme ayant été attaqué.  </li>
 <li>Si un héros ayant l'état Tenace effectue une défense de base, les dégâts sont d'abord réduits par la valeur DEF de ce héros. Si les dégâts sont réduits à 0, le héros conserve son état Tenace.  </li>
 </ul>
 </li>
-<li>Si un allié défend contre l'attaque, tous les dégâts de l'attaque sont infligés à l'allié. (Si l'allié est vaincu par l'attaque, les dégâts en excès ne sont pas infligés à l'identité.)  <ul>
+<li>Si un <strong>allié</strong> <span class="new">était déclaré en tant que défenseur</span> de l'attaque, tous les dégâts de l'attaque sont infligés à l'allié. (Si l'allié est vaincu par l'attaque, les dégâts en excès ne sont pas infligés à l'identité.)  <ul>
 <li>Si l'allié défenseur quitte le jeu avant que les dégâts de l'attaque ne soient infligés, l'attaque est considérée comme n'ayant aucun personnage en défense et l'identité du contrôleur de cet allié devient la cible de l'attaque.  </li>
 </ul>
 </li>
-<li>
-<p>Si aucun personnage ne défend contre l'attaque, l'attaque est considérée comme non défendue. Tous les dégâts de l'attaque sont infligés au personnage ciblé par l'attaque.  </p>
-<ul>
-<li>Le personnage ciblé est considéré comme ayant été attaqué.  </li>
+<li>Si <strong>aucun personnage</strong> <span class="new">n'était déclaré en tant que défenseur</span> de l'attaque, l'attaque est considérée comme non défendue. Tous les dégâts de l'attaque sont infligés au personnage ciblé par l'attaque.  <ul>
+<li>Le personnage ciblé est considéré comme ayant été attaqué.  span&gt;</li>
+</ul>
+</li>
 </ul>
 </li>
 <li>
 <p>L'attaque termine sa résolution et les types de capacités suivants se déclenchent dans l'ordre :  </p>
 <ul>
-<li>Le mot‑clé <code>Riposte X</code> (si le personnage attaqué est toujours en jeu).  </li>
-<li>Les capacités forcées avec les déclencheurs suivants (dans n'importe quel ordre) :  <ul>
+<li>Les capacités forcées <span class="new">(comme le mot clé <code>Riposte</code>)</span> avec les déclencheurs suivants (dans n'importe quel ordre) :  <ul>
 <li>"après que [personnage] attaque [et inflige/des dégâts/vainc] [vous/un allié]..."  </li>
 <li>"après que [personnage] est attaqué..."  </li>
 <li>"après que [personnage] défend [et ne subit aucun dégât]..."  </li>
