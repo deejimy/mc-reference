@@ -116,7 +116,6 @@
 [[GagnerLaPartie|Gagner la Partie]]   
 [[Garde|Garde]]   
 [[Generer|Générer]]   
-[[GlisserSous|Glisser Sous]]   
 
 ## H
 [[HerosFormeDeHeros|Héros, forme de héros]]   
@@ -138,6 +137,7 @@
 [[IncitationX|Incitation X]]   
 [[Incline|Incliné]]   
 [[InitierDesCapacites|Initier des Capacités]]   
+[[Intercaler]]  
 [[Interruption|Interruption]]   
 
 ## J

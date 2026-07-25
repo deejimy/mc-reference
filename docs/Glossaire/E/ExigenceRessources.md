@@ -1,6 +1,6 @@
 # Exigence (Ressources)
 
-Une carte portant le mot-clé « Exigence » ne peut être jouée que si, lors du paiement de son coût, chaque ressource du type précisé a été dépensée pour ce paiement.  
+Une carte avec le mot‑clé `Exigence` ne peut être jouée que si, lors du paiement de son coût, chaque ressource du type indiqué est dépensée.  
 
 - Une carte dotée du mot-clé Exigence ne peut pas être jouée en « ignorant son coût en ressources », car les ressources requises ne peuvent pas être payées pour elle.  
 

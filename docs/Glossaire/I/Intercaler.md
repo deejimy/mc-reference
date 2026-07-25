@@ -1,9 +1,9 @@
-# Glisser Sous
+# Intercaler
 
-Quand un joueur est instruit de glisser une carte sous une autre carte, il place la carte glissée face visible sous l'autre carte.  
+Quand une capacité vous demande d'intercaler une carte, placez la carte intercalée face visible sous la carte indiquée.    
 
-- Les cartes glissées ne sont pas en jeu et ne sont pas considérées comme « attachées » à la carte sous laquelle elles sont glissées.
-- Quand une carte quitte le jeu, chaque carte glissée sous elle est défaussée.
+- Les cartes intercalées ne sont pas en jeu et ne sont pas considérées comme « attachées » à la carte sous laquelle elles sont intercalées.
+- Quand une carte quitte le jeu, toute carte intercalée dessous est défaussée.
 
 _Voir aussi : [[EnJeuEtHorsJeu|En Jeu et Hors Jeu]]_  
 

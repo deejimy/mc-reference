@@ -1,6 +1,6 @@
 # A distance
 
-Une attaque avec le mot-clé `A Distance` ignore le mot-clé `Riposte`.  
+Une attaque avec le mot clé `À Distance` ignore le mot-clé `Riposte`.  
 
 - <span class="new">Le mot-clé `A Distance` équivaut à la capacité suivante : « Cette attaque ignore le mot-clé Riposte. »</span>  
 

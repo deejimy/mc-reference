@@ -8,11 +8,13 @@
 
 !!! warning "RÉSUMÉ DES MODIFICATIONS NOTABLES"
 
+    - [[MotsCles|Mots-Clés]] : Ajout des nouveaux mots-clés de la campagne **PEUR DE RIEN**  
     - [[Capacite|Capacité]] : « Priorité de résolution simultanée ».
     - [[AttaqueActivationDesEnnemis|Attaque (Activation des Ennemis)]] : Ajout d'une étape.
     - [[Deferlement|Déferlement]] : Révision de la définition.
     - [[Resoudre|Résoudre]] : Ajout de la définition de « résoudre ».
-    - [[Renfort]] : Révision de la définition de « renfort ».
+    - [[Renfort]] : Révision de la définition de « renfort ».  
+    - [[VaincreDejouer|Vaincre, Déjouer]] Ajout de la définition « Vaincre Exactement », « Déjouer Exactement »  
     - [[I|APPENDICE I: Deck personnalisés]] : Révision des règles de personnalisation du deck du joueur.
     - [[IV|APPENDICE IV: FAQ]] : Ajouts et mises à jour dans l'« Annexe IV : FAQ ».
     - [[V|APPENDICE V: Errata]] : Ajouts dans l'« Annexe V : Errata ».

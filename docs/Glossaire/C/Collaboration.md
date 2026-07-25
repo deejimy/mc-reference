@@ -1,6 +1,6 @@
 # Collaboration
 
-Après qu'un sbire avec le mot-clé `Collaboration` entre en jeu et engage un joueur, s'il y a au moins un autre sbire en jeu partageant le trait spécifié, le sbire qui vient d'entrer en jeu s'active contre ce joueur.  
+Après qu'un sbire doté de ce mot-clé est entré en jeu et a engagé un joueur, s'il y a au moins un autre sbire en jeu ayant le trait spécifié entre parenthèses, le sbire qui est entré en jeu s'active contre le joueur avec qu'il est engagé.    
 
 - <span class="new">Le mot-clé Collaboration (trait) est équivalent à la capacité déclenchée suivante :
 « Réponse forcée : Après que ce sbire entre en jeu, s'il y a un autre sbire partageant le trait spécifié, ce sbire s'active contre le joueur engagé. »</span>  

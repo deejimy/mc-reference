@@ -2,15 +2,15 @@
 
 Une capacité étiquetée est une capacité déclenchée dont l'indicatif de déclenchement en gras est suivi, entre parenthèses, d'une désignation indiquant que la capacité est une attaque, une défense et/ou un contre.  
 
-- <span class="new">L'identité du joueur utilisant la capacité étiquetée est considérée comme effectuant l'effet étiqueté lorsque la capacité étiquetée commence à se résoudre (après que les coûts ont été payés).</span>  
-- Lorsque un joueur résout une capacité étiquetée "(attaque)", cette capacité est considérée comme une attaque effectuée par l'identité de ce joueur.  
-- Lorsque un joueur résout une capacité étiquetée "(défense)", cette capacité est considérée comme une défense effectuée par l'identité de ce joueur.  
+- <span class="new">L'identité du joueur qui résout une capacité étiquetée est considérée comme effectuant l'action indiquée par l'étiquette au moment où la capacité se résout (après paiement des coûts).</span>  
+- Lorsque un joueur résout une capacité portant l'étiquette `(attaque)`, cette capacité est considérée comme une attaque effectuée par l'identité de ce joueur.  
+- Lorsque un joueur résout une capacité portant l'étiquette `(défense)`, cette capacité est considérée comme une défense effectuée par l'identité de ce joueur.  
     - Lorsque cette capacité est initiée pendant une attaque, l'identité du joueur devient le défenseur de cette attaque.  
-- Lorsque un joueur résout une capacité étiquetée "(contrer)", cette capacité est considérée comme un contrer effectué par l'identité de ce joueur.  
+- Lorsque un joueur résout une capacité portant l'étiquette `(contrer)`, cette capacité est considérée comme un contre effectué par l'identité de ce joueur.  
 - Lorsque un joueur résout une capacité portant plusieurs étiquettes, cette capacité est considérée comme étant de chacun des types étiquetés, tous effectués par l'identité de ce joueur.  
 - Si un joueur déclenche une capacité étiquetée alors que son identité possède une ou plusieurs cartes d'état qui annulent l'un des types étiquetés, la capacité entière (sauf ses coûts) est annulée.  
     - Cette identité n'est pas considérée comme ayant attaqué, défendu ou contré.  
-    - Chaque carte d'état sur l'identité du joueur qui annule l'un des types de la capacité étiquetée est retirée lorsque cette capacité est annulée. Par exemple, une capacité étiquetée "(attaque/contrer)" retirerait à la fois un statut « désorienté » et un statut « sonné » de l'identité du joueur qui a déclenché la capacité.  
+    - Chaque carte d'état sur l'identité du joueur qui annule l'un des types de la capacité étiquetée est retirée lorsque cette capacité est annulée. Par exemple, une capacité portant l'étiquette `(attaque/contrer)` retirerait à la fois un statut « désorienté » et un statut « sonné » de l'identité du joueur qui a déclenché la capacité.  
   
 
 _Voir aussi : [[AttaqueActivationDuJoueur|Attaque (Action de Joueur)]], [[DefendreDefense|Défendre]], [[CTR|Contre / Contrer]]_

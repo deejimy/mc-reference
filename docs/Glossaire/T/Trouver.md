@@ -1,9 +1,9 @@
 # Trouver
 
-Quand il est demandé à un joueur de trouver une carte, ce joueur cherche dans chaque zone de jeu où cette carte pourrait se trouver (zone de jeu, zone mise de côté, deck du joueur, pile de défausse, deck Rencontre, etc.).  
+Quand un effet demande à un joueur de trouver une carte, il cherche chaque zone où cette carte pourrait être trouvée (zone de jeu, cartes mises de côté, deck Joueur, pile de défausse, deck Rencontre, etc.).  
 
 - Un joueur ne doit pas parcourir inutilement des zones de jeu s'il sait déjà où se trouve la carte qu'il recherche.  
-- Toutes les zones de jeu sont susceptibles d'être fouillées lors de la résolution d'une instruction « chercher », avec les exceptions suivantes :  
+- Toutes les zones de jeu sont susceptibles d'être fouillées lors de la résolution d'une instruction « trouver », **avec les exceptions suivantes** :  
     - Les cartes Rencontre face cachée dans toute zone de jeu en cours (qu'elles soient elles‑mêmes en jeu ou non). (Par exemple, les cartes Rencontre distribuées à un joueur ou données à un personnage comme carte de boost.)  
     - La pile de victoire.  
     - Les cartes qui ont été retirées de la partie.  
