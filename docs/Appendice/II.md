@@ -5,8 +5,7 @@ dans l'ordre :
 
 1. Choisir les identités. Chaque joueur sélectionne une identité et la place, face alter ego visible.  
 
-2. Déterminer les points de vie. Chaque joueur sélectionne sur son compteur de points de vie le nombre de points de vie de départ de son personnage, indiqué en
-bas de sa carte Identité.  
+2. Déterminer les points de vie. Chaque joueur sélectionne sur son compteur de points de vie le nombre de points de vie de départ de son personnage, indiqué en bas de sa carte Identité.  
 
 3. Choisir le premier joueur. Les joueurs choisissent collectivement le premier joueur et placent le pion Premier Joueur en face de ce joueur.  
 

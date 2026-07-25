@@ -363,7 +363,7 @@ Should read: “Interrupt: When attached scheme is defeated, deal 4 damage to an
 THOR HERO PACK
 LIGHTNING STRIKE (#6)
 Should read: “Hero Action: Spend X  resources → deal X damage to the villain and each minion engaged with you.
-This damage ignores tough status cards if you have the Aerial trait.” (Changed “attack” to “damage”.) 65 Ru l e s Re f eren c e
+This damage ignores tough status cards if you have the Aerial trait.” (Changed “attack” to “damage”.)
 
 LOKI (#28)
 Should read: “Forced Interrupt: When Loki would be defeated, discard the top card of the encounter deck. If that card is a treachery, heal all damage from Loki instead.” (Changed “Interrupt” to “Forced Interrupt”.)
@@ -429,7 +429,7 @@ OBEDIENCE POTION (#123)
 Should read: “Hero Action: Take 1 damage and spend   resources → discard this card. Any player can do this.” (Changed reminder text to rules text.)
 
 THE POISON (#125)
-Should read: “Hero Action: Spend 3 resources of different types → discard this card. Any player can do this.” (Changed reminder text to rules text.) 66 Ru l e s Re f eren c e
+Should read: “Hero Action: Spend 3 resources of different types → discard this card. Any player can do this.” (Changed reminder text to rules text.) 
 
 STAR-LORD HERO PACK
 COSMO (#20)
@@ -494,7 +494,7 @@ VENOM I AND II (#73-74)
 Should read: “Vengeance — Forced Response: After you or an ally you control attacks and damages Venom, place 1 facedown boost card on your identity.” (Changed “you attack and damage Venom with a card you control” to “you or an ally you control attacks and damages Venom”.)
 
 VENOM III (#75)
-Should read: “Retribution — Forced Response: After you or an ally you control attacks and damages Venom, place 1 facedown boost card on your identity (2 facedown boost cards instead if this is the first attack this turn).” (Changed “you attack and damage Venom with a card you control” to “you or an ally you control attacks and damages Venom”.) 67 Ru l e s Re f eren c e
+Should read: “Retribution — Forced Response: After you or an ally you control attacks and damages Venom, place 1 facedown boost card on your identity (2 facedown boost cards instead if this is the first attack this turn).” (Changed “you attack and damage Venom with a card you control” to “you or an ally you control attacks and damages Venom”.)
 
 MANIPULATED MIND (#171)
 Should read: “When Revealed: Attach to the ally you control with the lowest cost. Attached ally engages its controller. Otherwise, this card gains surge.” (Added “Attached ally engages its controller.”)
@@ -550,7 +550,7 @@ Should read: “When Revealed: Attach to the ally with the lowest THW without Po
 GAMBIT HERO PACK
 PSIONIC SHIELD (#34)
 Should read: “Forced Interrupt: When attached minion would leave play, instead heal all damage from that minion.
-Then, discard this attachment.” (Removed “and put it back into play”.) 68 Ru l e s Re f eren c e
+Then, discard this attachment.” (Removed “and put it back into play”.)
 
 ROGUE HERO PACK
 ANNA MARIE (#1A)
@@ -617,7 +617,7 @@ RADIATION EXPOSURE (#171A)
 The “SCH” modifier on this card should be a “THW” modifier.
 
 MACH-IV (#156)
-Should read: “Each character without the Aerial trait cannot defend against MACH-IV's attacks.” (Changed “make basic defenses” to “defend”.) 69 Ru l e s Re f eren c e
+Should read: “Each character without the Aerial trait cannot defend against MACH-IV's attacks.” (Changed “make basic defenses” to “defend”.)
 
 SILK HERO PACK
 EIDETIC MEMORY (#8)
