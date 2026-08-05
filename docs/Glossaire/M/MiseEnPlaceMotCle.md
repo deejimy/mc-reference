@@ -18,8 +18,3 @@ See also: Keywords, Reminder Text, Appendix II: Setup
 
 
 
-<details class="source">
-<summary>FR v1.4</summary>MISE EN PLACE
-Une carte ayant le mot-clé Mise en Place commence la partie en jeu.
-Voir aussi : Mots-clés, Texte de Rappel, Appendice II : Mise en Place
-</details>

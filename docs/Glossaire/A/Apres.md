@@ -13,8 +13,3 @@ See also: Ability, Response
 
 
 
-<details class="source">
-<summary>FR v1.4</summary>« APRÈS »
-Le mot « après » se réfère à une situation de jeu qui vient juste de se conclure. Beaucoup de capacités Réponse utilisent le terme « après » pour indiquer à quel moment elles peuvent être utilisées.
-Voir aussi : Réponse
-</details>

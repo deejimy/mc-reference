@@ -24,10 +24,3 @@ See also: Ally, Hit Points, Minion, Player, Player Elimination, Removed from the
 
 
 
-<details class="source">
-<summary>FR v1.4</summary>VAINCRE / DEJOUER
-Si un personnage tombe à zéro point de vie ou moins, il est vaincu. Si une manigance annexe n'a plus de menaces sur elle, elle est déjouée.
-• Si un allié ou un sbire est vaincu ou si une manigance annexe est déjouée, la carte est défaussée.
-• Si une identité ou un stade du méchant est vaincu, la carte est retirée de la partie.
-Voir aussi : Allié, Points de Vie, Elimination de Joueur, Joueur, Manigance Annexe, Méchant, Retiré de la Partie, Sbire, Vaincre le Méchant
-</details>

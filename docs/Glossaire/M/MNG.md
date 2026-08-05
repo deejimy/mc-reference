@@ -11,7 +11,3 @@ See: Basic Power, Scheme (Enemy Activation)
 
 
 
-<details class="source">
-<summary>FR v1.4</summary>MNG
-Voir : Manigance (Activation des Ennemis), Pouvoir de Base
-</details>

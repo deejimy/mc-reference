@@ -21,9 +21,3 @@ See also: Ability, Cost, Energy Resource, Icons, Mental Resource, Resource, Wild
 
 
 
-<details class="source">
-<summary>FR v1.4</summary>RESSOURCE PHYSIQUE
-Une ressource  est un des quatre types de ressource.
-Des ressources Physique peuvent être dépensées pour payer le coût en ressource des cartes et capacités. Certaines capacités de cartes requièrent spécifiquement que des ressources Physique soient dépensées pour que leurs effets soient résolus.
-Voir aussi : Capacité, Coût, Icônes, Ressource, Ressource Energie, Ressource Libre, Ressource Mentale
-</details>

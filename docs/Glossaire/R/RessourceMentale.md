@@ -20,9 +20,3 @@ See also: Ability, Cost, Energy Resource, Icons, Physical Resource, Resource, Wi
 
 
 
-<details class="source">
-<summary>FR v1.4</summary>RESSOURCE MENTALE
-Une ressource  est un des quatre types de ressource.
-Des ressources Mentale peuvent être dépensées pour payer le coût en ressource des cartes et capacités. Certaines capacités de cartes requièrent spécifiquement que des ressources Mentale soient dépensées pour que leurs effets soient résolus.
-Voir aussi : Capacité, Coût, Icônes, Ressource, Ressource Energie, Ressource Physique, Ressource Libre
-</details>

@@ -16,7 +16,3 @@ See: Basic Power, Thwart
 
 
 
-<details class="source">
-<summary>FR v1.4</summary>CTR
-Voir : Contre / Contrer, Pouvoir de Base
-</details>

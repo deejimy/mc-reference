@@ -16,10 +16,3 @@ _Voir aussi : [[Allie|Allié]], [[AttaqueActivationDuJoueur|Attaque (Type de cap
 
 
 
-<details class="source">
-<summary>FR v1.4</summary>DEGÂTS CONSECUTIFS
-Après qu'un allié a attaqué, il subit des dégâts consécutifs égaux au nombre d'icônes de dégâts consécutifs () en dessous de son champ d'ATQ.
-Après qu'un allié a contré, il subit des dégâts consécutifs égaux au nombre d'icônes de dégâts consécutifs () en dessous de son champ de CTR.
-• Les dégâts consécutifs sont infligés après avoir résolu les capacités déclenchées par l'allié qui attaque ou qui contre.
-Voir aussi : Allié, Attaque, Contre, Dégâts, Icônes, Pouvoir de Base
-</details>

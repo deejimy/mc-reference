@@ -22,8 +22,3 @@ A value presented as a dash (–) indicates that value cannot be used.
 
 
 
-<details class="source">
-<summary>FR v1.4</summary>TIRET
-S'il y a un tiret (-) à la place de la valeur d'un pouvoir (ATQ, CTR, REC, DEF, MNG) d'un personnage, ce personnage ne peut pas s'incliner pour utiliser ce pouvoir. Si une étape de jeu ou une capacité de carte se réfère à un pouvoir doté d'un tiret (-), on considère que ce pouvoir à une valeur de 0.
-Voir aussi : Pouvoir de Base, Variable Non-Numérique
-</details>

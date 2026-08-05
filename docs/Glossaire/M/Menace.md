@@ -13,8 +13,3 @@ See also: Component Limitations, Scheme (Card Type), Scheme (Enemy Activation), 
 
 
 
-<details class="source">
-<summary>FR v1.4</summary>MENACE
-Les pions Menace sont utilisés pour comptabiliser la quantité de menaces sur les cartes Manigance.
-Voir aussi : C ontre, Contrer, Limitation du matériel (p. 4), Manigance (Activation des Ennemis), Manigance Annexe, Manigance Principale, Prévenir
-</details>

@@ -46,22 +46,3 @@ Consequential Damage)
 
 
 
-<details class="source">
-<summary>FR v1.4</summary>ICÔNE
-Une icône est un élément de jeu qui symbolise diverses fonctions du jeu.
-• Icône Energie () : une icône Energie est une icône de ressource qui génère 1 ressource Energie lorsqu'elle est dépensée. (Voir : Ressource Energie)
-• Icône Mentale () : une icône Mentale est une icône de ressource qui génère 1 ressource Mentale lorsqu'elle est dépensée. (Voir : Ressource Mentale)
-• Icône Physique () : une icône Physique est une icône de ressource qui génère 1 ressource Physique lorsqu'elle est dépensée. (Voir : Ressource Physique)
-• Icône Libre () : une icône Libre est une icône de ressource qui génère 1 ressource Energie, Mentale, Physique ou Libre lorsqu'elle est dépensée. (Voir : Ressource Libre)
-• Icône d'Accélération () : Une icône d'accélération place une menace supplémentaire sur la manigance principale lors de la première étape de la phase du Méchant. (Voir : Icône d'Accélération)
-• Icône d'Amplification () : Une icône d'amplification augmente de 1 le nombre d'icônes de boost sur les cartes de boost lors de l'activation des ennemis. (Voir :
-Icône d'Amplification)
-• Icône de Crise () : Une icône de crise empêche les joueurs de retirer de la menace de la manigance principale.
-(Voir : Icône de Crise)
-• Icône d'Aléas () : Une icône d'Aléas augmente le nombre de cartes Rencontre qui sont attribuées aux joueurs pendant la phase du Méchant. (Voir : Icône d'Aléas)
-• Icône de Boost () : Une icône de boost augmente l'ATQ ou la MNG de l'ennemi actif lors des activations des ennemis. (Voir : Boost)
-• Icône d'Etoile () : Une icône d'étoile est utilisée conjointement à la statistique d'une carte ou à son champ de boost pour indiquer qu'il existe une capacité obligatoire dans la boîte de texte qui correspond à ce champ. (Voir : icône d'Etoile)
-• Icône de Dégâts Consécutifs () : Une icône de dégâts consécutifs est utilisée conjointement aux champs ATQ ou CTR d'un allié. Après qu'un allié a attaqué ou contré, il subit 1 dégât consécutif pour chaque icône de dégât consécutif dans ce champ. (Voir : Dégâts Consécutifs)
-• Icône Par Joueur () : Une icône Par Joueur à côté d'une valeur multiplie cette valeur par le nombre de joueurs qui ont commencé le scénario. (Voir : icône Par Joueur)
-• Icône Unique () : Une icône Unique dans le titre d'une carte indique que cette carte est unique. (Voir : Icône Unique)
-</details>

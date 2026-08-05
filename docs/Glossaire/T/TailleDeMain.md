@@ -16,8 +16,3 @@ See also: End of Player Phase, Modifiers
 
 
 
-<details class="source">
-<summary>FR v1.4</summary>TAILLE DE MAIN
-Chaque joueur vérifie la taille de sa main à la fin de la phase des Joueurs. Soit il défausse des cartes, soit il pioche des cartes jusqu'à atteindre sa valeur de taille de main.
-Voir aussi : Fin de la Phase des Joueurs
-</details>

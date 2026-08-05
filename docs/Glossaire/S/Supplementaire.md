@@ -12,7 +12,3 @@ See: Alteration Effect
 
 
 
-<details class="source">
-<summary>FR v1.4</summary>« SUPPLEMENTAIRE »
-Voir : Effets d'Altération
-</details>

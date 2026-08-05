@@ -15,7 +15,3 @@ See: Ability, Cost
 
 
 
-<details class="source">
-<summary>FR v1.4</summary>EFFET
-Voir : Capacité, Coût
-</details>

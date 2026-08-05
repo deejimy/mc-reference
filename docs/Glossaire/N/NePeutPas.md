@@ -20,7 +20,3 @@ See also: The Golden Rules, Target
 
 
 
-<details class="source">
-<summary>FR v1.4</summary>NE PEUT PAS
-La locution « ne peut pas » (de même que ses dérivés) est absolue et ne peut pas être contournée par d'autres capacités ou effets.
-</details>

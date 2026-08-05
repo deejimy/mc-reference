@@ -16,7 +16,3 @@ See also: Keywords, Main Scheme, Reminder Text, Reveal, Threat
 
 
 
-<details class="source">
-<summary>FR v1.4</summary>INCITATION X
-Quand une carte ayant le mot-clé Incitation X est révélée, placez X menaces sur la manigance principale. (X étant la valeur à côté du mot-clé Incitation.) Voir aussi : Manigance Principale, Menace, Mots-clés, Révéler, Texte de Rappel
-</details>

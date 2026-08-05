@@ -14,8 +14,3 @@ See also: Ally, Identity, Minion, Villain
 
 
 
-<details class="source">
-<summary>FR v1.4</summary>PERSONNAGE
-Le terme personnage désigne les identités (héros et les alter ego), les alliés, les méchants et les sbires.
-Voir aussi : Allié, Identité, Méchant, Sbire
-</details>

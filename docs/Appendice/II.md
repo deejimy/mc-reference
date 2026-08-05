@@ -70,29 +70,3 @@ See also: Setup, Scenario
 
 
 
-<details class="source">
-<summary>FR v1.4</summary>
-Pour mettre en place une partie, effectuez les étapes suivantes
-dans l'ordre :  
-
-1. Choisir les identités. Chaque joueur sélectionne une identité et la place, face alter ego visible.
-2. Déterminer les points de vie. Chaque joueur sélectionne sur son compteur de points de vie le nombre de points de vie de départ de son personnage, indiqué en
-bas de sa carte Identité.
-3. Choisir le premier joueur. Les joueurs choisissent collectivementle  premier joueur et placent le pion Premier Joueur en face de ce joueur.
-4. Mettre de côté les obligations. Mettez de côté lacarte Ob ligation de chaque identité jouée.
-5. Mettre de côté les sets de Némésis. Pour chaque identité jouée, mettez de côté sa Némésis et les cartes Rencontre de cette Némésis.
-6. Mélanger les decks des joueurs. Chaque joueur mélange son deck Joueur.
-7. Rassembler les pions, les jetons et les cartes d'état. Constituez une réserve de pions Dégât, de pions Menace, de pions Accélération et de jetons génériques que vous placez à portée de main de tous les joueurs.
-Placez les piles de cartes d'état Sonné, Désorienté et Tenace à côté de cette réserve.
-8. Choisir un méchant. Choisissez un méchant et mettez en jeu son deck Méchant ainsi que son deck Manigance Principale au centre de la zone de jeu.
-9. Déterminer les points de vie du méchant. Réglez le compteur de points de vie du méchant à la valeur indiquée sur sa carte Méchant.
-10. Créer le deck Rencontre. Rassemblez les sets de rencontre indiqués sur la face 1A de la carte Manigance Principale.
-11. Résoudre la mise en place de la manigance. Résolvez toute instruction « Mise en place » sur la face 1A de la carte Manigance Principale. Résolvez toute capacité « Une fois révélée » sur les cartes Rencontre qui entrent en jeu lors de la mise en place.
-12. Mélanger le deck Rencontre. Mélangez dans le deck Rencontre du méchant les cartes Obligation mises de côté lors de l'étape 4.
-13. Piocher des cartes. Chaque joueur pioche des cartes jusqu'à avoir en main un nombre de cartes égal à la valeur de sa taille de main indiquée en bas de sa carte Identité.
-14. Résoudre les mulligans. Chaque joueur peut défausser n'importe quel nombre de cartes de sa main et piocher des cartes jusqu'à atteindre sa taille de main.
-(Pour le moment, ne remélangez pas dans leurs decks les cartes ainsi défaussées.)
-15. Résoudre les capacités de mise en place des personnages. Résolvez toute instruction « Mise en place » inscrite sur les cartes Identité en jeu.
-
-La partie peut désormais commencer.
-</details>

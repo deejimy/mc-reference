@@ -17,9 +17,3 @@ A resource ability is a type of triggered ability, indicated by the bold "Resour
 
 
 
-<details class="source">
-<summary>FR v1.4</summary>RESSOURCE (CAPACITE)
-Une capacité de ressource est un type de capacité déclenchée signalé par l'indicatif de déclenchement « Ressource » en gras.
-• Une capacité de ressource peut être déclenchée chaque fois que le joueur qui contrôle la capacité génère des ressources pour payer un coût.
-Voir aussi : Coût, Ressource, Capacité Déclenchée
-</details>

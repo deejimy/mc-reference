@@ -38,20 +38,3 @@ See also: Acceleration Icon, Activation, Attack (Enemy Activation), Deal, Engage
 
 
 
-<details class="source">
-<summary>FR v1.4</summary>PHASE DU MECHANT
-Les étapes de la phase du Méchant sont les suivantes :
-1. Placez la quantité de menaces indiquée dans le champ d'accélération de la manigance principale sur cette manigance.
-Si un ou plusieurs icônes Accélération ou pions Accélération sont actifs, placez également un nombre de menaces supplémentaires égal à la somme de ces icônes et pions.
-2. Le méchant s'active une fois par joueur. Pour chaque activation, tous les sbires engagés avec ce joueur s'activent également.
-3. Attribuez une carte Rencontre à chaque joueur. Attribuez une carte supplémentaire pour chaque icône d'aléas sur une carte en jeu. Ces cartes supplémentaires sont attribuées dans l'ordre des joueurs.
-4. Les joueurs révèlent les cartes Rencontre qui leur ont été attribuées. Le premier joueur révèle chacune de ses cartes Rencontre, une à la fois, les résout en fonction du type de carte. Chaque joueur répète ce processus dans l'ordre des joueurs jusqu'à ce qu'il ne reste plus de carte Rencontre attribuée.
-5. Passez le pion Premier Joueur au joueur suivant dans le sens horaire et terminez le round.ZONE DE JEU DU MÉCHANT  
-La zone de jeu du méchant (parfois appelée aussi « zone de jeu du méchant ») est l'aire de jeu où se trouvent le deck Méchant, le deck de la manigance principale, le deck Rencontre, la pile de défausse du deck Rencontre et le cadran de points de vie du méchant.  
-- <span class="new">Les cartes Environnement et les cartes de manigance annexe sont placées dans la zone de jeu du méchant lorsqu'elles entrent en jeu.</span>  
-- <span class="new">Les attachements attachés à des cartes dans la zone de jeu du méchant sont dans la zone de jeu du méchant. Les attachements attachés à des cartes dans la zone de jeu d'un joueur ne sont pas dans la zone de jeu du méchant.</span>  
-- <span class="new">Les cartes sbire engagées avec un joueur sont dans la zone de jeu de ce joueur et non dans la zone de jeu du méchant.</span>  
-- <span class="new">Les cartes Obligation données à un joueur sont dans la zone de jeu de ce joueur et non dans la zone de jeu du méchant.</span>  
-
-Voir aussi : Activation, Attribuer, Dans l'ordre des Joueurs, Engagé, Icône d'Accélération, Icône d'Aléas, Joueur, Manigance (Activation des Ennemis), Manigance Principale, Méchant, Menace, Premier Joueur, Révéler, Sbire
-</details>

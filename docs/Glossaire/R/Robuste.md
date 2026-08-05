@@ -20,9 +20,3 @@ See also: Ally, Confuse, "Gains", Identity, Keywords, Minion, Reminder Text, Sta
 
 
 
-<details class="source">
-<summary>FR v1.4</summary>ROBUSTE
-Un personnage ayant le mot-clé Robuste ne peut pas être sonné ou désorienté.
-• Si un personnage gagne le mot-clé Robuste alors qu'il a déjà une carte d'état Sonné ou Désorienté, chaque carte d'état Sonné ou Désorienté est retirée de ce personnage.
-Voir aussi : A llié, C arte d 'Etat, D ésorienté, G agner, M échant, Mot-clé, Sbire, Sonné, Texte de Rappel
-</details>

@@ -14,7 +14,3 @@ See: Basic Power, Defend
 
 
 
-<details class="source">
-<summary>FR v1.4</summary>DEF
-Voir : Défense, Pouvoir de Base
-</details>

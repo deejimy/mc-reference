@@ -10,7 +10,3 @@ See: Basic Power, Recover, Recovery
 
 
 
-<details class="source">
-<summary>FR v1.4</summary>REC
-Voir : Pouvoir de Base, Récupération, Récupérer
-</details>

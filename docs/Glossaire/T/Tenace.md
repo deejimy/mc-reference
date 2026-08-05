@@ -29,8 +29,3 @@ See also: Damage, Overkill, Status Cards, Toughness 4
 
 
 
-<details class="source">
-<summary>FR v1.4</summary>TENACE
-Tenace est un statut qui empêche un personnage de subir des dégâts.
-Voir : Cartes Statut, Ténacité
-</details>

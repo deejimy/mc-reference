@@ -21,8 +21,3 @@ See also: Activation, Attack (Enemy Activation), Boost, Discard, Keywords, Minio
 
 
 
-<details class="source">
-<summary>FR v1.4</summary>VILENIE
-Quand un sbire avec le mot-clé Vilenie s'active, donnez-lui une carte de boost face cachée du dessus du deck Rencontre. Quand vous résolvez l'activation de ce sbire, retournez la carte de boost face visible, résolvez ses éventuelles capacités de boost présentes et appliquez les icônes de boost aux valeurs de ce sbire pour cette activation. Défaussez la carte de boost après cette activation.
-Voir aussi : Activation, Attaque (Activation des Ennemis), Boost, Défausse, Manigance (Activation des Ennemis), Mots-clés, Sbire, Texte de Rappel
-</details>

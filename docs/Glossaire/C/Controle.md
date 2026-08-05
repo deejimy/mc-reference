@@ -15,7 +15,3 @@ See: Ownership and Control
 
 
 
-<details class="source">
-<summary>FR v1.4</summary>CONTRÔLE
-Voir : Propriété et Contrôle
-</details>

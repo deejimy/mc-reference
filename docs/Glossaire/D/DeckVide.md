@@ -11,7 +11,3 @@ See: Encounter Deck, Player Deck
 
 
 
-<details class="source">
-<summary>FR v1.4</summary>DECK VIDE
-Voir : Deck Rencontre, Deck Joueur
-</details>

@@ -17,8 +17,3 @@ See also: Ally, Damage, Hit Points, Identity, Minion, Remaining Hit Points, Vill
 
 
 
-<details class="source">
-<summary>FR v1.4</summary>DEGÂTS EN EXCÈS
-Les dégâts en excès sont la quantité de dégâts infligés à un personnage au-delà de ses points de vie restants.
-Voir aussi : Allié, Dégâts, Identité, Méchant, Points de Vie, Points de Vie Restants, Sbire
-</details>

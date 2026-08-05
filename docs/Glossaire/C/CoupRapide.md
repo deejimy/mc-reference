@@ -24,8 +24,3 @@ See also: Attack (Enemy Activation), Engage, Form, Keywords, Minion, Player, Rem
 
 
 
-<details class="source">
-<summary>FR v1.4</summary>COUP RAPIDE
-Après qu'un sbire doté du mot-clé Coup Rapide a engagé un joueur dont l'identité est sous forme de héros, ce sbire attaque ce joueur.
-Voir aussi : Attaquer (Activation des Ennemis), Engager, Forme, Mots-clés, Sbire
-</details>

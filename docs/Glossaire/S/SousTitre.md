@@ -14,8 +14,3 @@ See also: Unique Icon 4
 
 
 
-<details class="source">
-<summary>FR v1.4</summary>SOUS-TITRE
-Certaines cartes Allié ont un sous-titre sous leur titre. Un sous-titre correspond à un nom alternatif qu'un personnage utilise parfois.
-Voir aussi : Unique
-</details>

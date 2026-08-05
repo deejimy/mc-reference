@@ -24,10 +24,3 @@ See also: Ally, Defeat, Main Scheme, Minion, Side Scheme, Triggered Ability, Vil
 
 
 
-<details class="source">
-<summary>FR v1.4</summary>CAPACITES UNE FOIS VAINCU / DEJOUEE
-Une capacité Une fois vaincu ou Une fois déjouée est un type de capacité déclenchée signalé par l'indicatif de déclenchement « Une fois vaincu » ou « Une fois déjouée » en gras.
-Quand un stade de méchant, un allié ou un sbire est vaincu, toutes les capacités Une fois vaincu sur la carte se résolvent.
-Quand un stade de manigance principale ou une manigance annexe est déjouée, toutes les capacités Une fois déjouée sur la carte se résolvent.
-Voir aussi : Allié, Capacité Déclenchée, Manigance Annexe, Manigance Principale, Méchant, Sbire, Vaincre/Déjoué
-</details>

@@ -23,10 +23,3 @@ Deck Customization
 
 
 
-<details class="source">
-<summary>FR v1.4</summary>CARTES JOUEUR
-Il existe six types de carte Joueur : cartes Allié, cartes Amélioration, cartes Evénement, cartes Identité, cartes Ressource, cartes Soutien.
-• Les cartes Joueur appartiennent à diverses classifications, telles que les cartes Joueur spécifiques à l'identité ou les cartes Joueur d'Affinité.
-• La plupart des cartes Joueur ont un dos bleu.
-Voir aussi : A llié, A mélioration, C artes R essource, C lassifications, Identité, Evénement, Soutien, Appendice I : Deck Personnalisés
-</details>

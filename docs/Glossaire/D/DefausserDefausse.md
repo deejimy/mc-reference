@@ -38,12 +38,3 @@ See also: Discard Pile, Encounter Card, In Play and Out of Play, Ownership and C
 
 
 
-<details class="source">
-<summary>FR v1.4</summary>DEFAUSSER
-Le fait de déplacer vers une pile de défausse une carte qui provient d'une zone autre qu'une pile de défausse s'appelle « défausser ».
-• Si une carte Joueur est défaussée, elle est placée face visible au sommet de la pile de défausse de son propriétaire.
-• Si une carte Rencontre est défaussée, elle est placée face visible au sommet de la pile de défausse du deck Rencontre.
-• Si plusieurs cartes sont défaussées simultanément du jeu ou de la main d'un joueur, placez ces cartes dans la pile de défausse appropriée, dans l'ordre de votre choix.
-• Si plusieurs cartes sont défaussées simultanément d'un deck, placez ces cartes dans la pile de défausse appropriée, une à la fois (sans modifier l'ordre).
-Voir aussi : Carte Joueur, Carte Rencontre, En Jeu et Hors Jeu, Pile de Défausse, Propriété et Contrôle, Mélanger
-</details>

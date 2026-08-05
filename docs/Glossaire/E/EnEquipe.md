@@ -24,9 +24,3 @@ See also: Ally, Identity, In Play and Out of Play, Keywords, Play, Reminder Text
 
 
 
-<details class="source">
-<summary>FR v1.4</summary>EN EQUIPE
-Le mot-clé En Equipe est suivi du nom de deux personnages.
-Pour inclure une carte avec le mot-clé En Equipe dans votre deck, votre identité doit correspondre au nom d'un de ces deux personnages. De plus, une carte avec le mot-clé En Equipe ne peut être jouée que si les deux personnages nommés sont en jeu (en tant qu'identités ou en tant qu'alliés).
-Voir aussi : Allié, En Jeu et Hors Jeu, Identité, Jouer, Mots-clés, Texte de Rappel, Appendice I : Decks Personnalisés
-</details>

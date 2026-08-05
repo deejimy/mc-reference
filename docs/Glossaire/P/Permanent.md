@@ -36,9 +36,3 @@ See also: In Play and Out of Play, Keywords, Leaves Play, Ownership and Control,
 
 
 
-<details class="source">
-<summary>FR v1.4</summary>PERMANENT
-Une carte avec le mot-clé Permanent ne peut pas quitter le jeu.
-• Si un joueur est éliminé de la partie, alors qu'il détient dans sa zone de jeu une carte Permanente dont il n'est pas le propriétaire, placez cette carte Permanente dans la pile de défausse de son propriétaire.
-Voir aussi : En Jeu et Hors Jeu, Mots-clés, Propriété et Contrôle, Quitter le Jeu, Texte de Rappel
-</details>

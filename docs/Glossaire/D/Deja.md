@@ -14,7 +14,3 @@ See: Alteration Effect
 
 
 
-<details class="source">
-<summary>FR v1.4</summary>« DEJÀ »
-Voir : Effet d'Altération
-</details>

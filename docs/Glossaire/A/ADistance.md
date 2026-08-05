@@ -18,8 +18,3 @@ See also: Attack (Enemy Activation), Attack (Player Ability Type), Keywords, Rem
 
 
 
-<details class="source">
-<summary>FR v1.4</summary>A DISTANCE
-Une attaque avec le mot-clé A Distance ignore le mot-clé Riposte.
-Voir aussi : Attaque (Activation des Ennemis), Attaque (Action de joueur), Mots-clés, Texte de Rappel, Riposte X
-</details>

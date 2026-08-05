@@ -117,33 +117,3 @@ Surge)
 
 
 
-<details class="source">
-<summary>FR v1.4</summary>MOTS-CLES
-Un mot-clé est un attribut qui confère des règles spécifiques à la carte qui le porte. Les mots-clés suivants sont utilisés dans le jeu :
-• À Distance : Les attaques ayant À Distance ignorent le mot-clé Riposte. (Voir : À Distance)
-• Coup Rapide : Après que cet ennemi a engagé un joueur, il attaque immédiatement ce joueur s'il est sous forme de héros. (Voir : Coup Rapide)
-• Déferlement : Les dégâts en excès des attaques avec déferlement sont infligés à l'identité ou au méchant. (Voir :
-Déferlement)
-• En Equipe : Une carte ayant En Equipe ne peut être jouée que si les deux personnages nommés à côté du mot-clé sont en jeu. (Voir : En Equipe)
-• Entrave X : Quand un joueur révèle une carte ayant Entrave X, ce joueur place X menaces dessus. (Voir : Entrave X)
-• Garde : Tant qu'un sbire ayant ce mot-clé est engagé avec un joueur, ce joueur ne peut pas attaquer le méchant. (Voir :
-Garde)
-• Incitation X : Quand un joueur révèle une carte ayant Incitation X, ce joueur place X menaces sur la manigance principale.
-(Voir : Incitation X)
-• Mise en Place : Les cartes ayant Mise en Place commencent la partie en jeu. (Voir : Mise en Place)
-• Patrouille : Tant qu'un sbire ayant Patrouille est engagé avec un joueur, ce joueur ne peut pas contrer la manigance principale.
-(Voir : Patrouille)
-• Perçant : Les attaques ayant Perçant défaussent les cartes d'état Tenace de la cible avant que les dégâts ne soient infligés.
-(Voir : Perçant)
-• Péril : Tant qu'un joueur résout une carte ayant Péril, les autres joueurs ne peuvent pas l'aider. (Voir : Péril)
-• Permanent : Les cartes ayant Permanent ne peuvent pas quitter le jeu. (Voir : Permanent).
-• Renfort : Après qu'un joueur a révélé une carte avec ayant Renfort, ce joueur révèle une carte Rencontre supplémentaire.
-(Voir : Renfort)
-• Restreint : Un joueur ne peut pas contrôler plus de deux cartes Restreintes en même temps. (Voir : Restreint)
-• Riposte X : Après qu'un personnage ayant Riposte X a été attaqué, infligez X dégâts à l'attaquant. (Voir : Riposte X)
-• Robuste : Les personnages ayant Robuste ne peuvent pas être sonnés ou désorientés. (Voir : Robuste)
-• Ténacité : Quand un personnage ayant Ténacité entre en jeu, placez une carte d'état Tenace dessus. (Voir : Tenace / Ténacité)
-• Utilisations (X « types ») : Quand une carte ayant le mot clé Utilisations entre en jeu, placez X jetons génériques (pris dans la réserve de pions) dessus. Après que le dernier jeton générique a été retiré d'une carte avec Utilisations (et que l'effet a été résolu), défaussez cette carte. (Voir : Utilisations (X « types »))
-• Victoire X : Quand une carte ayant Victoire X est vaincue ou déjouée, ajoutez-la à la pile de victoire. (Voir : Victoire X)
-• Vilenie : Quand un sbire ayant Vilenie s'active, donnez-lui une carte de boost. (Voir : Vilenie)
-</details>

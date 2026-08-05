@@ -12,7 +12,3 @@ See: Initiating Abilities
 
 
 
-<details class="source">
-<summary>FR v1.4</summary>JOUER DES CARTES
-Voir : Initier des Capacités
-</details>

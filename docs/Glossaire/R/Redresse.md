@@ -24,9 +24,3 @@ See also: Enters Play, Exhausted
 
 
 
-<details class="source">
-<summary>FR v1.4</summary>REDRESSE
-Une carte entre en jeu redressée, positionnée de telle sorte que son contrôleur puisse lire son texte de gauche à droite.
-• Si on demande à un joueur de redresser une carte inclinée, la carte retrouve son état redressé.
-Voir aussi : Entrer en Jeu, Incliné
-</details>

@@ -16,8 +16,3 @@ See also: Ally, Enters Play, Identity, Keywords, Minion, Reminder Text, Status C
 
 
 
-<details class="source">
-<summary>FR v1.4</summary>TENACITE
-Quand un personnage doté du mot-clé Ténacité entre en jeu, placez une carte d'état Tenace dessus.
-Voir aussi : Allié, Cartes d'Etat, Entrer en Jeu, Identité, Méchant Mots-clés, Sbire, Texte de Rappel
-</details>

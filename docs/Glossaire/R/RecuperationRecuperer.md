@@ -18,8 +18,3 @@ See also: Basic Power, Form, Heal, Hit Points, Identity
 
 
 
-<details class="source">
-<summary>FR v1.4</summary>RECUPERATION, RECUPERER
-Le pouvoir de base de récupération d'un joueur ne peut être utilisé que sous forme d'alter ego. Pour récupérer, le joueur doit incliner sa carte Alter ego et se soigne d'un nombre de points de vie égal à sa valeur de REC.
-Voir aussi : Forme, Points de Vie, Pouvoir de Base, Soigner
-</details>

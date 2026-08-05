@@ -12,7 +12,3 @@ See: Replacement Effect
 
 
 
-<details class="source">
-<summary>FR v1.4</summary>« A LA PLACE »
-Voir : Effet de Remplacement
-</details>

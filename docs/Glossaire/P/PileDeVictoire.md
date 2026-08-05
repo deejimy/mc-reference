@@ -13,8 +13,3 @@ See also: In Play and Out of Play, Player, Victory X
 
 
 
-<details class="source">
-<summary>FR v1.4</summary>PILE DE VICTOIRE
-La pile de victoire est une zone hors-jeu partagée par tous les joueurs. Les cartes dans la pile de victoire suivent les règles habituelles des cartes hors jeu.
-Voir aussi : En Jeu et Hors Jeu, Joueur, Victoire X
-</details>

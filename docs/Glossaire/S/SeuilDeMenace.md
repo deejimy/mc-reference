@@ -14,8 +14,3 @@ See also: Main Scheme, Threat
 
 
 
-<details class="source">
-<summary>FR v1.4</summary>SEUIL DE MENACE
-Le seuil de menace est la quantité de menaces requise par le deck Manigance Principale pour avancer. Il est situé sur le coin supérieur gauche de la carte, devant son titre.
-Voir aussi : Manigance Principale
-</details>

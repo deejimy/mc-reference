@@ -21,9 +21,3 @@ See also: Ability, Cost, Icons, Mental Resource, Physical Resource, Resource, Wi
 
 
 
-<details class="source">
-<summary>FR v1.4</summary>RESSOURCE ENERGIE
-Une ressource  est un des quatre types de ressource.
-Des ressources Energie peuvent être dépensées pour payer le coût en ressource des cartes et capacités. Certaines capacités de cartes requièrent spécifiquement que des ressources Energie soient dépensées pour que leurs effets soient résolus.
-Voir aussi : Capacité, Coût, Icônes, Ressource, Ressource Libre, Ressource Mentale, Ressource Physique
-</details>

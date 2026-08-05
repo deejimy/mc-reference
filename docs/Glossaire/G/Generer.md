@@ -10,7 +10,3 @@ See: Resource
 
 
 
-<details class="source">
-<summary>FR v1.4</summary>GENERER
-Voir : Ressource
-</details>

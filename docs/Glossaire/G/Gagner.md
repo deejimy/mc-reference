@@ -14,8 +14,4 @@ See also: Keywords, Printed, Traits
 
 
 
-<details class="source">
-<summary>FR v1.4</summary>GAGNER (UNE CARACTERISTIQUE)
-Si une carte gagne une caractéristique (comme un trait, un mot-clé ou un texte de capacité), la carte fonctionne comme si elle possédait la caractéristique gagnée. Les caractéristiques gagnées ne sont pas considérées comme étant imprimées sur la carte.
-Voir aussi : Imprimé, Mots-clés, Trait
-</details>
+

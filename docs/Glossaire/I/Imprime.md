@@ -18,8 +18,3 @@ See also: Base Value, Modifiers
 
 
 
-<details class="source">
-<summary>FR v1.4</summary>IMPRIME
-Le mot « imprimé » désigne un texte, une caractéristique ou une valeur qui est physiquement imprimé sur la carte.
-Voir aussi : Modificateurs, Valeur de Base
-</details>

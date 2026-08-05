@@ -14,9 +14,3 @@ See also: Modifiers, Printed
 
 
 
-<details class="source">
-<summary>FR v1.4</summary>VALEUR DE BASE
-C'est une valeur définie avant l'application des modificateurs.
-Dans la plupart des cas, il s'agit de la valeur imprimée.
-Voir aussi : Modificateurs, Imprimé
-</details>

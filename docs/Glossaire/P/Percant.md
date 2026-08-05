@@ -20,8 +20,3 @@ See also: Attack (Enemy Activation), Attack (Player Ability Type), Damage, Keywo
 
 
 
-<details class="source">
-<summary>FR v1.4</summary>PERÇANT
-Une attaque avec le mot-clé Perçant défausse toute carte d'état Tenace de la cible de l'attaque avant d'infliger ses dégâts.
-Voir aussi : Attaque (Activation des Ennemis), Attaque (Action de Joueur), Cartes d'Etat, Cible, Dégâts, Mots-clés, Tenace/Ténacité, Texte de Rappel
-</details>

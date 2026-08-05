@@ -10,7 +10,3 @@ See: Attack (Enemy Activation)
 
 
 
-<details class="source">
-<summary>FR v1.4</summary>NON DEFENDUE
-Voir : Attaque (Activation des Ennemis)
-</details>

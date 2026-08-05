@@ -11,7 +11,3 @@ See: Form, Identity
 
 
 
-<details class="source">
-<summary>FR v1.4</summary>ALTER EGO, FORME D'ALTER EGO
-Voir : Forme, Identité
-</details>
