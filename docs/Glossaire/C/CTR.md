@@ -9,10 +9,7 @@ _Voir : [[ContreContrer|Contre / Contrer]], [[PouvoirDeBase|Pouvoir de Base]]_
 See: Basic Power, Thwart
 </details>
 
-<details class="source">
-<summary>EN v1.7</summary>THW
-See: Basic Power, Thwart
-</details>
+
 
 
 

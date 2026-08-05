@@ -5,7 +5,7 @@ Le but est de vérifier la traduction de chaque fichier inclus dans /docs/Glossa
 
 1. Ne pas modifier les fichiers !
 2. La texte traduit se trouve entre le titre # est le 1er bloc <details>
-3. Vérifier si tout le text présent dans le bloc <details class="source"><summary>EN v1.7</summary>...</details> a intégralement été traduit dans la page.
+3. Vérifier si tout le text présent dans le bloc  a intégralement été traduit dans la page.
 4. Vérifier que le nombre de puces (top level, sous-puces et numérotation) dans la texte traduit correspond au nombre exact de puces dans le bloc EN v1.7.
 5. Vérifier qu'il n'y a pas de phrase traduite en trop (non présente dans le bloc EN v1.7), même pour les définitions courtes ou les entrées à une seule ligne.
 6. Toute phrase ou définition traduite doit exister dans le bloc EN v1.7. Si le bloc EN v1.7 ne contient qu'une référence ou un lien, la traduction ne doit pas ajouter d'explication ou de phrase supplémentaire.

@@ -10,7 +10,4 @@ See: Ability
 </details>
 
 
-<details class="source">
-<summary>EN v1.7</summary>CONSTANT ABILITY
-See: Ability
-</details>
+

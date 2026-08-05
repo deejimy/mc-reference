@@ -16,12 +16,7 @@ When a main scheme is complete, all "When Completed" abilities on the card resol
 See also: Main Scheme
 </details>
 
-<details class="source">
-<summary>EN v1.7</summary>WHEN COMPLETED ABILITIES
-A when completed ability is a type of triggered ability, indicated by the bold "When Completed" timing trigger.
-When a main scheme is complete, all "When Completed" abilities on the card resolve.
-See also: Main Scheme
-</details>
+
 
 <details class="source">
 <summary>FR v1.4</summary>CAPACITE UNE FOIS ACHEVE

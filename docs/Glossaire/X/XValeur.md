@@ -8,7 +8,4 @@ _Voir : [[VariableNonNumerique|Variable Non-numérique]]_
 See: Non-Numerical Variable
 </details>
 
-<details class="source">
-<summary>EN v1.7</summary>"X" (VALUE)
-See: Non-Numerical Variable
-</details>
+

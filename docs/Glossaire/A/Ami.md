@@ -10,10 +10,7 @@ _Voir aussi : [[CartesJoueur|Carte Joueur]]_
 Friendly is a blanket term that refers to cards the players control.
 </details>
 
-<details class="source">
-<summary>EN v1.7</summary>"FRIENDLY"
-Friendly is a blanket term that refers to cards the players control.
-</details>
+
 
 
 

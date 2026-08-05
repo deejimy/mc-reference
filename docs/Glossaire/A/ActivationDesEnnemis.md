@@ -10,7 +10,4 @@ See: Activation, Attack (Enemy Activation), Scheme (Enemy Activation)
 
 
 
-<details class="source">
-<summary>EN v1.7</summary>ENEMY ACTIVATION
-See: Activation, Attack (Enemy Activation), Scheme (Enemy Activation)
-</details>
+

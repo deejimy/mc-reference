@@ -13,11 +13,7 @@ When a character with the toughness keyword enters play, place a tough status ca
 See also: Ally, Enters Play, Identity, Keywords, Minion, Reminder Text, Status Cards, Villain
 </details>
 
-<details class="source">
-<summary>EN v1.7</summary>TOUGHNESS
-When a character with the toughness keyword enters play, place a tough status card on it.
-See also: Ally, Enters Play, Identity, Keywords, Minion, Reminder Text, Status Cards, Villain
-</details>
+
 
 
 <details class="source">

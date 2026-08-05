@@ -11,11 +11,7 @@ The word "after" refers to a game occurrence that just concluded. Many response 
 See also: Ability, Response
 </details>
 
-<details class="source">
-<summary>EN v1.7</summary>"AFTER"
-The word "after" refers to a game occurrence that just concluded. Many response abilities use the term "after" to specify the time at which they can be used.
-See also: Ability, Response
-</details>
+
 
 <details class="source">
 <summary>FR v1.4</summary>« APRÈS »

@@ -15,11 +15,7 @@ See also: Attack (Enemy Activation), Attack (Player Ability Type), Keywords, Rem
 </details>
 
 
-<details class="source">
-<summary>EN v1.7</summary>RANGED
-An attack with the ranged keyword ignores the retaliate keyword.
-See also: Attack (Enemy Activation), Attack (Player Ability Type), Keywords, Reminder Text, Retaliate X
-</details>
+
 
 
 <details class="source">

@@ -10,11 +10,7 @@ If two or more effects with the same bold timing trigger would resolve simultane
 See also: "Each Player", Triggered Ability
 </details>
 
-<details class="source">
-<summary>EN v1.7</summary>SIMULTANEOUS RESOLUTION<br>
-If two or more effects with the same bold timing trigger would resolve simultaneously, the first player determines the order in which the effects resolve.
-See also: "Each Player", Triggered Ability
-</details>
+
 
 
 <details class="source">

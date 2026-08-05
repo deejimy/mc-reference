@@ -10,11 +10,7 @@ Threat tokens are used to track the amount of threat on scheme cards.
 See also: Component Limitations, Scheme (Card Type), Scheme (Enemy Activation), Main Scheme, Side Scheme, Prevent, Thwart
 </details>
 
-<details class="source">
-<summary>EN v1.7</summary>THREAT 
-Threat tokens are used to track the amount of threat on scheme cards.
-See also: Component Limitations, Scheme (Card Type), Scheme (Enemy Activation), Main Scheme, Side Scheme, Prevent, Thwart
-</details>
+
 
 
 <details class="source">

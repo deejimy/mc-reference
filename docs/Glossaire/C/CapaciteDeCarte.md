@@ -11,7 +11,4 @@ See: Ability
 
 
 
-<details class="source">
-<summary>EN v1.7</summary>CARD ABILITY
-See: Ability
-</details>
+

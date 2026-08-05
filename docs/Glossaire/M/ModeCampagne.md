@@ -8,7 +8,3 @@ _Voir : [[ModesDeJeu|Modes de jeu]]_
 See: Modes of Play
 </details>
 
-<details class="source">
-<summary>EN v1.7</summary>CAMPAIGN MODE
-See: Modes of Play
-</details>

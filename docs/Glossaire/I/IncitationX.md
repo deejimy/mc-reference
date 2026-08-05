@@ -13,10 +13,7 @@ When a card with the incite X keyword is revealed, place X threat on the main sc
 See also: Keywords, Main Scheme, Reminder Text, Reveal, Threat
 </details>
 
-<details class="source">
-<summary>EN v1.7</summary>INCITE X
-When a card with the incite X keyword is revealed, place X threat on the main scheme. (X is the value next to the incite keyword.) See also: Keywords, Main Scheme, Reminder Text, Reveal, Threat
-</details>
+
 
 
 <details class="source">

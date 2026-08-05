@@ -11,12 +11,7 @@ _Voir aussi : [[Cout|Coût]], [[Icone|Icône]]_
 See: Cost Arrow Icon
 </details>
 
-<details class="source">
-<summary>EN v1.7</summary>ARROW ICON
-A cost arrow icon (→) in ability text distinguishes a cost from an effect, in a "pay cost → resolve effect" format. Nonbolded text before the cost arrow icon must be paid and/or resolved in full before the text after the cost arrow icon can be resolved.
-• Responses to the text preceding the cost arrow icon resolve before the text following the icon resolves.
-See also: Cost, Icons
-</details>
+
 
 
 <details class="source">

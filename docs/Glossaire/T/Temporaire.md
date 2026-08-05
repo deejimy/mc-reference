@@ -14,8 +14,3 @@ A card with temporary must be discarded from play at the end of the round.
 See also: Keywords
 </details>
 
-<details class="source">
-<summary>EN v1.7</summary>TEMPORARY
-A card with temporary must be discarded from play at the end of the round.
-See also: Keywords
-</details>

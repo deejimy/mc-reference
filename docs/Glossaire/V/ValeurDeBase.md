@@ -11,11 +11,7 @@ A defined value before modifiers are applied. In most cases, it is also the prin
 See also: Modifiers, Printed
 </details>
 
-<details class="source">
-<summary>EN v1.7</summary>BASE VALUE
-A defined value before modifiers are applied. In most cases, it is also the printed value.
-See also: Modifiers, Printed
-</details>
+
 
 
 <details class="source">

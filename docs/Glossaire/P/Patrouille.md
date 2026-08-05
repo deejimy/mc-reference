@@ -14,11 +14,7 @@ While a minion with the patrol keyword is engaged with a player, that player can
 See also: Engage, Keywords, Main Scheme, Minion, Reminder Text, Thwart
 </details>
 
-<details class="source">
-<summary>EN v1.7</summary>PATROL
-While a minion with the patrol keyword is engaged with a player, that player cannot use cards they control to thwart the main scheme.
-See also: Engage, Keywords, Main Scheme, Minion, Reminder Text, Thwart
-</details>
+
 
 
 <details class="source">

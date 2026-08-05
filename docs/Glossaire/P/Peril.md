@@ -14,11 +14,7 @@ While a player is resolving a card with the peril keyword, that player cannot co
 See also: Ability, Keywords, Player, Reminder Text, Table Talk, Triggered Ability
 </details>
 
-<details class="source">
-<summary>EN v1.7</summary>PERIL
-While a player is resolving a card with the peril keyword, that player cannot consult other players, and other players cannot play cards or trigger abilities.
-See also: Ability, Keywords, Player, Reminder Text, Table Talk, Triggered Ability
-</details>
+
 
 
 <details class="source">

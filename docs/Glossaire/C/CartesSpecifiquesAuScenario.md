@@ -19,14 +19,7 @@ Cards in the "scenario-specific" classification are cards that belong to a scena
 See also: Classifications, Main Scheme Deck, Villain Deck, Appendix I: Deck Customization
 </details>
 
-<details class="source">
-<summary>EN v1.7</summary>SCENARIO-SPECIFIC CARD
-Cards in the "scenario-specific" classification are cards that belong to a scenario's set of accompanying cards.
-• A scenario must include each scenario-specific card associated with that scenario. The exact quantity of each card in that set is determined by the scenario.
-• In most scenarios, the scenario-specific cards are separated into three decks: the villain deck (comprised of that scenario's villain cards), the main scheme deck (comprised of that scenario's main scheme cards), and the encounter deck (comprised of that scenario's attachment, environment, minion, side scheme, and treachery cards).
-• A scenario-specific card is designated by the name of the scenario with which it is associated printed at the bottom of the card in its encounter set name area.
-See also: Classifications, Main Scheme Deck, Villain Deck, Appendix I: Deck Customization
-</details>
+
 
 
 

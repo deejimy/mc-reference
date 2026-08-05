@@ -7,7 +7,3 @@ _Voir: [[Cout|Coût]]_
 See: Cost
 </details>
 
-<details class="source">
-<summary>EN v1.7</summary>"PAY"
-See: Cost
-</details>

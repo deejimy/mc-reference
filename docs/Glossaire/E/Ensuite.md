@@ -15,12 +15,7 @@ If the effect text of an ability includes the word "then", the text preceding th
 • If the pre-"then" text of an effect does not fully resolve, the post-"then" text does not attempt to resolve.
 </details>
 
-<details class="source">
-<summary>EN v1.7</summary>"THEN"
-If the effect text of an ability includes the word "then", the text preceding the word "then" must be fully true or resolved before the remainder of the effect described after the word "then" can be resolved.
-• If the pre-"then" text of an effect fully resolves, the post-"then" text of the effect must also attempt to resolve.
-• If the pre-"then" text of an effect does not fully resolve, the post-"then" text does not attempt to resolve.
-</details>
+
 
 
 

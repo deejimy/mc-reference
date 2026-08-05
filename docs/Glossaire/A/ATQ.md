@@ -9,10 +9,7 @@ See: Attack (Player Ability Type), Basic Power
 </details>
 
 
-<details class="source">
-<summary>EN v1.7</summary>ATK
-See: Attack (Player Ability Type), Basic Power
-</details>
+
 
 
 <details class="source">

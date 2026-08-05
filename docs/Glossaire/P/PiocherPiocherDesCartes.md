@@ -18,13 +18,7 @@ If a player is instructed to draw one or more cards, those cards are drawn from 
 See also: Discard, In Play and Out of Play, Ownership and Control, Player, Player Deck, Player Phase
 </details>
 
-<details class="source">
-<summary>EN v1.7</summary>DRAW, DRAWING CARDS
-If a player is instructed to draw one or more cards, those cards are drawn from the top of their deck one at a time.
-• Drawn cards are added to a player's hand.
-• Each player's hand size is checked at the end of the player phase. If a player has more cards in their hand than their hand size value at this time, they must choose and discard cards from hand until they are at their hand size.
-See also: Discard, In Play and Out of Play, Ownership and Control, Player, Player Deck, Player Phase
-</details>
+
 
 
 

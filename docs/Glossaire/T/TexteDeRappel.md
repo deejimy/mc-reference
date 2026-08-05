@@ -8,10 +8,7 @@ Il s'agit d'un texte en italique et entre parenthèse (comme celui-ci par exempl
 Some card abilities may include reminder text. Reminder text is italicized and in parentheses (like this). Reminder text has no effect on the game and is only intended to remind a player of a specific game function or rule.
 </details>
 
-<details class="source">
-<summary>EN v1.7</summary>REMINDER TEXT
-Some card abilities may include reminder text. Reminder text is italicized and in parentheses (like this). Reminder text has no effect on the game and is only intended to remind a player of a specific game function or rule.
-</details>
+
 
 
 <details class="source">

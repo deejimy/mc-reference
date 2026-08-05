@@ -7,10 +7,7 @@ _Voir : [[PouvoirDeBase|Pouvoir de Base]], [[RecuperationRecuperer|Récupératio
 See: Basic Power, Recover, Recovery
 </details>
 
-<details class="source">
-<summary>EN v1.7</summary>REC
-See: Basic Power, Recover
-</details>
+
 
 
 <details class="source">

@@ -17,12 +17,7 @@ _Voir aussi : [[CartesJoueur|Carte Joueur]]_
 See also: Player Card
 </details>
 
-<details class="source">
-<summary>EN v1.7</summary>LIMIT
-"Limit X per [period]" is a limit that appears on some player cards. These limits are card-specific. Each copy of an ability with such a limit may be used X times per the specified period, per instance of that ability.
-• If an effect with a limit is canceled, the card is still considered to have been played or the ability initiated, and it counts toward the limit.
-See also: Player Card
-</details>
+
 
 
 <details class="source">

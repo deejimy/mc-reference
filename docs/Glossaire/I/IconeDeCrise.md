@@ -15,9 +15,3 @@ While at least one crisis icon is in play, threat cannot be removed from the mai
 See also: Main Scheme, Threat
 </details>
 
-<details class="source">
-<summary>EN v1.7</summary>CRISIS ICON
-While at least one crisis icon is in play, threat cannot be removed from the main scheme by player cards.
-• Abilities on encounter cards are not affected by the crisis icon.
-See also: Main Scheme, Threat
-</details>

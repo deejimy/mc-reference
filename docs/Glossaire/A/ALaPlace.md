@@ -8,10 +8,7 @@ _Voir aussi : [[EffetsDeRemplacement|Effets de remplacement]]_
 See: Replacement Effect
 </details>
 
-<details class="source">
-<summary>EN v1.7</summary>"INSTEAD"
-See: Replacement Effect
-</details>
+
 
 
 

@@ -8,10 +8,7 @@ _Voir : [[Capacite|Capacité]], [[Cout|Coût]]_
 See: Ability, Cost
 </details>
 
-<details class="source">
-<summary>EN v1.7</summary>EFFECT
-See: Ability, Cost
-</details>
+
 
 
 

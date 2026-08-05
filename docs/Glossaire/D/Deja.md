@@ -7,10 +7,7 @@ _Voir : [[EffetDalteration|Effet d'Altération]]_
 See: Alteration Effect
 </details>
 
-<details class="source">
-<summary>EN v1.7</summary>"ALREADY"
-See: Alteration Effect
-</details>
+
 
 
 

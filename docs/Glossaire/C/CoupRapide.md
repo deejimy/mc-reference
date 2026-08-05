@@ -17,11 +17,7 @@ After a minion with the quickstrike keyword engages a player whose identity is i
 See also: Attack (Enemy Activation), Engage, Form, Keywords, Minion, Player, Reminder Text, Reveal
 </details>
 
-<details class="source">
-<summary>EN v1.7</summary>QUICKSTRIKE
-After a minion with the quickstrike keyword engages a player whose identity is in hero form, that minion attacks that player.
-See also: Attack (Enemy Activation), Engage, Form, Keywords, Minion, Player, Reminder Text
-</details>
+
 
 
 

@@ -8,10 +8,7 @@ _Voir : [[FormeChangerDeForme|Forme]], [[Identite|Identité]]_
 See: Form, Identity
 </details>
 
-<details class="source">
-<summary>EN v1.7</summary>HERO, HERO FORM
-See: Form, Identity
-</details>
+
 
 
 <details class="source">
