@@ -13,7 +13,7 @@ Le coût en ressource d'une carte est la valeur numérique qui doit être payée
     - Cependant, toute ressource générée en surplus par rapport au coût indiqué est perdue après le paiement du coût.  
 - Si plusieurs coûts pour une même carte ou capacité requièrent un paiement, ces coûts doivent être payés simultanément.  
     - Un joueur générant des ressources pour ces coûts choisit comment répartir ces ressources entre ces coûts. (Par exemple, un joueur payant des coûts pour un événement avec un coût en ressource de 1 et une capacité qui lit « Action de héros : Dépensez X ![[icone_energie.jpg|15]] ressources →... » peut dépenser une carte ressource qui génère ![[icone_energie.jpg|15]] ![[icone_energie.jpg|15]] ressources et utiliser une de ces icônes pour payer le coût en ressource de la carte et l'autre pour payer le coût avant la flèche.)  
-- Le coût d'une capacité ne peut être payé si l'effet de cette capacité nécessite une ou plusieurs cibles et qu'il n'existe au moins aucune cible valide.  
+- Le coût d'une capacité ne peut être payé si l'effet de cette capacité nécessite une ou plusieurs cibles et qu'il n'existe pas au moins une cible valide.  
 - Quand un joueur paye un coût, ce joueur doit payer avec des cartes et/ou des éléments de jeu qu'il contrôle.  
     - Si un coût utilise le mot "choisir", le joueur peut choisir des cibles qu'il ne contrôle pas.  
     - Si un coût cible une carte "amicale", le joueur peut cibler des cartes qu'il ne contrôle pas.  
